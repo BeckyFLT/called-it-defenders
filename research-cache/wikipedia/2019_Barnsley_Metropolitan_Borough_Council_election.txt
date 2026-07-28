@@ -1,0 +1,526 @@
+{{Short description|2019 UK local government election}}
+{{Use dmy dates|date=July 2019}}
+{{Use British English|date=July 2019}}
+The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 May 2019 to elect members of [[Barnsley Metropolitan Borough Council]] in England.<ref>{{cite web |title = Barnsley Metropolitan Borough Council |url = https://www.bbc.com/news/topics/cn1r2w32629t/barnsley-metropolitan-borough-council | website = BBC.co.uk |publisher = [[BBC]] |access-date = 5 June 2019}}</ref> This was on the same day as other [[United Kingdom local elections, 2019|local elections]].
+
+==Result==
+{{Election summary partial council net begin|title = 2019 Barnsley Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 12
+  |net           = {{decrease}} 7
+  |seats %       = 57.1
+  |other seats   = 37
+  |total seats   = '''49'''
+  |total seats % = 77.8
+  |votes         = 15,691
+  |votes %       = 34.9
+  |plus/minus    = –24.0
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 3
+  |net           = {{increase}} 3
+  |seats %       = 14.3
+  |other seats   = 1
+  |total seats   = '''4'''
+  |total seats % = 6.3
+  |votes         = 7,591
+  |votes %       = 16.9
+  |plus/minus    = +7.1
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 1
+  |net           = {{decrease}} 1
+  |seats %       = 4.8
+  |other seats   = 2
+  |total seats   = '''3'''
+  |total seats % = 4.8
+  |votes         = 5,729
+  |votes %       = 12.8
+  |plus/minus    = –5.3
+}}
+{{Election summary partial council net party|
+  |party         = Barnsley Independent Group
+  |seats         = 1
+  |net           = {{increase}} 1
+  |seats %       = 4.8
+  |other seats   = 2
+  |total seats   = '''3'''
+  |total seats % = 4.8
+  |votes         = 2,059
+  |votes %       = 4.6
+  |plus/minus    = +1.4
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 2
+  |net           = {{increase}} 2
+  |seats %       = 9.5
+  |other seats   = 0
+  |total seats   = '''2'''
+  |total seats % = 3.2
+  |votes         = 4,094
+  |votes %       = 9.1
+  |plus/minus    = +7.2
+}}
+{{Election summary partial council net party|
+  |party         = Democrats and Veterans
+  |seats         = 2
+  |net           = {{increase}} 2
+  |seats %       = 9.5
+  |other seats   = 0
+  |total seats   = '''2'''
+  |total seats % = 3.2
+  |votes         = 2,476
+  |votes %       = 5.5
+  |plus/minus    = +3.8
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 2,342
+  |votes %       = 5.2
+  |plus/minus    = +1.4
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,893
+  |votes %       = 4.2
+  |plus/minus    = ''New''
+}}
+{{Election summary partial council net party|
+  |party         = Yorkshire Party
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,557
+  |votes %       = 3.5
+  |plus/minus    = +1.8
+}}
+{{Election summary partial council net party|
+  |party         = English Democrats
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,445
+  |votes %       = 3.2
+  |plus/minus    = +2.7
+}}
+{{Election summary partial council net party|
+  |party         = Socialist Party (England and Wales)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 56
+  |votes %       = 0.1
+  |plus/minus    = ''New''
+}}
+{{Election box end}}
+
+==Ward results==
+[[File:2019 Barnsley Council election.png|thumb|400px|Map of the results of the election by electoral ward.]]
+<ref>{{Cite web|url=https://www.barnsley.gov.uk/services/voting-and-elections/local-government-elections-thursday-2-may-2019/|title=Local government elections - Thursday 2 May 2019|website=www.barnsley.gov.uk|access-date=5 June 2019}}</ref>
+<ref>{{cite web |title=Barnsley - 2019|url=https://www.electionsengland.co.uk/result.php?authority=Barnsley&year=2019 |publisher=Elections England}}</ref>
+===Central ward===
+{{Election box begin | title=Central}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Martin Dyson|votes=750|percentage=44.2|change={{decrease}}23.8}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Chris Scarfe|votes=474|percentage=28.0|change={{increase}}18.4}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Adrian Thompson|votes=289|percentage=17.1|change={{decrease}}0.1}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Connor Audsley|votes=182|percentage=10.7|change={{increase}}5.5}}
+{{Election box majority|
+  |votes      = 276
+  |percentage = 16.2
+  |change     = {{decrease}}34.6
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Cudworth ward===
+{{Election box begin | title=Cudworth}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Charlie Wraith|votes=933|percentage=61.7|change={{decrease}}13.0}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Ellis-Mourant|votes=340|percentage=22.5|change={{increase}}19.5}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Mark Brook|votes=240|percentage=15.9|change={{increase}}5.5}}
+{{Election box majority|
+  |votes      = 593
+  |percentage = 39.2
+  |change     = {{decrease}}25.1
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Darfield ward===
+{{Election box begin | title=Darfield}}
+{{Election box winning candidate with party link||party=Democrats and Veterans|candidate=Trevor Smith|votes=750|percentage=38.1|change={{increase}}18.4}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Dorothy Coates|votes=666|percentage=33.8|change={{decrease}}23.5}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Kim Boon|votes=198|percentage=10.1|change={{increase}}2.0}}
+{{Election box candidate with party link||party=English Democrats|candidate=Maxine Spencer|votes=191|percentage=9.7|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Delia Weldon|votes=165|percentage=8.4|change={{decrease}}6.5}}
+{{Election box majority|
+  |votes      = 84
+  |percentage = 4.3
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+ |winner = Democrats and Veterans
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Darton East ward===
+{{Election box begin | title=Darton East}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Steve Hunt|votes=1,832|percentage=70.5|change={{increase}}53.1}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Martin Flack|votes=570|percentage=21.9|change={{decrease}}41.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Debbie Toon|votes=197|percentage=7.6|change={{decrease}}11.4}}
+{{Election box majority|
+  |votes      = 1,262
+  |percentage = 48.6
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Darton West ward===
+{{Election box begin | title=Darton West}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Trevor Cave|votes=810|percentage=39.7|change={{decrease}}15.5}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Tom Heyes|votes=499|percentage=24.5|change={{increase}}10.5}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Lee Ogden|votes=452|percentage=22.2|change={{decrease}}2.9}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Andrew Waters|votes=277|percentage=13.6|change={{increase}}7.9}}
+{{Election box majority|
+  |votes      = 311
+  |percentage = 15.2
+  |change     = {{decrease}}14.9
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Dearne North ward===
+{{Election box begin | title=Dearne North}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Alan Gardiner|votes=799|percentage=56.3|change={{decrease}}23.9}}
+{{Election box candidate with party link||party=English Democrats|candidate=Janus Polenceusz|votes=485|percentage=34.2|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Cicely Cowgill|votes=134|percentage=9.4|change={{decrease}}10.4}}
+{{Election box majority|
+  |votes      = 314
+  |percentage = 22.1
+  |change     = {{decrease}}38.3
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Dearne South ward===
+{{Election box begin | title=Dearne South}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Sam Danforth|votes=1,173|percentage=51.7|change=''N/A''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Graham Jarvis|votes=801|percentage=35.3|change={{decrease}}39.5}}
+{{Election box candidate with party link||party=English Democrats|candidate=Adrian Morgan|votes=175|percentage=7.7|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David Hunter|votes=119|percentage=5.2|change={{decrease}}10.2}}
+{{Election box majority|
+  |votes      = 372
+  |percentage = 16.4
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+ |winner = Independent (politician)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Dodworth ward===
+{{Election box begin | title=Dodworth}}
+{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Peter Fielding|votes=1,308|percentage=45.6|change={{increase}}39.1}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Richard Riggs|votes=647|percentage=22.6|change={{decrease}}15.2}}
+{{Election box candidate with party link||party=UK Independence Party|candidate=Jonathan Hastelow|votes=440|percentage=15.3|change=''N/A''}}
+{{Election box candidate with party link||party=Yorkshire Party|candidate=Chris Burrows|votes=260|percentage=9.1|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Adam Bromfield|votes=212|percentage=7.4|change={{decrease}}11.4}}
+
+{{Election box majority|
+  |votes      = 661
+  |percentage = 23.0
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Hoyland Milton ward===
+{{Election box begin | title=Hoyland Milton}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Tim Shepherd|votes=982|percentage=44.0|change={{decrease}}27.7}}
+{{Election box candidate with party link||party=UK Independence Party|candidate=Daniel Simpson|votes=701|percentage=31.4|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Donna Cutts|votes=240|percentage=10.8|change={{decrease}}5.7}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Glenn Lawrence|votes=173|percentage=8.8|change={{decrease}}3.0}}
+{{Election box candidate with party link||party=English Democrats|candidate=Justin Saxton|votes=134|percentage=6.0|change=''N/A''}}
+{{Election box majority|
+  |votes      = 281
+  |percentage = 12.6
+  |change     = {{decrease}}42.6
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Kingstone ward===
+{{Election box begin | title=Kingstone}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Kevin Williams|votes=609|percentage=37.2|change={{decrease}}26.1}}
+{{Election box candidate with party link||party=Democrats and Veterans|candidate=Peter Doyle|votes=490|percentage=29.9|change=''N/A''}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Peter Giles|votes=252|percentage=15.4|change=''N/A''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Elizabeth Waters|votes=125|percentage=7.6|change={{decrease}}17.2}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=John Miller|votes=107|percentage=6.5|change={{decrease}}5.4}}
+{{Election box candidate with party link||party=Socialist Party (England and Wales)|candidate=Angela Waller|votes=56|percentage=3.4|change=''N/A''}}
+{{Election box majority|
+  |votes      = 119
+  |percentage = 7.3
+  |change     = {{decrease}}31.2
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Monk Bretton ward===
+{{Election box begin | title=Monk Bretton}}
+{{Election box winning candidate with party link||party=Democrats and Veterans|candidate=Victoria Felton|votes=1,236|percentage=54.5|change={{increase}}37.8}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Margaret Sheard|votes=660|percentage=29.1|change={{decrease}}33.2}}
+{{Election box candidate with party link||party=Yorkshire Party|candidate=Ryan Williams|votes=268|percentage=11.8|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=George Hill|votes=105|percentage=4.6|change={{decrease}}7.6}}
+{{Election box majority|
+  |votes      = 576
+  |percentage = 25.4
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+ |winner = Democrats and Veterans
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===North East ward===
+{{Election box begin | title=North East}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Anita Cherryholme|votes=786|percentage=36.2|change={{decrease}}28.2}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Raymond Archer|votes=712|percentage=32.8|change=''N/A''}}
+{{Election box candidate with party link||party=Yorkshire Party|candidate=Tony Devoy|votes=467|percentage=21.5|change={{decrease}}5.8}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Sam Wilkinson|votes=207|percentage=9.5|change={{increase}}1.2}}
+{{Election box majority|
+  |votes      = 74
+  |percentage = 3.4
+  |change     = {{decrease}}33.7
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Old Town ward===
+{{Election box begin | title=Old Town}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Jo Newing|votes=720|percentage=35.1|change={{decrease}}19.7}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Donald Wood|votes=698|percentage=34.0|change=''N/A''}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Kate Raynor|votes=259|percentage=12.6|change=''N/A''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Kevin Bennett|votes=191|percentage=9.3|change={{increase}}1.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Clive Watkinson|votes=185|percentage=9.0|change={{decrease}}6.2}}
+{{Election box majority|
+  |votes      = 22
+  |percentage = 1.1
+  |change     = {{decrease}}31.3
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Penistone East ward===
+{{Election box begin | title=Penistone East}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Paul Hand-Davis|votes=1,359|percentage=39.4|change={{decrease}}11.1}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Sue Waters|votes=929|percentage=26.9|change={{increase}}17.6}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Dave Webster|votes=602|percentage=17.4|change={{decrease}}15.7}}
+{{Election box candidate with party link||party=Yorkshire Party|candidate=Lee Goulding|votes=562|percentage=16.3|change=N/A}}
+{{Election box majority|
+  |votes      = 430
+  |percentage = 12.5
+  |change     = {{decrease}}4.9
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Penistone West ward===
+{{Election box begin | title=Penistone West}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=David Greenhough|votes=1,583|percentage=43.7|change={{decrease}}2.8}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew Robert Millner|votes=753|percentage=20.8|change={{decrease}}1.6}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=David Wood|votes=563|percentage=15.6|change=''N/A''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Roy Bowser|votes=465|percentage=12.8|change={{decrease}}12.9}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Richard Trotman|votes=255|percentage=7.0|change={{increase}}1.6}}
+{{Election box majority|
+  |votes      = 830
+  |percentage = 22.9
+  |change     = {{increase}}2.1
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Rockingham ward===
+{{Election box begin | title=Rockingham}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Chris Lamb|votes=803|percentage=36.5|change={{decrease}}22.2}}
+{{Election box candidate with party link||party=Barnsley Independent Group|candidate=Steve Sylvester|votes=588|percentage=26.7|change=''N/A''}}
+{{Election box candidate with party link||party=English Democrats|candidate=Kevin Riddiough|votes=274|percentage=12.5|change={{increase}}1.4}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael Davies|votes=244|percentage=11.1|change={{decrease}}13.7}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Benjamin Holland|votes=202|percentage=9.2|change=''N/A''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Paul Nugent|votes=88|percentage=4.0|change={{decrease}}1.4}}
+{{Election box majority|
+  |votes      = 215
+  |percentage = 9.8
+  |change     = {{decrease}}24.1
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Royston ward===
+{{Election box begin | title=Royston}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Pauline Mccarthy|votes=953|percentage=49.4|change={{decrease}}19.7}}
+{{Election box candidate with party link||party=UK Independence Party|candidate=Kirk Harper|votes=752|percentage=39.0|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Alex Wilkinson|votes=225|percentage=11.7|change={{decrease}}0.1}}
+{{Election box majority|
+  |votes      = 201
+  |percentage = 10.4
+  |change     = {{decrease}}39.6
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===St Helen's ward===
+{{Election box begin | title=St Helen's}}
+{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Jenny Platts|votes=901|percentage=61.3|change={{decrease}}15.4}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Alan Jones|votes=401|percentage=27.3|change={{increase}}15.8}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Jacob Griffin|votes=169|percentage=11.5|change={{decrease}}0.3}}
+{{Election box majority|
+  |votes      = 500
+  |percentage = 34.0
+  |change     = {{decrease}}30.9
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Stairfoot ward===
+{{Election box begin | title=Stairfoot}}
+{{Election box winning candidate with party link||party=Barnsley Independent Group|candidate=Andy Gillis|votes=1,057|percentage=53.9|change={{increase}}27.3}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Karen Dyson|votes=702|percentage=35.8|change={{decrease}}24.1}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Elizabeth Hill|votes=121|percentage=6.2|change={{decrease}}7.3}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=James Kitching|votes=82|percentage=4.2|change=''N/A''}}
+{{Election box majority|
+  |votes      = 355
+  |percentage = 18.1
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+ |winner = Barnsley Independent Group
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Wombwell ward===
+{{Election box begin | title=Wombwell}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Brenda Eastwood|votes=907|percentage=54.4|change={{decrease}}13.1}}
+{{Election box candidate with party link||party=Barnsley Independent Group|candidate=Sharon Gillis|votes=414|percentage=24.8|change=''N/A''}}
+{{Election box candidate with party link||party=English Democrats|candidate=Terence Cook|votes=186|percentage=11.2|change=''N/A''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Terence Cook|votes=136|percentage=8.2|change=''N/A''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gareth Thompson|votes=25|percentage=1.5|change={{decrease}}19.0}}
+{{Election box majority|
+  |votes      = 493
+  |percentage = 29.6
+  |change     = {{decrease}}17.4
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Worsbrough ward===
+{{Election box begin | title=Worsbrough}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Jake Lodge|votes=948|percentage=49.9|change=''N/A''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Roya Pourali|votes=625|percentage=32.9|change={{decrease}}29.9}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael Barraclough|votes=181|percentage=9.5|change={{decrease}}11.1}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Sarah Calvert|votes=147|percentage=7.7|change={{decrease}}8.9}}
+{{Election box majority|
+  |votes      = 323
+  |percentage = 17.0
+  |change     = {{increase}}''N/A''
+}}
+{{Election box hold with party link|
+ |winner = Independent (politician)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2019}}
+
+[[Category:Barnsley Council elections]]
+[[Category:2019 English local elections|Barnsley]]
+[[Category:May 2019 in the United Kingdom]]
+[[Category:2010s in South Yorkshire]]

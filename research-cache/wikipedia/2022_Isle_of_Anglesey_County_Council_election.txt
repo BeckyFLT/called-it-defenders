@@ -1,0 +1,461 @@
+{{Short description|2022 Welsh local government election}}
+{{Use dmy dates|date=April 2025}}
+{{Use British English|date=April 2025}}
+{{Infobox election
+| election_name      = 2022 Isle of Anglesey County Council election
+| country            =
+| type               = Parliamentary
+| ongoing            = no
+| party_colour       = yes
+| previous_election  = [[2017 Isle of Anglesey County Council election]]
+| previous_year      = [[2017 Isle of Anglesey County Council election|2017]]
+| next_election      =
+| next_year          =
+| seats_for_election = All 35 seats to [[Isle of Anglesey County Council]]
+| majority_seats     = 18
+| election_date      = 5 May 2022
+
+<!-- Plaid Cymru -->
+| image1         =
+| leader1        =
+| party1         = Plaid Cymru
+| leaders_seat1  =
+| last_election1 = ''14''
+| seats_before1  = ''16''
+| seats1         = '''21'''
+| seat_change1   = '''{{increase}} 5'''
+| popular_vote1  = '''21,775'''
+| percentage1    = '''40.7%'''
+| swing1         = '''{{decrease}} 0.3%'''
+
+<!-- Independent -->
+| image2         =
+| leader2        =
+| party2         = Independent (politician)
+| leaders_seat2  =
+| last_election2 = 13
+| seats_before2  = 16
+| seats2         = 10
+| seat_change2   = {{decrease}} 6
+| popular_vote2  = 15,756
+| percentage2    = 29.5%
+| swing2         = {{decrease}} 7.2%
+
+<!-- Welsh Labour -->
+| image3         =
+| leader3        =
+| party3         = Welsh Labour
+| leaders_seat3  =
+| last_election3 = 2
+| seats_before3  = 2
+| seats3         = 3
+| seat_change3   = {{increase}} 1
+| popular_vote3  = 2,897
+| percentage3    = 5.4%
+| swing3         = {{decrease}}9.3%
+
+| map_image       = 2022 Isle of Anglesey County Council Election Map.png
+| map_size        = 400px
+| map_caption     = Map of the election result by ward
+| title           = Council control
+| posttitle       = Council control after election
+| before_election = [[No overall control]]
+| before_party    = [[Plaid Cymru]]/[[Independent (politician)|Independent]]
+| after_election  = [[Majority government|Majority administration]]
+| after_party     = Plaid Cymru
+}}
+The '''2022 Isle of Anglesey County Council election''' took place on Thursday 5 May 2022 to elect all 35 members of [[Isle of Anglesey County Council]]. It was held on the same day as all other councils in Wales, as part of the [[2022 Welsh local elections]].
+
+The election saw the number of councillors elected to Isle of Anglesey County Council increase, from 30 to 35, as part of boundary changes to the council carried out by the [[Local Democracy and Boundary Commission for Wales]].
+
+[[Plaid Cymru]] gained the council from [[no overall control]], leading to the first administration formed of only political parties since the council's creation in 1996.
+
+==Background==
+At the previous election in 2017, no party won an overall majority. [[Plaid Cymru]] won 14 seats and fell just two shy of winning a majority. [[Independent (politician)|Independent]] candidates won 14 seats and the three remaining seats were won by [[Welsh Labour|Labour]] and the [[Welsh Liberal Democrats|Liberal Democrats]].<ref>{{cite news |author=Gareth Wyn-Williams |title=Local election results: No party wins overall control in Anglesey Council |url= https://www.dailypost.co.uk/news/local-election-results-anglesey-no-12993982 |work=North Wales Live |date=5 May 2017 |accessdate=13 April 2025}}</ref> As a result, the council was governed by a Plaid-independent coalition.<ref name="2022elec">{{Cite news |date=6 May 2022 |title=Welsh election results 2022: Plaid Cymru takes Anglesey and Gwynedd |language=en-GB |work=BBC News |url=https://www.bbc.com/news/uk-wales-61306727 |access-date=13 April 2025}}</ref>
+
+Boundary reviews were carried out by the [[Democracy and Boundary Commission Cymru|Local Democracy and Boundary Commission for Wales]] in advance of the election. As a result, the number of electoral divisions was increased from 11 to 14 and the number of councillors was increased from 30 to 35.<ref>{{Cite web|title=Anglesey boundary changes confirmed by Local Democracy and Boundary Commission for Wales |language=en-GB |work=Local Democracy and Boundary Commission for Wales |url=https://www.dbcc.gov.wales/reviews/11-20/anglesey-final-recommendations |access-date=13 April 2025}}</ref>
+
+==Election summary==
+{{Election summary begin with candidates|title=Isle of Anglesey County Council election result 2022<ref>{{Cite news |title=Anglesey result - Local Elections 2022 |language=en-GB |work=BBC News |url=https://www.bbc.co.uk/news/election/2022/wales/councils/W06000001 |access-date=29 July 2022}}</ref>}}
+{{Election summary party with candidates
+|party=Plaid Cymru
+|candidates='''''24'''''
+|seats='''21'''
+|gain='''''N/A'''''
+|loss='''''N/A'''''
+|net={{increase}}'''5'''
+|seats %='''60.0'''
+|votes %='''40.7'''
+|votes='''21,775'''
+|plus/minus='''-0.3'''
+}}
+{{Election summary party with candidates
+|party=Independent (politician)
+|candidates=''26''
+|seats=10
+|gain=''N/A''
+|loss=''N/A''
+|net={{decrease}}6
+|seats %=28.6
+|votes %=29.5
+|votes=15,756
+|plus/minus=-7.2
+}}
+{{Election summary party with candidates
+|party=Welsh Conservatives
+|candidates=''35''
+|seats=0
+|gain=''N/A''
+|loss=''N/A''
+|net={{steady}}0
+|seats %=0.0
+|votes %=19.3
+|votes=10,300
+|plus/minus=+15.1
+}}
+{{Election summary party with candidates
+|party=Welsh Labour
+|candidates=''6''
+|seats=3
+|gain=''N/A''
+|loss=''N/A''
+|net={{increase}}1
+|seats %=8.6
+|votes %=5.4
+|votes=2,897
+|plus/minus=-9.3
+}}
+{{Election summary party with candidates
+|party=Welsh Liberal Democrats 
+|candidates=''1''
+|seats=1
+|gain=''N/A''
+|loss=''N/A''
+|net={{steady}}0
+|seats %=2.9
+|votes %=2.7
+|votes=1,442
+|plus/minus=-0.5
+}}
+{{Election summary party with candidates
+|party=Wales Green Party
+|candidates=''4''
+|seats=0
+|gain=''N/A''
+|loss=''N/A''
+|net={{steady}}0
+|seats %=0.0
+|votes %=2.0
+|votes=1,083
+|plus/minus=''New''
+}}
+{{Election summary party with candidates
+|party=Reform UK
+|candidates=''1''
+|seats=0
+|gain=''N/A''
+|loss=''N/A''
+|net={{steady}}0
+|seats %=0.0
+|votes %=0.2
+|votes=108
+|plus/minus=''New''
+}}
+{{Election summary party with candidates
+|party=Propel (political party)
+|candidates=''2''
+|seats=0
+|gain=''N/A''
+|loss=''N/A''
+|net={{steady}}0
+|seats %=0.0
+|votes %=0.1
+|votes=63
+|plus/minus=''New''
+}}
+{{Election summary party with candidates
+|party=Heritage Party (UK)
+|candidates=''1''
+|seats=0
+|gain=''N/A''
+|loss=''N/A''
+|net={{steady}}0
+|seats %=0.0
+|votes %=0.1
+|votes=48
+|plus/minus=''New''
+}}
+{{Election box end}}
+
+==Ward results==
+The percentage shown for each candidate in multi-member wards is a percentage of the vote against the turnout of the election, as due to the nature of multi member wards, electors each have a number of votes equal to the number of seats available, however each elector does not have to use all their available votes.<ref>{{Cite web|title=2022 Isle of Anglesey County Council Election results |language=en-GB |work=Isle of Anglesey County Council|url=https://democracy.anglesey.gov.uk/mgElectionElectionAreaResults.aspx?EID=17&RPID=9371354&LLL=0 |access-date=29 July 2022}}</ref>
+
+===Aethwy===
+{{Election box begin |title=[[Aethwy (electoral ward)|Aethwy]] (3)}}
+{{Election box winning candidate with party link||party=Plaid Cymru|candidate=Dyfed Wyn Jones|votes=1,491|percentage=59.7|change=''N/A''}}
+{{Election box winning candidate with party link||party=Plaid Cymru|candidate=Robin Wyn Williams|votes=1,489|percentage=59.6|change=''N/A''}}
+{{Election box winning candidate with party link||party=Plaid Cymru|candidate=Alun Mummery|votes=1,329|percentage=55.7|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Labour|candidate=Michael Marchbanks|votes=696|percentage=27.6|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Conservative Party|candidate=Steven Green|votes=372|percentage=14.9|change=''N/A''}}
+{{Election box candidate with party link||party=Wales Green Party|candidate=Laurence Carver|votes=359|percentage=14.4|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Conservative Party|candidate=Mark Edwards|votes=338|percentage=13.5|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Conservative Party|candidate=Mark Salisbury|votes=310|percentage=12.4|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=2,505|percentage=46.9|change=''N/A''}}
+{{election box new seat win|
+|winner=Plaid Cymru
+}}
+{{election box new seat win|
+|winner=Plaid Cymru
+}}
+{{election box new seat win|
+|winner=Plaid Cymru
+}}
+{{Election box end}}
+
+===Bodowyr===
+{{Election box begin |title=Bodowyr (2)}}
+{{Election box winning candidate with party link||party=Plaid Cymru|candidate=Alwen Pennant Watkin|votes=536|percentage=40.5|change=''N/A''}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Dafydd Roberts|votes=511|percentage=38.6|change=''N/A''}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Eric Jones|votes=467|percentage=35.2|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Labour|candidate=Einion Williams|votes=390|percentage=29.4|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Conservative Party|candidate=Angela Smith|votes=126|percentage=9.5|change=''N/A''}}
+{{Election box candidate with party link||party=Wales Green Party|candidate=Andy Beaumont|votes=117|percentage=8.8|change=''N/A''}}
+{{Election box candidate with party link||party=Welsh Conservative Party|candidate=Adam William Môn Bakewell|votes=110|percentage=8.3|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,326|percentage=46.1|change=''N/A''}}
+{{election box new seat win|
+|winner=Plaid Cymru
+}}
+{{election box new seat win|
+|winner=Independent (politician)
+}}
+{{Election box end}}
+
+===Bro Aberffraw===
+{{Election box begin|title=Bro Aberffraw (2)}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=[[Arfon Wyn]]|votes=714|percentage=44.7|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=John Ifan Jones|votes=662|percentage=41.5|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Peter Rogers|votes=650|percentage=40.7|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Bryan Owen|votes=529|percentage=33.1|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Ray Robertshaw|votes=162|percentage=10.2|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Dillon Hughes|votes=157|percentage=9.8|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Daniel Ap Eifion Jones|votes=80|percentage=5.0|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,606|percentage=51.9|change=''N/A''}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Bro'r Llynnoedd===
+{{Election box begin|title=Bro'r Llynnoedd (2)}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Gwilym Jones|votes=830|percentage=53.3|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Ken Taylor|votes=670|percentage=43.0|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Glyn Jones|votes=480|percentage=30.8|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Celfyn Furlong|votes=431|percentage=27.7|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Dafydd Williams|votes=298|percentage=19.1|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,564|percentage=39.6|change=''N/A''}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Canolbarth Môn===
+{{Election box begin|title=Canolbarth Môn (3)}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Non Dafydd|votes=1,118|percentage=58.5|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Dylan Rees|votes=1,054|percentage=55.1|change=''N/A''}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Paul Ellis|votes=927|percentage=48.5|change=''N/A''}}
+{{Election box candidate with party link|party=Plaid Cymru|candidate=Sonia Williams|votes=849|percentage=44.5|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Llinos Roberts|votes=545|percentage=28.5|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Robat Idris|votes=506|percentage=26.5|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Maureen Davies|votes=124|percentage=6.5|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Stuart Walton|votes=103|percentage=5.4|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Nicholas Grenfell-Marten|votes=86|percentage=4.5|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,911|percentage=46.2|change=''N/A''}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Independent (politician)}}
+{{Election box end}}
+
+===Cefni===
+{{Election box begin|title=Cefni (2)}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Geraint ap Ifan Bebb|votes=698|percentage=55.6|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Nicola Roberts|votes=676|percentage=53.8|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Lois Roberts|votes=375|percentage=29.9|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Sioned McGuigan|votes=341|percentage=27.1|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Maureen Davies|votes=124|percentage=6.5|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Stuart Walton|votes=103|percentage=5.4|change=''N/A''}}
+{{Election box candidate with party link|party=Propel (political party)|candidate=Peter Davey|votes=32|percentage=2.5|change=''N/A''}}
+{{Election box candidate with party link|party=Propel (political party)|candidate=Clare Davey|votes=31|percentage=2.5|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,256|percentage=50.4|change=''N/A''}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Crigyll===
+{{Election box begin|title=Crigyll (2)}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Douglas Massie Fowlie|votes=786|percentage=54.5|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Neville Evans|votes=657|percentage=45.6|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Stephanie Roberts|votes=475|percentage=33.0|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Richard Dew|votes=431|percentage=29.9|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Carron White|votes=105|percentage=7.3|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Felicity Elphick|votes=79|percentage=5.5|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,442|percentage=53.4|change=''N/A''}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Lligwy===
+{{Election box begin|title=[[Lligwy]] (3)}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Ieuan Williams|votes=1,256|percentage=55.9|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Euryn Morris|votes=1,031|percentage=45.9|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Margaret Murley Roberts|votes=1,001|percentage=44.6|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Kevin Mawdesley|votes=691|percentage=30.8|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Barbara Price|votes=663|percentage=29.5|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Paul Flower|votes=591|percentage=26.3|change=''N/A''}}
+{{Election box candidate with party link|party=Reform UK|candidate=Sam Wood|votes=108|percentage=4.8|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=2,255|percentage=45.5|change=''N/A''}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Parc a'r Mynydd===
+{{Election box begin|title=Parc a'r Mynydd (2)}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Bob Llwelyn Jones|votes=504|percentage=51.2|change=''N/A''}}
+{{Election box winning candidate with party link|party=Welsh Labour|candidate=Glyn Haynes|votes=488|percentage=49.6|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Adrienne Edwards|votes=292|percentage=29.7|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Abi Jenkins|votes=169|percentage=17.2|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Mark Rayner|votes=135|percentage=13.7|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=988|percentage=35.1|change=''N/A''}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Welsh Labour}}
+{{Election box end}}
+
+===Seiriol===
+{{Election box begin|title=Seiriol (3)}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Carwyn Jones|votes=1,516|percentage=71.4|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Gary Pritchard|votes=1,319|percentage=62.1|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Alun Roberts|votes=1,307|percentage=61.5|change=''N/A''}}
+{{Election box candidate with party link|party=Wales Green Party|candidate=Sarah Kendal|votes=465|percentage=21.9|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Robert Brown|votes=429|percentage=20.2|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Hugo Croft|votes=364|percentage=17.1|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Philip Roper|votes=353|percentage=16.6|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=2,134|percentage=45.0|change=''N/A''}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Talybolion===
+{{Election box begin|title=Talybolion (3)}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=[[Llinos Medi]]|votes=1,025|percentage=56.6|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Llio Angharad Owen|votes=711|percentage=39.2|change=''N/A''}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Jackie Lewis|votes=626|percentage=34.5|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Kenneth Hughes|votes=597|percentage=32.9|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Catrin Thomas|votes=480|percentage=26.5|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Rhian Boylan|votes=365|percentage=20.1|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Tania Cullen|votes=321|percentage=17.7|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Stayce Weeder|votes=259|percentage=14.3|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Rhys Parry|votes=247|percentage=13.6|change=''N/A''}}
+{{Election box candidate with party link|party=Wales Green Party|candidate=Paul Cross|votes=142|percentage=7.8|change=''N/A''}}
+{{Election box candidate with party link|party=Heritage Party (UK)|candidate=Rob Gordon|votes=48|percentage=2.6|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=1,812|percentage=43.4|change=''N/A''}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{Election box end}}
+
+===Tref Cybi===
+{{Election box begin|title=Tref Cybi (2)}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Jeff Evans|votes=368|percentage=40.9|change=''N/A''}}
+{{Election box winning candidate with party link|party=Welsh Labour|candidate=Pip O'Neill|votes=327|percentage=36.3|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Labour|candidate=Hywel Williams|votes=300|percentage=33.4|change=''N/A''}}
+{{Election box candidate with party link|party=Plaid Cymru|candidate=Michael Bailey|votes=246|percentage=27.4|change=''N/A''}}
+{{Election box candidate with party link|party=Plaid Cymru|candidate=Howard Browes|votes=212|percentage=23.6|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Graham Smith|votes=104|percentage=11.6|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Jason Weeder|votes=85|percentage=9.5|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=903|percentage=29.9|change=''N/A''}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Welsh Labour}}
+{{Election box end}}
+
+===Twrcelyn===
+{{Election box begin|title=Twrcelyn (3)}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Derek Owen|votes=1,494|percentage=65.6|change=''N/A''}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Liz Wood|votes=1,477|percentage=64.9|change=''N/A''}}
+{{Election box winning candidate with party link|party=Welsh Liberal Democrats|candidate=Aled Morris Jones|votes=1,442|percentage=63.4|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=John Gill|votes=471|percentage=20.7|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Keith Fitton|votes=460|percentage=20.2|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Leah Marie Fitton|votes=378|percentage=16.6|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=2,289|percentage=39.7|change=''N/A''}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Welsh Liberal Democrats}}
+{{Election box end}}
+
+===Ynys Gybi===
+{{Election box begin|title=Ynys Gybi (3)}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Trefor Lloyd Hughes|votes=838|percentage=20.55|change=''N/A''}}
+{{Election box winning candidate with party link|party=Independent (politician)|candidate=Dafydd Rhys Thomas|votes=769|percentage=18.87|change=''N/A''}}
+{{Election box winning candidate with party link|party=Welsh Labour|candidate=Keith Roberts|votes=696|percentage=17.08|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Bethan Davies|votes=623|percentage=15.28|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Kathryn Owen|votes=465|percentage=11.41|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Conservative Party|candidate=Alexandre Lovell-Smith|votes=346|percentage=8.49|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Anwen Denise McCann|votes=339|percentage=8.32|change=''N/A''}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=4076 votes (each elector could cast 3 votes)|percentage=39.4|change=''N/A''}}
+{{election box new seat win||winner=Plaid Cymru}}
+{{election box new seat win||winner=Independent (politician)}}
+{{election box new seat win||winner=Welsh Labour}}
+{{Election box end}}
+
+== By-elections between 2022 and 2027 ==
+
+=== Ynys Gybi (2026) ===
+A by-election was held on 5 February 2026 following the death of Plaid Cymru councillor, Trefor Lloyd Hughes, on 13 November 2025.<ref>{{Cite web |title=Heartfelt tributes paid to Trefor Lloyd Hughes |url=https://www.anglesey.gov.uk/en/newsroom/news/heartfelt-tributes-paid-to-trefor-lloyd-hughes |access-date=2026-02-06 |website=www.anglesey.gov.uk |language=en-GB}}</ref> The by-election was won by Reform UK's Celfyn Furlong.<ref>{{Cite web |last=Gosley |first=Ellie |date=2026-02-06 |title=Reform take Plaid seat in Welsh by-election win |url=https://www.walesonline.co.uk/news/wales-news/reform-take-plaid-seat-welsh-33374401 |access-date=2026-02-06 |website=Wales Online |language=en}}</ref>{{Election box begin|title=Ynys Gybi by-election: 5 February 2026}}
+{{Election box winning candidate with party link|party=Reform UK|candidate=Celfyn Furlong|votes=603 |percentage=43.9|change=New}}
+{{Election box candidate with party link|party=Plaid Cymru|candidate=Bethan Jones|votes=343|percentage=25|change={{increase}}4.4}}
+{{Election box candidate with party link|party=Welsh Labour|candidate=Mary Roberts|votes=171|percentage=12.5|change={{decrease}}4.6}}
+{{Election box candidate with party link|party=Wales Green Party|candidate=Nick Bounds|votes=118|percentage=8.6|change=New}}
+{{Election box candidate with party link|party=Welsh Conservatives|candidate=Margaret John|votes=112|percentage=8.2|change={{decrease}}27}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Robert Williams|votes=26|percentage=1.9|change={{decrease}}25.3}}
+{{Election box majority||votes=260|percentage=18.9|change=''N/A''}}
+{{Election box turnout||votes=1,373|percentage=33.3|change=-6.1}}
+{{Election box gain with party link|winner=Reform UK|loser=Plaid Cymru|swing=''N/A''}}
+{{Election box end}}
+
+The by-election was caused by the death of Plaid Cymru councillor Trefor Lloyd Hughes on 13 November 2025.
+
+=== Bro'r Llynnoedd (2026)===
+
+{{Election box begin|title=Bro'r Llynnoedd}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Nick Bounds|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Margaret John|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Richard Jones|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Plaid Cymru|candidate=John Taylor|votes=|percentage=|change=}}
+{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box turnout||votes=|percentage=|change=}}
+{{election box hold no swing}}
+{{Election box end}}
+
+==Aftermath==
+Plaid Cymru won control of the council after winning 21 of the 35 seats. Independent candidates took 10 seats, Labour won three and the Liberal Democrats won one seat. Anglesey was one of four councils won by Plaid Cymru across Wales. It was the first time since the council's creation in 1996 that a political party had taken control of the council.<ref name="2022elec"/>
+
+==References==
+{{Reflist}}
+
+{{Gwynedd elections}}
+{{2022 United Kingdom local elections}}
+
+[[Category:Isle of Anglesey County Council elections]]
+[[Category:2022 Welsh local elections|Anglesey County Council election]]

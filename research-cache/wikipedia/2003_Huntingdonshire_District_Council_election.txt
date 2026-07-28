@@ -1,0 +1,750 @@
+{{Short description|2003 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+[[File:Huntingdonshire UK local election 2003 map.png|thumb|300px|right|Map of the results of the 2003 Huntingdonshire District Council election. [[Conservative Party (UK)|Conservatives]] in blue, [[Liberal Democrats (UK)|Liberal Democrats]] in yellow and [[Independent (politician)|independents]] in white. [[Wards and electoral divisions of the United Kingdom|Wards]] in grey were not contested in 2003.]]
+The '''2003 Huntingdonshire District Council election''' took place on 1 May 2003 to elect members of [[Huntingdonshire]] [[Non-metropolitan district|District]] Council in [[Cambridgeshire]], [[England]]. One third of the council was up for election and the [[Conservative Party (UK)|Conservative Party]] stayed in overall control of the council.<ref name="vote2003">{{cite news|url=https://news.bbc.co.uk/2/shared/bsp/hi/vote2003/locals/html/136.stm|title=Local elections|publisher=[[BBC News Online]]|access-date=2 July 2014}}</ref>
+
+After the election, the composition of the council was:
+* [[Conservative Party (UK)|Conservative]] 36
+* [[Liberal Democrats (UK)|Liberal Democrats]] 14
+* [[Independent (politician)|Independent]] 3<ref name="huntingdonshire">{{cite news|title=Huntingdonshire|date=2 May 2003|work=[[The Guardian]]}}</ref>
+
+==Election result==
+
+{{Election Summary Begin|title = Huntingdonshire local election result 2003<ref name="districts">{{cite news|title=English councils - Non-metropolitan districts|date=3 May 2003|work=[[The Times]]|page=47}}</ref><ref name="results">{{cite web|url=http://www.huntingdonshire.gov.uk/SiteCollectionDocuments/HDCCMS/Documents/Elections/Results/2000-2009/2003.pdf |archive-url=http://webarchive.nationalarchives.gov.uk/20141204015408/http://www.huntingdonshire.gov.uk/SiteCollectionDocuments/HDCCMS/Documents/Elections/Results/2000-2009/2003.pdf |url-status=dead |archive-date=4 December 2014 |title=District Council Election |work=Huntingdonshire District Council |access-date=2 July 2014 }}</ref>}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 12
+  |gain       = 1
+  |loss       = 1
+  |net        = 0
+  |seats %    = 66.7
+  |votes %    = 50.7
+  |votes      = 11,156
+  |plus/minus = +4.6%
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 5
+  |gain       = 1
+  |loss       = 1
+  |net        = 0
+  |seats %    = 27.8
+  |votes %    = 37.2
+  |votes      = 8,179
+  |plus/minus = -0.3%
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 5.6
+  |votes %    = 1.5
+  |votes      = 333
+  |plus/minus = -3.1%
+}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 10.6
+  |votes      = 2,325
+  |plus/minus = -1.1%
+}}
+{{Election box end}}
+
+==Ward results==
+
+{{Election box begin | title=Earith<ref name=results/><ref name="hunts">{{cite news|url=https://www.bbc.co.uk/cambridgeshire/features/2003/05/results_hunts.shtml|title=Hunts District Council results 2003|publisher=[[BBC Online]]|access-date=3 July 2014}}</ref>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Eddy
+  |votes      = 543
+  |percentage = 53.1
+  |change     = -1.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Owen McLaughlin
+  |votes      = 380
+  |percentage = 37.2
+  |change     = -3.2
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Carol Harper
+  |votes      = 99
+  |percentage = 9.7
+  |change     = +4.2
+}}
+{{Election box majority|
+  |votes      = 163
+  |percentage = 15.9
+  |change     = +2.2
+}}
+{{Election box turnout|
+  |votes      = 1,022
+  |percentage = 30.7
+  |change     = -1.6
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ellington<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Baker
+  |votes      = 626
+  |percentage = 64.3
+  |change     = +12.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Joan Meiklejohn
+  |votes      = 310
+  |percentage = 31.8
+  |change     = -12.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Brown
+  |votes      = 38
+  |percentage = 3.9
+  |change     = +0.6
+}}
+{{Election box majority|
+  |votes      = 316
+  |percentage = 32.4
+  |change     = +24.9
+}}
+{{Election box turnout|
+  |votes      = 974
+  |percentage = 53.0
+  |change     = -1.2
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Fenstanton<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mark Rainer
+  |votes      = 424
+  |percentage = 57.5
+  |change     = +1.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Mead
+  |votes      = 275
+  |percentage = 37.3
+  |change     = -0.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Angela Richards
+  |votes      = 39
+  |percentage = 5.3
+  |change     = -1.0
+}}
+{{Election box majority|
+  |votes      = 149
+  |percentage = 20.2
+  |change     = +1.2
+}}
+{{Election box turnout|
+  |votes      = 738
+  |percentage = 33.2
+  |change     = -7.1
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Gransden<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Barbara Boddington
+  |votes      = 454
+  |percentage = 54.8
+  |change     = -18.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Paul Jose
+  |votes      = 343
+  |percentage = 41.4
+  |change     = +22.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Karen Webb
+  |votes      = 31
+  |percentage = 3.7
+  |change     = -4.1
+}}
+{{Election box majority|
+  |votes      = 111
+  |percentage = 13.4
+  |change     = -41.7
+}}
+{{Election box turnout|
+  |votes      = 828
+  |percentage = 38.6
+  |change     = +2.5
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huntingdon North<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lawrence Simpson
+  |votes      = 910
+  |percentage = 53.6
+  |change     = -0.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Priestman
+  |votes      = 446
+  |percentage = 26.3
+  |change     = +8.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ruth Pugh
+  |votes      = 342
+  |percentage = 20.1
+  |change     = -7.4
+}}
+{{Election box majority|
+  |votes      = 464
+  |percentage = 27.3
+  |change     = +0.3
+}}
+{{Election box turnout|
+  |votes      = 1,698
+  |percentage = 24.3
+  |change     = -0.4
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huntingdon West<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Thomas Sanderson
+  |votes      = 1,126
+  |percentage = 51.1
+  |change     = +2.5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Justin Meadows
+  |votes      = 708
+  |percentage = 32.1
+  |change     = +10.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ann Beevor
+  |votes      = 369
+  |percentage = 16.7
+  |change     = -13.2
+}}
+{{Election box majority|
+  |votes      = 418
+  |percentage = 19.0
+  |change     = +0.2
+}}
+{{Election box turnout|
+  |votes      = 2,203
+  |percentage = 30.2
+  |change     = +8.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Needingworth<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Brant
+  |votes      = 358
+  |percentage = 63.5
+  |change     = +17.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Malcolm Robelou
+  |votes      = 134
+  |percentage = 23.8
+  |change     = +23.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sharon Nania
+  |votes      = 72
+  |percentage = 12.8
+  |change     = +3.7
+}}
+{{Election box majority|
+  |votes      = 224
+  |percentage = 39.7
+  |change     = +38.4
+}}
+{{Election box turnout|
+  |votes      = 564
+  |percentage = 29.0
+  |change     = -13.1
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ramsey<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Phillip Swales
+  |votes      = 954
+  |percentage = 58.5
+  |change     = +8.8
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Janet Dutton
+  |votes      = 678
+  |percentage = 41.5
+  |change     = -8.8
+}}
+{{Election box majority|
+  |votes      = 276
+  |percentage = 17.0
+  |change     =
+}}
+{{Election box turnout|
+  |votes      = 1,632
+  |percentage = 27.0
+  |change     = -1.6
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Somersham<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anthony Hulme
+  |votes      = 615
+  |percentage = 54.2
+  |change     = +4.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stephen Criswell
+  |votes      = 473
+  |percentage = 41.7
+  |change     = -2.2
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Susan Coomey
+  |votes      = 46
+  |percentage = 4.1
+  |change     = -2.5
+}}
+{{Election box majority|
+  |votes      = 142
+  |percentage = 12.5
+  |change     = +7.0
+}}
+{{Election box turnout|
+  |votes      = 1,134
+  |percentage = 40.1
+  |change     = +2.2
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Ives South<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Douglas Dew
+  |votes      = 928
+  |percentage = 50.6
+  |change     = -8.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Hodge
+  |votes      = 779
+  |percentage = 42.5
+  |change     = +9.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Richard Allen
+  |votes      = 127
+  |percentage = 6.9
+  |change     = -1.1
+}}
+{{Election box majority|
+  |votes      = 149
+  |percentage = 8.1
+  |change     = -18.0
+}}
+{{Election box turnout|
+  |votes      = 1,834
+  |percentage = 34.1
+  |change     = -5.3
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Neots Eaton Ford<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Harty
+  |votes      = 673
+  |percentage = 49.6
+  |change     = -17.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Derek Cooper
+  |votes      = 601
+  |percentage = 44.3
+  |change     = +20.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Graham Hitchings
+  |votes      = 83
+  |percentage = 6.1
+  |change     = -2.6
+}}
+{{Election box majority|
+  |votes      = 72
+  |percentage = 5.3
+  |change     = -37.5
+}}
+{{Election box turnout|
+  |votes      = 1,357
+  |percentage = 34.0
+  |change     = +3.2
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Neots Eaton Socon<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Derek Giles
+  |votes      = 903
+  |percentage = 63.8
+  |change     = +8.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Law
+  |votes      = 417
+  |percentage = 29.5
+  |change     = -8.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Nicholls
+  |votes      = 95
+  |percentage = 6.7
+  |change     = +0.2
+}}
+{{Election box majority|
+  |votes      = 486
+  |percentage = 34.3
+  |change     = +16.8
+}}
+{{Election box turnout|
+  |votes      = 1,415
+  |percentage = 25.7
+  |change     = -1.4
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Neots Eynesbury<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Ursell
+  |votes      = 628
+  |percentage = 44.0
+  |change     = -0.6
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ian Taylor
+  |votes      = 591
+  |percentage = 41.4
+  |change     = +1.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patricia Nicholls
+  |votes      = 209
+  |percentage = 14.6
+  |change     = -0.5
+}}
+{{Election box majority|
+  |votes      = 37
+  |percentage = 2.6
+  |change     = -1.7
+}}
+{{Election box turnout|
+  |votes      = 1,428
+  |percentage = 23.0
+  |change     = -3.5
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Neots Priory Park<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paula Longford
+  |votes      = 916
+  |percentage = 65.7
+  |change     = +14.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lesley Collins
+  |votes      = 352
+  |percentage = 25.3
+  |change     = -16.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William O'Connor
+  |votes      = 126
+  |percentage = 9.0
+  |change     = +2.6
+}}
+{{Election box majority|
+  |votes      = 564
+  |percentage = 40.5
+  |change     = +30.7
+}}
+{{Election box turnout|
+  |votes      = 1,394
+  |percentage = 33.7
+  |change     = -3.6
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Liberal Democrats (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Staughton<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = [[Hugh Duberly|Archibald "Hugh" Duberly]]
+  |votes      = 333
+  |percentage = 46.1
+  |change     = -17.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = William Sinclair
+  |votes      = 249
+  |percentage = 34.4
+  |change     = +15.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Malcolm Howlett
+  |votes      = 88
+  |percentage = 12.2
+  |change     = +2.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Carole Hitchings
+  |votes      = 53
+  |percentage = 7.3
+  |change     = +0.4
+}}
+{{Election box majority|
+  |votes      = 84
+  |percentage = 11.6
+  |change     = -33.2
+}}
+{{Election box turnout|
+  |votes      = 723
+  |percentage = 34.5
+  |change     = -18.4
+}}
+{{Election box hold with party link|
+ |winner = Independent (politician)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Stilton<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Mitchell
+  |votes      = 788
+  |percentage = 73.6
+  |change     = +7.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Davidson
+  |votes      = 168
+  |percentage = 15.7
+  |change     = +15.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Graeme Watkins
+  |votes      = 114
+  |percentage = 10.7
+  |change     = -23.6
+}}
+{{Election box majority|
+  |votes      = 620
+  |percentage = 57.9
+  |change     = +26.6
+}}
+{{Election box turnout|
+  |votes      = 1,070
+  |percentage = 32.6
+  |change     = -4.7
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Upwood and The Raveleys<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Souter
+  |votes      = 343
+  |percentage = 50.0
+  |change     = +18.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Bell
+  |votes      = 316
+  |percentage = 46.1
+  |change     = -9.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Cochrane
+  |votes      = 27
+  |percentage = 3.9
+  |change     = -8.4
+}}
+{{Election box majority|
+  |votes      = 27
+  |percentage = 3.9
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 686
+  |percentage = 46.9
+  |change     = +10.6
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Yaxley<ref name=results/><ref name=hunts/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Watt
+  |votes      = 838
+  |percentage = 64.8
+  |change     = +8.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Goddard
+  |votes      = 455
+  |percentage = 35.2
+  |change     = -8.5
+}}
+{{Election box majority|
+  |votes      = 383
+  |percentage = 29.6
+  |change     = +17.1
+}}
+{{Election box turnout|
+  |votes      = 1,293
+  |percentage = 22.2
+  |change     = -4.8
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Cambridgeshire elections}}
+{{United Kingdom local elections, 2003}}
+
+[[Category:2003 English local elections|Huntingdonshire District Council election]]
+[[Category:Huntingdonshire District Council elections|2003]]
+[[Category:2000s in Cambridgeshire|Huntingdonshire District Council election, 2003]]

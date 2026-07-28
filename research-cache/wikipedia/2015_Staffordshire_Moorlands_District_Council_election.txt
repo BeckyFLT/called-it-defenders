@@ -1,0 +1,1263 @@
+{{Short description|2015 UK local government election}}
+{{Use dmy dates|date=April 2015}}
+{{Use British English|date=April 2015}}
+[[File:Staffordshire Moorlands UK ward map 2015.svg|thumb|300px|right|{{legend|#0087dc|Conservative}}
+{{legend|#dc241f|Labour}}
+{{legend|#fdbb30|Liberal Democrat}}
+{{legend|#70147a|UKIP}}
+{{legend|#ffd42a|Moorlands Democratic Alliance}}
+{{legend|#cccccc|Independent}}]]
+The '''2015 Staffordshire Moorlands District Council election''' took place on 7 May 2015 to elect members of [[Staffordshire Moorlands District Council]] in England.<ref name="TEC">{{Cite web|url=http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums |title=Upcoming elections & referendums |access-date=24 April 2015 |work=The Electoral Commission | archive-url= https://web.archive.org/web/20150315102043/http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums | archive-date= 15 March 2015 | url-status= live}}</ref> This was on the same day as other [[2015 United Kingdom local elections|local elections]].
+
+After the election, the composition of the council was:
+*[[Conservative Party (UK)|Conservative]] '''31'''
+*Independent '''8'''
+*[[Labour Party (UK)|Labour]] '''7'''
+*[[Liberal Democrats (UK)|Liberal Democrat]] '''2'''
+*Moorlands Democratic Alliance '''2'''
+*[[UK Independence Party|UKIP]] '''2'''
+
+==Ward results==
+The candidates highlighted in '''bold''' were elected to each ward.
+{{Election box begin | title=[[Alton, Staffordshire|Alton]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Arthur Sylvester Forrester'''
+  |votes      = 666
+  |percentage = 80
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Thomas Powner
+  |votes      = 200
+  |percentage = 20
+}}
+{{Election box majority|
+  |votes      = 466
+  |percentage = 53.8
+  |change     = +266
+}}
+{{Election box turnout|
+  |votes      = 866
+  |percentage = 75.6
+  |change     = +19.33
+}}
+{{Election box hold with party link no swing|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Bagnall, Staffordshire|Bagnall]] and Stanley (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Sybil Evelyn Ralphs'''
+  |votes      = 742
+  |percentage = 75
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Deborah Alison Price
+  |votes      = 117
+  |percentage = 12
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Sarah Elizabeth Colwell
+  |votes      = 64
+  |percentage = 6.5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Teasdale
+  |votes      = 61
+  |percentage = 6.2
+}}
+{{Election box majority|
+  |votes      = 625
+  |percentage = 63.5
+  |change     = +0.8
+}}
+{{Election box turnout|
+  |votes      = 984
+  |percentage = 70.29
+  |change     = +21.51
+}}
+{{Election box hold with party link no swing|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Biddulph|Biddulph East]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Kevin James Jackson'''
+  |votes      = 1366
+  |percentage = 25.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Madelaine Mary Lovatt'''
+  |votes      = 1282
+  |percentage = 24.2
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Jeanette Ann Walley'''
+  |votes      = 1180
+  |percentage = 22.3
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Jill Salt
+  |votes      = 734
+  |percentage = 13.9
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Lisa Salt
+  |votes      = 723
+  |percentage = 13.7
+}}
+{{Election box turnout|
+  |votes      = 5285
+  |percentage = 54.17
+  |change     = +24.56
+}}
+{{Election box hold with party link no swing|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Biddulph Moor]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''John Jones'''
+  |votes      = 544
+  |percentage = 54.1
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Hal Wilson
+  |votes      = 214
+  |percentage = 21.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Agnes Gronkiewicz
+  |votes      = 162
+  |percentage = 16.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robert Thomas Arthur Whilding
+  |votes      = 85
+  |percentage = 8.4
+}}
+{{Election box majority|
+  |votes      = 330
+  |percentage = 32.8
+  |change     = -18.9
+}}
+{{Election box turnout|
+  |votes      = 1005
+  |percentage = 72.35
+  |change     = +24.7
+}}
+{{Election box hold with party link no swing|
+ |winner = Independent politician
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Biddulph|Biddulph North]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Jim Davis'''
+  |votes      = 1563
+  |percentage = 26.3
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Tony Hall'''
+  |votes      = 1556
+  |percentage = 26.1
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Andrew Hart'''
+  |votes      = 1355
+  |percentage = 22.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Eileen Sylvia Rushton
+  |votes      = 861
+  |percentage = 14.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Dave Boothroyd
+  |votes      = 604
+  |percentage = 10.1
+}}
+{{Election box turnout|
+  |votes      = 5939
+  |percentage = 70.84
+  |change     = 27.84
+}}
+{{Election box hold with party link no swing|
+ |winner = Independent politician
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Biddulph|Biddulph South]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = '''John Phillip Redfern'''
+  |votes      = 408
+  |percentage = 43.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gavin Carl Wood
+  |votes      = 279
+  |percentage = 29.7
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Ken Harper
+  |votes      = 252
+  |percentage = 26.8
+}}
+{{Election box majority|
+  |votes      = 156
+  |percentage = 16.6
+  |change     = +15.6
+}}
+{{Election box turnout|
+  |votes      = 939
+  |percentage = 67.52
+  |change     = +21.34
+}}
+{{Election box hold with party link no swing|
+ |winner = Liberal Democrats (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Biddulph|Biddulph West]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Hilda Mary Sheldon'''
+  |votes      = 1306
+  |percentage = 48.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Ian Sinnett Lawson'''
+  |votes      = 1052
+  |percentage = 39.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Christopher Wood'''
+  |votes      = 984
+  |percentage = 36.6
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Elaine Elizabeth Baddeley
+  |votes      = 866
+  |percentage = 32.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nigel Richard Yates
+  |votes      = 789
+  |percentage = 23.3
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Gareth John Whalley
+  |votes      = 382
+  |percentage = 14.2
+}}
+{{Election box turnout|
+  |votes      = 2960
+  |percentage = 62.4
+  |change     = +25.52
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Independent politician
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Brown Edge, Staffordshire|Brown Edge and Endon]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Linda Doreen Lea'''
+  |votes      = 1180
+  |percentage = 40.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Geoff Bond'''
+  |votes      = 1112
+  |percentage = 38.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = '''Christina Rita Jebb'''
+  |votes      = 1101
+  |percentage = 37.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Joe Porter
+  |votes      = 1067
+  |percentage = 36.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Henry Walter Gladwyn Jebb
+  |votes      = 743
+  |percentage = 25.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Danielle Maria Spooner
+  |votes      = 572
+  |percentage = 19.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Andrew Stuart Cunningham Church
+  |votes      = 550
+  |percentage = 18.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nick Revell
+  |votes      = 585
+  |percentage = 20.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gareth Richard Taylor
+  |votes      = 410
+  |percentage = 14.0
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Brian Geoffrey Smith
+  |votes      = 243
+  |percentage = 8.3
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Andy Wragg
+  |votes      = 112
+  |percentage = 3.8
+  |change     = -3.0
+}}
+{{Election box turnout|
+  |votes      = 2926
+  |percentage = 72.02
+  |change     = +21.77
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Caverswall]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Paul John Roberts'''
+  |votes      = 585
+  |percentage = 63.0
+  |change     = +0.3
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Dave Bateman
+  |votes      = 343
+  |percentage = 37.0
+  |change     = -0.9
+}}
+{{Election box majority|
+  |votes      = 585
+  |percentage = 63.0
+  |change     = +38.8
+}}
+{{Election box turnout|
+  |votes      = 928
+  |percentage = 67.31
+  |change     = +27.63
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 0.75
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Cheadle, Staffordshire|Cheadle North East]] (2 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Julie Dawn Bull'''
+  |votes      = 593
+  |percentage = 37.0
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = '''Peter Wilkinson'''
+  |votes      = 515
+  |percentage = 32.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael John Shirley
+  |votes      = 386
+  |percentage = 24.1
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Ian Tracy Whitehouse
+  |votes      = 378
+  |percentage = 23.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Palfreyman
+  |votes      = 340
+  |percentage = 21.3
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Thomas Peter Wilkinson
+  |votes      = 228
+  |percentage = 14.25
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Phil Routledge
+  |votes      = 182
+  |percentage = 11.4
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Ian William Plant
+  |votes      = 142
+  |percentage = 8.9
+  |change     = 
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Sue Walley
+  |votes      = 93
+  |percentage = 5.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1600
+  |percentage = 56.6
+  |change     = +22.3
+}}
+{{Election box hold with party link no swing|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Cheadle, Staffordshire|Cheadle South East]] (2 seats)}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Richard Alcock'''
+  |votes      = 702
+  |percentage = 39.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Deb Grocott'''
+  |votes      = 540
+  |percentage = 30.3
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Peter James Elkin
+  |votes      = 495
+  |percentage = 27.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brian Slaney
+  |votes      = 486
+  |percentage = 27.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jan Hale
+  |votes      = 476
+  |percentage = 26.7
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Neil Plant
+  |votes      = 269
+  |percentage = 15.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1782
+  |percentage = 60.3
+  |change     = +22.5
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Independent politician
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Cheadle, Staffordshire|Cheadle West]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Stephen Andrew Ellis'''
+  |votes      = 1146
+  |percentage = 53.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Alan Banks'''
+  |votes      = 1059
+  |percentage = 49.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Peter Mark Jackson'''
+  |votes      = 927
+  |percentage = 43.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sam Hale
+  |votes      = 648
+  |percentage = 30.2
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Ray Wood
+  |votes      = 605
+  |percentage = 28.2
+  |change     = 
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Ronald Gordon Locker
+  |votes      = 539
+  |percentage = 25.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joe Baker
+  |votes      = 511
+  |percentage = 23.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Geoffrey Baker
+  |votes      = 501
+  |percentage = 23.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Philip Alvin Silk
+  |votes      = 211
+  |percentage = 9.8
+}}
+{{Election box turnout|
+  |votes      = 2461
+  |percentage = 59.6
+  |change     = +22.6
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Moorlands Democratic Alliance
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Checkley]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Mark Anthony Deaville'''
+  |votes      = 1739
+  |percentage = 55.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Colin Pearce'''
+  |votes      = 1604
+  |percentage = 51.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''David Kingsley Trigger'''
+  |votes      = 1293
+  |percentage = 41.4
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jane Palfreyman
+  |votes      = 712
+  |percentage = 22.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Rosie Hale
+  |votes      = 667
+  |percentage = 21.4
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = David Wright
+  |votes      = 419
+  |percentage = 13.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3121
+  |percentage = 67.1
+  |change     = +26.2
+}}
+{{Election box hold with party link no swing|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Cheddleton]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Michael Philip Worthington'''
+  |votes      = 1622
+  |percentage = 52.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Michael Thomas Bowen'''
+  |votes      = 1527
+  |percentage = 49.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Salvino Scalise'''
+  |votes      = 1388
+  |percentage = 45.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mahfooz Ahmad
+  |votes      = 987
+  |percentage = 32.1
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Paul Mark Fenton
+  |votes      = 744
+  |percentage = 24.2
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Harold Rensburgh Jennings
+  |votes      = 737
+  |percentage = 23.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3079
+  |percentage = 69.3
+  |change     = +24.98
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Labour Party (UK)
+}}
+{{Election box end}}
+{{Election box begin | title=[[River Churnet|Churnet]] (2 seats)}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Ivor John Lucas'''
+  |votes      = 960
+  |percentage = 54.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Elsie Fallows'''
+  |votes      = 735
+  |percentage = 41.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Bryan Andrew Bull
+  |votes      = 662
+  |percentage = 37.2
+}}
+{{Election box turnout|
+  |votes      = 1778
+  |percentage = 67.3
+  |change     = +24.5
+}}
+{{Election box gain with party link|
+ |winner = Independent politician
+ |swing = 
+ |loser = Conservative Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Forsbrook]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Ian James Herdman'''
+  |votes      = 1141
+  |percentage = 40.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Keith Flunder'''
+  |votes      = 989
+  |percentage = 34.9
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = '''Abigail Laura Wilkinson'''
+  |votes      = 889
+  |percentage = 31.4
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Gillian Burton
+  |votes      = 823
+  |percentage = 29.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Edward Wilson
+  |votes      = 784
+  |percentage = 27.7
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Christine Rose Hopley
+  |votes      = 636
+  |percentage = 22.5
+  |change     = 
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Frank John Hopley
+  |votes      = 603
+  |percentage = 21.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2830
+  |percentage = 67.3
+  |change     = +29.3
+}}
+{{Election box gain with party link|
+ |winner = United Kingdom Independence Party
+ |swing = 
+ |loser = Independent politician
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[River Hamps|Hamps Valley]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Edwin Thomas John Wain'''
+  |votes      = 726
+  |percentage = 64.2
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Steven Ratcliffe
+  |votes      = 234
+  |percentage = 20.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Terry Riley
+  |votes      = 171
+  |percentage = 15.1
+}}
+{{Election box majority|
+  |votes      = 492
+  |percentage = 43.5
+  |change     = -3.5
+}}
+{{Election box turnout|
+  |votes      = 1131
+  |percentage = 76.5
+  |change     = +18.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Horton, Staffordshire|Horton]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Norma Hawkins'''
+  |votes      = 951
+  |percentage = 78.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Lytton Page
+  |votes      = 234
+  |percentage = 19.4
+}}
+{{Election box majority|
+  |votes      = 717
+  |percentage = 59.5
+  |change     = +37.6
+}}
+{{Election box turnout|
+  |votes      = 1205
+  |percentage = 74.1
+  |change     = +22.3
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Ipstones]] (1 seat)}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = '''Linda Ann Malyon'''
+  |votes      = 615
+  |percentage = 52.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brian Warrington
+  |votes      = 403
+  |percentage = 34.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Philip James Barks
+  |votes      = 156
+  |percentage = 13.2
+}}
+{{Election box majority|
+  |votes      = 212
+  |percentage = 17.9
+  |change     = -1.8
+}}
+{{Election box turnout|
+  |votes      = 1183
+  |percentage = 76.42
+  |change     = +17.51
+}}
+{{Election box hold|
+ |winner = Moorlands Democratic Alliance
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Leek, Staffordshire|Leek East]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Rebecca Done'''
+  |votes      = 997
+  |percentage = 38.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Brian Charles Johnson'''
+  |votes      = 866
+  |percentage = 33.5
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = '''Pamela Wood'''
+  |votes      = 734
+  |percentage = 28.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gwen Gledhill
+  |votes      = 694
+  |percentage = 26.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roy Denis Tomkinson
+  |votes      = 659
+  |percentage = 25.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bill Cawley
+  |votes      = 640
+  |percentage = 24.8
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Michael Anthony Mothershaw
+  |votes      = 537
+  |percentage = 20.8
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Andrew William Easom
+  |votes      = 519
+  |percentage = 20.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Megan Ruth Walmsley-Pitts
+  |votes      = 407
+  |percentage = 15.8
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Judy Gregg
+  |votes      = 211
+  |percentage = 8.2
+}}
+{{Election box turnout|
+  |votes      = 2583
+  |percentage = 63.87
+  |change     = +23.85
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Moorlands Democratic Alliance
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Leek, Staffordshire|Leek North]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Charlotte Atkins'''
+  |votes      = 1275
+  |percentage = 52.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Margaret Ann Lovatt'''
+  |votes      = 1130
+  |percentage = 46.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Dani Ogden'''
+  |votes      = 938
+  |percentage = 38.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Darren Anthony Price
+  |votes      = 772
+  |percentage = 31.8
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Keith Robert Naldrett
+  |votes      = 447
+  |percentage = 18.4
+}}
+{{Election box turnout|
+  |votes      = 2428
+  |percentage = 57.1
+  |change     = +21.4
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = United Kingdom Independence Party
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Leek, Staffordshire|Leek South]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Gail Karen Lynn Lockett'''
+  |votes      = 850
+  |percentage = 30.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Mike Gledhill'''
+  |votes      = 809
+  |percentage = 29.4
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = '''Keith Harrison'''
+  |votes      = 789
+  |percentage = 28.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Susan Coleman
+  |votes      = 784
+  |percentage = 28.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Povey
+  |votes      = 779
+  |percentage = 28.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Keith Hoptroff
+  |votes      = 698
+  |percentage = 25.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roy Molson
+  |votes      = 682
+  |percentage = 24.8
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Roger Adams
+  |votes      = 537
+  |percentage = 19.5
+  |change     = 
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Neil Kirby
+  |votes      = 401
+  |percentage = 14.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Francisco Philip Davies
+  |votes      = 384
+  |percentage = 14.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mike Ottewell
+  |votes      = 171
+  |percentage = 6.2
+}}
+{{Election box turnout|
+  |votes      = 2749
+  |percentage = 61.44
+  |change     = +23.41
+}}
+{{Election box gain with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+ |loser = Conservative Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Leek, Staffordshire|Leek West]] (3 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Ben Emery'''
+  |votes      = 1157
+  |percentage = 43.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Robert Warrington Plant'''
+  |votes      = 994
+  |percentage = 37.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Neal Robert Podmore'''
+  |votes      = 921
+  |percentage = 34.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Susan Webster
+  |votes      = 697
+  |percentage = 26.7
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Andy Machin
+  |votes      = 506
+  |percentage = 19.0
+  |change     = 
+}}
+{{Election box candidate|
+  |color      = #ffd42a
+  |party      = Moorlands Democratic Alliance
+  |candidate  = Brian Hall
+  |votes      = 490
+  |percentage = 18.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Mark Sidebotham
+  |votes      = 400
+  |percentage = 15.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Roy Gregg
+  |votes      = 380
+  |percentage = 14.3
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Jason Gregory Banks
+  |votes      = 293
+  |percentage = 11.0
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Brian Harry Pointon
+  |votes      = 184
+  |percentage = 6.9
+}}
+{{Election box turnout|
+  |votes      = 2665
+  |percentage = 69.7
+  |change     = +25.6
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[River Manifold|Manifold]] (1 seat)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Teresa Riley'''
+  |votes      = 888
+  |percentage = 77.8
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Gary William Salt
+  |votes      = 204
+  |percentage = 17.9
+}}
+{{Election box majority|
+  |votes      = 684
+  |percentage = 59.9
+  |change     = +10.7
+}}
+{{Election box turnout|
+  |votes      = 1142
+  |percentage = 75.53
+  |change     = +22.63
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Werrington, Staffordshire|Werrington]] (2 seats)}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''David Shaw'''
+  |votes      = 1017
+  |percentage = 55.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = '''Ross David Ward'''
+  |votes      = 697
+  |percentage = 38.3
+}}
+{{Election box candidate|
+  |party      = Staffordshire Independent Group
+  |candidate  = Lisa Martin
+  |votes      = 554
+  |percentage = 30.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jocelyn Anne Morrison
+  |votes      = 487
+  |percentage = 26.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Doreen Jones
+  |votes      = 471
+  |percentage = 25.9
+}}
+{{Election box turnout|
+  |votes      = 1817
+  |percentage = 68.21
+  |change     = +27.5
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+ |loser = Staffordshire Independent Group
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+* [http://www.staffsmoorlands.gov.uk/sites/default/files/documents/pages/Staffs%20Moorlands%20District%20Councillor%20Results%202015%20TUES13.pdf 2015 election results] {{Webarchive|url=https://web.archive.org/web/20160815201129/http://www.staffsmoorlands.gov.uk/sites/default/files/documents/pages/Staffs%20Moorlands%20District%20Councillor%20Results%202015%20TUES13.pdf |date=15 August 2016 }}
+* [https://web.archive.org/web/20160815204408/http://www.staffsmoorlands.gov.uk/sites/default/files/documents/pages/District_Elections_Summary_of_Results.pdf 2011 election results]
+
+{{United Kingdom local elections, 2015}}
+{{Staffordshire elections}}
+
+[[Category:2015 English local elections|Staffordshire Moorlands]]
+[[Category:May 2015 in the United Kingdom]]
+[[Category:Staffordshire Moorlands District Council elections|2015]]
+[[Category:2010s in Staffordshire]]

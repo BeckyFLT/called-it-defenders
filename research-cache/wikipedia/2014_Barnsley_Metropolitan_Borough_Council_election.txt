@@ -1,0 +1,110 @@
+{{Short description|2014 UK local government election}}
+{{Use dmy dates|date=July 2026}}
+{{Use British English|date=May 2014}}
+{{Infobox election
+| election_name = 2014 Barnsley Metropolitan Borough Council election
+| country = England
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2012 Barnsley Metropolitan Borough Council election]]
+| previous_year = [[2012 Barnsley Metropolitan Borough Council election|2012]]
+| next_election = [[2015 Barnsley Metropolitan Borough Council election]]
+| next_year = [[2015 Barnsley Metropolitan Borough Council election|2015]]
+| seats_for_election = 21 of 63 seats to [[Barnsley Metropolitan Borough Council]]
+| majority_seats = 32
+| election_date = 22 May 2014
+
+<!-- Labour -->
+| party1 = Labour Party (UK)
+| seats1 = '''53'''
+| seat_change1 = {{increase}}1
+| popular_vote1      = '''26,802'''
+| percentage1        = '''50.6%'''
+| swing1             = {{decrease}}5.9%
+
+<!-- Barnsley Independent Group -->
+| party2 = Barnsley Independent Group
+| seats2 = 6
+| seat_change2  = {{nochange}}
+| popular_vote2      = 4,275
+| percentage2        = 8.1%
+| swing2             = {{decrease}}11.7%
+
+<!-- Conservative -->
+| party3 = Conservative Party (UK)
+| seats3 = 4
+| seat_change3  = {{decrease}}1
+| popular_vote3      = 7,686
+| percentage3        = 14.5%
+| swing3             = {{increase}}3.7%
+
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[Labour Party (UK)]]
+| before_party = 
+| after_election = [[Labour Party (UK)]]
+| after_party = 
+}}
+
+[[File:Barnsley wards 2014.png|thumb|right|300px|2014 local election results in Barnsley]]
+
+The '''2014 Barnsley Metropolitan Borough Council election''' took place on 22 May 2014 to elect members of [[Barnsley Metropolitan Borough Council]] in England.<ref name="BBC">{{cite web|url=https://www.bbc.co.uk/news/events/vote2014/england-council-election-results |title=England council results |access-date=23 May 2014 |publisher=BBC News}}</ref> This was on the same day as other [[2014 United Kingdom local elections|local elections]].
+
+==By-elections between 2014 and 2015==
+{{Election box begin|title = Penistone West by-election 10 July 2014<ref>{{cite web |title=Local Elections Archive Project – Penistone West Ward |url=https://www.andrewteale.me.uk/leap/ward/965/#2014-07-10 |website=andrewteale.me.uk |access-date=18 April 2022}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = David Griffin
+ |votes      = 772
+ |percentage = 31.4
+ |change     = +2.5  
+}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = Andrew Millner
+ |votes      = 719
+ |percentage = 29.2
+ |change     = +1.5
+}}
+{{Election box candidate with party link|
+ |party      = United Kingdom Independence Party
+ |candidate  = David Wood
+ |votes      = 622
+ |percentage = 25.3
+ |change     = -0.1
+}}
+{{Election box candidate with party link|
+ |party      = Independent politician
+ |candidate  = Steve Webber
+ |votes      = 348
+ |percentage = 14.1
+ |change     = -4.0
+}}
+{{Election box majority|
+ |votes      = 53
+ |percentage = 2.15
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 2,461
+ |percentage = 
+ |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2014}}
+
+[[Category:2014 English local elections|Barnsley]]
+[[Category:Barnsley Council elections|2014]]
+[[Category:2010s in South Yorkshire]]
+
+{{YorkshireHumberside-election-stub}}

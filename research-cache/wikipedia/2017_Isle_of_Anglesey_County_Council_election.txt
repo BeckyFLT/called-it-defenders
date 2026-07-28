@@ -1,0 +1,402 @@
+{{Short description|2017 Welsh local government election}}
+{{Use British English|date=December 2021}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox election
+| election_name = 2017 Isle of Anglesey County Council election
+| country = Wales
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2013 Isle of Anglesey County Council election]]
+| previous_year = [[2013 Isle of Anglesey County Council election|2013]]
+| next_election = [[2022 Isle of Anglesey County Council election|2022]]
+| next_year = [[2022 Isle of Anglesey County Council election|2022]]
+| seats_for_election = All 30 seats to [[Isle of Anglesey]] County Council
+| majority_seats = 16
+| election_date = 4 May 2017
+
+<!-- Plaid Cymru -->
+| image1          =
+| leader1         =
+| party1          = Plaid Cymru
+| leaders_seat1   =
+| last_election1  =
+| seats_before1   = 12
+| seats1          = 14
+| seat_change1    = {{increase}}2
+| popular_vote1   =
+| percentage1     =
+| swing1          =
+
+<!-- Independent -->
+| image2          =
+| leader2         =
+| party2          = Independent (politician)
+| leaders_seat2   =
+| last_election2  =
+| seats_before2   = 14
+| seats2          = 13
+| seat_change2    = {{decrease}}1
+| popular_vote2   =
+| percentage2     =
+| swing2          =
+
+<!-- Welsh Labour -->
+| image3          =
+| leader3         =
+| party3          = Welsh Labour
+| leaders_seat3   =
+| last_election3  =
+| seats_before3   = 3
+| seats3          = 2
+| seat_change3    = {{decrease}}1
+| popular_vote3   =
+| percentage3     =
+| swing3          =
+
+| map_image = Isle of Anglesey UK local election 2017 results map.png
+| map_size = 
+| map_caption = Map showing the results of the 2017 Isle of Anglesey Council elections. Striped wards have mixed representation.
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[No overall control]]
+| before_party = 
+| after_election = [[No overall control]]
+| after_party = 
+}}
+
+The '''2017 Isle of Anglesey County Council election''', to the [[Isle of Anglesey County Council]] was held on 4 May 2017 as part of the [[2017 United Kingdom local elections]]. All 30 council seats were up for election. The previous full election took place [[2013 Isle of Anglesey County Council election|in 2013]] and the following one [[2022 Isle of Anglesey County Council election|in 2022]].
+
+==Overall results==
+Following the election [[Plaid Cymru]] gained two additional seats overall to become the largest party with 14 councillors. The Independents, ruling the council prior to the election, were reduced to 13 councillors.<ref name=nopartywinscontrol>{{cite news|author=Gareth Wyn-Williams |title=Local election results: No party wins overall control in Anglesey Council |url= https://www.dailypost.co.uk/news/local-election-results-anglesey-no-12993982 |work=North Wales Live |date=5 May 2017|accessdate=2019-03-14}}</ref> Previous Independent Group leader, Ieuan Williams, stood down from this position prior to the election. The Independent council leader prior to 2013, Bryan Owen, won a seat in the [[Bro Aberffraw]] ward, having previously lost his [[Canolbarth Môn]] seat in May 2013. He won by only 6 votes, though a recount was refused by the [[returning officer]].<ref name=nopartywinscontrol />
+
+{{Election Summary Begin|title = Isle of Anglesey County Council election, 2017 <ref name="anglesey council results">{{cite web |title=Isle of Anglesey County Council Elections May 2017 - Thursday, 4th May, 2017 |url= http://democracy.anglesey.gov.uk/mgElectionResults.aspx?ID=14&RPID=0&LLL=0 |publisher=Isle of Anglesey County Council |accessdate=2019-03-14}}</ref><ref>{{cite web |title=Election results by electoral divisions - Isle of Anglesey County Council Elections May 2017 - Thursday, 4th May, 2017 |url= http://democracy.anglesey.gov.uk/mgElectionElectionAreaResults.aspx?EID=14&RPID=1006760943&LLL=0 |publisher=Isle of Anglesey County Council |accessdate=2019-03-16}}</ref>}}
+
+{{Election Summary Party|
+  |party      = Plaid Cymru
+  |gain       = 
+  |loss       = 
+  |seats      = 14
+  |net        = {{increase}} 2
+  |seats %    = 46.7
+  |votes %    = '''41.0'''
+  |votes      = '''20,894'''
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 13
+  |gain       = 
+  |loss       = 
+  |net        = {{decrease}} 1
+  |seats %    = 43.3
+  |votes %    = 36.7
+  |votes      = 18,706
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Welsh Labour
+  |seats      = 2
+  |gain       = 
+  |loss       = 
+  |net        = {{decrease}} 1
+  |seats %    = 6.7
+  |votes %    = 14.7
+  |votes      = 7,470 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Welsh Liberal Democrats
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = {{nochange}} 0
+  |seats %    = 3.3
+  |votes %    = 3.2
+  |votes      = 1,651
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Welsh Conservative Party
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = {{nochange}} 0
+  |seats %    = 0.0
+  |votes %    = 4.2
+  |votes      = 2,146
+  |plus/minus = 
+}}
+{{Election box end}}
+
+Later that month Plaid Cymru leader, [[Llinos Medi]], was the only candidate to put herself forward as leader and Plaid Cymru consequently led the council with the help of support from some Independent members.<ref>{{cite news |title=Plaid puts forward sole candidate for Anglesey council leader |url= https://www.bbc.co.uk/news/uk-wales-north-west-wales-39888280 |work=BBC News |date=11 May 2017|accessdate=2019-03-14}}</ref>
+
+==Results by ward==
+
+'''<nowiki>*</nowiki>''' <small>= denotes councillor elected to this ward at the previous election<ref name="teale 2013">{{cite web|last1=Teale|first1=Andrew|title=Local Election Results 2013: Isle of Anglesey|url=https://www.andrewteale.me.uk/leap/results/2013/421/|accessdate=17 August 2022}}</ref></small>
+
+<small>Isle of Anglesey Council results per ward also give the number of registered electors, number of ballot papers issued and turnout</small><ref name="anglesey council results"/>
+
+===Aethwy===
+{{Election box begin | title=[[Aethwy (electoral ward)|Aethwy]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Meirion Jones *
+  |votes      = 1,343
+  |percentage = 48.3<ref name="teale 2017">{{cite web|last1=Teale|first1=Andrew|title=Local Election Results 2017: Isle of Anglesey|url=https://www.andrewteale.me.uk/leap/results/2017/421/|accessdate=17 August 2022}}</ref>
+
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Robin Williams
+  |votes      = 1,314
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Alun Mummery *
+  |votes      = 1,267
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Selwyn Williams
+  |votes      = 882
+  |percentage = 31.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Justin McCoy
+  |votes      = 553
+  |percentage = 19.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Jan Hale
+  |votes      = 505
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,521
+  |percentage = 47.0
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      =
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Independent (politician)
+  |swing      =
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      =
+}}
+{{Election box end}}
+
+===Bro Aberffraw===
+{{Election box begin | title=Bro Aberffraw (2 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Peter Rogers *
+  |votes      = 793
+  |percentage = 47.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Bryan Owen
+  |votes      = 545
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Dilwyn Griffiths
+  |votes      = 539
+  |percentage = 32.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Pete Sims
+  |votes      = 340
+  |percentage = 20.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Tegwyn Roberts
+  |votes      = 275
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,492
+  |percentage = 49.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      =
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser      = Plaid Cymru
+  |swing      =
+}}
+{{Election box end}}
+
+===Bro Rhosyr===
+{{Election box begin | title=[[Bro Rhosyr]] (2 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Dafydd Roberts
+  |votes      = 880
+  |percentage = 45.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Eric Jones
+  |votes      = 858
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Mathew Thomas
+  |votes      = 736
+  |percentage = 37.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Dafydd Owen
+  |votes      = 613
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Einion Williams
+  |votes      = 333
+  |percentage = 17.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,420
+  |percentage = 53.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      =
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      =
+}}
+{{Election box end}}
+
+===Caergybi===
+{{Election box begin | title=[[Caergybi (electoral ward)|Caergybi]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Bob Jones
+  |votes      = 1,049
+  |percentage = 42.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Shaun Redmond
+  |votes      = 673
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Glyn Haynes
+  |votes      = 625
+  |percentage = 25.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Keith Thomas
+  |votes      = 559
+  |percentage = 22.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Alan Williams
+  |votes      = 540
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour Party
+  |candidate  = Beryl Warner
+  |votes      = 515
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Ken Taylor
+  |votes      = 391
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ken Tatlock
+  |votes      = 369
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Philip Eastment
+  |votes      = 261
+  |percentage = 10.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,982
+  |percentage = 39.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      =
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser      = Welsh Labour Party
+  |swing      =
+}}
+{{Election box hold with party link|
+  |winner     = Welsh Labour Party
+  |swing      =
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{Gwynedd elections}}
+{{United Kingdom local elections, 2017}}
+
+[[Category:Isle of Anglesey County Council elections|2017]]
+[[Category:2017 Welsh local elections]]

@@ -1,0 +1,1081 @@
+{{Short description|2013 Welsh local government election}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| election_name = 2013 Isle of Anglesey County Council election
+| country = Wales
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2008 Isle of Anglesey County Council election]]
+| previous_year = [[2008 Isle of Anglesey County Council election|2008]]
+| next_election = [[2017 Isle of Anglesey County Council election|2017]]
+| next_year = [[2017 Isle of Anglesey County Council election|2017]]
+| seats_for_election = All 30 seats to [[Isle of Anglesey]] County Council
+| majority_seats = 16
+| election_date = 2 May 2013
+
+<!-- Independent -->
+| image1 = 
+| leader1 = 
+| party1 = Independent (politician)
+| leaders_seat1 = 
+| last_election1 = 
+| seats_before1   = 16
+| seats1 = 14
+| seat_change1    = {{decrease}}2
+| popular_vote1 = 
+| percentage1 = 
+| swing1          =
+
+<!-- Plaid Cymru -->
+| image2 = 
+| leader2 = 
+| party2 = Plaid Cymru
+| leaders_seat2 = 
+| last_election2 = 
+| seats_before2   = 6
+| seats2 = 12
+| seat_change2  = {{increase}}6
+| popular_vote2 = 
+| percentage2 = 
+| swing2          =
+
+<!-- Welsh Labour -->
+| image3 = 
+| leader3 = 
+| party3 = Welsh Labour
+| leaders_seat3 = 
+| last_election3 = 
+| seats_before3   = 4
+| seats3 = 3
+| seat_change3    = {{decrease}}1
+| popular_vote3 = 
+| percentage3 = 
+| swing3          =
+
+| map_image = Isle of Anglesey UK local election 2013 map.svg
+| map_size = 
+| map_caption = Map showing the results of the 2013 Isle of Anglesey Council elections. Striped divisions have mixed representation.
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[No overall control]]
+| before_party = 
+| after_election = [[No overall control]]
+| after_party = 
+}}
+
+'''An election to the [[Isle of Anglesey County Council]]'''<ref>[http://www.anglesey.gov.uk/council-and-democracy/councillors-democracy-and-elections/elections-and-voting/register-to-vote/registering-to-vote-in-2013/114526.article Registering to vote in 2013?] Isle of Anglesey</ref> was held as part of the [[2013 United Kingdom local elections]] and took place on 2 May 2013. [[Anglesey]] was the only Welsh authority voting in 2013, the election having been postponed from 2012 by the [[Welsh Government]], in order to allow an electoral review to take place.<ref>[https://www.bbc.co.uk/news/uk-wales-north-west-wales-16590896 BBC News] Anglesey council election postponed for one year to 2013 (17 January 2012)</ref> The next full council election took place [[2017 Isle of Anglesey County Council election|on 4 May 2017]].
+
+==Boundary review==
+[[File:WalesLocal2013.png|280px|thumb|right|Map showing the location of Isle of Anglesey County Council in Wales<br />Key:
+{{legend|#000000|[[Anglesey]] County Council under [[No Overall Control]]}}
+{{legend|#EFE488|The rest of [[Wales]] where no elections were held}}]]
+{{main|Isle of Anglesey electoral boundary changes 2012}}
+Under The Isle of Anglesey (Electoral Arrangements) Order 2012, thirty seats (a reduction from the previous 40) were created, from eleven (previously 40) electoral divisions, by the [[Local Government Boundary Commission for Wales]].<ref>[http://www.legislation.gov.uk/wsi/2012/2676/pdfs/wsi_20122676_mi.pdf The Isle of Anglesey (Electoral Arrangements) Order 2012] Legislation.gov.uk</ref>
+
+==Overall results==
+Turnout for the election was 50.5% of eligible voters.<ref name=plaidlabourdeal>{{cite news|title=Anglesey election: Plaid to seek Labour council deal|url= https://www.bbc.co.uk/news/uk-wales-north-west-wales-22388459|work=BBC News |date=3 May 2013|accessdate=2017-12-02}}</ref> Independent councillors won more seats than any other group, but Plaid Cymru made strong gains, saying they would find it difficult to work with the independent group and hoped to form an alliance with Labour.<ref name=plaidlabourdeal /> The island's [[Returning officer|Returning Officer]] described democracy on the island as being "invigorated".<ref name=plaidlabourdeal />
+{{Election summary begin|title = Isle of Anglesey County Council election, 2013<ref>{{cite web|last1=Teale|first1=Andrew|title=Local Election Results 2013: Ynys Môn - Isle of Anglesey|url= http://www.andrewteale.me.uk/leap/results/2013/421/|accessdate=2016-11-18}}</ref>}}
+
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 14
+  |gain       = 
+  |loss       = 
+  |net        = -9
+  |seats %    = 46.7
+  |votes %    = '''29.2'''
+  |votes      = '''9,958'''
+  |plus/minus = '''-27.0'''
+}}
+{{Election summary party|
+  |party      = Plaid Cymru
+  |gain       = 
+  |loss       = 
+  |seats      = 12
+  |net        = +4
+  |seats %    = 40.0
+  |votes %    = 26.4
+  |votes      = 9,021 
+  |plus/minus = +5.2
+}}
+{{Election summary party|
+  |party      = Welsh Labour
+  |seats      = 3
+  |gain       = 
+  |loss       = 
+  |net        = -2
+  |seats %    = 10.0
+  |votes %    = 17.4
+  |votes      =  5,933 
+  |plus/minus = +4.7
+}}
+{{Election summary party|
+  |party      = Welsh Liberal Democrats
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = -1
+  |seats %    = 3.3
+  |votes %    = 6.0
+  |votes      =  2,038 
+  |plus/minus = +1.6
+}}
+{{Election summary party|
+  |party      = UK Independence Party
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 13.0
+  |votes      = 4,447 
+  |plus/minus = +12.5
+}}
+{{Election summary party|
+  |party      = Welsh Conservatives
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = -2
+  |seats %    = 0.0
+  |votes %    = 8.0
+  |votes      =  2,714 
+  |plus/minus = +3.0
+}}
+{{Election box end}}
+
+==Results by ward==
+
+===Aethwy===
+{{Election box begin | title=[[Aethwy (electoral ward)|Aethwy]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Alun Mummery
+  |votes      = 1,091
+  |percentage = 26.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Meirion Jones
+  |votes      = 1,037
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jim Evans
+  |votes      = 762
+  |percentage = 18.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Liberal Democrats
+  |candidate  = Selwyn Williams
+  |votes      = 731
+  |percentage = 17.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Phil Roberts
+  |votes      = 712
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Keith Evans
+  |votes      = 506
+  |percentage = 12.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Liberal Democrats
+  |candidate  = Sue James
+  |votes      = 409
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Elaine Gill
+  |votes      = 401
+  |percentage = 9.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Liberal Democrats
+  |candidate  = Gwyn Jones
+  |votes      = 361
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Mike Carey
+  |votes      = 340
+  |percentage = 8.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Steve Ransome	
+  |votes      = 189
+  |percentage = 4.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box end}}
+
+===Bro Aberffraw===
+{{Election box begin | title=Bro Aberffraw (2 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Peter Rogers
+  |votes      = 566
+  |percentage = 23.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Ann Griffith
+  |votes      = 539
+  |percentage = 21.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Elizabeth Rees
+  |votes      = 347
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Brian Owen
+  |votes      = 337
+  |percentage = 13.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Glyn Jones
+  |votes      = 314
+  |percentage = 12.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Gwen Burns
+  |votes      = 230
+  |percentage = 9.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Robert Hughes
+  |votes      = 188
+  |percentage = 7.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Frank Wykes
+  |votes      = 168
+  |percentage = 6.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Barrie Freeman		
+  |votes      = 120
+  |percentage = 4.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box end}}
+
+===Bro Rhosyr===
+{{Election box begin | title=[[Bro Rhosyr]] (2 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Hywel Jones
+  |votes      = 936
+  |percentage = 30.3
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Victor Hughes
+  |votes      = 563
+  |percentage = 18.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Richard Parry
+  |votes      = 552
+  |percentage = 17.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Nia Evans
+  |votes      = 440
+  |percentage = 14.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Dewi ap Rhobert
+  |votes      = 303
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Einion Williams
+  |votes      = 258
+  |percentage = 8.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Carla Teixeira
+  |votes      = 134
+  |percentage = 4.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Hywel Jones
+  |votes      = 109
+  |percentage = 3.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Peter Williams	
+  |votes      = 99
+  |percentage = 3.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box end}}
+
+===Caergybi===
+{{Election box begin | title=[[Caergybi (electoral ward)|Caergybi]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Raymond Jones
+  |votes      = 1,365
+  |percentage = 33.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Bob Jones
+  |votes      = 1,094
+  |percentage = 26.5
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Welsh Labour 
+  |candidate  = Arwel Roberts
+  |votes      = 751
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Beryl Warner
+  |votes      = 747
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Afryl Davies
+  |votes      = 637
+  |percentage = 15.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Alan Williams
+  |votes      = 574
+  |percentage = 13.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Jean Williams
+  |votes      = 324
+  |percentage = 7.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = John Coates
+  |votes      = 135
+  |percentage = 3.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Philip Eastment
+  |votes      = 128
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Welsh Labour
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Welsh Labour
+}}
+{{Election box end}}
+
+===Canolbarth Môn===
+{{Election box begin | title=[[Canolbarth Môn]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Nicola Roberts
+  |votes      = 1,595
+  |percentage = 30.3
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Bob Parry
+  |votes      = 1,399
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Dylan Rees
+  |votes      = 1,387
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Jones
+  |votes      = 915
+  |percentage = 17.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Bryan Owen
+  |votes      = 907
+  |percentage = 17.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Margaret Thomas
+  |votes      = 881
+  |percentage = 16.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Jana Gill
+  |votes      = 688
+  |percentage = 13.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Terence Hodges	
+  |votes      = 280
+  |percentage = 5.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box end}}
+
+===Llifôn===
+{{Election box begin | title=Llifôn (2 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Richard Dew
+  |votes      = 774
+  |percentage = 26.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Gwilym Jones
+  |votes      = 672
+  |percentage = 22.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Ken Taylor
+  |votes      = 409
+  |percentage = 13.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Colin Torr
+  |votes      = 343
+  |percentage = 11.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Charlie Dodd
+  |votes      = 287
+  |percentage = 9.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Martin Peet
+  |votes      = 248
+  |percentage = 8.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Martin Brook
+  |votes      = 237
+  |percentage = 8.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Celfyn Furlong
+  |votes      = 237
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box end}}
+
+===Lligwy===
+{{Election box begin | title=[[Lligwy]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ieuan Williams
+  |votes      = 1,152
+  |percentage = 23.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Vaughan Hughes
+  |votes      = 656
+  |percentage = 13.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Derlwyn Hughes
+  |votes      = 620
+  |percentage = 12.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Claire Brook
+  |votes      = 499
+  |percentage = 10.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Barrie Durkin
+  |votes      = 475
+  |percentage = 9.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jeff Cotterell
+  |votes      = 439
+  |percentage = 8.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Edward Jones
+  |votes      = 430
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Margaret Roberts
+  |votes      = 430
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Hefin Thomas
+  |votes      = 426
+  |percentage = 8.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Pete Edwards
+  |votes      = 403
+  |percentage = 8.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Michael O'Leary
+  |votes      = 328
+  |percentage = 6.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Angela Gliddon
+  |votes      = 324
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Roger Dobson
+  |votes      = 230
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box end}}
+
+===Seiriol===
+{{Election box begin | title=Seiriol (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Lewis Davies
+  |votes      = 1,294
+  |percentage = 29.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Carwyn Jones
+  |votes      = 985
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Alwyn Rowlands
+  |votes      = 895
+  |percentage = 20.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Eurfryn Davies
+  |votes      = 870
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jason Zalot
+  |votes      = 755
+  |percentage = 17.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Neil Fairlamb
+  |votes      = 582
+  |percentage = 13.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Roger Petts
+  |votes      = 461
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = [[Nathan Gill]]
+  |votes      = 448
+  |percentage = 10.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Liberal Democrats
+  |candidate  = Judith Moss
+  |votes      = 350
+  |percentage = 8.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Welsh Labour
+}}
+{{Election box end}}
+
+===Talybolion===
+{{Election box begin | title=Talybolion (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Llinos Huws
+  |votes      = 1,113
+  |percentage = 30.6
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Kenneth Hughes
+  |votes      = 917
+  |percentage = 25.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = John Griffith
+  |votes      = 800
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Elwyn Schofield
+  |votes      = 783
+  |percentage = 21.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Emrys Hughes
+  |votes      = 740
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Julia Dobson
+  |votes      = 507
+  |percentage = 13.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Peter Smith
+  |votes      = 321
+  |percentage = 8.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box end}}
+
+===Twrcelyn===
+{{Election box begin | title=[[Twrcelyn]]  (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Richard Jones
+  |votes      = 1,445
+  |percentage = 25.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Welsh Liberal Democrats
+  |candidate  = Aled Jones
+  |votes      = 1,279
+  |percentage = 22.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Will Hughes
+  |votes      = 920
+  |percentage = 15.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Elfed Jones
+  |votes      = 740
+  |percentage = 12.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Dylan Jones
+  |votes      = 707
+  |percentage = 12.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Derek Owen
+  |votes      = 701
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Gordon Warren
+  |votes      = 512
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Nadine Hall
+  |votes      = 408
+  |percentage = 7.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Daniel ap Eifion-Jones
+  |votes      = 409
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Geoffrey Turner	
+  |votes      = 272
+  |percentage = 4.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = John Meredith	
+  |votes      = 237
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Welsh Liberal Democrats
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box end}}
+
+===Ynys Gybi===
+{{Election box begin | title=[[Ynys Gybi (electoral ward)|Ynys Gybi]] (3 seats)}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Trefor Hughes
+  |votes      = 708
+  |percentage = 21.5
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Dafydd Thomas
+  |votes      = 632
+  |percentage = 19.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jeffrey Evans
+  |votes      = 590
+  |percentage = 17.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Barry Roberts
+  |votes      = 506
+  |percentage = 15.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = William Chorlton
+  |votes      = 475
+  |percentage = 14.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Eric Roberts
+  |votes      = 386
+  |percentage = 11.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Keith Roberts
+  |votes      = 371
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Paula Parry
+  |votes      = 337
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Joe Lock
+  |votes      = 318
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Wyndham Davies-Holden
+  |votes      = 250
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Welsh Conservative Party
+  |candidate  = Christine Turner
+  |votes      = 197
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner     = Plaid Cymru
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box new seat win|
+  |winner     = Independent (politician)
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{Gwynedd elections}}
+{{United Kingdom local elections, 2013}}
+
+[[Category:Isle of Anglesey County Council elections|2013]]
+[[Category:2013 Welsh local elections]]

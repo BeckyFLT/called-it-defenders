@@ -14,9 +14,11 @@ jobs:
         run: |
           curl -sf https://called-it.uk/api/elections/pending-defenders -o pending.json
           python3 -c "import json; json.load(open('pending.json'))"  # must be valid JSON
+      - name: Build research cache
+        run: python3 scripts/fetch_research_cache.py
       - name: Commit if changed
         run: |
           git config user.name "pending-refresh bot"
           git config user.email "actions@github.com"
-          git add pending.json
+          git add pending.json research-cache
           git diff --cached --quiet || (git commit -m "Refresh pending list: $(date -u +%F)" && git push)

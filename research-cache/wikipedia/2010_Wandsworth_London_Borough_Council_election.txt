@@ -1,0 +1,1052 @@
+{{Short description|2010 local election in England}}
+{{Use dmy dates|date=December 2023}}
+{{Use British English|date=November 2013}}
+{{Infobox election
+| election_name = 2010 Wandsworth London Borough Council election
+| flag_image = 
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = 2006 Wandsworth London Borough Council election
+| previous_year = 2006
+| next_election = 2014 Wandsworth London Borough Council election
+| next_year = 2014
+| seats_for_election = All 60 seats to [[Wandsworth London Borough Council]]
+| majority_seats = 31
+| election_date = 6 May 2010
+
+<!-- Conservative -->
+| image1 = 
+| party1 = Conservative Party (UK)
+| last_election1 = 51 seats, 51.0%
+| seats1 = '''47'''
+| seat_change1 = {{decrease}}4
+| popular_vote1 = '''69,737'''
+| percentage1 = '''45.0%'''
+| swing1 = {{decrease}}6.0%
+
+<!-- Labour -->
+| image2 = 
+| party2 = Labour Party (UK)
+| last_election2 = 9 seats, 24.2%
+| seats2 = 13
+| seat_change2 = {{increase}}4
+| popular_vote2 = 44,289
+| percentage2 = 28.6%
+| swing2 = {{increase}}4.4%
+
+| map_image = Wandsworth London UK local election 2010 map.svg
+| map_size = 300px
+| map_caption = Map of the results of the 2010 Wandsworth council election. [[Conservative Party (UK)|Conservatives]] in blue and [[Labour Party (UK)|Labour]] in red.
+
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[Conservative Party (UK)|Conservative]]
+| before_party = 
+| after_election = [[Conservative Party (UK)|Conservative]]
+| after_party = 
+}}
+
+The '''2010 elections for the [[London Borough of Wandsworth]] Council''' were held on 6 May 2010. All 20 3-member wards were up for election, for a total of 60 councillors. The [[2010 United Kingdom general election|2010 General Election]] and [[2010 United Kingdom local elections|other local elections]] took place on the same day.
+
+The [[Conservative Party (UK)|Conservative Party]] were defending a strong position on the council, with 51 councillors [[2006 Wandsworth Council election|previously elected]] and having maintained overall control of the council since 1978. The [[Labour Party (UK)|Labour Party]] were hoping to increase their representation from nine councillors, whilst the [[Liberal Democrats (UK)|Liberal Democrats]] and other parties were hoping to secure representation on the council.{{Citation needed|date=March 2026}}
+
+The Conservative Party subsequently held control of the Council with a reduced number of seats and majority.
+==Results==
+{{Election summary begin|title = Wandsworth Council election result 2010}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = '''47'''
+  |gain       = 
+  |loss       = '''3'''
+  |net        = '''-3'''
+  |seats %    = 
+  |votes %    = '''45.0'''
+  |votes      = '''69,737'''
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 13
+  |gain       = 4
+  |loss       = 
+  |net        = +4
+  |seats %    = 
+  |votes %    = 28.6
+  |votes      = 44,289 	
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    =
+  |votes %    = 17.4
+  |votes      = 27,025
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    = 
+  |votes %    = 8.7
+  |votes      = 13,421
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = British National Party
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    =
+  |votes %    = 0.1
+  |votes      = 218
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Christian Peoples Alliance
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    =
+  |votes %    = 0.1
+  |votes      = 154 	
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Communist Party of Britain
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    =
+  |votes %    = 0.1
+  |votes      = 138 	
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 
+  |loss       = 1
+  |net        = -1
+  |seats %    =
+  |votes %    = 0.1
+  |votes      = 135 	
+  |plus/minus = 
+}}
+{{s-end}}
+
+==Ward results==
+
+{{Election box begin | title=Balham (3)<ref name="EC">{{Cite web |last=Rallings |first=Colin |last2=Thrasher |first2=Michael |title=London Borough of Wandsworth Election Results 1964-2010 |url=https://www.electionscentre.co.uk/wp-content/uploads/2015/06/Wandsworth-1964-2010.pdf |pages=16–17|url-status=live |archive-url=https://web.archive.org/web/20260302084136/https://www.electionscentre.co.uk/wp-content/uploads/2015/06/Wandsworth-1964-2010.pdf|archive-date=2026-03-02|access-date=2026-03-02 |website=The Elections Centre}}</ref><ref>{{Cite web |title=Balham ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/balham-ward-results-2010/ |url-status=live |archive-url=https://ghostarchive.org/archive/VDwMM |archive-date=2026-03-02 |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Paul Ellis
+  |votes      = 4,102
+  |percentage = 52.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Caroline Usher 
+  |votes      = 4,007
+  |percentage = 50.8
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Russell King
+  |votes      = 4,003
+  |percentage = 50.7
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Alice Cookson|votes=1,974|percentage=25.0|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Edward Elliott|votes=1,784|percentage=22.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Joan Gibbs|votes=1,524|percentage=19.3|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Bockari Vandi|votes=1,504|percentage=19.1|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Muriel Cronin|votes=1,484|percentage=18.8|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Matthew Green|votes=1,474|percentage=18.7|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Siobhan Vitelli|votes=786|percentage=10.0|change=}}
+{{Election box turnout|votes=7,891|percentage=67.1|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Bedford (3)<ref name="EC"/><ref>{{Cite web |title=Bedford ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/bedford-ward-results-2010/ |url-status=live |archive-url=https://web.archive.org/web/20241008181200/https://www.wandsworth.gov.uk:443/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/bedford-ward-results-2010/ |archive-date=2024-10-08 |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)  
+  |candidate  = Antonia Dunn
+  |votes      = 3,351
+  |percentage = 44.2
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Alexander Jacob
+  |votes      = 3,068
+  |percentage = 40.4
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = John Locker
+  |votes      = 3,023
+  |percentage = 39.8
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Thomas Baker|votes=2,673|percentage=35.2|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Sara Higham|votes=2,299|percentage=30.3|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Tim Walker|votes=2,025|percentage=26.7|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Anthony Fennelly|votes=1,458|percentage=19.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Henrietta Norman|votes=1,310|percentage=17.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Masood Khan|votes=1,309|percentage=17.3|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=John Rattray|votes=710|percentage=9.4|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Caroline van Issum|votes=525|percentage=6.9|change=}}
+{{Election box turnout|votes=7,588|percentage=64.8|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Earlsfield (3)<ref name="EC"/><ref>{{Cite web |title=Earlsfield ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/earlsfield-ward-results-2010/ |url-status=live |archive-url=https://web.archive.org/web/20250421114703/https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/earlsfield-ward-results-2010/ |archive-date=2025-04-21 |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)  
+  |candidate  = Angela Graham
+  |votes      = 3,887
+  |percentage = 52.3
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)  
+  |candidate  = Matthew Maxwell Scott
+  |votes      = 3,418
+  |percentage = 46.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Charles McNaught-Davis
+  |votes      = 3,336
+  |percentage = 44.9
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Sarah Guerra|votes=2,068|percentage=27.8|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Eleanor Kilyon|votes=2,052|percentage=27.6|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=John Russell|votes=1,750|percentage=23.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Michael Clifton|votes=1,659|percentage=22.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Tracey Langley|votes=1,320|percentage=17.8|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Rashid Mustafi|votes=893|percentage=12.0|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Steven Goldsmith|votes=790|percentage=10.6|change=}}
+{{Election box turnout|votes=7,428|percentage=64.5|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= East Putney (3)<ref name="EC"/><ref>{{Cite web |title=East Putney ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/east-putney-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Leslie McDonnell
+  |votes      = 4,004
+  |percentage = 55.2
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Ravi Govindia
+  |votes      = 3,706
+  |percentage = 51.1
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Robert Morritt
+  |votes      = 3,651
+  |percentage = 50.4
+  |change     = 
+}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Emma Lindsay|votes=1,452|percentage=20.0|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Christian Klapp|votes=1,449|percentage=20.0|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Gemma Reay|votes=1,443|percentage=19.9|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Dominic le Moignan|votes=1,342|percentage=18.5|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Godfrey Shocket|votes=1,239|percentage=17.1|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jason Whyte|votes=1,198|percentage=16.5|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Caroline Austin|votes=663|percentage=9.1|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Richard Morris|votes=579|percentage=8.0|change=}}
+{{Election box turnout|votes=7,250|percentage=61.6|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Fairfield (3)<ref name="EC"/><ref>{{Cite web |title=Fairfield ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/fairfield-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Vanessa Graham
+  |votes      = 3,991
+  |percentage = 54.7
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Piers McCausland 
+  |votes      = 3,657
+  |percentage = 50.1
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Stuart Thom
+  |votes      = 3,640
+  |percentage = 49.9
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Fitzroy Beckford|votes=1,774|percentage=24.3|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Marcus Messenger|votes=1,692|percentage=23.2|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Fred Ponsonby|votes=1,576|percentage=21.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Christina Lees|votes=1,477|percentage=20.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Patrick Warren|votes=1,255|percentage=17.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Adam Watson|votes=990|percentage=13.6|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Robin Bennet|votes=924|percentage=12.7|change=}}
+{{Election box turnout|votes=7,298|percentage=63.2|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Furzedown (3)<ref name="EC"/><ref>{{Cite web |title=Furzedown ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/furzedown-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = [[Leonie Cooper]]
+  |votes      = 3,750
+  |percentage = 52.1
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = John Farebrother
+  |votes      = 3,527
+  |percentage = 49.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Mark Thomas
+  |votes      = 3,321
+  |percentage = 46.2
+  |change     = 
+}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Peter Anthony|votes=2,116|percentage=29.4|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Louise Goodall|votes=2,083|percentage=28.9|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=James Langley|votes=1,818|percentage=25.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Stephen Cooles|votes=1,102|percentage=15.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Alasdair Craig|votes=908|percentage=12.9|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Javed Kayani|votes=769|percentage=10.7|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Ciaran Butler|votes=565|percentage=7.9|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Michael Day|votes=507|percentage=7.0|change=}}
+{{Election box turnout|votes=7,196|percentage=65.7|change=}}
+{{Election box gain with party link
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Graveney (3)<ref name="EC"/><ref>{{Cite web |title=Graveney ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/graveney-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Andy Gibbons
+  |votes      = 3,158
+  |percentage = 44.3
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Rex Osborn
+  |votes      = 3,009
+  |percentage = 42.2
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Billi Randall
+  |votes      = 2,745
+  |percentage = 38.5
+  |change     = 
+}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jeremy Ambache|votes=2,246|percentage=31.5|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Stephanie Dearden|votes=2,160|percentage=30.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Surinder Singh Rhode|votes=1,929|percentage=27.0|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Jonathan Cox|votes=1,663|percentage=23.3|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Mandy Chowdhri|votes=1,547|percentage=21.7|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Sarbani Mazumdar|votes=1,288|percentage=18.1|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Martin Williams|votes=631|percentage=8.8|change=}}
+{{Election box turnout|votes=7,134|percentage=63.2|change=}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Latchmere (3)<ref name="EC"/><ref>{{Cite web |title=Latchmere ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/latchmere-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Tony Belton
+  |votes      = 2,951
+  |percentage = 47.7
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Wendy Speck
+  |votes      = 2,712
+  |percentage = 43.8
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Simon Hogg
+  |votes      = 2,667
+  |percentage = 43.1
+  |change     = 
+}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Stevenson|votes=2,084|percentage=33.7|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Nat Okoye|votes=2,023|percentage=32.7|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Neil Turner|votes=1,874|percentage=30.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=[[Layla Moran]]|votes=992|percentage=16.0|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jamie Gillespie|votes=903|percentage=14.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=[[Luke Taylor (politician)|Luke Taylor]]|votes=826|percentage=13.4|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Alexandros Germanis|votes=513|percentage=8.3|change=}}
+{{Election box candidate with party link|party=Christian Peoples Alliance|candidate=Peter Wolstenholme|votes=154|percentage=2.5|change=}}
+{{Election box turnout|votes=6,185|percentage=57.6|change=}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Nightingale (3)<ref name="EC"/><ref>{{Cite web |title=Nightingale ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/nightingale-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Sarah McDermott
+  |votes      = 4,026
+  |percentage = 50.5
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Ian Hart
+  |votes      = 3,910
+  |percentage = 49.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Sheldon Wilkie
+  |votes      = 3,574
+  |percentage = 44.8
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Elisabeth Davies|votes=2,181|percentage=27.3|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Stephen Jones|votes=1,811|percentage=22.7|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Mark Panto|votes=1,787|percentage=22.4|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Gemma Christian|votes=1,759|percentage=22.0|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Edward Clapham|votes=1,448|percentage=18.1|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Munawar Asif|votes=1,268|percentage=15.9|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Bruce Mackenzie|votes=973|percentage=12.2|change=}}
+{{Election box turnout|votes=7,980|percentage=68.8|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Northcote (3)<ref name="EC"/><ref>{{Cite web |title=Northcote ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/northcote-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Jenny Browne
+  |votes      = 4,628
+  |percentage = 60.1
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Peter Dawson
+  |votes      = 4,278
+  |percentage = 55.6
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Martin Johnson
+  |votes      = 4,099
+  |percentage = 53.2
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Neil Coburn|votes=1,742|percentage=22.6|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Harvey Heath|votes=1,499|percentage=19.5|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Charles Cronin|votes=1,255|percentage=16.3|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Shalu Kanal|votes=1,232|percentage=16.0|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Christine Green|votes=1,180|percentage=15.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Tom Paul|votes=982|percentage=12.8|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Guy Evans|votes=580|percentage=7.5|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Sophy Hansford|votes=579|percentage=7.5|change=}}
+{{Election box turnout|votes=7,700|percentage=66.6|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Queenstown (3)<ref name="EC"/><ref>{{Cite web |title=Queenstown ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/queenstown-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Nicola Nardelli
+  |votes      = 2,894
+  |percentage = 43.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)  
+  |candidate  = Jo-Anne Nadler
+  |votes      = 2,888
+  |percentage = 42.9
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Alexander Raubitschek
+  |votes      = 2,781
+  |percentage = 41.3
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Jayne Harding|votes=2,385|percentage=35.4|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Gareth Noble|votes=2,327|percentage=34.6|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Peter Taylor|votes=2,133|percentage=31.7|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Alex Cameron|votes=1,113|percentage=16.5|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Helen Norbury|votes=886|percentage=13.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Michael Rodgers|votes=751|percentage=11.2|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Brian Barnes|votes=562|percentage=8.3|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Joe Stuart|votes=490|percentage=7.3|change=}}
+{{Election box turnout|votes=6,732|percentage=56.4|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Roehampton and Putney Heath (3)<ref name="EC"/><ref>{{Cite web |title=Roehampton and Putney Heath ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/roehampton-and-putney-heath-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Adrian Knowles
+  |votes      = 2,297
+  |percentage = 41.8
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Jennifer Nickels
+  |votes      = 2,192
+  |percentage = 39.9
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Peter Carpenter
+  |votes      = 2,136
+  |percentage = 38.8
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Sean Lawless|votes=2,093|percentage=38.1|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Andrew Penfold|votes=2,082|percentage=37.9|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Donald Roy|votes=1,913|percentage=34.8|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Elizabeth Daly|votes=1,053|percentage=19.1|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Hugh Brown|votes=899|percentage=16.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Valerie Shelmerdine|votes=853|percentage=15.5|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Graham Humphreys|votes=418|percentage=7.6|change=}}
+{{Election box turnout|votes=5,500|percentage=50.4|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box gain with party link
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Shaftesbury (3)<ref name="EC"/><ref>{{Cite web |title=Shaftesbury ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/shaftesbury-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = James Cousins
+  |votes      = 3,804
+  |percentage = 53.2
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Jonathan Cook
+  |votes      = 3,751
+  |percentage = 52.5
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Guy Senior
+  |votes      = 3,586
+  |percentage = 50.2
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Sara Linton|votes=2,027|percentage=28.4|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Geoffrey Boyd|votes=1,689|percentage=23.6|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Stephen Ryan|votes=1,525|percentage=21.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jemima Bland|votes=1,233|percentage=17.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Alexi Sugden|votes=1,031|percentage=14.4|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Catherine Turner|votes=922|percentage=12.9|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Marian Hoffman|votes=518|percentage=7.2|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Peter Mason|votes=430|percentage=6.0|change=}}
+{{Election box turnout|votes=7,147|percentage=62.7|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Southfields (3)<ref name="EC"/><ref>{{Cite web |title=Southfields ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/southfields-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Lucy Allan
+  |votes      = 4,101
+  |percentage = 51.4
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Guy Humphries
+  |votes      = 3,952
+  |percentage = 49.6
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Terence Walsh
+  |votes      = 3,842
+  |percentage = 48.2
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Matthew Hay|votes=1,922|percentage=24.1|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Thomas Marsom|votes=1,877|percentage=23.5|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Alex Lisinge|votes=1,748|percentage=21.9|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jennifer Underwood|votes=1,607|percentage=20.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Anna Marie Ahmed|votes=1,557|percentage=19.5|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Anthony Burrett|votes=1,290|percentage=16.2|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Tomasz Sokolowski|votes=610|percentage=7.6|change=}}
+{{Election box candidate with party link|party=Independent politician|candidate=Edward Larkin|votes=135|percentage=1.7|change=}}
+{{Election box turnout|votes=7,974|percentage=65.1|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= St Mary's Park (3)<ref name="EC"/><ref>{{Cite web |title=St Mary's Park ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/st-marys-park-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Mark Davies
+  |votes      = 3,712
+  |percentage = 51.7
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = John Hallmark
+  |votes      = 3,641
+  |percentage = 50.7
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Tessa Strickland
+  |votes      = 3,435
+  |percentage = 47.8
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=William Martindale|votes=2,013|percentage=28.0|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Jessica Studdert|votes=1,926|percentage=26.8|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Anthony Tuck|votes=1,738|percentage=24.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=David Owen-Jones|votes=1,210|percentage=16.9|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jeremy Porter|votes=991|percentage=13.8|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Ruwan Kodikara|votes=916|percentage=12.8|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Diarmuid McMullan|votes=766|percentage=10.7|change=}}
+{{Election box turnout|votes=7,180|percentage=58.5|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Thamesfield (3)<ref name="EC"/><ref>{{Cite web |title=Thamesfield ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/thamesfield-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Edward Udny-Lister
+  |votes      = 4,938
+  |percentage = 61.6
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Rosemary Torrington
+  |votes      = 4,685
+  |percentage = 58.5
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = James Maddan
+  |votes      = 4,654
+  |percentage = 58.1
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Janet Grimshaw|votes=1,559|percentage=19.5|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Moira Sanders|votes=1,479|percentage=18.5|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Christopher Locke|votes=1,387|percentage=17.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Marcus Sampaio Vilaca|votes=1,194|percentage=14.9|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Kalsoom Qureshi|votes=1,192|percentage=14.9|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Matha Zantides|votes=1,043|percentage=13.0|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Jonathan Mercer|votes=849|percentage=10.6|change=}}
+{{Election box turnout|votes=8,014|percentage=67.5|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Tooting (3)<ref name="EC"/><ref>{{Cite web |title=Tooting ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/tooting-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Sheila Boswell
+  |votes      = 3,416
+  |percentage = 47.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = Benjamin Johnson
+  |votes      = 3,291
+  |percentage = 45.3
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK) 
+  |candidate  = James Daley
+  |votes      = 3,154
+  |percentage = 43.4
+  |change     = 
+}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Stewart Finn|votes=2,399|percentage=33.0|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Andrew Peterkin|votes=2,129|percentage=29.3|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Christopher Slack|votes=2,125|percentage=29.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Atta-Ul Haq|votes=1,075|percentage=14.8|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Fahim Junjua|votes=1,022|percentage=14.1|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Kulendran Vallipuram|votes=933|percentage=12.8|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Michael Schwarz|votes=540|percentage=7.4|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Timothy Turner|votes=494|percentage=6.8|change=}}
+{{Election box candidate with party link|party=Communist Party of Britain|candidate=Phil Brand|votes=138|percentage=1.9|change=}}
+{{Election box turnout|votes=7,269|percentage=62.6|change=}}
+{{Election box gain with party link
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box gain with party link
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= Wandsworth Common (3)<ref name="EC"/><ref>{{Cite web |title=Wandsworth Common ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/wandsworth-common-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Claire Clay
+  |votes      = 4,706
+  |percentage = 62.9
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Maurice Heaster
+  |votes      = 4,563
+  |percentage = 61.0
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Kathy Tracey
+  |votes      = 4,329
+  |percentage = 57.9
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Derek Honeyball|votes=1,470|percentage=19.7|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Veronica King|votes=1,380|percentage=18.5|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Dan Smith|votes=1,209|percentage=16.2|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Tamara Page|votes=1,088|percentage=14.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=David Patterson|votes=1,050|percentage=14.0|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Ashley Jones|votes=967|percentage=12.9|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Roy Vickery|votes=717|percentage=9.6|change=}}
+{{Election box turnout|votes=7,477|percentage=69.8|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= West Hill (3)<ref name="EC"/><ref>{{Cite web |title=West Hill ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/west-hill-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Elizabeth Howlett
+  |votes      = 3,349
+  |percentage = 49.7
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Nicholas Cuff
+  |votes      = 3,157
+  |percentage = 46.9
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Malcolm Grimston
+  |votes      = 2,976
+  |percentage = 44.2
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Reed McKinney|votes=1,924|percentage=28.6|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Basheer Khan|votes=1,836|percentage=27.3|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Ferdous Rahman|votes=1,653|percentage=24.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Catherine Devons|votes=1,166|percentage=17.3|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Ryan Bate|votes=1,105|percentage=16.4|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Christopher Ward|votes=864|percentage=12.8|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Simon Childs|votes=728|percentage=10.8|change=}}
+{{Election box candidate with party link|party=British National Party|candidate=Steve Roche|votes=218|percentage=3.2|change=}}
+{{Election box turnout|votes=6,732|percentage=56.1|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title= West Putney (3)<ref name="EC"/><ref>{{Cite web |title=West Putney ward results 2010 |url=https://www.wandsworth.gov.uk/the-council/elections-voting-and-registration/elections-and-referendums/previous-elections/local-election-results/2010-local-election-results/west-putney-ward-results-2010/ |access-date=2026-03-02 |website=Wandsworth Borough Council |language=en-gb}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Jane Cooper 
+  |votes      = 3,685
+  |percentage = 54.6
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Liz Stokes 
+  |votes      = 3,670
+  |percentage = 54.3
+  |change     = 
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK) 
+  |candidate  = Steffi Sutters
+  |votes      = 3,487
+  |percentage = 51.6
+  |change     = 
+}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Maureen Booker|votes=1,717|percentage=25.4|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Daniel Lawless|votes=1,461|percentage=21.6|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Patrick Macfarlane|votes=1,421|percentage=21.0|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Alexander Ehmann|votes=1,077|percentage=15.9|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Giles Wilkes|votes=1,056|percentage=15.6|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Robert Williams|votes=941|percentage=13.9|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Helen Lawrence|votes=578|percentage=8.6|change=}}
+{{Election box turnout|votes=6,753|percentage=62.3|change=}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{London elections}}
+{{Greater London elections}}
+{{United Kingdom local elections, 2010}}
+
+[[Category:Council elections in the London Borough of Wandsworth|2010]]
+[[Category:2010 London Borough council elections|Wandsworth]]
