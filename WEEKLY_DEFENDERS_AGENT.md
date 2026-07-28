@@ -19,9 +19,10 @@ elected under at the original election.
 
 ## Steps
 
-1. `git pull --rebase origin main`, then fetch the pending list:
-   `curl -s https://called-it.uk/api/elections/pending-defenders`
-   Each item has `ballotPaperId` (format `local.{council}.{ward}.by.{date}`),
+1. `git pull --rebase origin main`, then read the pending list from
+   `pending.json` in this repo (a GitHub Action refreshes it from
+   called-it.uk every Thursday night — do NOT try to fetch called-it.uk
+   directly; it is blocked from this environment). Each item has `ballotPaperId` (format `local.{council}.{ward}.by.{date}`),
    `pollDate`, `wardName`, `council`, and `options` — the parties that won
    the ward's previous election. If the list is empty, stop; say so.
 
