@@ -29,18 +29,23 @@ elected under at the original election.
 2. Skip any item whose `ballotPaperId` already appears in
    `defender-signoffs.json` (already researched, awaiting apply).
 
-3. For each remaining item, establish BOTH facts, each with a real URL you
-   actually fetched:
-   a. **Who vacated the seat** — LEAP daily pages
-      (`https://www.andrewteale.me.uk/leap/by/{YYYY-MM-DD}/` for the
-      by-election date) give "Resignation/Death of {name}"; Andrew's
-      Previews (andrewspreviews.substack.com), ALDC by-election pages, and
-      council vacancy notices also work.
-   b. **The party they were elected under** — the ward's results at the
-      relevant prior election. Wikipedia raw pages work well:
-      `https://en.wikipedia.org/w/index.php?title={YYYY}_{Council}_Council_election&action=raw`.
-      For wards electing in thirds, make sure you check the election the
-      VACATING councillor actually won, not just the most recent one.
+3. IMPORTANT: this environment has NO outbound page access (fetches are
+   blocked at a proxy; WebSearch may return snippets but you cannot open
+   pages). ALL evidence must come from `research-cache/` in this repo,
+   pre-fetched by the Thursday-night GitHub Action. For each remaining
+   item, establish BOTH facts from the cache:
+   a. **Who vacated the seat** — `research-cache/leap/{pollDate}.html` is
+      the Local Elections Archive page for that polling day; find the
+      ward's entry: "Resignation/Death of {name}; X gain from Y."
+   b. **The party they were elected under** — search
+      `research-cache/wikipedia/*.txt` (raw wikitext of the council's
+      election pages, grep for the councillor's name) for the election the
+      VACATING councillor actually won — not just the most recent one for
+      wards electing in thirds. This check is mandatory: LEAP's gain/hold
+      notation alone is NOT sufficient (defection trap above).
+   In your sign-off `source` field, record the original URL the cached
+   file represents (LEAP: andrewteale.me.uk/leap/by/{date}/; Wikipedia:
+   the page title).
 
 4. The answer will usually be one of the provided `options` — use that
    exact `partyId`. If your research points to a party NOT in the options

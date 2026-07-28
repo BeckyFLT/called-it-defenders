@@ -1,0 +1,129 @@
+{{Short description|2015 local election in England}}
+{{Use dmy dates|date=July 2026}}
+{{Use British English|date=March 2015}}
+{{Infobox election
+| election_name = 2015 Barnsley Metropolitan Borough Council election
+| country = England
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2014 Barnsley Metropolitan Borough Council election]]
+| previous_year = [[2014 Barnsley Metropolitan Borough Council election|2014]]
+| next_election = [[2016 Barnsley Metropolitan Borough Council election]]
+| next_year = [[2016 Barnsley Metropolitan Borough Council election|2016]]
+| seats_for_election = 21 of 63 seats to [[Barnsley Metropolitan Borough Council]]
+| majority_seats = 32
+| election_date = 7 May 2015
+
+<!-- Labour -->
+| party1 = Labour Party (UK)
+| seats1 = '''55'''
+| seat_change1 = {{increase}}2
+| popular_vote1      = '''53,833'''
+| percentage1        = '''52.8%'''
+| swing1             = {{increase}}2.2%
+
+<!-- Conservative -->
+| party2 = Conservative Party (UK)
+| seats2 = 4
+| seat_change2  = {{nochange}}
+| popular_vote2      = 18,344
+| percentage2        = 18.0%
+| swing2             = {{increase}}3.5%
+
+<!-- Barnsley Independent Group -->
+| party3 = Barnsley Independent Group
+| seats3 = 4
+| seat_change3  = {{decrease}}2
+| popular_vote3      = 5,956
+| percentage3        = 5.8%
+| swing3             = {{decrease}}2.3%
+
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[Labour Party (UK)]]
+| before_party = 
+| after_election = [[Labour Party (UK)]]
+| after_party = 
+}}
+
+[[File:Barnsley wards 2015.png|thumb|right|300px|2015 local election results in Barnsley]]
+
+The '''2015 Barnsley Metropolitan Borough Council election''' took place on 7 May 2015 to elect members of [[Barnsley Metropolitan Borough Council]] in England as part of the [[2015 United Kingdom local elections]].<ref name="BBC">{{Cite web|url=https://www.bbc.com/news/election/2015/results/councils |title=England council results |access-date=23 May 2015 |publisher=BBC News}}</ref> Councillors retiring at this election were Cllrs. Betty Barlow (Worsborough); Tracey Cheetham (Royston); [[Brian Key]] (Darfield); and Tom Sheard (Kingstone) (all [[Labour Party (UK)|L]]); Dave North (North East) and Brian Perrin (Dodworth) from the Barnsley Independent Group; and Anne Rusby (Penistone West) ([[Conservative Party (UK)|C]]).
+
+==Results summary== 
+Labour maintained control winning 19 of the 21 seats up for election. The Conservatives won the other 2 seats.
+
+After the election the political make up of the council was:<ref name="BBC"/>
+{| class="wikitable"
+!Year !! [[Labour Party (UK)|Labour]] !! Barnsley Independent Group !! [[Conservative Party (UK)|Conservative]] !! [[Independent (politician)|Independent]]
+|-
+|2015|| 55 || 4 || 4 || 0 
+|-
+|}
+
+==By-elections between 2015 and 2016==
+{{Election box begin|title = Dearne North by-election 27 August 2015<ref>{{cite web |title=Local Elections Archive Project – Dearne North Ward |url=https://www.andrewteale.me.uk/leap/ward/956/#2015-08-27 |website=andrewteale.me.uk |access-date=18 April 2022}}</ref>}}
+{{Election box winning candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = Annette Gollick
+ |votes      = 817
+ |percentage = 69.8
+ |change     = +4.2
+}}
+{{Election box candidate with party link|
+ |party      = United Kingdom Independence Party
+ |candidate  = Jim Johnson
+ |votes      = 140
+ |percentage = 12.0
+ |change     = -15.4
+}}
+{{Election box candidate with party link|
+ |party      = Yorkshire First
+ |candidate  = Tony Devoy
+ |votes      = 115
+ |percentage = 9.8
+ |change     = +9.8
+}}
+{{Election box candidate with party link|
+ |party      = Trade Unionist and Socialist Coalition
+ |candidate  = Karen Fletcher
+ |votes      = 55
+ |percentage = 4.7
+ |change     = +4.7
+}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = Lee Ogden
+ |votes      = 43
+ |percentage = 3.7
+ |change     = -3.3
+}}
+{{Election box majority|
+ |votes      = 677
+ |percentage = 57.9
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 1,170
+ |percentage = 
+ |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2015}}
+
+[[Category:2015 English local elections|Barnsley]]
+[[Category:May 2015 in the United Kingdom]]
+[[Category:Barnsley Council elections|2015]]
+[[Category:2010s in South Yorkshire]]
+
+{{YorkshireHumberside-election-stub}}

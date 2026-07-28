@@ -1,0 +1,2455 @@
+{{Short description|2018 UK local government election}}
+{{Use dmy dates|date=April 2022}}
+{{Use British English|date=May 2026}}
+{{Infobox election
+| election_name     = 2018 Huntingdonshire District Council election
+| country           = Cambridgeshire
+| flag_year         = 2009
+| flag_image        = File:Flag_of_Huntingdonshire.svg
+| type              = parliamentary
+| previous_election = 2016 Huntingdonshire District Council election
+| previous_year     = 2016
+| election_date     = {{Start date|2018|05|03|df=y}}
+| next_election     = 2022 Huntingdonshire District Council election
+| next_year         = 2022
+| seats_for_election= All 52 seats to [[Huntingdonshire District Council]]
+| majority_seats    = 27
+| registered        = 
+| turnout           = 
+
+<!-- Conservative -->
+| image1            = File:No image wide.svg
+| image1_size       = 100x50px
+| leader1           = <!-- Graham Bull -->
+| party1            = Conservative Party (UK)
+| alliance1         = 
+| leader_since1     = <!-- 26 July 2017 -->
+| leaders_seat1     = <!-- Warboys -->
+| last_election1    = 34 seats
+| seats_before1     = 34
+| seats1            = '''30'''
+| seat_change1      = {{decrease}} 5
+| popular_vote1     = '''21,315'''
+| percentage1       = '''45.2%'''
+| swing1            = 
+
+<!-- Liberal Democrats -->
+| image2            = File:No image wide.svg
+| image2_size       = 100x50px
+| leader2           = <!--Sarah Conboy-->
+| party2            = Liberal Democrats (UK)
+| alliance2         = 
+| leader_since2     = 
+| leaders_seat2     = <!-- Godmanchester and Hemingford Abbots -->
+| last_election2    = 6 seats
+| seats_before2     = 6
+| seats2            = 7
+| seat_change2      = {{increase}} 1
+| popular_vote2     = 9,268
+| percentage2       = 19.7%
+| swing2            = 
+
+<!--St. Neots Independents-->
+| image3            = File:No image wide.svg
+| image3_size       = 100x50px
+| leader3           = 
+| party3            = St. Neots Independents
+| alliance3         = 
+| leader_since3     = 
+| leaders_seat3     = 
+| last_election3    = 4 seats
+| seats_before3     = 3
+| seats3            = 6
+| seat_change3      = {{increase}} 2
+| popular_vote3     = 2,515
+| percentage3       = 5.3%
+| swing3            = 
+
+<!--Independents-->
+| image4            = File:No image wide.svg
+| image4_size       = 100x50px
+| leader4           = <!-- ''N/a'' -->
+| party4            = Independent politician
+| alliance4         = 
+| leader_since4     = 
+| leaders_seat4     = 
+| last_election4    = 2 seats
+| seats_before4     = 4
+| seats4            = 5
+| seat_change4      = {{increase}} 3
+| popular_vote4     = 3,220
+| percentage4       = 6.8%
+| swing4            = 
+
+<!-- Labour -->
+| image5            = File:No image wide.svg
+| image5_size       = 100x50px
+| leader5           = <!--Patrick Kadewere-->
+| party5            = Labour Party (UK)
+| alliance5         = 
+| leader_since5     = 
+| leaders_seat5     = <!--Huntingdon North-->
+| last_election5    = 2 seats
+| seats_before5     = 2
+| seats5            = 4
+| seat_change5      = {{increase}} 2
+| popular_vote5     = 8,336
+| percentage5       = 17.7%
+| swing5            = 
+
+<!-- UKIP -->
+| image6            = File:No image wide.svg
+| image6_size       = 100x50px
+| leader6           = <!-- Peter Reeve -->
+| party6            = UKIP
+| alliance6         = 
+| leader_since6     = <!-- 23 July 2009 -->
+| leaders_seat6     = <!-- [[Ramsey, Cambridgeshire|Ramsey]] (Defeated)-->
+| last_election6    = 3 seats
+| seats_before6     = 3
+| seats6            = 0
+| seat_change6      = {{decrease}} 3
+| popular_vote6     = 2,376
+| percentage6       = 5.0%
+| swing6            = 
+
+<!-- map -->
+| map_image         = File:Huntingdonshire UK ward map 2018.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Map of the results
+
+| title             = Leader
+| before_election   = Graham Bull
+| before_party      = Conservative Party (UK)
+| posttitle         = Leader after election
+| after_election    = Graham Bull
+| after_party       = Conservative Party (UK)
+}}
+The '''2018 Huntingdonshire District Council election''' took place on 3 May 2018 to elect members of [[Huntingdonshire District Council]] in England.<ref>{{cite web |url= https://www.huntingdonshire.gov.uk/elections/upcoming-elections-and-results/ |title= Upcoming Elections and Results |work= Huntingdonshire District Council |access-date= 25 January 2019 |archive-date= 31 August 2018 |archive-url= https://web.archive.org/web/20180831102935/http://www.huntingdonshire.gov.uk/elections/upcoming-elections-and-results/ |url-status= dead}}</ref> This was on the same day as other [[2018 United Kingdom local elections|local elections]].
+
+==Previous composition==
+===2016 election===
+{| class="wikitable"
+! colspan=2| Party
+! Seats
+|-
+| {{Party name with colour|Conservative Party (UK)}}
+| 34
+|-
+| {{Party name with colour|Liberal Democrats (UK)}}
+| 6
+|-
+| {{Party name with colour|St. Neots Independents}}
+| 4
+|-
+| {{Party name with colour|United Kingdom Independence Party}}
+| 3
+|-
+| {{Party name with colour|Labour Party (UK)}}
+| 2
+|-
+| {{Party name with colour|Independent politician}}
+| 2
+|-
+| {{Party name with colour|Independent Conservative}}
+| 1
+|-
+!colspan="2"|Total
+!52
+|}
+
+===Composition of council seats before election===
+{| class="wikitable"
+! colspan=3| Party
+! Seats
+|-
+|colspan="2" style="background-color: {{party color|Conservative Party (UK)}}"|
+|[[Conservative Party (UK)|Conservative]]
+| 34
+|-
+|colspan="2" style="background-color: {{party color|Liberal Democrats (UK)}}"|
+|[[Liberal Democrats (UK)|Liberal Democrat]]
+| 6
+|-
+| {{Party color cell|Independent}}
+| {{Party color cell|St. Neots Independents}}
+| HDC Independent Group
+| 5
+|-
+|colspan="2" style="background-color: {{party color|UK Independence Party}}"|
+|[[UK Independence Party|UKIP]]
+| 3
+|-
+|colspan="2" style="background-color: {{party color|Labour Party (UK)}}"|
+|[[Labour Party (UK)|Labour]]
+| 2
+|-
+|colspan="2" style="background-color: {{party color|Independent (politician)}}"|
+|[[Independent (politician)|Independent]] 
+| 2
+|-
+!colspan="3"|Total
+!52
+|}
+
+===Changes between elections===
+{{See also|Huntingdonshire District Council elections#2016-2018}}
+
+In between the 2016 election and the 2018 election, the following council seats changed hands:
+
+{| class="wikitable"
+!! rowspan="3"| Division
+!! rowspan="3| Date
+!! rowspan=3 colspan=2| Previous Party 
+!! rowspan=3 colspan=2| New Party 
+!! rowspan="3"| Cause
+!! colspan="7"| Resulting Council Composition
+|-
+! style="width:30px;" class="unsortable"| [[Conservative Party (UK)|Con]]
+! style="width:30px;" class="unsortable"| [[Liberal Democrats (UK)|LDem]]
+! style="width:30px;" class="unsortable"| [[St. Neots Independents|SNI]]
+! style="width:30px;" class="unsortable"| [[United Kingdom Independence Party|UKIP]]
+! style="width:30px;" class="unsortable"| [[Labour Party (UK)|Lab]]
+! style="width:30px;" class="unsortable"| [[Independent politician|Ind]]
+! style="width:30px;" class="unsortable"| [[Independent Conservative|IndC]]
+|-
+! class="unsortable" style="color:inherit;background:{{party color|Conservative Party (UK)}}; width:30px;"|
+! class="unsortable" style="color:inherit;background:{{party color|Liberal Democrats (UK)}}; width:30px;"|
+! class="unsortable" style="color:inherit;background:{{party color|St. Neots Independents}}; width:30px;"|
+! class="unsortable" style="color:inherit;background:{{party color|United Kingdom Independence Party}}; width:30px;"|
+! class="unsortable" style="color:inherit;background:{{party color|Labour Party (UK)}}; width:30px;"|
+! class="unsortable" style="color:inherit;background:{{party color|Independent}}; width:30px;"|
+! class="unsortable" style="color:inherit;background:{{party color|Independent Conservative}}; width:30px;"|
+|-
+|Huntingdon West
+|Between May and October 2016
+| {{Party name with colour|Conservative Party (UK)}}
+| {{Party name with colour|Independent politician}}
+| Councillor quit party to sit as an independent member.
+| 33 || 6 || 4 || 3 || 2 || 2 || 1
+|-
+|St Neots Priory Park
+|Between May and October 2016
+| {{Party name with colour|Independent Conservative}}
+| {{Party name with colour|Independent politician}}
+| Councillor joins HDC Independent Group
+| 33 || 6 || 4 || 3 || 2 || 3 || 0
+|-
+|St Neots Eaton Ford
+| 4 May 2017
+| {{Party name with colour|Conservative Party (UK)}}
+| {{Party name with colour|St. Neots Independents}}
+| Conservative incumbent resigned. St. Neots Independents won by-election.
+| 32 || 6 || 5 || 3 || 2 || 3 || 0
+|-
+|St Neots Eynesbury
+| Between November 2017 and April 2018
+| {{Party name with colour|St. Neots Independents}}
+| {{Party name with colour|Conservative Party (UK)}}
+| Sitting councillor joined Conservatives.
+| 33 || 6 || 4 || 3 || 2 || 3 || 0
+|-
+|St Neots Eaton Ford
+| Between November 2017 and April 2018
+| {{Party name with colour|St. Neots Independents}}
+| {{Party name with colour|Conservative Party (UK)}}
+| Sitting councillor joined Conservatives.
+| 34 || 6 || 3 || 3 || 2 || 3 || 0
+|}
+
+==Summary==
+===Election result===
+{{Local election summary begin
+|title = 2018 Huntingdonshire District Council election<ref>{{cite web |author1=Andrew Teale |title=Local Election Results 2018: Huntingdonshire |url=https://www.andrewteale.me.uk/leap/results/2018/143/ |website=andrewteale.me.uk |publisher=Local Elections Archive Project |access-date=26 May 2026}}</ref>
+}}
+{{Local election summary party
+  |party      = Conservative Party (UK)
+  |candidates = 51
+  |seats      = 30
+  |gain       = 4
+  |loss       = 8
+  |net        = {{decrease}} 4
+  |seats %    = 57.69
+  |votes %    = 45.22
+  |votes      = 21,315
+  |plus/minus = 
+}}
+{{Local election summary party|
+  |party      = Liberal Democrats (UK)
+  |candidates = 29
+  |seats      = 7
+  |gain       = 1
+  |loss       = 0
+  |net        = {{increase}} 1
+  |seats %    = 13.46
+  |votes %    = 19.66
+  |votes      = 9,268
+  |plus/minus = 
+}}
+{{Local election summary party|
+  |party      = St. Neots Independents
+  |candidates = 6
+  |seats      = 6
+  |gain       = 2
+  |loss       = 0
+  |net        = {{increase}} 2
+  |seats %    = 11.54
+  |votes %    = 5.34
+  |votes      = 2,515
+  |plus/minus = 
+}}
+{{Local election summary party|
+  |party      = Independent politician
+  |candidates = 7
+  |seats      = 5
+  |gain       = 4
+  |loss       = 1
+  |net        = {{increase}} 3
+  |seats %    = 9.62
+  |votes %    = 6.83
+  |votes      = 3,220
+  |plus/minus = 
+}}
+{{Local election summary party|
+  |party      = Labour Party (UK)
+  |candidates = 39
+  |seats      = 4
+  |gain       = 2
+  |loss       = 0
+  |net        = {{increase}} 2
+  |seats %    = 7.69
+  |votes %    = 17.69
+  |votes      = 8,336
+  |plus/minus = 
+}}
+{{Local election summary party|
+  |party      = UKIP
+  |candidates = 15
+  |seats      = 0
+  |gain       = 0
+  |loss       = 3
+  |net        = {{decrease}} 3
+  |seats %    = –
+  |votes %    = 5.04
+  |votes      = 2,376
+  |plus/minus = 
+}}
+{{Local election summary party|
+  |party      = Green Party of England and Wales
+  |candidates = 1
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats %    = –
+  |votes %    = 0.21
+  |votes      = 100
+  |plus/minus = 
+}}
+|-
+! colspan=2| Total
+! 148
+! 52
+! colspan=5 |
+! 47,130
+!
+|}
+{{bar box
+| title=Popular vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''Conservative'''|{{party color|Conservative Party (UK)}}|45.23}}
+{{bar percent|Liberal Democrats|{{party color|Liberal Democrats (UK)}}|19.66}}
+{{bar percent|Labour|{{party color|Labour Party (UK)}}|17.69}}
+{{bar percent|Independent|{{party color|Independent}}|6.83}}
+{{bar percent|St. Neots Ind|{{party color|St. Neots Independents}}|5.34}}
+{{bar percent|UKIP|{{party color|UKIP}}|5.04}}
+{{bar percent|Green|{{party color|Green Party of England and Wales}}|0.21}}
+}}
+{{bar box
+| title=Council seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''Conservative'''|{{party color|Conservative Party (UK)}}|57.69}}
+{{bar percent|Liberal Democrats|{{party color|Liberal Democrats (UK)}}|13.46}}
+{{bar percent|Independent|{{party color|Independent}}|11.54}}
+{{bar percent|St. Neots Ind|{{party color|St. Neots Independents}}|9.62}}
+{{bar percent|Labour|{{party color|Labour Party (UK)}}|7.69}}
+}}
+
+===Election of Group Leaders===
+Graham Bull ([[Warboys]]) was re-elected leader of the Conservative Group with Ryan Fuller (St Ives West) re-elected as the deputy leader, Barry Chapman (St Neots Priory Park and Little Paxton) was re-elected leader of the Independent Group with Tom Sanderson (The Stukeleys) re-elected as the deputy leader, Sarah Conboy (Godmanchester and Hemingford Abbots) was re-elected leader of the Lib Dem Group and Patrick Kadewere (Huntingdon North) was re-elected leader of the Labour Group with [[Nik Johnson]] (St Neots East) as the deputy leader.
+
+Chapman was replaced Sanderson by November 2018 with Sally Smith (The Stukeleys) as his deputy.
+
+===Election of Leader of the Council===
+Graham Bull the leader of the [[Conservative Party (UK)|conservative]] group was duly elected leader of the council and formed a conservative administration.
+
+==Ward results==
+*"*": Incumbent Councilor
+*"†": Former Councilor
+
+===Alconbury===
+{{Election box begin no change|
+ |title=[[Alconbury]]<ref>{{cite web |author1=Joanne Lancaster |title=DECLARATION OF RESULT OF POLL:Huntingdonshire District Council |url=https://www.huntingdonshire.gov.uk/media/3090/election-results-district-3-may-2018.pdf |website=huntingdonshire.gov.uk |publisher=Huntingdonshire District Council |access-date=24 May 2026 |ref=Results |date=10 May 2018}}</ref>
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Jim White *
+  |votes      = 651
+  |percentage = 61.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jonathan Young
+  |votes      = 213
+  |percentage = 20.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Green Party of England and Wales
+  |candidate  = Tom MacLennan
+  |votes      = 100
+  |percentage = 9.4
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = David Brown
+  |votes      = 99
+  |percentage = 9.3
+}}
+{{Election box majority no change|
+  |votes      = 438
+  |percentage = 41.2
+}}
+{{Election box turnout no change|
+  |votes      = 1,065
+  |percentage = 36.7
+}}
+{{Election box registered electors no change|
+  |reg. electors = 2,906
+}}
+{{Election box new seat win
+ |winner = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Brampton===
+{{Election box begin
+ |title = [[Brampton, Cambridgeshire|Brampton]] (2)
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Patricia Jordan *
+  |votes      = 987
+  |percentage = 52.5
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Morris *
+  |votes      = 975
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jane King
+  |votes      = 665
+  |percentage = 35.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Bill Sinclair
+  |votes      = 582
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Rob Gardiner
+  |votes      = 227
+  |percentage = 12.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 322
+  |percentage = 17.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,930
+  |percentage = 38.7
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 4,994
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Liberal Democrats (UK) 
+  |swing      =
+}}
+{{Election box new boundary win|
+  |winner     = Liberal Democrats (UK) 
+  |swing      =
+}}
+{{Election box end}}
+
+===Buckden===
+{{Election box begin
+ |title = [[Buckden, Cambridgeshire|Buckden]]
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Hamish Masson
+  |votes      = 517
+  |percentage = 51.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Emeleus
+  |votes      = 481
+  |percentage = 48.2
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 36
+  |percentage = 3.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,009
+  |percentage = 38.2
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 2,641
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK) 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Fenstanton===
+{{Election box begin
+ |title = [[Fenstanton]]
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Mead *
+  |votes      = 608
+  |percentage = 60.8
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Rob Leach
+  |votes      = 206
+  |percentage = 20.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Colin Saunderson †
+  |votes      = 186
+  |percentage = 18.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 402
+  |percentage = 40.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,010
+  |percentage = 34.6
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 2,923
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK) 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Godmanchester and Hemingford Abbots===
+{{Election box begin no change|
+ |title = Godmanchester and Hemingford Abbots (3)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sarah Conboy *
+  |votes      = 1,396
+  |percentage = 51.9
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Underwood *
+  |votes      = 1,150
+  |percentage = 
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mike Grice
+  |votes      = 1,030
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Sarah Smith
+  |votes      = 911
+  |percentage = 33.9
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Keith Stukins
+  |votes      = 654
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Tom Young
+  |votes      = 627
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Samuel Sweek
+  |votes      = 383 
+  |percentage = 14.2
+}}
+{{Election box majority no change|
+  |votes      = 485
+  |percentage = 18.0
+}}
+{{Election box turnout no change|
+  |votes      = 2,323
+  |percentage = 34.3
+}}
+{{Election box registered electors no change|
+  |reg. electors = 6,771
+}}
+{{Election box new seat win
+  |winner     = Liberal Democrats (UK)
+}}
+{{Election box new seat win
+  |winner     = Liberal Democrats (UK)
+}}
+{{Election box new seat win
+  |winner     = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+===Great Paxton===
+{{Election box begin no change|
+ |title= [[Great Paxton]]
+}}
+{{Election box winning candidate with party link no change|
+   |party      = Conservative Party (UK)
+   |candidate  = Richard West *
+   |votes      = 699
+   |percentage = 69.6
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Matthew Machin
+  |votes      = 155
+  |percentage = 15.4
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lesley Werb
+  |votes      = 150 
+  |percentage = 14.9
+}}
+{{Election box majority no change|
+  |votes      = 544
+  |percentage = 54.2
+}}
+{{Election box turnout no change|
+  |votes      = 1,008
+  |percentage = 39.8
+}}
+{{Election box registered electors no change|
+  |reg. electors = 2,531
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Great Staughton===
+{{Election box begin no change|
+ |title=[[Great Staughton]]
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Darren Tysoe *
+  |votes      = 741
+  |percentage = 62.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Nick Farnden
+  |votes      = 440
+  |percentage = 37.3
+}}
+{{Election box majority no change|
+  |votes      = 301
+  |percentage = 25.4
+}}
+{{Election box turnout no change|
+  |votes      = 1,195
+  |percentage = 44.8
+}}
+{{Election box registered electors no change|
+  |reg. electors = 2,668
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Hemingford Grey and Houghton===
+{{Election box begin no change|
+ |title = Hemingford Grey and Houghton (2)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Doug Dew *
+  |votes      = 1,011
+  |percentage = 61.0
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = David Keane
+  |votes      = 902
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+   |party      = Liberal Democrats (UK)
+   |candidate  = David Priestman
+   |votes      = 382
+   |percentage = 23.0
+}}
+{{Election box candidate with party link no change|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Sue Clark
+   |votes      = 342
+   |percentage =
+}}
+{{Election box candidate with party link no change|
+   |party      = Labour Party (UK)
+   |candidate  = Kim Loader
+   |votes      = 265
+   |percentage = 16.0
+}}
+{{Election box majority no change|
+  |votes      = 629
+  |percentage = 37.9
+}}
+{{Election box turnout no change|
+  |votes      = 1,613
+  |percentage = 34.0
+}}
+{{Election box registered electors no change|
+  |reg. electors = 4,738
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Holywell-cum-Needingworth===
+{{Election box begin no change|
+ |title = Holywell-cum-Needingworth (2)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Jon Neish
+  |votes      = 1,066
+  |percentage = 48.7
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Lewis Besley
+  |votes      = 1,008
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Louise Reay
+  |votes      = 522
+  |percentage = 23.9
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Richard Allen
+  |votes      = 398
+  |percentage = 18.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Marie Baker
+  |votes      = 356
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Jean Harlow
+  |votes      = 202
+  |percentage = 9.2
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Jules Grange
+  |votes      = 138
+  |percentage = 
+}}
+{{Election box majority no change|
+  |votes      = 544
+  |percentage = 24.9
+}}
+{{Election box turnout no change|
+  |votes      = 2,021
+  |percentage = 36.5
+}}
+{{Election box registered electors no change|
+  |reg. electors = 5,532
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Huntingdon East===
+{{Election box begin
+ |title = Huntingdon East (2)
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mike Humphrey
+  |votes      = 896
+  |percentage = 47.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Trish Shrapnel †
+  |votes      = 749
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jay Dyne
+  |votes      = 744
+  |percentage = 39.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tom Varghese
+  |votes      = 626
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Marion Kadewere
+  |votes      = 264
+  |percentage = 13.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Emily Jolley
+  |votes      = 256
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 152	
+  |percentage = 8.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,854
+  |percentage = 35.4
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 5,245
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Liberal Democrats (UK) 
+  |swing      =
+}}
+{{Election box new boundary win|
+  |winner     = Liberal Democrats (UK) 
+  |swing      =
+}}
+{{Election box end}}
+
+===Huntingdon North===
+{{Election box begin
+ |title=Huntingdon North (3)
+}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patrick Kadewere *
+  |votes      = 1,011
+  |percentage = 43.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sam Wakeford
+  |votes      = 923
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Anita Diaz
+  |votes      = 843
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Brown
+  |votes      = 723
+  |percentage = 30.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan MacKender-Lawrence
+  |votes      = 665
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Valatka
+  |votes      = 574
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lakkana Yalagala
+  |votes      = 354
+  |percentage = 15.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Peter Ashcroft
+  |votes      = 251
+  |percentage = 10.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Derek Norman
+  |votes      = 221
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Shirley Reeve
+  |votes      = 174
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 288
+  |percentage = 12.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,151
+  |percentage = 25.7
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 8,375
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box new boundary win|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box new boundary win|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Kimbolton===
+{{Election box begin no change|
+ |title= [[Kimbolton, Cambridgeshire|Kimbolton]]
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Jonathan Gray *
+  |votes      = 953
+  |percentage = 86.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Ann Beevor
+  |votes      = 153
+  |percentage = 13.8 
+}}
+{{Election box majority no change|
+  |votes      = 800
+  |percentage = 72.4
+}}
+{{Election box turnout no change|
+  |votes      = 1,117
+  |percentage = 42.3
+}}
+{{Election box registered electors no change|
+  |reg. electors = 2,640
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Ramsey===
+{{Election box begin
+ |title = [[Ramsey, Cambridgeshire|Ramsey]]
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Steve Corney
+  |votes      = 1,417
+  |percentage = 45.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Palmer *
+  |votes      = 1,367
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jeff Clarke
+  |votes      = 1,355
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Peter Reeve *
+  |votes      = 1,005
+  |percentage = 32.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Colin Stevens
+  |votes      = 543
+  |percentage =
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Michael Mean
+  |votes      = 529
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Minnette
+  |votes      = 382
+  |percentage = 12.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Iain Ramsbottom
+  |votes      = 322
+  |percentage =
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Dan Breen
+  |votes      = 320
+  |percentage = 10.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Goddard
+  |votes      = 297
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 412
+  |percentage = 13.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,797
+  |percentage = 35.1
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 7,961
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Sawtry===
+{{Election box begin
+ |title = [[Sawtry]]
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Simon Bywater
+  |votes      = 969
+  |percentage = 44.3
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent politician
+  |candidate  = Dick Tuplin *
+  |votes      = 707
+  |percentage = 32.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Delia Riddle
+  |votes      = 216
+  |percentage = 9.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael Burn
+  |votes      = 162
+  |percentage = 7.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Palmer
+  |votes      = 143
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Elke Smith
+  |votes      = 131
+  |percentage = 6.0
+  |change     = 
+ }}
+{{Election box majority|
+  |votes      = 262
+  |percentage = 12.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,487
+  |percentage = 30.4
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 4,892
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box new boundary win|
+  |winner     = Independent politician
+  |swing      = 
+}}
+{{Election box end}}
+
+===Somersham===
+{{Election box begin
+ |title = [[Somersham]]
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Steve Criswell *
+  |votes      = 558
+  |percentage = 58.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Hunter
+  |votes      = 176
+  |percentage = 18.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Tony Hulme
+  |votes      = 148
+  |percentage = 15.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Dianna Skeggs
+  |votes      = 70
+  |percentage = 7.4
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 382
+  |percentage = 40.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 956
+  |percentage = 32.2
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 2,966
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ives East===
+{{Election box begin
+ |title= St Ives East (2)
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Bellamy
+  |votes      = 766
+  |percentage = 45.8
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = [[Jason Ablewhite]] *
+  |votes      = 758
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sam Feeney
+  |votes      = 492
+  |percentage = 29.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Tony Jebson
+  |votes      = 414
+  |percentage = 24.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 274
+  |percentage = 16.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,470
+  |percentage = 28.8
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 5,101
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ives South===
+{{Election box begin
+ |title = St Ives South (2)
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Davies *
+  |votes      = 1,041
+  |percentage = 44.5
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Angie Dickinson *
+  |votes      = 946
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paula Dean
+  |votes      = 761
+  |percentage = 32.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Nicholas Wells
+  |votes      = 535
+  |percentage = 22.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Malcolm Lynn
+  |votes      = 369
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 280
+  |percentage = 12.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,178
+  |percentage = 37.6
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 5,801
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ives West===
+{{Election box begin
+ |title = St Ives West
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ryan Fuller *
+  |votes      = 461
+  |percentage = 58.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mick White
+  |votes      = 199
+  |percentage = 25.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Joe Jordan
+  |votes      = 135
+  |percentage = 17.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 362
+  |percentage = 33.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 807
+  |percentage = 35.0
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 2,307
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Neots East===
+{{Election box begin no change|
+ |title=St Neots East (2)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = [[Nik Johnson]]
+  |votes      = 345
+  |percentage = 40.4
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = David Wells
+  |votes      = 273
+  |percentage = 32.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Catmur
+  |votes      = 235
+  |percentage = 27.5
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Gardener *
+  |votes      = 193
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Nigel Pauley
+  |votes      = 186
+  |percentage = 
+}}
+{{Election box majority no change|
+  |votes      = 72
+  |percentage = 8.4
+}}
+{{Election box turnout no change|
+  |votes      = 686
+  |percentage = 28.8
+}}
+{{Election box registered electors no change|
+  |reg. electors = 2,381
+}}
+{{Election box new seat win
+  |winner     = Labour Party (UK)
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===St Neots Eaton===
+{{Election box begin no change|
+ |title = St Neots Eaton
+}}
+{{Election box winning candidate with party link no change|
+  |party      = St. Neots Independents
+  |candidate  = Derek Giles *
+  |votes      = 1,552
+  |percentage = 52.0
+}}
+{{Election box winning candidate with party link no change|
+  |party      = St. Neots Independents
+  |candidate  = Sandra Giles *
+  |votes      = 1,449
+  |percentage = 
+}}
+{{Election box winning candidate with party link no change|
+  |party      = St. Neots Independents
+  |candidate  = Colin Maslen
+  |votes      = 1,291
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Charles Bober *
+  |votes      = 841
+  |percentage = 28.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Andy Jennings
+  |votes      = 746
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = James Corley *
+  |votes      = 662
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Celia Emery
+  |votes      = 367
+  |percentage = 12.3
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = David Cole
+  |votes      = 328
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Nicholas Thompson
+  |votes      = 224
+  |percentage = 7.5
+}}
+{{Election box majority no change|
+  |votes      = 711
+  |percentage = 23.8
+}}
+{{Election box turnout no change|
+  |votes      = 2,681
+  |percentage = 
+}}
+{{Election box registered electors no change|
+  |reg. electors = 8,541
+}}
+{{Election box new seat win
+  |winner     = St. Neots Independents
+}}
+{{Election box new seat win
+  |winner     = St. Neots Independents
+}}
+{{Election box new seat win
+  |winner     = St. Neots Independents
+}}
+{{Election box end}}
+
+===St Neots Eynesbury===
+{{Election box begin
+  |title = St Neots Eynesbury (3)
+}}
+{{Election box winning candidate with party link|
+  |party      = St. Neots Independents
+  |candidate  = Justin Cooper-Marsh
+  |votes      = 963
+  |percentage = 39.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = St. Neots Independents
+  |candidate  = Doug Terry
+  |votes      = 854
+  |percentage = 
+  |change     =
+}}
+{{Election box winning candidate with party link|
+  |party      = St. Neots Independents
+  |candidate  = Barry Banks
+  |votes      = 765
+  |percentage = 
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Adrian Usher
+  |votes      = 700
+  |percentage = 29.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Rob Moores
+  |votes      = 667
+  |percentage = 
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Karl Wainwright *
+  |votes      = 665
+  |percentage = 
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Anthony McNeill
+  |votes      = 462
+  |percentage = 19.1
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Dan Ridge
+  |votes      = 399
+  |percentage = 
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Claire Piper
+  |votes      = 291
+  |percentage = 12.0
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 263
+  |percentage = 10.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,157
+  |percentage = 23.7
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 9,099
+  |change        = 
+}}
+{{Election box new boundary win|
+  |winner     = St. Neots Independents
+  |swing      = 
+}}
+{{Election box new boundary win|
+  |winner     = St. Neots Independents
+  |swing      = 
+}}
+{{Election box new boundary win|
+  |winner     = St. Neots Independents
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Neots Priory Park and Little Paxton===
+{{Election box begin no change|
+ |title = St Neots Priory Park and Little Paxton (3)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Independent politician
+  |candidate  = Barry Chapman *
+  |votes      = 1,454
+  |percentage = 40.4
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Philip Gaskin
+  |votes      = 956
+  |percentage = 26.6
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Keith Prentice
+  |votes      = 875
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Carol McMahon
+  |votes      = 681
+  |percentage = 18.9
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Laurence Swain *
+  |votes      = 642
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Bartrick
+  |votes      = 586
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Saul Jeavons
+  |votes      = 507
+  |percentage = 14.1
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Colin Gunter
+  |votes      = 459
+  |percentage = 
+}}
+{{Election box majority no change|
+  |votes      = 498
+  |percentage = 13.8
+}}
+{{Election box turnout no change|
+  |votes      = 2,603
+  |percentage = 32.8
+}}
+{{Election box registered electors no change|
+  |reg. electors = 7,943
+}}
+{{Election box new seat win
+  |winner     = Independent politician
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Stilton, Folksworth and Washingley===
+{{Election box begin no change|
+ |title=Stilton, Folksworth and Washingley (2)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Tim Alban *
+  |votes      = 1,347
+  |percentage = 71.7
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Marge Beuttel
+  |votes      = 1,146
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Jonathan Orchard
+  |votes      = 342
+  |percentage = 18.2
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Thelma Lomax
+  |votes      = 302
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Roger Henson
+  |votes      = 189
+  |percentage = 10.1
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Maureen Henson
+  |votes      = 136
+  |percentage = 
+}}
+{{Election box majority no change|
+  |votes      = 1,005
+  |percentage = 53.5
+}}
+{{Election box turnout no change|
+  |votes      = 1,862
+  |percentage = 35.8
+}}
+{{Election box registered electors no change|
+  |reg. electors = 5,209
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===The Stukeleys===
+{{Election box begin no change|
+ |title=The Stukeleys (3)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Independent politician
+  |candidate  = Tom Sanderson *
+  |votes      = 675
+  |percentage = 48.8
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Independent politician
+  |candidate  = Sally Smith
+  |votes      = 505
+  |percentage = 
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Independent politician
+  |candidate  = Shaun Burton
+  |votes      = 428
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Martin Stephenson
+  |votes      = 356
+  |percentage = 25.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Stephen Cawley *
+  |votes      = 353
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Daryl Brown *
+  |votes      = 317
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ethan Stone
+  |votes      = 147
+  |percentage = 10.6
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Jane Hudson
+  |votes      = 138
+  |percentage = 10.0
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = [[Paul Bullen]]
+  |votes      = 68
+  |percentage = 4.9
+}}
+{{Election box majority no change|
+  |votes      = 319
+  |percentage = 23.0
+}}
+{{Election box turnout no change|
+  |votes      = 1,117
+  |percentage = 33.9
+}}
+{{Election box registered electors no change|
+  |reg. electors = 3,293
+}}
+{{Election box new seat win
+  |winner     = Independent politician
+}}
+{{Election box new seat win
+  |winner     = Independent politician
+}}
+{{Election box new seat win
+  |winner     = Independent politician
+}}
+{{Election box end}}
+
+===Warboys===
+{{Election box begin no change|
+ |title = Warboys (2)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Graham Bull *
+  |votes      = 1,031
+  |percentage = 64.7
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Jill Tavener *
+  |votes      = 1,020
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Angela Richards
+  |votes      = 329
+  |percentage = 20.7
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = David King
+  |votes      = 307
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Robert Brown
+  |votes      = 233
+  |percentage = 14.6
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Sharna Peck
+  |votes      = 141
+  |percentage = 
+}}
+{{Election box majority no change|
+  |votes      = 702
+  |percentage = 44.1
+}}
+{{Election box turnout no change|
+  |votes      = 1,696
+  |percentage = 30.3
+}}
+{{Election box registered electors no change|
+  |reg. electors = 5,590
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Yaxley===
+{{Election box begin no change|
+ |title=Yaxley (3)
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Eric Butler *
+  |votes      = 1,310
+  |percentage = 51.1
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Kevin Gulson
+  |votes      = 1,194
+  |percentage = 
+}}
+{{Election box winning candidate with party link no change|
+  |party      = Conservative Party (UK)
+  |candidate  = Mac McGuire
+  |votes      = 926
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Graeme Watkins
+  |votes      = 513
+  |percentage = 20.0
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Cochrane
+  |votes      = 511
+  |percentage = 
+}}
+{{Election box candidate with party link no change|
+  |party      = Labour Party (UK)
+  |candidate  = Roger Whiting
+  |votes      = 388
+  |percentage =
+}}
+{{Election box candidate with party link no change|
+  |party      = Independent politician
+  |candidate  = Chelsea Meachen
+  |votes      = 384
+  |percentage = 15.0
+}}
+{{Election box candidate with party link no change|
+  |party      = UK Independence Party
+  |candidate  = Paul Richardson
+  |votes      = 358
+  |percentage = 14.0
+}}
+{{Election box majority no change|
+  |votes      = 797
+  |percentage = 31.1
+}}
+{{Election box turnout no change|
+  |votes      = 2,158
+  |percentage = 25.6
+}}
+{{Election box registered electors no change|
+  |reg. electors = 8,441
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box new seat win
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+==By-elections==
+===Godmanchester & Hemingford Abbots by-election===
+A [[by-election]] took place in Godmanchester and Hemingford Abbots on 1 August 2019 after the resignation of Liberal Democrat councillor David Underwood.<ref>{{Cite web|last=Ridley|first=Katie|date=2019-07-03|title=By-election triggered after councillor resigns his seat|url=https://www.huntspost.co.uk/news/a-by-election-has-been-triggered-after-a-long-serving-5180780|access-date=2021-07-09|website=Hunts Post|language=en-UK}}</ref> The seat was held for the Liberal Democrats by Sarah Wilson.
+
+{{Election box begin
+ | title = Godmanchester & Hemingford Abbots by-election 1 August 2019<ref name="declaration">{{cite web|url=https://huntingdonshire.gov.uk/media/3958/godmanchester-and-hemingford-abbots-district-council-declaration-of-result-of-poll-1-august-2019.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=12 August 2020}}</ref
+>}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sarah Wilson
+  |votes      = 929
+  |percentage = 48.2
+  |change     = –3.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paula Sparling
+  |votes      = 666
+  |percentage = 34.5
+  |change     = +0.7
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Nigel Pauley
+  |votes      = 333
+  |percentage = 17.3
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 263
+  |percentage = 13.6
+  |change     = –4.4
+}}
+{{Election box turnout|
+  |votes      = 1,936
+  |percentage = 27.9
+  |change     = –6.5
+}}
+{{Election box registered electors|
+  |reg. electors = 6,939
+  |change        = +168
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |swing      = –2.2
+}}
+{{Election box end}}
+
+===Alconbury by-election===
+A [[by-election]] took place in [[Alconbury]] on 12 December 2019 alongside the [[2019 United Kingdom general election|2019 general election]], following the resignation of Councillor Jim White.<ref>{{Cite web|title=Ian Gardener holds Alconbury|url=https://www.hcca.org.uk/news/ian-gardener-holds-alconbury|url-status=live|access-date=2021-07-09|website=Huntingdon Conservatives|language=en|archive-url=https://web.archive.org/web/20210709190137/https://www.hcca.org.uk/news/ian-gardener-holds-alconbury |archive-date=2021-07-09 }}</ref> The seat was held for the Conservative Party by Ian Gardener.
+
+{{Election box begin
+ | title=[[Alconbury]] by-election 12 December 2019<ref name="declarationAlconbury">{{cite web|url=https://huntingdonshire.gov.uk/media/4103/declaration-of-results-alconbury-12-dec-2019.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=12 August 2020}}</ref>
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Gardener
+  |votes      = 1255
+  |percentage = 56.7
+  |change     = –4.5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alastair Henderson-Begg
+  |votes      = 365
+  |percentage = 16.5
+  |change     = –3.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nicholas Sherratt
+  |votes      = 269
+  |percentage = 12.2
+  |change     = +2.8
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Tom MacLennan
+  |votes      = 235
+  |percentage = 10.6
+  |change     = +1.2
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = [[Paul Bullen]]
+  |votes      = 89
+  |percentage = 3.9
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 860
+  |percentage = 39.9
+  |change     = –1.0
+}}
+{{Election box turnout|
+  |votes      = 2,233
+  |percentage = 77.9
+  |change     = +40.7
+}}
+{{Election box registered electors|
+  |reg. electors = 2,865
+  |change        = –41
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = –0.5
+}}
+{{Election box end}}
+
+===St Ives East by-election===
+A [[by-election]] took place in the St Ives East ward on 13 February 2020, after the resignation of Conservative Party Councillor and [[Cambridgeshire Police and Crime Commissioner]] [[Jason Ablewhite]] following his referral to the Independent Office for Police Conduct.<ref>{{Cite news|last=Lynne|first=Freddie|date=2019-11-22|title=Jason Ablewhite resigns as district councillor after investigation launched|language=en|work=CambridgeshireLive|url=https://www.cambridge-news.co.uk/news/local-news/jason-ablewhite-resigns-district-council-17299682|access-date=2021-07-09}}</ref> The seat was held for the Conservative Party by Adam Roberts.
+
+{{Election box begin
+ | title=St Ives East by-election 13 February 2020<ref name="declarationStIvesEast">{{cite web|url=https://huntingdonshire.gov.uk/media/4372/declaration-of-result-13-feb-2020.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=12 August 2020}}</ref>
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Adam Roberts
+  |votes      = 558
+  |percentage = 46.5
+  |change     = +0.7
+}}
+{{Election box candidate with party link|
+  |party      = Independent politician
+  |candidate  = Philip Pope
+  |votes      = 429
+  |percentage = 35.8
+  |change     = ''New''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Colin Saunderson †
+  |votes      = 109
+  |percentage = 9.1
+  |change     = –15.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Barry O'Sullivan
+  |votes      = 103
+  |percentage = 8.6
+  |change     = –20.8
+}}
+{{Election box majority|
+  |votes      = 129
+  |percentage = 10.8
+  |change     = –5.6
+}}
+{{Election box turnout|
+  |votes      = 1,200
+  |percentage = 23.6
+  |change     = –5.2
+}}
+{{Election box registered electors|
+  |reg. electors = 5,074
+  |change        = –27
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = –17.5
+}}
+{{Election box end}}
+
+===Huntingdon North by-election===
+A [[by-election]] took place in the Huntingdon North ward on 6 May 2021 alongside the [[2021 United Kingdom local elections|2021 local elections]]. The seat was held for the Labour Party by Marion Kadewere.
+
+{{Election box begin
+ | title=Huntingdon North by-election 6 May 2021<ref name="declarationHuntingdon North">{{cite web|url=https://www.huntingdonshire.gov.uk/media/5310/election-of-district-councillor-for-huntingdon-north.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=9 July 2021}}</ref>
+}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Marion Kadewere
+  |votes      = 902
+  |percentage = 38.5
+  |change     = –4.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Joanna Bac
+  |votes      = 799
+  |percentage = 34.1
+  |change     = +3.2
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Shellens †
+  |votes      = 498
+  |percentage = 21.3
+  |change     = +6.1
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Peter Ashcroft
+  |votes      = 142
+  |percentage = 6.1
+  |change     = –4.7
+}}
+{{Election box majority|
+  |votes      = 103
+  |percentage = 4.4
+  |change     = –7.9
+}}
+{{Election box total valid|
+  |votes      = 2,341
+  |percentage = 27.6
+  |change     = –0.3
+}}
+{{Election box rejected
+  |votes      = 42
+  |percentage = 1.8
+  |change     = 
+}}
+{{Election box total ballots|
+  |votes      = 2,383
+  |percentage = 28.1
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 8,468
+  |change        = +93
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = –4.0
+}}
+{{Election box end}}
+
+===St Ives South by-election===
+A [[by-election]] took place in the St Ives South ward on 6 May 2021 alongside the [[2021 United Kingdom local elections|2021 local elections]], following the passing of Councillor John Davies.<ref>{{Cite web|last=Butler|first=Clare|date=2021-03-19|title=Tributes to 'kind, gentle' councillor following his death|url=https://www.huntspost.co.uk/news/hunts-councillor-john-winston-davies-has-died-7836400|access-date=2021-07-09|website=Hunts Post|language=en-UK}}</ref> The seat was held for the Conservative Party by Rianna D'Souza.
+
+{{Election box begin
+ | title=St Ives South by-election 6 May 2021<ref name="declarationStIvesSouth">{{cite web|url=https://www.huntingdonshire.gov.uk/media/5307/election-of-district-councillor-for-st-ives-south.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=9 July 2021}}</ref>
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Rianna D'Souza
+  |votes      = 970
+  |percentage = 43.0
+  |change     = –1.5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Nicholas Wells
+  |votes      = 599
+  |percentage = 26.6
+  |change     = +3.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Catherine Gleadow
+  |votes      = 441
+  |percentage = 19.5
+  |change     = –13.0
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = John Parkin
+  |votes      = 246
+  |percentage = 10.9
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 371
+  |percentage = 16.4
+  |change     = +4.5
+}}
+{{Election box total valid|
+  |votes      = 2,256
+  |percentage = 37.1
+  |change     = –3.2
+}}
+{{Election box rejected
+  |votes      = 37
+  |percentage = 1.6
+  |change     = 
+}}
+{{Election box total ballots|
+  |votes      = 2,293
+  |percentage = 37.7
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 6,088
+  |change        = +287
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = –2.6
+}}
+{{Election box end}}
+
+===St Ives East by-election===
+A [[by-election]] took place in the St Ives East ward on 6 May 2021 alongside the [[2021 United Kingdom local elections|2021 local elections]], following the resignation of Councillor Richard Bellamy.<ref>{{cite web|title=Notice of Vacancy|url=https://www.huntingdonshire.gov.uk/media/4798/notice-of-vacancy-st-ives-east-district-ward.pdf|url-status=live|access-date=9 July 2021|website=Huntingdonshire District Council|archive-url=https://web.archive.org/web/20210709190548/https://www.huntingdonshire.gov.uk/media/4798/notice-of-vacancy-st-ives-east-district-ward.pdf |archive-date=2021-07-09 }}</ref> The seat was held for the Conservative Party by Craig Smith.
+
+{{Election box begin
+ | title=St Ives East by-election 6 May 2021<ref>{{cite web|url=https://www.huntingdonshire.gov.uk/media/5300/election-of-district-councillor-for-st-ives-east.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=6 July 2021}}</ref>
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Craig Smith
+  |votes      = 824
+  |percentage = 54.9
+  |change     = +9.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Angela Richards
+  |votes      = 374
+  |percentage = 24.9
+  |change     = –4.5
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Ann Barnes
+  |votes      = 302
+  |percentage = 20.1
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 450
+  |percentage = 30.0
+  |change     = +13.6
+}}
+{{Election box turnout|
+  |votes      = 1,520
+  |percentage = 29.8
+  |change     = –3.4
+}}
+{{Election box registered electors|
+  |reg. electors = 5,106
+  |change        = +5
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = +6.8
+}}
+{{Election box end}}
+
+===Warboys by-election===
+A [[by-election]] took place in the Warboys ward on 6 May 2021 alongside the [[2021 United Kingdom local elections|2021 local elections]], following the passing of Councillor Jill Tavener.<ref>{{Cite web|title=Notice of Vacancy|url=https://huntingdonshire.gov.uk/media/5092/notice-of-vacancy-warboys.pdf|url-status=live|access-date=9 July 2021|website=Huntingdonshire District Council|archive-url=https://web.archive.org/web/20210709190524/https://huntingdonshire.gov.uk/media/5092/notice-of-vacancy-warboys.pdf |archive-date=2021-07-09 }}</ref> The seat was held for the Conservative Party by Michael Haines.
+
+{{Election box begin | title=Warboys by-election 6 May 2021<ref name="declarationWarboys">{{cite web|url=https://www.huntingdonshire.gov.uk/media/5311/election-of-district-councillor-for-warboys.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=9 July 2021}}</ref>}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael William Haines
+  |votes      = 1235
+  |percentage = 62.7
+  |change     = +1.1
+}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Helen Kewley|votes=382|percentage=19.4|change=''New''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Paul Joseph Williams|votes=352|percentage=17.9|change=-43.0}}
+
+{{Election box majority||votes=853|percentage=43.3|change=-0.1}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 
+  |change        = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Neots East by-election===
+A [[by-election]] took place in the St Neots East ward on 8 July 2021, following the election of [[Nik Johnson|Dr Nik Johnson]] as [[Mayor of Cambridgeshire and Peterborough]].<ref>{{Cite web|title=Mayor|url=https://cambridgeshirepeterborough-ca.gov.uk/who-we-are/mayor/|access-date=2021-07-09|website=Cambridgeshire & Peterborough Combined Authority|language=en-US}}</ref> The seat was won by Independent candidate Benjamin Pitt.
+
+{{Election box begin | title=St Neots East by-election 8 July 2021<ref name="declarationStNeotsEast">{{cite web|url=https://www.huntingdonshire.gov.uk/media/5470/declaration-of-result-of-poll-8-july-2021.pdf |title=Declaration of result of poll |work=Huntingdonshire District Council |access-date=9 July 2021}}</ref>}}
+{{Election box winning candidate with party link|
+  |party      = St. Neots Independents
+  |candidate  = Benjamin Pitt
+  |votes      = 249
+  |percentage = 42.5
+  |change     = ''New''
+}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Lara Davenport-Ray|votes=196|percentage=33.4|change=''New''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Geoffrey Michael Seeff|votes=68|percentage=11.6|change=-22.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Samuel D Collins|votes=47|percentage=8.0|change=-20.2}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Helen Mary Stroud|votes=26|percentage=4.4|change=-46.0}}
+{{Election box majority||votes=53|percentage=9.1|change=}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 
+  |change        = 
+}}
+{{Election box gain with party link|
+  |winner     = St. Neots Independents
+  |loser      = Labour Party (UK)
+  |swing      = 
+}}
+
+{{Election box end}}
+
+===Huntingdon East by-election===
+{{Election box begin | title=Huntingdon East: 4 November 2021}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Michael Shellens †
+   |votes      = 813
+   |percentage = 55.3
+   |change     = +8.3
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Jonas King
+   |votes      = 656
+   |percentage =44.7
+   |change     = +5.6
+}}
+{{Election box majority
+   |votes      = 157
+   |percentage = 10.6
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,476
+   |percentage = 27.8
+   |change     = 
+}}
+{{Election box registered electors|
+  |reg. electors = 
+  |change        = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |swing      = {{increase}}1.4
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{2018 United Kingdom local elections}}
+{{Cambridgeshire elections}}
+
+[[Category:Huntingdonshire District Council elections]]
+[[Category:2018 English local elections|Huntingdonshire]]
+[[Category:2010s in Cambridgeshire|Huntingdonshire District Council election, 2018]]

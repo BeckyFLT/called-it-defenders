@@ -1,0 +1,117 @@
+{{Short description|2016 local election in England, UK}}
+{{Use dmy dates|date=September 2015}}
+{{Use British English|date=September 2015}}
+[[File:Barnsley UK local election 2016 map.png|300px|right]]
+The '''2016 Barnsley Metropolitan Borough Council election''' was held on 5 May 2016<ref>{{cite web|url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/453165/Electoral_cycles_-_who_elects_when_as_of_March_2015.pdf|title=Election Timetable in England |publisher=gov.uk|access-date=23 September 2015}}</ref><ref>{{cite web|url=http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums|title=Upcoming elections & referendums|publisher=Electoral Commission|access-date=23 September 2015|archive-date=15 March 2015|archive-url=https://web.archive.org/web/20150315102043/http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums|url-status=dead}}</ref> to elect one third of the members of [[Barnsley Metropolitan Borough Council]] in England. The election was held on the same day as the election of a [[Police and Crime Commissioner]] for [[South Yorkshire Police|South Yorkshire]] as part of the [[2016 England and Wales police and crime commissioner elections|2016 Police and Crime Commissioner elections]].
+
+{{break}}
+
+==By-elections between 2016 and 2018==
+{{Election box begin|title = Kingstone by-election 29 September 2017<ref>{{cite web |title=Local Elections Archive Project — Kingstone Ward |url=http://www.andrewteale.me.uk/leap/ward/960/#2017-09-29 |website=www.andrewteale.me.uk |access-date=18 April 2022}}</ref>}}
+{{Election box candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = Joanne Murray
+ |votes      = 740
+ |percentage = 57.5
+ |change     = -2.4
+}}
+{{Election box candidate with party link|
+ |party      = Liberal Democrats (UK)
+ |candidate  = John Ellis-Mourant
+ |votes      = 247
+ |percentage = 19.2
+ |change     = +19.2
+}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = Lee Ogden
+ |votes      = 113
+ |percentage = 8.8
+ |change     = -3.5
+}}
+{{Election box candidate with party link|
+ |party      = Green Party of England and Wales
+ |candidate  = Chris Scarfe
+ |votes      = 87
+ |percentage = 6.8
+ |change     = -4.1
+}}
+{{Election box candidate with party link|
+ |party      = British National Party
+ |candidate  = Christopher Houston
+ |votes      = 75
+ |percentage = 5.8
+ |change     = -5.2
+}}
+{{Election box candidate|
+ |party      = Demos Direct Initiative
+ |candidate  = Trevor Smith
+ |votes      = 25
+ |percentage = 1.9
+ |change     = +1.9
+}}
+{{Election box majority|
+ |votes      = 493
+ |percentage = 38.3
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 1,287
+ |percentage = 
+ |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+{{Election box begin|title = Rockingham by-election 14 December 2017<ref>{{cite web |title=Local Elections Archive Project — Rockingham Ward |url=http://www.andrewteale.me.uk/leap/ward/966/#2017-12-14 |website=www.andrewteale.me.uk |access-date=18 April 2022}}</ref>}}
+{{Election box candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = Nicola Sumner
+ |votes      = 938
+ |percentage = 66.6
+ |change     = +15.0
+}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = Michael Toon
+ |votes      = 272
+ |percentage = 19.3
+ |change     = +10.9
+}}
+{{Election box candidate with party link|
+ |party      = Liberal Democrats (UK)
+ |candidate  = Paul Nugent
+ |votes      = 199
+ |percentage = 14.1
+ |change     = +14.1
+}}
+{{Election box majority|
+ |votes      = 666
+ |percentage = 47.3
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 1,409
+ |percentage = 
+ |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2016}}
+
+[[Category:2016 English local elections|Barnsley]]
+[[Category:Barnsley Council elections|2016]]
+[[Category:2010s in South Yorkshire]]
+
+{{YorkshireHumberside-election-stub}}

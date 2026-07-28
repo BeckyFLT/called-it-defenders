@@ -1,0 +1,1715 @@
+{{Short description|2019 UK local government election}}
+{{Use dmy dates|date=April 2015}}
+{{Use British English|date=April 2015}}
+
+{{Infobox election
+| election_name = 2019 Uttlesford District Council election
+| country = Essex
+| type = parliamentary
+| previous_election = 2015 Uttlesford District Council election
+| previous_year = 2015
+| outgoing_members = 
+| election_date = {{Start date|2019|5|2|df=y}}
+| elected_members = 
+| next_election = 2023 Uttlesford District Council election
+| next_year = 2023
+| seats_for_election = All 39 seats to [[Uttlesford District Council]]
+| majority_seats = 20
+| opinion_polls = 
+| turnout = <!-- Party 1 -->
+| image1 = [[File:No image wide.svg|95x50px|Blank]]
+| leader1 = 
+| party1 = Residents for Uttlesford
+| leader_since1 = 
+| last_election1 = 9 seats, 25.3%
+| leaders_seat1 = 
+| seats_before1 = 
+| seats1 = '''26'''
+| seats_after1 = 
+| seat_change1 = {{increase}} 17
+| popular_vote1 = 18,234
+| percentage1 = 38.3%
+| swing1 = {{increase}} 13.0%
+<!-- Party 2 -->| image2 = [[File:No image wide.svg|95x50px|Blank]]
+| leader2 = 
+| party2 = Liberal Democrats (UK)
+| leader_since2 = 
+| leaders_seat2 = 
+| last_election2 = 6 seats, 15.7%
+| seats_before2 = 
+| seats2 = '''7'''
+| seats_after2 = 
+| seat_change2 = {{increase}} 1
+| popular_vote2 = 10,692
+| percentage2 = 22.5%
+| swing2 = {{increase}} 6.8%
+<!-- Party 4 -->| image4 = [[File:No image wide.svg|95x50px|Blank]]
+| leader4 = 
+| party4 = Conservative Party (UK)
+| leader_since4 = 
+| leaders_seat4 = 
+| last_election4 = 23 seats, 42.7%
+| seats_before4 = 
+| seats4 = '''4'''
+| seats_after4 = 
+| seat_change4 = {{decrease}} 19
+| popular_vote4 = 13,419
+| percentage4 = 28.2%
+| swing4 = {{decrease}} 14.5%
+<!-- Party 5 -->| image5 = [[File:No image wide.svg|95x50px|Blank]]
+| leader5 = 
+| party5 = Independent politician
+| leader_since5 = 
+| leaders_seat5 = 
+| last_election5 = 1 seat, 5.0%
+| seats_before5 = 
+| seats5 = '''2'''
+| seats_after5 = 
+| seat_change5 = {{increase}} 1
+| popular_vote5 = 2,084
+| percentage5 = 4.4%
+| swing5 = {{decrease}} 0.6%
+| map_image = {{Switcher
+| [[File:Uttlesford UK ward map with seats 2019.svg|350px]]
+| Seat map
+| [[File:UTTLESFORD_DC_2019_NOCHOLSCHEM.svg|350px]]
+| Alternate seat map}}
+| map_size = 
+| map_alt = 
+| map = 
+| map_caption = 
+| title = Council control
+| posttitle = Council control after election
+| before_election = 
+| before_party = Conservative Party (UK)
+| after_election = 
+| after_party = Residents for Uttlesford
+}}
+
+The '''2019 Uttlesford District Council election''' took place on 2 May 2019 to elect members of [[Uttlesford District Council]] in England.<ref name="UDC May 2019">{{cite web |title=Uttlesford District Council - Results - District elections 2 May 2019 |url=https://www.uttlesford.gov.uk/article/6234/Results-District-elections-2-May-2019 |website=www.uttlesford.gov.uk |access-date=3 May 2019}}</ref> This was on the same day as other [[2019 United Kingdom local elections|local elections]].
+
+==Summary==
+
+===Election results===
+
+{{Local election summary begin|title=2019 Uttlesford District Council election}}
+{{Local election summary party
+  |party         =Residents for Uttlesford
+  |candidates    =29
+  |seats         ='''26'''
+  |gain          =17
+  |loss          =0
+  |net           ={{increase}} 17
+  |votes %       =38.3
+  |seats %       =66.7
+  |votes         =18,234
+  |plus/minus    =+13.0
+}}
+{{Local election summary party
+  |party         =Liberal Democrats (UK)
+  |candidates    =30
+  |seats         ='''7'''
+  |gain          =3
+  |loss          =2
+  |net           ={{increase}} 1
+  |votes %       =22.5
+  |seats %       =17.9
+  |votes         =10,692
+  |plus/minus    =+6.8
+}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =38
+  |seats         ='''4'''
+  |gain          =0
+  |loss          =19
+  |net           ={{decrease}} 19
+  |votes %       =28.2
+  |seats %       =10.3
+  |votes         =13,419
+  |plus/minus    =–14.5
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =2
+  |seats         ='''2'''
+  |gain          =1
+  |loss          =0
+  |net           ={{increase}} 1
+  |votes %       =5.1
+  |seats %       =4.4
+  |votes         =2,084
+  |plus/minus    =–0.6
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =18
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =3.5
+  |seats %       =0.0
+  |votes         =1,664
+  |plus/minus    =–3.6
+}}
+{{Local election summary party
+  |party         =Green Party of England and Wales
+  |candidates    =9
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =2.7
+  |seats %       =0.0
+  |votes         =1,294
+  |plus/minus    =+1.6
+}}
+{{Local election summary party
+  |party         =UKIP
+  |candidates    =1
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =0.4
+  |seats %       =0.0
+  |votes         =193
+  |plus/minus    =–2.7
+}}
+|-
+{{Election box end}}
+
+==Ward results==
+
+===Ashdon===
+{{Election box begin | title=Ashdon}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = James Leon Herman De Vries
+  |votes      = 321
+  |percentage = 41.5
+  |change     = -1.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Howard Stephen Rolfe
+  |votes      = 270
+  |percentage = 34.9
+  |change     = -11.7
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Paul Henry Allington
+  |votes      = 79
+  |percentage = 10.2
+  |change     = ''New''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sara Booth
+  |votes      = 59
+  |percentage = 7.6
+  |change     = ''New''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Oliver James Rowley
+  |votes      = 36
+  |percentage = 4.7
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 774
+  |percentage = 49.1
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Broad Oak & The Hallingsburys===
+{{Election box begin | title=Broad Oak & The Hallingsburys}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Geof Driscoll
+  |votes      = 571
+  |percentage = 47.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Neil Reeve
+  |votes      = 524
+  |percentage = 44.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Keith Artus
+  |votes      = 404
+  |percentage = 33.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lesley Wells
+  |votes      = 316
+  |percentage = 26.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = David Allum
+  |votes      = 193
+  |percentage = 16.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Maryanne Fleming
+  |votes      = 133
+  |percentage = 11.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,197
+  |percentage = 37.7
+  |change     = 
+}}
+{{Election box gain with party link no swing|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link no swing|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Clavering===
+{{Election box begin | title=Clavering}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Edward Oliver
+  |votes      = 497
+  |percentage = 56.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Tracy Williams
+  |votes      = 232
+  |percentage = 26.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Clift
+  |votes      = 150
+  |percentage = 17.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 883
+  |percentage = 47.5
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Debden & Wimbish===
+{{Election box begin | title=Debden & Wimbish}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Stewart Luck
+  |votes      = 307
+  |percentage = 40.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tina Knight
+  |votes      = 245
+  |percentage = 32.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alison Hare
+  |votes      = 142
+  |percentage = 18.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Edward Gildea
+  |votes      = 33
+  |percentage = 4.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Peter Donovan
+  |votes      = 28
+  |percentage = 3.7
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 706
+  |percentage = 44.5
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Elsenham & Henham===
+{{Election box begin | title=Elsenham & Henham}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Petrina Lees
+  |votes      = 927
+  |percentage = 64.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Garry Lecount
+  |votes      = 612
+  |percentage = 42.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Fred Frindle
+  |votes      = 526
+  |percentage = 36.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David South
+  |votes      = 320
+  |percentage = 22.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Liam Hithersey
+  |votes      = 142
+  |percentage = 9.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Callum Parris
+  |votes      = 79
+  |percentage = 5.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,458
+  |percentage = 41.4
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Felsted & Stebbing===
+{{Election box begin | title=Felsted & Stebbing}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Sandi Merifield
+  |votes      = 661
+  |percentage = 45.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = John Evans
+  |votes      = 647
+  |percentage = 44.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Richard Silcock
+  |votes      = 409
+  |percentage = 28.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roy Ramm
+  |votes      = 352
+  |percentage = 24.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Charlotte Salomon
+  |votes      = 294
+  |percentage = 20.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Antoinette Wattebot
+  |votes      = 152
+  |percentage = 10.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Ruth Wheaton
+  |votes      = 96
+  |percentage = 6.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Humphrey Barbier
+  |votes      = 49
+  |percentage = 3.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Sowter
+  |votes      = 46
+  |percentage = 3.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,455
+  |percentage = 42.5
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Flitch Green & Little Dunmow===
+{{Election box begin | title=Flitch Green & Little Dunmow}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Christian Criscione
+  |votes      = 374
+  |percentage = 58.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Felicity Sutton
+  |votes      = 179
+  |percentage = 28.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Steven Raddon
+  |votes      = 83
+  |percentage = 13.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,849
+  |percentage = 34.6
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Great Dunmow North===
+{{Election box begin | title=Great Dunmow North}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Alexander Armstrong
+  |votes      = 779
+  |percentage = 63.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Louise Pepper
+  |votes      = 652
+  |percentage = 53.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Davey
+  |votes      = 378
+  |percentage = 31.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Davies
+  |votes      = 291
+  |percentage = 23.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Morgan
+  |votes      = 114
+  |percentage = 9.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,228
+  |percentage = 33.7
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Great Dunmow South & Barnston===
+{{Election box begin | title=Great Dunmow South & Barnston}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Rod Jones
+  |votes      = 978
+  |percentage = 58.8
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Patrick Lavelle
+  |votes      = 970
+  |percentage = 58.3
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Colin Day
+  |votes      = 865
+  |percentage = 52.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Danielle Frost
+  |votes      = 551
+  |percentage = 33.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Graham Barker
+  |votes      = 472
+  |percentage = 28.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Vic Ranger
+  |votes      = 438
+  |percentage = 26.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gerard Darcy
+  |votes      = 202
+  |percentage = 12.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,703
+  |percentage = 34.0
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Hatfield Heath===
+{{Election box begin | title=Hatfield Heath}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Reginald Mark Lemon<br>''(Mark Lemon)''
+  |votes      = 430
+  |percentage = 76.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Dyer
+  |votes      = 66
+  |percentage = 11.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bill McCarthy
+  |votes      = 63
+  |percentage = 11.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 578
+  |percentage = 32.3
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===High Easter & Rodings===
+{{Election box begin | title=High Easter & Rodings}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Susan Barker
+  |votes      = 483
+  |percentage = 70.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Margaret Shaw
+  |votes      = 91
+  |percentage = 13.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jonh Hudson
+  |votes      = 70
+  |percentage = 10.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Faridah Gullam
+  |votes      = 41
+  |percentage = 6.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 707
+  |percentage = 36.8
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Littlebury, Chesterfords & Wenden Lofts===
+{{Election box begin | title=Littlebury, Chesterfords & Wenden Lofts}}
+{{Election box winning candidate with party link|
+  |party      = Independent politician
+  |candidate  = Neil Gregory
+  |votes      = 1,057
+  |percentage = 57.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent politician
+  |candidate  = Richard Pavitt
+  |votes      = 1,027
+  |percentage = 55.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Chambers
+  |votes      = 481
+  |percentage = 25.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Julie Redfern
+  |votes      = 471
+  |percentage = 25.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Kevin Wing
+  |votes      = 263
+  |percentage = 14.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Barbara Hughes
+  |votes      = 219
+  |percentage = 11.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,872
+  |percentage = 54.8
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Independent politician
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Independent politician
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Newport===
+{{Election box begin | title=Newport}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Neil Hargreaves
+  |votes      = 952
+  |percentage = 75.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Ant Gerard
+  |votes      = 853
+  |percentage = 67.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gregory Smith
+  |votes      = 208
+  |percentage = 16.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tom Flack
+  |votes      = 199
+  |percentage = 15.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Marion Dyer
+  |votes      = 147
+  |percentage = 11.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,276
+  |percentage = 43.4
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = 
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Saffron Walden Audley===
+{{Election box begin | title=Saffron Walden Audley}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Deryk Alan Eke
+  |votes      = 744
+  |percentage = 45.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Barbara Ann Light
+  |votes      = 740
+  |percentage = 44.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mike Hibbs
+  |votes      = 584
+  |percentage = 35.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Simon Maurice Ede
+  |votes      = 261
+  |percentage = 15.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = George Maurice Smith
+  |votes      = 243
+  |percentage = 14.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sam Slota-Newson
+  |votes      = 228
+  |percentage = 13.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Sarah Jane Heaton Allington
+  |votes      = 226
+  |percentage = 13.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Patrick O'Brien
+  |votes      = 152
+  |percentage = 9.2
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,707
+  |percentage = 37.1
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box end}}
+
+===Saffron Walden Castle===
+{{Election box begin | title=Saffron Walden Castle}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Heather Jane Asker
+  |votes      = 818
+  |percentage = 54.8
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Richard Ford Freeman
+  |votes      = 742
+  |percentage = 49.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sam Goddard
+  |votes      = 289
+  |percentage = 19.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David James Sadler
+  |votes      = 230
+  |percentage = 15.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Steffi Suhr
+  |votes      = 209
+  |percentage = 14.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Newman Lefever
+  |votes      = 207
+  |percentage = 13.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Abigail Saffrey
+  |votes      = 145
+  |percentage = 9.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Simon David Trimnell
+  |votes      = 119
+  |percentage = 8.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Laura Jane Snell
+  |votes      = 95
+  |percentage = 6.4
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,525
+  |percentage = 35.4%
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box end}}
+
+===Saffron Walden Shire===
+{{Election box begin | title=Saffron Walden Shire}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = John Stuart Lodge
+  |votes      = 1,136
+  |percentage = 52.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Arthur George Coote
+  |votes      = 1,130
+  |percentage = 51.8
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Paul Geoffrey Fairhurst
+  |votes      = 1,096
+  |percentage = 50.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew James Ketteridge
+  |votes      = 478
+  |percentage = 21.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Trilby Fiona Roberts
+  |votes      = 376
+  |percentage = 17.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sonia Sault
+  |votes      = 358
+  |percentage = 16.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Karan Karunakaram
+  |votes      = 353
+  |percentage = 16.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nicholas David Osborne
+  |votes      = 348
+  |percentage = 15.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Adam Peter Philip Langworthy
+  |votes      = 272
+  |percentage = 12.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sylvia Jane Barrows
+  |votes      = 258
+  |percentage = 11.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Yvonne Lily Morton
+  |votes      = 238
+  |percentage = 10.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,225
+  |percentage = 27.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box end}}
+
+===Stansted North===
+{{Election box begin | title=Stansted North}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alan Dean
+  |votes      = 905
+  |percentage = 60.7
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Geoffrey Sell
+  |votes      = 871
+  |percentage = 58.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nick Church
+  |votes      = 484
+  |percentage = 32.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Josie Thompson
+  |votes      = 453
+  |percentage = 30.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joe Lewis
+  |votes      = 92
+  |percentage = 6.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alfred Miti
+  |votes      = 79
+  |percentage = 5.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,514
+  |percentage = 43.0
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Stansted South & Birchanger===
+{{Election box begin | title=Stansted South & Birchanger}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Melvin Caton
+  |votes      = 550
+  |percentage = 57.5
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ayub Khan
+  |votes      = 463
+  |percentage = 48.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gary Davey
+  |votes      = 349
+  |percentage = 36.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jennie Sutton
+  |votes      = 325
+  |percentage = 34.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Daniel Brett
+  |votes      = 81
+  |percentage = 8.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Thomas Van De Bilt
+  |votes      = 68
+  |percentage = 7.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,011
+  |percentage = 22.1
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Stort Valley===
+{{Election box begin | title=Stort Valley}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Janice Loughlin
+  |votes      = 459
+  |percentage = 72.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Dapne Wallace-Jarvis
+  |votes      = 176
+  |percentage = 27.7
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 640
+  |percentage = 39.6
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+
+===Takeley===
+{{Election box begin | title=Takeley}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Geoff Bagnall
+  |votes      = 928
+  |percentage = 61.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Maggie Sutton
+  |votes      = 913
+  |percentage = 60.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Vere Isham
+  |votes      = 800
+  |percentage = 52.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jim Gordon
+  |votes      = 442
+  |percentage = 29.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Derek Jones
+  |votes      = 428
+  |percentage = 28.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Howard Ryles
+  |votes      = 332
+  |percentage = 21.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Teddy Kimber
+  |votes      = 140
+  |percentage = 9.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Terry Brandon
+  |votes      = 119
+  |percentage = 7.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,536
+  |percentage = 25.1
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Thaxted & The Eastons===
+{{Election box begin | title=Thaxted & The Eastons}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mike Tayler
+  |votes      = 1,263
+  |percentage = 75.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Foley
+  |votes      = 1,229
+  |percentage = 73.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ralph Barrington
+  |votes      = 364
+  |percentage = 21.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Marie Siddans
+  |votes      = 305
+  |percentage = 18.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alex Young
+  |votes      = 77
+  |percentage = 4.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,717
+  |percentage = 42.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===The Sampfords===
+{{Election box begin | title=The Sampfords}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Alan Storah
+  |votes      = 383
+  |percentage = 47.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = William Burton
+  |votes      = 265
+  |percentage = 32.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Emma Horton
+  |votes      = 88
+  |percentage = 10.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Claire Vintiner
+  |votes      = 73
+  |percentage = 9.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 807
+  |percentage = 45.9
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==By-elections==
+
+===Newport===
+{{Election box begin | title=Newport: 6 May 2021}}
+{{Election box winning candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Judy Emanuel
+  |votes      = 892
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jennie Sutton
+  |votes      = 322
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Edward Gildea
+  |votes      = 63
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Thomas Smith
+  |votes      = 62
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Andrew Sampson
+  |votes      = 61
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 45
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Residents for Uttlesford
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
+The Newport by-election was triggered by the resignation of Anthony Gerard, who had been elected as a Residents for Uttlesford councillor in May 2019 but defected to the Greens in October 2019.<ref>{{cite news |last1=Boothroyd |first1=David |title=Grave news for Labour |url=https://www.localcouncils.co.uk/2019/10/grave-news-for-labour/ |access-date=12 June 2023 |work=Local Councils |publisher=Thorncliffe |date=18 October 2019}}</ref><ref name=Dunderdale>{{cite news |last1=Dunderdale |first1=Louise |title=Local elections 2021: UDC ward results for Newport and The Sampfords |url=https://www.dunmowbroadcast.co.uk/news/local-council/21614883.local-elections-2021-udc-ward-results-newport-sampfords/ |access-date=12 June 2023 |work=Dunmow Broadcast |date=7 May 2021}}</ref>
+
+===The Sampfords===
+{{Election box begin | title=The Sampfords: 6 May 2021}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = George Smith
+  |votes      = 384
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Residents for Uttlesford
+  |candidate  = Uli Gerhard
+  |votes      = 361
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Madeleine Radford
+  |votes      = 52
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sanjukta Ghosh
+  |votes      = 46
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Maryanne Fleming
+  |votes      = 21
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 48.7
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Residents for Uttlesford
+  |swing      = 
+}}
+{{Election box end}}
+This by-election was triggered by the death of Residents for Uttlesford councillor Alan Storah.<ref name=Dunderdale/>
+
+===Great Dunmow South & Barnston===
+
+{{Election box begin | title=Great Dunmow South & Barnston: 5 January 2023<ref>{{Cite web|url=https://www.uttlesford.gov.uk/media/11771/Declaration-of-result-of-poll-Great-Dunmow-South-and-Barnston-Ward/pdf/Declaration_of_Result_of_Poll_Populated.pdf?m=638085929421400000 |title=Declaration of Result of Poll |date=6 January 2023 |access-date=9 January 2023 |publisher=[[Uttlesford District Council]]}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Tom Loveday
+   |votes      = 375
+   |percentage = 46.0
+   |change     = +14.2
+}}
+ {{Election box candidate with party link
+   |party      = Residents for Uttlesford
+   |candidate  = Kerry Herbert
+   |votes      = 238
+   |percentage = 29.2
+   |change     = –27.3
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ben Cavanagh
+   |votes      = 115
+   |percentage = 14.1
+   |change     = +2.4
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Lorraine Flawn
+   |votes      = 88
+   |percentage = 10.8
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 137
+   |percentage = 16.8
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 830
+   |percentage = 16.4
+   |change     = –17.6
+ }}
+{{Election box registered electors
+   |reg. electors = 5,048
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Residents for Uttlesford
+   |swing      = {{increase}}20.8
+}}
+ {{Election box end}}
+This by-election was triggered by the resignation of Residents for Uttlesford councillor Colin Day.<ref>{{cite news |last1=Suslak |first1=Anne |title='Significant' Conservative win at Dunmow and Barston by-election |url=https://www.dunmowbroadcast.co.uk/news/23241888.significant-conservative-win-dunmow-barston-by-election/ |access-date=12 June 2023 |work=Dunmow Broadcast |date=10 January 2023}}</ref>
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{Essex elections}}
+
+[[Category:Uttlesford District Council elections]]
+[[Category:2019 English local elections|Uttlesford]]
+[[Category:2010s in Essex]]

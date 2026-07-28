@@ -1,0 +1,1443 @@
+{{Short description|2004 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+[[File:Huntingdonshire UK local election 2004 map.svg|thumb|300px|right|Map of the results of the 2004 Huntingdonshire District Council election. [[Conservative Party (UK)|Conservatives]] in blue, [[Liberal Democrats (UK)|Liberal Democrats]] in yellow and [[Independent (politician)|independents]] in grey.]]
+The '''2004 Huntingdonshire District Council election''' took place on 10 June 2004 to elect members of [[Huntingdonshire]] [[Non-metropolitan district|District]] Council in [[Cambridgeshire]], [[England]]. The whole council was up for election after boundary changes reduced the number of seats by 1.<ref name="vote2004">{{cite news|url=https://news.bbc.co.uk/2/shared/bsp/hi/vote2004/locals/html/3706.stm|title=Huntingdonshire council|date=12 June 2004|publisher=[[BBC News Online]]|access-date=3 July 2014}}</ref> The [[Conservative Party (UK)|Conservative Party]] stayed in overall control of the council.<ref name="ballot">{{cite news|title=Ballot box - Elections|date=12 June 2004|work=[[The Times]]|publisher=[[NewsBank]]|page=26}}</ref>
+
+==Election result==
+
+{{Election Summary Begin|title = Huntingdonshire local election result 2004<ref name=ballot/><ref name="results">{{cite web|url=http://www.huntingdonshire.gov.uk/SiteCollectionDocuments/HDCCMS/Documents/Elections/Results/2000-2009/2004.pdf |archive-url=http://webarchive.nationalarchives.gov.uk/20141204015422/http://www.huntingdonshire.gov.uk/SiteCollectionDocuments/HDCCMS/Documents/Elections/Results/2000-2009/2004.pdf |url-status=dead |archive-date=4 December 2014 |title=District Council Election |work=Huntingdonshire District Council |access-date=3 July 2014 }}</ref>}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 40
+  |gain       = 
+  |loss       = 
+  |net        = +3
+  |seats %    = 76.9
+  |votes %    = 53.2
+  |votes      = 46,927
+  |plus/minus = +2.5%
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 10
+  |gain       = 
+  |loss       = 
+  |net        = -3
+  |seats %    = 19.2
+  |votes %    = 33.3
+  |votes      = 29,342
+  |plus/minus = -3.9%
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 2
+  |gain       = 
+  |loss       = 
+  |net        = -1
+  |seats %    = 3.8
+  |votes %    = 3.2
+  |votes      = 2,805
+  |plus/minus = +1.7%
+}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 8.9
+  |votes      = 7,818
+  |plus/minus = -1.7%
+}}
+{{Election Summary Party|
+  |party      = UK Independence Party
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 1.1
+  |votes      = 972
+  |plus/minus = +1.1%
+}}
+{{Election Summary Party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 0.3
+  |votes      = 225
+  |plus/minus = +0.3%
+}}
+{{Election Summary Party|
+  |party      = Legalise Cannabis Alliance
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 0.1
+  |votes      = 77
+  |plus/minus = +0.1%
+}}
+{{Election box end}}
+
+==Ward results==
+
+{{Election box begin | title=Alconbury and The Stukeleys<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sarah Vanbergen
+  |votes      = 823
+  |percentage = 64.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ann Monk
+  |votes      = 230
+  |percentage = 17.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Robin Wade
+  |votes      = 160
+  |percentage = 12.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Shirley Brown
+  |votes      = 72
+  |percentage = 5.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 593
+  |percentage = 46.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,285
+  |percentage = 51.2
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Brampton (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Downes
+  |votes      = 1,516
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Shirley Menczer
+  |votes      = 1,295
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Chan Abraham
+  |votes      = 973
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Gardener
+  |votes      = 922
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Deirdre Lee
+  |votes      = 92
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Darren Hufford
+  |votes      = 91
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,889
+  |percentage = 56.1
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Buckden<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = William Clough
+  |votes      = 761
+  |percentage = 51.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Bailey
+  |votes      = 665
+  |percentage = 45.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Colin Greer
+  |votes      = 48
+  |percentage = 3.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 96
+  |percentage = 6.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,474
+  |percentage = 58.6
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Earith (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Eddy
+  |votes      = 1,031
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Terence Rogers
+  |votes      = 856
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Owen McLaughlin
+  |votes      = 569
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Malcolm Robelou
+  |votes      = 433
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sharon Nania
+  |votes      = 228
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,117
+  |percentage = 39.0
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ellington<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Baker
+  |votes      = 705
+  |percentage = 59.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Brooker
+  |votes      = 435
+  |percentage = 36.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Brown
+  |votes      = 47
+  |percentage = 4.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 270
+  |percentage = 22.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,187
+  |percentage = 53.5
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Elton and Folksworth<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nicholas Guyatt
+  |votes      = 648
+  |percentage = 66.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Dominic Masterson
+  |votes      = 177
+  |percentage = 18.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mark Holman
+  |votes      = 146
+  |percentage = 15.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 471
+  |percentage = 48.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 971
+  |percentage = 46.7
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Fenstanton<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Chandler
+  |votes      = 462
+  |percentage = 50.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mark Rainer
+  |votes      = 402
+  |percentage = 43.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jonathan Eason
+  |votes      = 55
+  |percentage = 6.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 60
+  |percentage = 6.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 919
+  |percentage = 40.6
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Godmanchester (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Carol Godley
+  |votes      = 1,070
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Colin Hyams
+  |votes      = 753
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Charles Looker
+  |votes      = 746
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lynda Heseltine
+  |votes      = 603
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Marilyn Jones
+  |votes      = 178
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Turner
+  |votes      = 119
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,469
+  |percentage = 43.9
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Gransden and The Offords (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Barbara Boddington
+  |votes      = 1,182
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alec Stenner
+  |votes      = 997
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anna Hayward
+  |votes      = 415
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Paul Speers
+  |votes      = 317
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Thelma Lomax
+  |votes      = 170
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,081
+  |percentage = 49.2
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huntingdon East (3 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = James Fell
+  |votes      = 1,236
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lawrence Simpson
+  |votes      = 1,146
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Derek Holley
+  |votes      = 1,114
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Priestman
+  |votes      = 1,040
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Richard Wyatt
+  |votes      = 988
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Shellens
+  |votes      = 960
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Leonard Bruce
+  |votes      = 442
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Carole Hitchings
+  |votes      = 297
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robert Pugh
+  |votes      = 289
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David King
+  |votes      = 272
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 7,784
+  |percentage = 40.7
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huntingdon North (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jeffery Dutton
+  |votes      = 466
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Wheeler
+  |votes      = 448
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ann Beevor
+  |votes      = 327
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Graham Hitchings
+  |votes      = 271
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Morgan
+  |votes      = 195
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Toby Fisher
+  |votes      = 186
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,893
+  |percentage = 28.2
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huntingdon West (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Thomas Sanderson
+  |votes      = 1,021
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Sadler
+  |votes      = 954
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Burrell
+  |votes      = 182
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Derek Norman
+  |votes      = 172
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ruth Pugh
+  |votes      = 167
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Veronica Hufford
+  |votes      = 165
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Phyllis Gibson
+  |votes      = 159
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,820
+  |percentage = 38.9
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Kimbolton and Staughton<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jonathan Gray
+  |votes      = 790
+  |percentage = 62.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Jennifer O'Dell
+  |votes      = 198
+  |percentage = 15.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anthony Withers
+  |votes      = 190
+  |percentage = 15.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Catherine Gillinder
+  |votes      = 83
+  |percentage = 6.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 592
+  |percentage = 46.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,261
+  |percentage = 52.3
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Little Paxton<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Clarke
+  |votes      = 811
+  |percentage = 70.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Paul Main
+  |votes      = 272
+  |percentage = 23.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Janet Boston
+  |votes      = 75
+  |percentage = 6.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 539
+  |percentage = 46.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,158
+  |percentage = 48.8
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ramsey (3 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Phillip Swales
+  |votes      = 1,072
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Muir
+  |votes      = 1,003
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Raymond Powell
+  |votes      = 939
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Norah Wagstaffe
+  |votes      = 933
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Janet Dutton
+  |votes      = 763
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alastair Taylor
+  |votes      = 596
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Carol Harper
+  |votes      = 218
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Aidan Hervey
+  |votes      = 182
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 5,706
+  |percentage = 37.0
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Sawtry (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Richard Tuplin
+  |votes      = 1,513
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Garner
+  |votes      = 1,292
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Marlene Johnson
+  |votes      = 665
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mary Howell
+  |votes      = 159
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,629
+  |percentage = 43.0
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Somersham (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stephen Criswell
+  |votes      = 1,227
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Newman
+  |votes      = 1,052
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anthony Hulme
+  |votes      = 733
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Leona Graham-Elen
+  |votes      = 572
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Karen Webb
+  |votes      = 145
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Legalise Cannabis Alliance
+  |candidate  = Marcus Davies
+  |votes      = 77
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,806
+  |percentage = 46.6
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Ives East (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = [[Jason Ablewhite]]
+  |votes      = 912
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Deborah Reynolds
+  |votes      = 889
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Hodge
+  |votes      = 478
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robin Waters
+  |votes      = 407
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Brown
+  |votes      = 216
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Angela Richards
+  |votes      = 210
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,112
+  |percentage = 34.9
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Ives South (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Davies
+  |votes      = 1,110
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Douglas Dew
+  |votes      = 1,014
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Angela Bush
+  |votes      = 619
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gilly Jackson
+  |votes      = 516
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Richard Allen
+  |votes      = 193
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Watson
+  |votes      = 157
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,609
+  |percentage = 39.9
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Ives West<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kevin Reynolds
+  |votes      = 492
+  |percentage = 50.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Deborah Townsend
+  |votes      = 408
+  |percentage = 41.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Nelson
+  |votes      = 78
+  |percentage = 8.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 84
+  |percentage = 8.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 978
+  |percentage = 43.6
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Neots Eaton Ford (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kathleen Gregory
+  |votes      = 1,162
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Harty
+  |votes      = 992
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sandra Giles
+  |votes      = 891
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Derek Cooper
+  |votes      = 830
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Nicholls
+  |votes      = 163
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,038
+  |percentage = 41.8
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Neots Eaton Socon (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Derek Giles
+  |votes      = 680
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gordon Thorpe
+  |votes      = 650
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Rodney Farrer
+  |votes      = 608
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elaine Kadic
+  |votes      = 514
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Douglas Brown
+  |votes      = 128
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,580
+  |percentage = 33.3
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Neots Eynesbury (3 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Hansard
+  |votes      = 933
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Diana Collins
+  |votes      = 910
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ian Taylor
+  |votes      = 872
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Ursell
+  |votes      = 832
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Patricia Hopewell
+  |votes      = 819
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Mackender-Lawrence
+  |votes      = 725
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = George Harrison
+  |votes      = 286
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 5,377
+  |percentage = 30.1
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Neots Priory Park (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paula Longford
+  |votes      = 930
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nicholas Finnie
+  |votes      = 878
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Thomas Mumford
+  |votes      = 550
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robert Eaton
+  |votes      = 528
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William O'Connor
+  |votes      = 178
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,064
+  |percentage = 37.2
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Stilton<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Mitchell
+  |votes      = 688
+  |percentage = 63.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Davidson
+  |votes      = 291
+  |percentage = 27.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steven Hicks
+  |votes      = 98
+  |percentage = 9.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 397
+  |percentage = 36.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,077
+  |percentage = 46.5
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=The Hemingfords (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Bates
+  |votes      = 1,336
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Christopher Stephens
+  |votes      = 1,210
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Dickson
+  |votes      = 842
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Brian Wallis
+  |votes      = 832
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Donald Walton
+  |votes      = 225
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Philip Sly
+  |votes      = 121
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Rosalie Trayner
+  |votes      = 117
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,683
+  |percentage = 55.4
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Upwood and The Raveleys<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Bell
+  |votes      = 468
+  |percentage = 48.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Souter
+  |votes      = 436
+  |percentage = 45.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Susan Coomey
+  |votes      = 57
+  |percentage = 5.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 32
+  |percentage = 3.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 961
+  |percentage = 40.2
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Warboys and Bury (2 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jack Taylor
+  |votes      = 1,051
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Bucknell
+  |votes      = 1,008
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Normington
+  |votes      = 929
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Terence Palmer
+  |votes      = 782
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Marie Baker
+  |votes      = 162
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,932
+  |percentage = 47.3
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Yaxley and Farcet (3 seats)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Watt
+  |votes      = 1,726
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Eric Butler
+  |votes      = 1,619
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Madhabi Banerjee
+  |votes      = 1,197
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Goddard
+  |votes      = 622
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Graeme Watkins
+  |votes      = 617
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Cochrane
+  |votes      = 525
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 6,306
+  |percentage = 32.5
+  |change     = 
+}}
+{{Election box end}}
+
+==By-elections between 2004 and 2006==
+
+{{Election box begin | title=Little Paxton by-election 5 May 2005<ref name="byelection">{{cite web|url=http://www.gwydir.demon.co.uk/byelections/index.htm|title=Local Authority Byelection Results|access-date=4 July 2014|archive-date=29 March 2010|archive-url=https://web.archive.org/web/20100329041227/http://www.gwydir.demon.co.uk/byelections/index.htm|url-status=dead}}</ref><ref name="paxton">{{cite web|url=http://www.huntsdc.gov.uk/NR/rdonlyres/94AB1327-B036-4831-97F6-73976FA945F7/0/LittlePaxtonWardElectionResults2005.pdf|title=Declaration of result of poll|work=Huntingdonshire District Council|access-date=4 July 2014|archive-url=https://web.archive.org/web/20060926112457/http://www.huntsdc.gov.uk/NR/rdonlyres/94AB1327-B036-4831-97F6-73976FA945F7/0/LittlePaxtonWardElectionResults2005.pdf|archive-date=26 September 2006}}</ref>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kenneth Churchill
+  |votes      = 920
+  |percentage = 56.7
+  |change     = -13.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Allan Hunt
+  |votes      = 703
+  |percentage = 43.3
+  |change     = +19.8
+}}
+{{Election box majority|
+  |votes      = 217
+  |percentage = 13.4
+  |change     = -33.1
+}}
+{{Election box turnout|
+  |votes      = 1,623
+  |percentage = 69.0
+  |change     = +20.2
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing  = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Cambridgeshire elections}}
+{{United Kingdom local elections, 2004}}
+
+[[Category:2004 English local elections|Huntingdonshire District Council election]]
+[[Category:Huntingdonshire District Council elections|2004]]
+[[Category:2000s in Cambridgeshire|Huntingdonshire District Council election, 2004]]

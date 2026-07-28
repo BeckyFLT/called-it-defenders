@@ -1,0 +1,1287 @@
+{{Short description|2008 UK local government election}}
+{{Use dmy dates|date=September 2019}}
+{{Use British English|date=November 2013}}
+
+{{Infobox election
+| election_name = 2008 Barnsley Metropolitan Borough Council election
+| country = England
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2007 Barnsley Metropolitan Borough Council election]]
+| previous_year = [[2007 Barnsley Metropolitan Borough Council election|2007]]
+| next_election = [[2010 Barnsley Metropolitan Borough Council election]]
+| next_year = [[2010 Barnsley Metropolitan Borough Council election|2010]]
+| seats_for_election = One third of seats (23 of 63) to [[Barnsley Metropolitan Borough Council]]
+| majority_seats = 32
+| election_date = 1 May 2008
+
+| party1          = Barnsley Independent Group
+| seats1          = 10
+| seat_change1    = {{increase}}2
+| swing1          =
+
+| party2          = Labour Party (UK)
+| seats2          = 8
+| seat_change2    = {{decrease}}1
+| swing2          =
+
+| party3          = Conservative Party (UK)
+| seats3          = 2
+| seat_change3    = {{increase}}1
+| swing3          =
+
+| map_image = Barnsley UK local election 2008 map.svg
+| map_size = 400px
+| map_caption = Map of the 2008 Barnsley council election results. Barnsley Independent in teal, [[Labour Party (UK)|Labour]] in red, [[Conservative Party (UK)|Conservatives]] in blue,  [[Liberal Democrats (UK)|Liberal Democrats]] in yellow and [[Independent (politician)|Independent]] in grey.
+| title = Majority party
+| posttitle = Majority party after election
+| before_election = [[Labour Party (UK)|Labour]]
+| before_party = 
+| after_election = [[Labour Party (UK)|Labour]]
+| after_party = 
+}}
+
+The '''2008 Barnsley Metropolitan Borough Council election''' took place on 1 May 2008 to elect members of [[Metropolitan Borough of Barnsley|Barnsley]] [[Metropolitan Borough]] Council in [[South Yorkshire]], [[England]]. One third of the council, alongside an additional vacancy in Old Town was up for election. Prior to the election the defending councillor in Penistone West, having earlier defected from [[Conservative Party (UK)|Conservative]] to the Barnsley Independent Group, fought the election as an [[Independent (politician)|Independent]]. The [[Labour Party (UK)|Labour Party]] stayed in overall control of the council.<ref name="change">{{cite news|url=https://news.bbc.co.uk/2/shared/bsp/hi/elections/local_council/08/html/cc.stm|title=Barnsley|work=[[BBC News Online]]|access-date=20 June 2011}}</ref>
+
+==Election result==
+Before the election it had been thought that the Labour Party might lose overall control of the council but they held on by only one seat.<ref name="big">{{cite news |date=2 May 2008 |title=BIG Gain on Labour Council |url=http://www.barnsleynews.co.uk/barnsley-news/10-news/42-big-gain-on-labour-council |access-date=23 August 2008 |newspaper=Barnsley News}} {{Dead link|date=October 2010|bot=H3llBot|fix-attempted=yes}}</ref><ref name=maintains>{{cite news | url = http://www.thestar.co.uk/barnsley/ELECTIONS-3908-Labour-maintains-control.4045584.jp | title = ELECTIONS '08: Labour maintains control in Barnsley | access-date = 23 August 2008 | date = 2 May 2008 | newspaper = The Star }}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> They lost two seats to the Barnsley Independent Group but gained one seat from the [[Liberal Democrats (UK)|Liberal Democrats]] to hold on.<ref name=power>{{cite news| url = https://news.bbc.co.uk/2/hi/uk_news/england/south_yorkshire/7378924.stm | title = Lib Dems take power in Sheffield | access-date = 23 August 2008 | date = 2 May 2008 | work = [[BBC Online]]}}</ref> The Barnsley Independent Group also lost 1 seat to the Conservatives.  Overall turnout was 34.78%.<ref name=results>{{cite web | url = http://www.barnsley.gov.uk/bguk/Council_Democracy/Press_Releases/May/Local%20election%20results%202008.html | title = Local election results 2008 | access-date = 17 August 2008 | publisher = Barnsley Metropolitan Borough Council | archive-url = https://web.archive.org/web/20090102172643/http://www.barnsley.gov.uk/bguk/Council_Democracy/Press_Releases/May/Local%20election%20results%202008.html | archive-date = 2 January 2009 | url-status = dead }}</ref>
+
+The losses for the Labour Party were blamed on government policies, such as on immigration and the abolition of the 10p [[income tax]] band, by the leader of the council, Steve Houghton, who was himself re-elected for [[Cudworth, South Yorkshire|Cudworth]] [[Wards of the United Kingdom|ward]].<ref name=republic>{{cite news| url = http://www.yorkshirepost.co.uk/election/Shaky-39republic39-hangs-on-by.4048182.jp | title = Shaky 'republic' hangs on by one seat | access-date = 23 August 2008 | date = 3 May 2008 | newspaper = [[Yorkshire Post]]| archive-url= https://web.archive.org/web/20080719194348/http://www.yorkshirepost.co.uk/election/Shaky-39republic39-hangs-on-by.4048182.jp| archive-date= 19 July 2008 | url-status= live}}</ref>
+
+{{Election summary begin|title = Barnsley Metropolitan Borough Council Election Result 2008<ref name="leap">{{cite web|url=https://www.andrewteale.me.uk/leap/results/2007/48/|title=Local Election Results 2007: Barnsley|publisher=Local Elections Archive Project|access-date= 9 August 2017}}</ref><ref name="results2">{{cite web| url = http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Barnsley-1973-2012.pdf | title = Elections Centre: Barnsley 1973-2012 | publisher = electionscentre.co.uk/plymouth.ac.uk |access-date = 25 July 2017 | archive-url = https://web.archive.org/web/20170725171829/http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Barnsley-1973-2012.pdf | archive-date = 25 July 2017}}</ref>}}
+{{Election summary party|
+  |party      = Barnsley Independent Group
+  |seats      = 10
+  |gain       = 2
+  |loss       = 0
+  |net        = +2
+  |seats %    = 45.5
+  |votes %    = 23.0
+  |votes      = 13,517
+  |plus/minus = -0.8
+}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 8
+  |gain       = 1
+  |loss       = 2
+  |net        = -1
+  |seats %    = 36.4
+  |votes %    = 31.4
+  |votes      = 18,443
+  |plus/minus = -7.8
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 2
+  |gain       = 1
+  |loss       = 0
+  |net        = +1
+  |seats %    = 9.1
+  |votes %    = 15.2
+  |votes      = 8,930
+  |plus/minus = +1.1
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 1
+  |net        = -1
+  |seats %    = 4.5
+  |votes %    = 6.6
+  |votes      = 3,880
+  |plus/minus = +1.0
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 1
+  |net        = -1
+  |seats %    = 4.5
+  |votes %    = 5.8
+  |votes      = 3,429
+  |plus/minus = +2.5
+}}
+{{Election summary party|
+  |party      = British National Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 17.0
+  |votes      = 9,959
+  |plus/minus = +3.4
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.8
+  |votes      = 440
+  |plus/minus = +0.3
+}}
+{{Election summary party|
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 76
+  |plus/minus = +0.1
+}}
+{{Election box end}}
+
+This resulted in the following composition of the council:<ref name="change" />
+
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 33
+| 32
+|-
+! style="background-color: {{party color|Barnsley Independent Group}}; width: 3px;" |
+| Barnsley Independent
+| 20
+| 22
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+| 5
+| 6
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent 
+| 3
+| 2
+|-
+! style="background-color: {{party color|Liberal Democrats (UK)}}; width: 3px;" |
+| Liberal Democrats
+| 2
+| 1
+|-
+! colspan=2| Total
+! style="text-align: center"| 63
+! colspan=3| 63
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|3|border=darkgray}}
+! {{Color box|#FFBF00|1|border=darkgray}}
+|}
+
+==Ward results==
+
++/- figures represent changes from the last time these wards were contested.
+
+{{Election box begin | title=Central<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Doug Birkinshaw
+  |votes      = 775
+  |percentage = 31.0
+  |change     = -12.2
+}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Noel Cowdell
+  |votes      = 660
+  |percentage = 26.4
+  |change     = +3.9
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Peter Marshall
+  |votes      = 621
+  |percentage = 24.8
+  |change     = -1.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Eddie Gouthwaite
+  |votes      = 243
+  |percentage = 9.7
+  |change     = +9.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Barr
+  |votes      = 202
+  |percentage = 8.1
+  |change     = -0.4
+}}
+{{Election box majority|
+  |votes      = 115
+  |percentage = 4.6
+  |change     = -12.8
+}}
+{{Election box turnout|
+  |votes      = 2,501
+  |percentage = 31.8
+  |change     = +1.0
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Liberal Democrats (UK)
+  |swing      = -8.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Cudworth<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steve Houghton
+  |votes      = 1,279
+  |percentage = 48.9
+  |change     = -25.6
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Terry Hubbard
+  |votes      = 650
+  |percentage = 24.9
+  |change     = +24.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Pam Kershaw
+  |votes      = 215
+  |percentage = 8.2
+  |change     = +8.2
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ian Sanders
+  |votes      = 184
+  |percentage = 7.0
+  |change     = +7.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Dorothy Shaw
+  |votes      = 183
+  |percentage = 7.0
+  |change     = -18.5
+}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = David Surgey
+  |votes      = 82
+  |percentage = 3.1
+  |change     = +3.1
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Tony Devoy
+  |votes      = 22
+  |percentage = 0.8
+  |change     = +0.8
+}}
+{{Election box majority|
+  |votes      = 629
+  |percentage = 24.0
+  |change     = -25.1
+}}
+{{Election box turnout|
+  |votes      = 2,615
+  |percentage = 32.8
+  |change     = +5.5
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = -25.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Darfield<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Ron Fisher
+  |votes      = 1,457
+  |percentage = 56.8
+  |change     = +11.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Brian Mathers
+  |votes      = 510
+  |percentage = 19.9
+  |change     = -9.2
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Steve O'Connor
+  |votes      = 316
+  |percentage = 12.3
+  |change     = -1.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gillian Milner
+  |votes      = 282
+  |percentage = 11.0
+  |change     = +4.4
+}}
+{{Election box majority|
+  |votes      = 947
+  |percentage = 46.9
+  |change     = +31.1
+}}
+{{Election box turnout|
+  |votes      = 2,565
+  |percentage = 32.7
+  |change     = -1.0
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = +10.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=Darton East<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Parkinson
+  |votes      = 1,044
+  |percentage = 34.5
+  |change     = -5.5
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Colin Porter
+  |votes      = 669
+  |percentage = 22.1
+  |change     = +4.9
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Race
+  |votes      = 606
+  |percentage = 20.0
+  |change     = +8.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Howard Pearson
+  |votes      = 490
+  |percentage = 16.2
+  |change     = +2.7
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sally Brook
+  |votes      = 220
+  |percentage = 7.3
+  |change     = +7.3
+}}
+{{Election box majority|
+  |votes      = 375
+  |percentage = 12.4
+  |change     = -9.8
+}}
+{{Election box turnout|
+  |votes      = 3,029
+  |percentage = 36.0
+  |change     = -1.1
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = -5.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Darton West<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alice Cave
+  |votes      = 1,173
+  |percentage = 36.8
+  |change     = -6.2
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Ian Sutton
+  |votes      = 919
+  |percentage = 28.8
+  |change     = +1.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gordon Wilkinson
+  |votes      = 554
+  |percentage = 17.4
+  |change     = +5.4
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jean Rowley
+  |votes      = 545
+  |percentage = 17.1
+  |change     = +17.1
+}}
+{{Election box majority|
+  |votes      = 254
+  |percentage = 8.0
+  |change     = -8.1
+}}
+{{Election box turnout|
+  |votes      = 3,191
+  |percentage = 38.8
+  |change     = -1.7
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = -4.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Dearne North<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jennifer Worton
+  |votes      = 853
+  |percentage = 40.2
+  |change     = -6.7
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Rob Garrett
+  |votes      = 392
+  |percentage = 18.5
+  |change     = -3.1
+}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Ian Garner
+  |votes      = 375
+  |percentage = 17.7
+  |change     = +13.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sarah Brook
+  |votes      = 316
+  |percentage = 14.9
+  |change     = -6.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Buckley
+  |votes      = 186
+  |percentage = 8.8
+  |change     = +3.4
+}}
+{{Election box majority|
+  |votes      = 461
+  |percentage = 21.7
+  |change     = -3.6
+}}
+{{Election box turnout|
+  |votes      = 2,122
+  |percentage = 26.2
+  |change     = -0.3
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = -1.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=Dearne South<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sharron Brook
+  |votes      = 1,094
+  |percentage = 39.6
+  |change     = +12.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ralph Sixsmith
+  |votes      = 934
+  |percentage = 33.8
+  |change     = -12.1
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = June Peel
+  |votes      = 590
+  |percentage = 21.3
+  |change     = -1.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Deborah Toon
+  |votes      = 146
+  |percentage = 5.3
+  |change     = +0.5
+}}
+{{Election box majority|
+  |votes      = 160
+  |percentage = 5.8
+  |change     = -13.3
+}}
+{{Election box turnout|
+  |votes      = 2,764
+  |percentage = 30.6
+  |change     = -2.2
+}}
+{{Election box hold with party link|
+ |winner      = Liberal Democrats (UK)
+ |swing       = +12.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=Dodworth<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Philip Birkinshaw
+  |votes      = 1,444
+  |percentage = 48.7
+  |change     = +10.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Pauline Haigh
+  |votes      = 654
+  |percentage = 22.0
+  |change     = -6.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = George Hill
+  |votes      = 456
+  |percentage = 15.4
+  |change     = +1.0
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Nick Parker
+  |votes      = 414
+  |percentage = 13.9
+  |change     = +0.8
+}}
+{{Election box majority|
+  |votes      = 790
+  |percentage = 26.7
+  |change     = +16.9
+}}
+{{Election box turnout|
+  |votes      = 2,968
+  |percentage = 37.9
+  |change     = -1.9
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = +8.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=Hoyland Milton<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Michael Brankin
+  |votes      = 1,159
+  |percentage = 40.4
+  |change     = -6.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robin Franklin
+  |votes      = 902
+  |percentage = 31.5
+  |change     = -11.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Pilkington
+  |votes      = 296
+  |percentage = 10.3
+  |change     = +0.8
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Simon Goodricke
+  |votes      = 289
+  |percentage = 10.1
+  |change     = +10.1
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Carol Robb
+  |votes      = 145
+  |percentage = 5.1
+  |change     = +5.1
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Wayne Harling
+  |votes      = 76
+  |percentage = 2.7
+  |change     = +2.7
+}}
+{{Election box majority|
+  |votes      = 257
+  |percentage = 8.9
+  |change     = +5.2
+}}
+{{Election box turnout|
+  |votes      = 2,867
+  |percentage = 32.1
+  |change     = +1.1
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = +2.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Kingstone<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Malcolm Price
+  |votes      = 1,016
+  |percentage = 45.7
+  |change     = +1.4
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kath Mitchell
+  |votes      = 565
+  |percentage = 25.4
+  |change     = -9.8
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Peter Robinson
+  |votes      = 407
+  |percentage = 18.3
+  |change     = +3.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Geoffrey Turvey
+  |votes      = 155
+  |percentage = 7.0
+  |change     = +1.6
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Frank Watson
+  |votes      = 80
+  |percentage = 3.6
+  |change     = +3.6
+}}
+{{Election box majority|
+  |votes      = 451
+  |percentage = 20.3
+  |change     = +11.1
+}}
+{{Election box turnout|
+  |votes      = 2,223
+  |percentage = 28.0
+  |change     = -2.8
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = +5.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Monk Bretton<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Grace Brown
+  |votes      = 911
+  |percentage = 33.4
+  |change     = +33.4
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Jane Hubbard
+  |votes      = 668
+  |percentage = 24.5
+  |change     = +7.4
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nadia Richardson
+  |votes      = 664
+  |percentage = 24.3
+  |change     = -19.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ken Smith
+  |votes      = 247
+  |percentage = 9.0
+  |change     = +9.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Murray
+  |votes      = 241
+  |percentage = 8.8
+  |change     = -1.7
+}}
+{{Election box majority|
+  |votes      = 243
+  |percentage = 8.9
+  |change     = -5.3
+}}
+{{Election box turnout|
+  |votes      = 2,731
+  |percentage = 33.3
+  |change     = +5.3
+}}
+{{Election box hold with party link|
+ |winner      = Independent (politician)
+ |swing       = +13.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=North East<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Danny Gillespie
+  |votes      = 1,522
+  |percentage = 45.9
+  |change     = +2.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Arthur Whittaker
+  |votes      = 1,183
+  |percentage = 35.7
+  |change     = -2.7
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Dennis Seilly
+  |votes      = 308
+  |percentage = 9.3
+  |change     = +2.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Frances Hamer
+  |votes      = 305
+  |percentage = 9.2
+  |change     = +3.5
+}}
+{{Election box majority|
+  |votes      = 339
+  |percentage = 10.2
+  |change     = +5.0
+}}
+{{Election box turnout|
+  |votes      = 3,318
+  |percentage = 36.2
+  |change     = -0.6
+}}
+{{Election box gain with party link|
+  |winner     = Barnsley Independent Group
+  |loser      = Labour Party (UK)
+  |swing      = +0.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Old Town (2)<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Bill Gaunt
+  |votes      = 1,503
+  |percentage = 48.6
+  |change     = -7.1
+}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = John Love
+  |votes      = 1,255
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Phil Davies
+  |votes      = 721
+  |percentage = 23.3
+  |change     = +1.6
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Daniel Cooke
+  |votes      = 564
+  |percentage = 18.2
+  |change     = +4.2
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Lancer White
+  |votes      = 424
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elizabeth Hill
+  |votes      = 306
+  |percentage = 9.9
+  |change     = -7.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alexander Wilkinson
+  |votes      = 227
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 782
+  |percentage = 25.3
+  |change     = -8.7
+}}
+{{Election box turnout|
+  |votes      = 5,000
+  |percentage = 37.0
+  |change     = +4.1
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = 
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = -4.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=Penistone East<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Wilson
+  |votes      = 2,050
+  |percentage = 52.8
+  |change     = +3.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jill Hayler
+  |votes      = 827
+  |percentage = 21.3
+  |change     = -2.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Trish Arundel
+  |votes      = 654
+  |percentage = 16.8
+  |change     = +0.1
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Kelly Thorpe
+  |votes      = 355
+  |percentage = 9.1
+  |change     = +9.1
+}}
+{{Election box majority|
+  |votes      = 1,223
+  |percentage = 31.5
+  |change     = +6.2
+}}
+{{Election box turnout|
+  |votes      = 3,886
+  |percentage = 41.4
+  |change     = +0.0
+}}
+{{Election box hold with party link|
+ |winner      = Conservative Party (UK)
+ |swing       = +3.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Penistone West<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Steve Webber
+  |votes      = 1,439
+  |percentage = 42.5
+  |change     = +1.5
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Brenda Hinchcliff
+  |votes      = 654
+  |percentage = 19.3
+  |change     = -6.5
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Paul James
+  |votes      = 550
+  |percentage = 16.2
+  |change     = +7.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Peter Starling
+  |votes      = 447
+  |percentage = 13.2
+  |change     = -2.7
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Lynda Pickersgill
+  |votes      = 295
+  |percentage = 8.7
+  |change     = +0.0
+}}
+{{Election box majority|
+  |votes      = 785
+  |percentage = 23.2
+  |change     = +8.0
+}}
+{{Election box turnout|
+  |votes      = 3,385
+  |percentage = 39.7
+  |change     = -2.1
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Independent (politician)
+  |swing      = -+4.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Rockingham<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Mary Brankin
+  |votes      = 1,336
+  |percentage = 42.1
+  |change     = -3.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Schofield
+  |votes      = 913
+  |percentage = 28.8
+  |change     = -13.8
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Paul Richardson
+  |votes      = 343
+  |percentage = 10.8
+  |change     = +10.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lesley Watkinson
+  |votes      = 296
+  |percentage = 9.3
+  |change     = -2.5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Patrick Connell-Fothergill
+  |votes      = 159
+  |percentage = 5.0
+  |change     = +5.0
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Bob Hannaghan
+  |votes      = 128
+  |percentage = 4.0
+  |change     = +4.0
+}}
+{{Election box majority|
+  |votes      = 423
+  |percentage = 13.3
+  |change     = +10.3
+}}
+{{Election box turnout|
+  |votes      = 3,175
+  |percentage = 37.0
+  |change     = +1.7
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = +5.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Royston<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Graham Kyte
+  |votes      = 1,202
+  |percentage = 46.9
+  |change     = +2.2
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Danny Oates
+  |votes      = 513
+  |percentage = 20.0
+  |change     = -1.3
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Paul Harris
+  |votes      = 392
+  |percentage = 15.3
+  |change     = +2.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Garry Needham
+  |votes      = 263
+  |percentage = 10.3
+  |change     = +1.7
+}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Daniel Pickering
+  |votes      = 195
+  |percentage = 7.6
+  |change     = -4.4
+}}
+{{Election box majority|
+  |votes      = 689
+  |percentage = 26.9
+  |change     = +3.5
+}}
+{{Election box turnout|
+  |votes      = 2,565
+  |percentage = 31.1
+  |change     = +0.8
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = +1.7
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Helens<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Len Picken
+  |votes      = 965
+  |percentage = 46.0
+  |change     = -11.6
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Lisa Brooksbank
+  |votes      = 635
+  |percentage = 30.3
+  |change     = +13.7
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Dennis Kelk
+  |votes      = 299
+  |percentage = 14.2
+  |change     = -4.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Toon
+  |votes      = 200
+  |percentage = 9.5
+  |change     = +2.4
+}}
+{{Election box majority|
+  |votes      = 330
+  |percentage = 15.7
+  |change     = -23.3
+}}
+{{Election box turnout|
+  |votes      = 2,099
+  |percentage = 26.5
+  |change     = +2.7
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = -12.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Stairfoot<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Fred Clowery
+  |votes      = 1,218
+  |percentage = 48.8
+  |change     = +20.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steve Redford
+  |votes      = 706
+  |percentage = 28.3
+  |change     = -13.2
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Susan Harris
+  |votes      = 350
+  |percentage = 14.0
+  |change     = -0.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Clive Watkinson
+  |votes      = 224
+  |percentage = 9.0
+  |change     = +3.9
+}}
+{{Election box majority|
+  |votes      = 512
+  |percentage = 20.5
+  |change     = +7.2
+}}
+{{Election box turnout|
+  |votes      = 2,498
+  |percentage = 31.0
+  |change     = +0.3
+}}
+{{Election box hold with party link|
+ |winner      = Barnsley Independent Group
+ |swing       = +16.9
+}}
+{{Election box end}}
+
+{{Election box begin | title=Wombwell<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Morgan
+  |votes      = 1,200
+  |percentage = 48.9
+  |change     = -10.3
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Lisa Goodricke
+  |votes      = 527
+  |percentage = 21.5
+  |change     = +7.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Keith Jenner
+  |votes      = 439
+  |percentage = 17.9
+  |change     = +6.3
+}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Ray Murdoch
+  |votes      = 286
+  |percentage = 11.7
+  |change     = -3.0
+}}
+{{Election box majority|
+  |votes      = 673
+  |percentage = 27.4
+  |change     = -17.1
+}}
+{{Election box turnout|
+  |votes      = 2,452
+  |percentage = 28.9
+  |change     = -0.4
+}}
+{{Election box hold with party link|
+ |winner      = Labour Party (UK)
+ |swing       = -8.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Worsbrough<ref name="results2" /><ref name="leap" />}}
+{{Election box candidate with party link|
+  |party      = Barnsley Independent Group
+  |candidate  = Gill Carr
+  |votes      = 1,264
+  |percentage = 48.1
+  |change     = +16.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Terry Bristowe
+  |votes      = 926
+  |percentage = 35.3
+  |change     = +0.1
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Pat Durie
+  |votes      = 219
+  |percentage = 8.3
+  |change     = -2.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Hamer
+  |votes      = 217
+  |percentage = 8.3
+  |change     = +2.8
+}}
+{{Election box majority|
+  |votes      = 338
+  |percentage = 12.8
+  |change     = +9.3
+}}
+{{Election box turnout|
+  |votes      = 2,626
+  |percentage = 34.7
+  |change     = +0.7
+}}
+{{Election box gain with party link|
+  |winner     = Barnsley Independent Group
+  |loser      = Labour Party (UK)
+  |swing      = +8.2
+}}
+{{Election box end}}
+
+==By-elections between 2008 and 2010==
+
+{{Election box begin | title=St. Helen's 15 October 2009 By-election<ref name=fends>{{cite news| url = https://www.lgcplus.com/policy-and-politics/elections/labour-fends-off-bnp-to-hold-barnsley/5007457.article | title = Labour fends off BNP to hold Barnsley | access-date = 17 October 2009 | date = 16 October 2009 | newspaper = [[Local Government Chronicle]]}}</ref><ref>{{cite news |url=http://www.thestar.co.uk/whats-on/out-and-about/labour-retain-barnsley-but-bnp-second-in-by-election-video-1-300976 |title=Labour retain Barnsley but BNP second in by-election |archive-url=https://web.archive.org/web/20170812212936/http://www.thestar.co.uk/whats-on/out-and-about/labour-retain-barnsley-but-bnp-second-in-by-election-video-1-300976 |archive-date=12 August 2017 |access-date=12 August 2017 |newspaper=The Star}}</ref>
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Roy Butterwood|votes=1,520|percentage=59.8|change=+13.8}}
+{{Election box candidate with party link||party=British National Party|candidate=Lisa Brooksbank|votes=590|percentage=23.2|change=-7.1}}
+{{Election box candidate with party link||party=Barnsley Independent Group|candidate=Daniel Pickering|votes=171|percentage=6.7|change=+6.7}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Neil Robinson|votes=94|percentage=3.7|change=+3.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Clive Watkinson|votes=83|percentage=3.5|change=-6.0}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Eddie Gouthwaite|votes=78|percentage=3.1|change=+3.1}}
+{{Election box majority||votes=930|percentage=36.6|change=+20.9}}
+{{Election box turnout||votes=2,542|percentage=31.0|change=+4.5}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = +10.4
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2008}}
+
+[[Category:2008 English local elections]]
+[[Category:Barnsley Council elections|2008]]
+[[Category:2000s in South Yorkshire]]

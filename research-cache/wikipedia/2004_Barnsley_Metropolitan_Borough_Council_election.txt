@@ -1,0 +1,1770 @@
+{{Short description|2004 UK local government election}}
+{{Use dmy dates|date=March 2025}}
+{{Use British English|date=November 2013}}
+{{Infobox election
+| election_name = 2004 Barnsley Metropolitan Borough Council election
+| country = England
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2003 Barnsley Metropolitan Borough Council election]]
+| previous_year = [[2003 Barnsley Metropolitan Borough Council election|2003]]
+| next_election = [[2006 Barnsley Metropolitan Borough Council election]]
+| next_year = [[2006 Barnsley Metropolitan Borough Council election|2006]]
+| seats_for_election = All 63 seats to [[Barnsley Metropolitan Borough Council]]
+| majority_seats = 32
+| election_date = 10 June 2004
+
+| party1          = Labour Party (UK)
+| seats1          = 33
+| seat_change1    = {{steady}}
+| swing1          =
+
+| party2          = Independent (politician)
+| seats2          = 22
+| seat_change2    = {{steady}}
+| swing2          =
+
+| party3          = Conservative Party (UK)
+| seats3          = 5
+| seat_change3    = {{steady}}
+| swing3          =
+
+| map_image = Barnsley UK local election 2004 map.svg
+| map_size = 400px
+| map_caption = Map of the 2004 Barnsley council election results. [[Labour Party (UK)|Labour]] in red, [[Independent (politician)|Independents]] in grey, [[Conservative Party (UK)|Conservatives]] in blue and [[Liberal Democrats (UK)|Lib Dems]] in yellow.
+| title = Majority party
+| posttitle = Majority party after election
+| before_election = [[Labour Party (UK)|Labour]]
+| before_party = 
+| after_election = [[Labour Party (UK)|Labour]]
+| after_party = 
+}}
+
+The '''2004 Barnsley Metropolitan Borough Council election''' took place on 10 June 2004 to elect members of [[Metropolitan Borough of Barnsley|Barnsley]] [[Metropolitan Borough]] Council in [[South Yorkshire]], England. The whole council was up for election with boundary changes since the [[2003 Barnsley Council election|last election in 2003]] reducing the number of seats by 3.<ref name="hold">{{cite news|url=http://news.bbc.co.uk/1/shared/bsp/hi/vote2004/locals/html/3651.stm|title=Barnsley council|work=BBC News|access-date=18 June 2011}}</ref> The [[Labour Party (UK)|Labour party]] stayed in overall control of the council.<ref name="results2">{{cite web| url = http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Barnsley-1973-2012.pdf | title = Elections Centre: Barnsley 1973–2012 | publisher = electionscentre.co.uk|access-date = 25 July 2017 | archive-url = https://web.archive.org/web/20170725171829/http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Barnsley-1973-2012.pdf | archive-date = 25 July 2017}}</ref>
+
+==Election result==
+
+{{Election summary begin|title = Barnsley Metropolitan Borough Council Election Result 2004<ref name="results">{{cite web|url=http://www.barnsley.gov.uk/2004-local-elections|title=2004 Local Elections|publisher=Barnsley Council|access-date=18 June 2011|archive-url=https://web.archive.org/web/20110724165552/http://www.barnsley.gov.uk/2004-local-elections|archive-date=24 July 2011|url-status=dead}}</ref><ref name="results2"/><ref name="leap">{{cite web|url=http://www.andrewteale.me.uk/leap/results/2004/48/|title=Local Election Results 2004: Barnsley|publisher=Local Elections Archive Project|access-date= 9 August 2017}}</ref>}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 33
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 52.4
+  |votes %    = 36.4
+  |votes      = 26,756
+  |plus/minus = -13.7
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 22
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 34.9
+  |votes %    = 29.1
+  |votes      = 21,429
+  |plus/minus = +6.9
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 5
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 7.9
+  |votes %    = 14.3
+  |votes      = 10,530
+  |plus/minus = -0.9
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 3
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 4.8
+  |votes %    = 13.2
+  |votes      = 9,719
+  |plus/minus = +2.4
+}}
+{{Election summary party|
+  |party      = British National Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 6.9
+  |votes      = 5,092
+  |plus/minus = +5.9
+}}
+{{Election box end}}
+
+This resulted in the following composition of the council:<ref name="results2" /><ref name="leap" />
+
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 47
+| 33
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent
+| 10
+| 22
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+| 5
+| 5
+|-
+! style="background-color: {{party color|Liberal Democrats (UK)}}; width: 3px;" |
+| Liberal Democrats
+| 4
+| 3
+|-
+! colspan=2| Total
+! style="text-align: center"| 66
+! colspan=3| 63
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|28|border=darkgray}}
+! {{Color box|#FFBF00|3|border=darkgray}}
+|}
+
+==Ward results==
+
+{{Election box begin | title=Central (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ian Guest
+  |votes      = 1,154
+  |percentage = 41.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael Stokes
+  |votes      = 984
+  |percentage = 35.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Don Hutton
+  |votes      = 951
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Thomas Sheard
+  |votes      = 939
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Politano
+  |votes      = 865
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Bruff
+  |votes      = 844
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Marie Gardner
+  |votes      = 401
+  |percentage = 14.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Geoffrey Turvey
+  |votes      = 256
+  |percentage = 9.2
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 170
+  |percentage = 6.1
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,394
+  |percentage = 34.3
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Liberal Democrats (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Cudworth (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stephen Houghton CBE
+  |votes      = 1,675
+  |percentage = 51.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Charlie Wraith
+  |votes      = 1,634
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joseph Hayward
+  |votes      = 1,615
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Edgar Auckland
+  |votes      = 716
+  |percentage = 21.9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Alwyn Hodgson
+  |votes      = 700
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ian Sanders
+  |votes      = 490
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Pamela Kershaw
+  |votes      = 370
+  |percentage = 11.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Paul Tibble
+  |votes      = 314
+  |percentage = 9.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Rowley
+  |votes      = 187
+  |percentage = 5.7
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 959
+  |percentage = 29.4
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 7,701
+  |percentage = 37.0
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Darfield (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ronald Fisher
+  |votes      = 1,730
+  |percentage = 47.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = David Wainwright
+  |votes      = 1,416
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Trevor Smith
+  |votes      = 1,317
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gillian Bates
+  |votes      = 1,113
+  |percentage = 30.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Brian Mathers
+  |votes      = 756
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Sykes
+  |votes      = 681
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sally Brook
+  |votes      = 303
+  |percentage = 8.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = David Highway
+  |votes      = 272
+  |percentage = 7.4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Barr
+  |votes      = 252
+  |percentage = 6.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 617
+  |percentage = 16.8
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 7,840
+  |percentage = 40.0
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Darton East (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Parkinson
+  |votes      = 1,341
+  |percentage = 35.9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patrick Miller
+  |votes      = 1,284
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Thomas Cullum
+  |votes      = 1,190
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Race
+  |votes      = 850
+  |percentage = 22.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Barnard
+  |votes      = 768
+  |percentage = 20.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Christopher Tummons
+  |votes      = 496
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Patrick Logan
+  |votes      = 471
+  |percentage = 12.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gordon Wilkinson
+  |votes      = 470
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = George Hill
+  |votes      = 457
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Edward Gouthwaite
+  |votes      = 335
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Jacqueline Hall
+  |votes      = 305
+  |percentage = 8.2
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 491
+  |percentage = 13.1
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 7,967
+  |percentage = 47.4
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Darton West (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Jenkinson
+  |votes      = 1,102
+  |percentage = 30.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Linda Burgess
+  |votes      = 1,073
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Susan Simmons
+  |votes      = 989
+  |percentage = 27.5
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steve Redford
+  |votes      = 963
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Michael Walsh
+  |votes      = 816
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Mehdi Ghaffarian
+  |votes      = 695
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jack Orr
+  |votes      = 596
+  |percentage = 16.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Kenneth Smith
+  |votes      = 546
+  |percentage = 15.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Clive Watkinson
+  |votes      = 545
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tony Short
+  |votes      = 539
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Cheryl Saxton
+  |votes      = 358
+  |percentage = 10.0
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 113
+  |percentage = 3.1
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,222
+  |percentage = 40.2
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Dearne North (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Hancock
+  |votes      = 1,319
+  |percentage = 48.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Gardiner
+  |votes      = 1,302
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Janice Hancock
+  |votes      = 1,271
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sarah Gardiner
+  |votes      = 1,065
+  |percentage = 39.4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stuart Wilkinson
+  |votes      = 322
+  |percentage = 11.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 254
+  |percentage = 9.4
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 5,279
+  |percentage = 32.2
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Dearne South (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sharron Brook
+  |votes      = 1,687
+  |percentage = 46.5
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kenneth Sanderson
+  |votes      = 1,670
+  |percentage = 46.0
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Thomson
+  |votes      = 1,489
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = May Noble
+  |votes      = 1,427
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brent Wood
+  |votes      = 272
+  |percentage = 7.5
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 17
+  |percentage = 0.5
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,545
+  |percentage = 36.2
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Liberal Democrats (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Dodworth (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Phillip Birkinshaw
+  |votes      = 2,013
+  |percentage = 59.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Brian Perrin
+  |votes      = 1,920
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Charles Parker
+  |votes      = 1,761
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Phillip Lofts
+  |votes      = 904
+  |percentage = 26.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Ryan
+  |votes      = 848
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Yvonne Saunder
+  |votes      = 829
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Milner
+  |votes      = 452
+  |percentage = 13.4
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 1,109
+  |percentage = 32.9
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,727
+  |percentage = 43.4
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Hoyland Milton (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Michael Brankin
+  |votes      = 1,852
+  |percentage = 55.5
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Lipscombe
+  |votes      = 1,599
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Trevor Naylor
+  |votes      = 1,520
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robin Franklin
+  |votes      = 1,132
+  |percentage = 33.9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patricia Wordsworth
+  |votes      = 956
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Timothy Shepherd
+  |votes      = 920
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Marjorie Cale-Morgan
+  |votes      = 354
+  |percentage = 10.6
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 720
+  |percentage = 21.6
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,333
+  |percentage = 39.0
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Kingstone (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Malcolm Price
+  |votes      = 1,259
+  |percentage = 52.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Malcolm Hall
+  |votes      = 1,240
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Donna Hollins
+  |votes      = 1,152
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alice Cave
+  |votes      = 937
+  |percentage = 38.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Peter Doyle
+  |votes      = 863
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Brian Swaine
+  |votes      = 797
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Garry Needham
+  |votes      = 217
+  |percentage = 9.0
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 322
+  |percentage = 13.3
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,465
+  |percentage = 33.1
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Monk Bretton (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Grace Brown
+  |votes      = 1,299
+  |percentage = 41.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Sheard
+  |votes      = 1,158
+  |percentage = 37.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kenneth Richardson
+  |votes      = 1,026
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Beryl Oldroyd
+  |votes      = 962
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Steven Jones
+  |votes      = 906
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Michael Moore
+  |votes      = 718
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roger Hinchliff
+  |votes      = 333
+  |percentage = 10.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Susan Harris
+  |votes      = 326
+  |percentage = 10.5
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 141
+  |percentage = 4.5
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,728
+  |percentage = 35.2
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=North East (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Arthur Whittaker
+  |votes      = 1,759
+  |percentage = 50.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alex Vodden
+  |votes      = 1,716
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Leah Dorothy Higginbotton
+  |votes      = 1,601
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Frank Hardy
+  |votes      = 1,020
+  |percentage = 29.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Antony Devoy
+  |votes      = 709
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Edward Devoy
+  |votes      = 667
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = David Saxton
+  |votes      = 411
+  |percentage = 11.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Murray
+  |votes      = 310
+  |percentage = 8.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 739
+  |percentage = 21.1
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,193
+  |percentage = 37.8
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Old Town (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Bill Gaunt
+  |votes      = 1,551
+  |percentage = 43.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Sandra Birkinshaw
+  |votes      = 1,531
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Peter Middleton
+  |votes      = 1,318
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Philip Davies
+  |votes      = 909
+  |percentage = 25.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Cawthorne
+  |votes      = 862
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William Denton
+  |votes      = 759
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Tony Conway
+  |votes      = 639
+  |percentage = 17.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = John Lee
+  |votes      = 273
+  |percentage = 7.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Morrell
+  |votes      = 228
+  |percentage = 6.3
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 642
+  |percentage = 17.8
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,070
+  |percentage = 40.2
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Penistone East (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Deborah Toon
+  |votes      = 2,028
+  |percentage = 40.9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alec Rowley
+  |votes      = 1,940
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Smith
+  |votes      = 1,664
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jill Hayler
+  |votes      = 1,341
+  |percentage = 27.0
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Teresa Arundel
+  |votes      = 1,147
+  |percentage = 23.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William Jones
+  |votes      = 1,125
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robert Hannagan
+  |votes      = 982
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Geoffrey Broadley
+  |votes      = 447
+  |percentage = 9.0
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 687
+  |percentage = 13.8
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 10,674
+  |percentage = 48.5
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Conservative Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Conservative Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Penistone West (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brenda Hinchliff
+  |votes      = 1,815
+  |percentage = 34.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = George Punt
+  |votes      = 1,779
+  |percentage = 33.9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Benedict Marsden
+  |votes      = 1,391
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joseph Unsworth
+  |votes      = 1,194
+  |percentage = 22.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Wilson
+  |votes      = 797
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Peter Keys
+  |votes      = 597
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Clarke
+  |votes      = 582
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Kelly Thorpe
+  |votes      = 456
+  |percentage = 8.7
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 36
+  |percentage = 0.7
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,611
+  |percentage = 43.8
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Conservative Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Rockingham (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Mary Brankin
+  |votes      = 1,494
+  |percentage = 41.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Schofield
+  |votes      = 1,397
+  |percentage = 38.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = James Andrews
+  |votes      = 1,342
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Alison Robinson
+  |votes      = 1,330
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sharon Howard
+  |votes      = 1,291
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Geoffrey Howell
+  |votes      = 1,242
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Lorraine Lee
+  |votes      = 383
+  |percentage = 10.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elizabeth Hill
+  |votes      = 345
+  |percentage = 9.5
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 97
+  |percentage = 2.7
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 8,824
+  |percentage = 40.8
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Royston (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Graham Kyte
+  |votes      = 1,510
+  |percentage = 43.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bill Newman
+  |votes      = 1,345
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Howard Lavender
+  |votes      = 1,266
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Leslie Brooke
+  |votes      = 952
+  |percentage = 27.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kathleen Leeds
+  |votes      = 511
+  |percentage = 14.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Paul Harris
+  |votes      = 480
+  |percentage = 13.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 558
+  |percentage = 16.2
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,064
+  |percentage = 34.9
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Helen's (3)}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Leonard Picken
+  |votes      = 1,109
+  |percentage = 38.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Roy Butterwood
+  |votes      = 1,055
+  |percentage = 36.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Bostwick
+  |votes      = 958
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Pat Newman
+  |votes      = 917
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jack Brown
+  |votes      = 771
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rhiannon Rees
+  |votes      = 340
+  |percentage = 11.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = June Gough
+  |votes      = 245
+  |percentage = 8.4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Anne Campbell
+  |votes      = 156
+  |percentage = 5.4
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 54
+  |percentage = 1.9
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 5,551
+  |percentage = 30.5
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Stairfoot (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Fred Clowery
+  |votes      = 1,163
+  |percentage = 41.0
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Karen Dyson
+  |votes      = 1,162
+  |percentage = 41.0
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jim Smith
+  |votes      = 1,064
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Geoffrey Hill
+  |votes      = 974
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mick Dunlavey
+  |votes      = 941
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Peter Pleasants 
+  |votes      = 927
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Brian Cookson
+  |votes      = 583
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jacqueline Walker
+  |votes      = 345
+  |percentage = 12.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Frank Watson
+  |votes      = 271
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Toon
+  |votes      = 165
+  |percentage = 5.8
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 1
+  |percentage = 0.0
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 7,595
+  |percentage = 36.9
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Independent (politician)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Wombwell (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Morgan
+  |votes      = 1,431
+  |percentage = 36.5
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Richard Wraith
+  |votes      = 1,324
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Denise Wilde
+  |votes      = 1,233
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Arthur O'Loughlin
+  |votes      = 890
+  |percentage = 22.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Christopher Harding
+  |votes      = 786
+  |percentage = 20.0
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Victoria Seeviour
+  |votes      = 421
+  |percentage = 10.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Angus Toon
+  |votes      = 393
+  |percentage = 10.0
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 541
+  |percentage = 13.8
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,478
+  |percentage = 36.4
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+{{Election box begin | title=Worsborough (3)<ref name=results/><ref name=results2/><ref name=leap/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Terry Bristowe
+  |votes      = 1,609
+  |percentage = 41.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = James Rae
+  |votes      = 1,526
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Eunice Taylor
+  |votes      = 1,284
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Patricia Durie
+  |votes      = 866
+  |percentage = 22.4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Stephen Hart
+  |votes      = 817
+  |percentage = 21.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elizabeth Elders
+  |votes      = 570
+  |percentage = 14.8
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 743
+  |percentage = 19.2
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 6,672
+  |percentage = 38.19
+  |change     = ''N/A''
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box new seat win |
+  |winner = Labour Party (UK)
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2004}}
+
+[[Category:2004 English local elections]]
+[[Category:Barnsley Council elections|2004]]
+[[Category:2000s in South Yorkshire]]

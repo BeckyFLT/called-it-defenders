@@ -1,0 +1,2006 @@
+{{Short description|2019 UK local government election}}
+{{Use dmy dates|date=August 2019}}
+{{More citations needed|date=June 2019}}
+
+{{Infobox election
+| election_name     = 2019 East Devon District Council election
+| country           = Devon
+| type              = parliamentary
+| previous_election = 2015 East Devon District Council election
+| previous_year     = 2015
+| outgoing_members  = 
+| election_date     = {{Start date|2019|5|2|df=y}}
+| elected_members   = 
+| next_election     = 2023 East Devon District Council election
+| next_year         = 2023
+| seats_for_election= All 60 seats to [[East Devon District Council]]
+| majority_seats    = 31
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = 
+| party1            = Conservative Party (UK)
+| leader_since1     = 
+| last_election1    = 37 seats, 47.2%
+| leaders_seat1     = 
+| seats_before1     = 
+| seats1            = '''20'''
+| seats_after1      = 
+| seat_change1      = {{decrease}} 17
+| popular_vote1     = 28,388
+| percentage1       = 36.2%
+| swing1            = {{decrease}} 11.0%
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = 
+| party2            = Independent politician
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 6 seats, 9.2%
+| seats_before2     = 
+| seats2            = '''19'''
+| seats_after2      = 
+| seat_change2      = {{increase}} 13
+| popular_vote2     = 18,542
+| percentage2       = 23.6%
+| swing2            = {{increase}} 14.4%
+<!-- Party 3 -->
+| image3            = [[File:No image wide.svg|95x50px|Blank]]
+| leader3           = 
+| party3            = East Devon Alliance
+| leader_since3     =
+| leaders_seat3     = 
+| last_election3    = 10 seats, 20.0%
+| seats_before3     = 
+| seats3            = '''11'''
+| seats_after3      = 
+| seat_change3      = {{increase}} 1
+| popular_vote3     = 10,991
+| percentage3       = 14.0%
+| swing3            = {{decrease}} 6.0%
+<!-- Party 4 -->
+| image4            = [[File:No image wide.svg|95x50px|Blank]]
+| leader4           = 
+| party4            = Liberal Democrats (UK)
+| leader_since4     =
+| leaders_seat4     = 
+| last_election4    = 6 seats, 12.8%
+| seats_before4     = 
+| seats4            = '''8'''
+| seats_after4      = 
+| seat_change4      = {{increase}} 2
+| popular_vote4     = 12,042
+| percentage4       = 15.3%
+| swing4            = {{increase}} 2.5%
+<!-- Party 5 -->
+| image5            = [[File:No image wide.svg|95x50px|Blank]]
+| leader5           = 
+| party5            = Green Party of England and Wales
+| leader_since5     = 
+| leaders_seat5     = 
+| last_election5    = 0 seats, 3.1%
+| seats_before5     = 
+| seats5            = '''2'''
+| seats_after5      = 
+| seat_change5      = {{increase}} 2
+| popular_vote5     = 2,667
+| percentage5       = 3.4%
+| swing5            = {{increase}} 0.3%
+| map_image         = East Devon UK ward map 2019.svg
+| map_size          = 400px
+| map_alt           = 
+| map               = 
+| map_caption       = Winner of each seat at the 2019 East Devon District Council election
+| title = Council control
+| posttitle = Council control after election
+| before_election = 
+| before_party = Conservative Party (UK)
+| after_election = 
+| after_party = No overall control
+}}
+
+The '''2019 East Devon District Council election''' took place on 2 May 2019 to elect members of [[East Devon District Council]] in England. This was on the same day as other [[2019 United Kingdom local elections|local elections]]. The whole council was elected on new ward boundaries that increased the number of seats from 59 to 60.
+
+==Summary==
+
+===Election result===
+
+{{Local election summary begin|title=2019 East Devon District Council election<ref>[https://eastdevon.gov.uk/news/2019/05/east-devon-district-council-election-results-2019/ East Devon District Council election results 2019], ''Accessed 6 May 2019''</ref>}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =55
+  |seats         ='''20'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{decrease}} 17
+  |votes %       =36.2
+  |seats %       =33.3
+  |votes         =28,388
+  |plus/minus    =–11.0
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =21
+  |seats         ='''19'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{increase}} 13
+  |votes %       =23.6
+  |seats %       =31.7
+  |votes         =18,542
+  |plus/minus    =+14.4
+}}
+{{Local election summary party
+  |party         =East Devon Alliance
+  |candidates    =11
+  |seats         ='''11'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{increase}} 1
+  |votes %       =14.0
+  |seats %       =18.3
+  |votes         =10,991
+  |plus/minus    =–6.0
+}}
+{{Local election summary party
+  |party         =Liberal Democrats (UK)
+  |candidates    =30
+  |seats         ='''8'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{increase}} 2
+  |votes %       =15.3
+  |seats %       =13.3
+  |votes         =12,042
+  |plus/minus    =+2.5
+}}
+{{Local election summary party
+  |party         =Green Party of England and Wales
+  |candidates    =4
+  |seats         ='''2'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{increase}} 2
+  |votes %       =3.4
+  |seats %       =3.3
+  |votes         =2,667
+  |plus/minus    =+0.3
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =21
+  |seats         ='''0'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{steady}}
+  |votes %       =6.3
+  |seats %       =0.0
+  |votes         =4,974
+  |plus/minus    =+3.3
+}}
+{{Local election summary party
+  |party         =UKIP
+  |candidates    =2
+  |seats         ='''0'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           ={{steady}}
+  |votes %       =1.1
+  |seats %       =0.0
+  |votes         =887
+  |plus/minus    =–3.6
+}}
+|-
+{{Election box end}}
+
+==Ward results==
+===Axminster===
+{{Election box begin | title=Axminster}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Sarah Jackson
+  |votes      = 1,001
+  |percentage = 46.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Hall
+  |votes      = 818
+  |percentage = 37.7
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Moulding
+  |votes      = 740
+  |percentage = 34.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Steve Holt
+  |votes      = 640
+  |percentage = 29.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Douglas Hull
+  |votes      = 560
+  |percentage = 25.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Susan Kerr
+  |votes      = 429
+  |percentage = 19.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jeremy Walden
+  |votes      = 403
+  |percentage = 18.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Spurway
+  |votes      = 357
+  |percentage = 16.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Elizabeth Pole
+  |votes      = 306
+  |percentage = 14.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Martin Mynard
+  |votes      = 262
+  |percentage = 12.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 100
+  |percentage = 4.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,186
+  |percentage = 35
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Beer & Branscombe===
+{{Election box begin | title=Beer & Branscombe}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Geoff Pook
+  |votes      = 601
+  |percentage = 85.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Gregory
+  |votes      = 106
+  |percentage = 15.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 495
+  |percentage = 70.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 724
+  |percentage = 32.99
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Broadclyst===
+{{Election box begin | title=Broadclyst}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sarah Chamberlain
+  |votes      = 612
+  |percentage = 51.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Eleanor Rylance
+  |votes      = 555
+  |percentage = 46.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Chris Pepper
+  |votes      = 506
+  |percentage = 42.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Henry Gent
+  |votes      = 426
+  |percentage = 35.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rebecca-Jayne Lipscombe
+  |votes      = 397
+  |percentage = 33.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Rob Longhurst
+  |votes      = 345
+  |percentage = 28.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Diviani
+  |votes      = 319
+  |percentage = 26.7
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 80
+  |percentage = 6.7
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,225
+  |percentage = 29.01
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Liberal Democrats (UK)
+}}
+{{Election box new seat win|
+ |winner = Liberal Democrats (UK)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Budleigh & Raleigh===
+{{Election box begin | title=Budleigh & Raleigh}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Paul Jarvis
+  |votes      = 1,187
+  |percentage = 44.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Dent
+  |votes      = 1,112
+  |percentage = 41.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Thomas Wright
+  |votes      = 999
+  |percentage = 37.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Patsy Hayman
+  |votes      = 982
+  |percentage = 36.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Pete Duke
+  |votes      = 971
+  |percentage = 36.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Penny Lewis
+  |votes      = 907
+  |percentage = 33.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Brigitte Graham
+  |votes      = 518
+  |percentage = 19.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 17
+  |percentage = 0.7
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,698
+  |percentage = 41.03
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Clyst Valley===
+{{Election box begin | title=Clyst Valley}}
+{{Election box winning candidate with party link|
+ |party = Conservative Party (UK)
+ |candidate = Mike Howe
+ |votes = Unopposed
+ |percentage = ''N/A''
+ |change =
+}}
+{{Election box majority|
+  |votes      = ''N/A''
+  |percentage = ''N/A''
+  |change     = 
+}}
+{{Election box turnout|
+ |votes = ''N/A''
+ |percentage = ''N/A''
+ |change = 
+}}
+{{Election box new seat win|
+  |winner = Conservative Party (UK)
+  |swing =
+}}
+{{Election box end}}
+
+===Coly Valley===
+{{Election box begin | title=Coly Valley}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Paul Arnott
+  |votes      = 938
+  |percentage = 55.6
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Helen Parr
+  |votes      = 851
+  |percentage = 50.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Pearsall
+  |votes      = 625
+  |percentage = 37.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Carol Dawson
+  |votes      = 382
+  |percentage = 22.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 226
+  |percentage = 13.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,704
+  |percentage = 43.53
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Cranbrook===
+{{Election box begin | title=Cranbrook}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Kim Bloxham
+  |votes      = 506
+  |percentage = 62.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Kevin Blakey
+  |votes      = 427
+  |percentage = 52.7
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Sam Hawkins
+  |votes      = 392
+  |percentage = 48.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Matthew Osborn
+  |votes      = 228
+  |percentage = 28.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nick Partridge
+  |votes      = 221
+  |percentage = 27.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Pauline Garbutt
+  |votes      = 153
+  |percentage = 18.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sue Mills
+  |votes      = 144
+  |percentage = 17.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 164
+  |percentage = 20.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 818
+  |percentage = 25.45
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Dunkeswell & Otterhead===
+{{Election box begin | title=Dunkeswell & Otterhead}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Key
+  |votes      = 842
+  |percentage = 55.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Colin Brown
+  |votes      = 817
+  |percentage = 54.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Karen Hoyles
+  |votes      = 537
+  |percentage = 35.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stephen Kolek
+  |votes      = 310
+  |percentage = 20.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 280
+  |percentage = 18.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,547
+  |percentage = 33.70
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Exe Valley===
+{{Election box begin | title=Exe Valley}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Fabian King
+  |votes      = 378
+  |percentage = 56.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kevin Wraight
+  |votes      = 289
+  |percentage = 43.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 89
+  |percentage = 13.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 683
+  |percentage = 35.50
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+===Exmouth Brixington===
+{{Election box begin | title=Exmouth Brixington}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Maddy Chapman
+  |votes      = 662
+  |percentage = 47.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Colman
+  |votes      = 652
+  |percentage = 46.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Fred Caygill
+  |votes      = 633
+  |percentage = 44.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Cherry Nicholas
+  |votes      = 632
+  |percentage = 44.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Aurora Bailey
+  |votes      = 627
+  |percentage = 44.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Dilys Hadley
+  |votes      = 381
+  |percentage = 27.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 1
+  |percentage = 0.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,458
+  |percentage = 23.16
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box new seat win|
+ |winner = Liberal Democrats (UK)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Exmouth Halsdon===
+{{Election box begin | title=Exmouth Halsdon}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Megan Armstrong
+  |votes      = 1,293
+  |percentage = 69.2
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Paul Millar
+  |votes      = 1,140
+  |percentage = 61.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Tony Woodward
+  |votes      = 647
+  |percentage = 34.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jill Elson
+  |votes      = 475
+  |percentage = 25.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tony Hill
+  |votes      = 380
+  |percentage = 20.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Toye
+  |votes      = 289
+  |percentage = 15.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Brian Toye
+  |votes      = 260
+  |percentage = 13.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 172
+  |percentage = 9.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,882
+  |percentage = 30.99
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Green Party of England and Wales
+}}
+{{Election box end}}
+
+===Exmouth Littleham===
+{{Election box begin | title=Exmouth Littleham}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Chris Wright
+  |votes      = 1,071
+  |percentage = 50.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Nick Hookway
+  |votes      = 996
+  |percentage = 46.8
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Bruce de Saram
+  |votes      = 606
+  |percentage = 28.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Whipps
+  |votes      = 536
+  |percentage = 25.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Joy Whipps
+  |votes      = 534
+  |percentage = 25.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ono Olmedo
+  |votes      = 477
+  |percentage = 22.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Brian Bailey
+  |votes      = 467
+  |percentage = 22.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Poor
+  |votes      = 434
+  |percentage = 20.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Keith Edwards
+  |votes      = 328
+  |percentage = 15.4
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 70
+  |percentage = 3.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,160
+  |percentage = 32.89
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Exmouth Town===
+{{Election box begin | title=Exmouth Town}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Joe Whibley
+  |votes      = 664
+  |percentage = 46.3
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Olly Davey
+  |votes      = 623
+  |percentage = 43.4
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Eileen Wragg
+  |votes      = 527
+  |percentage = 36.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Tim Dumper
+  |votes      = 488
+  |percentage = 34.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alexandra Sadiq
+  |votes      = 434
+  |percentage = 30.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Daniel Wilson
+  |votes      = 265
+  |percentage = 18.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Steve Hall
+  |votes      = 235
+  |percentage = 16.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Eden Smith
+  |votes      = 223
+  |percentage = 15.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Walsh
+  |votes      = 210
+  |percentage = 14.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 39
+  |percentage = 2.7
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,452
+  |percentage = 25.23
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Green Party of England and Wales
+}}
+{{Election box new seat win|
+ |winner = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+===Exmouth Withycombe Raleigh===
+{{Election box begin | title=Exmouth Withycombe Raleigh}}
+{{Election box winning candidate with party link|
+ |party = Liberal Democrats (UK)
+ |candidate = Steve Gazzard
+ |votes = Unopposed
+ |percentage = ''N/A''
+ |change =
+}}
+{{Election box winning candidate with party link|
+ |party = Liberal Democrats (UK)
+ |candidate = Brenda Taylor
+ |votes = Unopposed
+ |percentage = ''N/A''
+ |change =
+}}
+{{Election box majority|
+  |votes      = ''N/A''
+  |percentage = ''N/A''
+  |change     = 
+}}
+{{Election box turnout|
+ |votes = ''N/A''
+ |percentage = ''N/A''
+ |change = 
+}}
+{{Election box new seat win|
+  |winner = Liberal Democrats (UK)
+  |swing =
+}}
+{{Election box new seat win|
+  |winner = Liberal Democrats (UK)
+  |swing =
+}}
+{{Election box end}}
+
+===Feniton===
+{{Election box begin | title=Feniton}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Susie Bond
+  |votes      = 638
+  |percentage = 82.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Tristram
+  |votes      = 97
+  |percentage = 12.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Adam Powell
+  |votes      = 37
+  |percentage = 4.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 541
+  |percentage = 70.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 778
+  |percentage = 39.83
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Honiton St Michael's===
+{{Election box begin | title=Honiton St Michael's}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Phil Twiss
+  |votes      = 790
+  |percentage = 57.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mike Allen
+  |votes      = 763
+  |percentage = 55.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Luke Jeffery
+  |votes      = 700
+  |percentage = 50.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Zarczynski
+  |votes      = 530
+  |percentage = 38.2
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 170
+  |percentage = 12.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,428
+  |percentage = 25
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box new seat win|
+ |winner = Liberal Democrats (UK)
+}}
+{{Election box end}}
+
+===Honiton St Paul's===
+{{Election box begin | title=Honiton St Paul's}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Tony McCollum
+  |votes      = 632
+  |percentage = 54.8
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Dean Barrow
+  |votes      = 385
+  |percentage = 33.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jenny Brown
+  |votes      = 384
+  |percentage = 33.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jules Hoyles
+  |votes      = 300
+  |percentage = 26.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sally Boom
+  |votes      = 226
+  |percentage = 19.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 1
+  |percentage = 0.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,175
+  |percentage = 30
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Newbridges===
+{{Election box begin | title=Newbridges}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Iain Chubb
+  |votes      = 617
+  |percentage = 74.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = George Neate
+  |votes      = 216
+  |percentage = 25.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 401
+  |percentage = 48.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 874
+  |percentage = 42.59
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Newton Poppleford & Harpford===
+{{Election box begin | title=Newton Poppleford & Harpford}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Val Ranger
+  |votes      = 710
+  |percentage = 86.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Atkins
+  |votes      = 114
+  |percentage = 13.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 596
+  |percentage = 72.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 817
+  |percentage = 44.98
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box end}}
+
+===Ottery St Mary===
+{{Election box begin | title=Ottery St Mary}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Vicky Johns
+  |votes      = 1,501
+  |percentage = 67.7
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Geoff Pratt
+  |votes      = 1,044
+  |percentage = 47.1
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Peter Faithfull
+  |votes      = 878
+  |percentage = 39.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Carter
+  |votes      = 477
+  |percentage = 21.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Anne Edwards
+  |votes      = 428
+  |percentage = 19.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Harv Sethi
+  |votes      = 422
+  |percentage = 19.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Luke Gray
+  |votes      = 381
+  |percentage = 17.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Piper
+  |votes      = 245
+  |percentage = 11.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 401
+  |percentage = 18.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,238
+  |percentage = 37.81
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Seaton===
+{{Election box begin | title=Seaton}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Dan Ledger
+  |votes      = 1,561
+  |percentage = 64.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Jack Rowland
+  |votes      = 1,392
+  |percentage = 57.9
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mark Hartnell
+  |votes      = 1,095
+  |percentage = 45.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Burrows
+  |votes      = 515
+  |percentage = 21.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jacquie Russell
+  |votes      = 504
+  |percentage = 20.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Juliette Williams
+  |votes      = 300
+  |percentage = 12.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Abi Jones
+  |votes      = 298
+  |percentage = 12.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Terry Burrows
+  |votes      = 257
+  |percentage = 10.7
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 580
+  |percentage = 24.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,414
+  |percentage = 40
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Sidmouth Rural===
+{{Election box begin | title=Sidmouth Rural}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = John Loudoun
+  |votes      = 375
+  |percentage = 42.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = David Barratt
+  |votes      = 258
+  |percentage = 29.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Chris Wale
+  |votes      = 184
+  |percentage = 20.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lewis Ragbourn
+  |votes      = 42
+  |percentage = 4.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ray Davison
+  |votes      = 27
+  |percentage = 3.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 117
+  |percentage = 13.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 897
+  |percentage = 46.97
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box end}}
+
+===Sidmouth Sidford===
+{{Election box begin | title=Sidmouth Sidford}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Marianne Rixson
+  |votes      = 1,326
+  |percentage = 73.5
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Dawn Manley
+  |votes      = 1,303
+  |percentage = 72.3
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stuart Hughes
+  |votes      = 1,089
+  |percentage = 60.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jenny Ware
+  |votes      = 757
+  |percentage = 42.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Zachary Marsh
+  |votes      = 721
+  |percentage = 40.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Colin Mills
+  |votes      = 381
+  |percentage = 21.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Ken Warren
+  |votes      = 369
+  |percentage = 20.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 332
+  |percentage = 18.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,809
+  |percentage = 28.02
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Sidmouth Town===
+{{Election box begin | title=Sidmouth Town}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Cathy Gardner
+  |votes      = 971
+  |percentage = 60.6
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Denise Bickley
+  |votes      = 922
+  |percentage = 57.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sheila Kerridge
+  |votes      = 549
+  |percentage = 34.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Timothy Venner
+  |votes      = 409
+  |percentage = 25.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nicholas Diprose
+  |votes      = 127
+  |percentage = 7.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 373
+  |percentage = 23.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,617
+  |percentage = 40.54
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box end}}
+
+===Tale Vale===
+{{Election box begin | title=Tale Vale}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Philip Skinner
+  |votes      = 436
+  |percentage = 48.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mike Gray
+  |votes      = 378
+  |percentage = 41.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Chris East
+  |votes      = 92
+  |percentage = 10.2
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 58
+  |percentage = 6.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 928
+  |percentage = 43.12
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Trinity===
+{{Election box begin | title=Trinity}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Thomas
+  |votes      = 635
+  |percentage = 71.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sarah Birnie
+  |votes      = 249
+  |percentage = 28.2
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 386
+  |percentage = 43.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 920
+  |percentage = 42.42
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===West Hill & Aylesbeare===
+{{Election box begin | title=West Hill & Aylesbeare}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jess Bailey
+  |votes      = 956
+  |percentage = 77.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Sheaves
+  |votes      = 285
+  |percentage = 23.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 671
+  |percentage = 54.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,246
+  |percentage = 57.13
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Whimple & Rockbeare===
+{{Election box begin | title=Whimple & Rockbeare}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Kathy McLauchlan
+  |votes      = 702
+  |percentage = 75.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mark Evans-Martin
+  |votes      = 234
+  |percentage = 25.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 468
+  |percentage = 50.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 941
+  |percentage = 42.88
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Woodbury & Lympstone===
+{{Election box begin | title=Woodbury & Lympstone}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ben Ingham
+  |votes      = 1,453
+  |percentage = 76.0
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Geoff Jung
+  |votes      = 1,396
+  |percentage = 73.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Cheryl McGauley
+  |votes      = 432
+  |percentage = 22.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = William Carter
+  |votes      = 383
+  |percentage = 20.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 964
+  |percentage = 50.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,923
+  |percentage = 45.09
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box new seat win|
+ |winner = Independent (politician)
+}}
+{{Election box end}}
+
+===Yarty===
+{{Election box begin | title=Yarty}}
+{{Election box winning candidate with party link|
+  |party      = East Devon Alliance
+  |candidate  = Paul Hayward
+  |votes      = 492
+  |percentage = 52.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alasdair Bruce
+  |votes      = 296
+  |percentage = 31.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gillian Jordan
+  |votes      = 99
+  |percentage = 10.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Diane Cheshire
+  |votes      = 53
+  |percentage = 5.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 196
+  |percentage = 20.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 951
+  |percentage = 44.90
+  |change     = 
+}}
+{{Election box new seat win|
+ |winner = East Devon Alliance
+}}
+{{Election box end}}
+
+==By-elections==
+
+===Whimple and Rockbeare===
+
+{{Election box begin | title=Whimple and Rockbeare: 6 May 2021}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Richard Lawrence
+   |votes      = 502
+   |percentage = 56.2
+   |change     = +31.2
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Todd Olive
+   |votes      = 392
+   |percentage =43.8
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 110
+   |percentage = 12.4
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 894
+   |percentage = 
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = {{increase}}6.3
+}}
+ {{Election box end}}
+The Whimple and Rockbeare by-election was triggered by the resignation of independent councillor Kathy McLauchlan.<ref>{{cite web |last1=Teale |first1=Andrew |title=Whimple and Rockbeare Ward - East Devon |url=https://www.andrewteale.me.uk/leap/ward/20004/ |website=Local Elections Archive Project |access-date=22 June 2023}}</ref>
+
+===Feniton===
+
+{{Election box begin | title=Feniton: 8 July 2021}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Alasdair Bruce
+   |votes      = 239
+   |percentage = 
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Linda Baden
+   |votes      = 126
+   |percentage = 
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Todd Olive
+   |votes      = 82
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 21
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+ {{Election box end}}
+The Feniton by-election was triggered by the resignation of independent councillor Sue Bond.<ref name=Ives>{{cite news |last1=Ives |first1=Joe |title=Teenager takes East Devon council seat for Labour |url=https://www.radioexe.co.uk/news-and-features/local-news/teenager-takes-east-devon-council-seat-for-labour/ |access-date=22 June 2023 |work=Radio Exe |date=9 July 2021}}</ref>
+
+===Honiton St Michael's===
+
+{{Election box begin | title=Honiton St Michael's: 8 July 2021<ref>{{Cite news | url=https://www.bbc.co.uk/news/uk-england-devon-57779701 | title=Teen is first Labour candidate elected in 20 years | work=BBC News | date=9 July 2021 }}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Jake Bonetta
+   |votes      = 807
+   |percentage = 58.0
+   |change     = New
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Jenny Brown
+   |votes      = 522
+   |percentage = 37.5
+   |change     = -0.7
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jules Hoyles
+   |votes      = 63
+   |percentage = 4.5
+   |change     = -46.0
+}}
+{{Election box majority
+   |votes      = 285
+   |percentage = 20.5
+   |change     = N/A
+ }}
+{{Election box turnout
+   |votes      = 1392
+   |percentage = 24.4
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Labour Party (UK)
+   |loser      = Liberal Democrats (UK)
+   |swing      = {{increase}}58.0
+}}
+ {{Election box end}}
+The Honiton St Michael's by-election was triggered by the resignation of Liberal Democrat councillor Luke Jeffery.<ref name=Ives/>
+
+===Exe Valley===
+
+{{Election box begin | title=Exe Valley: 23 September 2021}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jamie Kemp
+   |votes      = 190
+   |percentage = 36.9
+   |change     = -19.8
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Kevin Wraight
+   |votes      = 164
+   |percentage =31.8
+   |change     = -11.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michael Daniell
+   |votes      = 161
+   |percentage =31.3
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 26
+   |percentage = 5.1
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 517
+   |percentage = 26.2
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = {{decrease}}4.2
+}}
+ {{Election box end}}
+The Exe Valley by-election was triggered by the resignation of Liberal Democrat councillor Fabian King.<ref>{{cite news |last1=Ives |first1=Joe |title=East Devon councillor resigns to focus on his business interests |url=https://www.midweekherald.co.uk/news/20355140.east-devon-councillor-resigns-focus-business-interests/ |access-date=22 June 2023 |work=Midweek Herald |date=1 August 2021}}</ref>
+
+===Newton Poppleford===
+
+{{Election box begin | title=Newton Poppleford: 10 November 2022}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Chris Burhop
+   |votes      = 560
+   |percentage = 
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Caleb Early
+   |votes      = 162
+   |percentage =
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Carter
+   |votes      = 113
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 46
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = East Devon Alliance
+   |swing      = 
+}}
+ {{Election box end}}
+The Newton Poppleford by-election was triggered by the death of East Devon Alliance councillor Val Ranger.<ref>{{cite news |last1=Goddard |first1=Will |title=Sidmouth: Independent candidate wins Newton Poppleford and Harpford by-election |url=https://sidmouth.nub.news/news/local-news/sidmouth-independent-candidate-wins-newton-poppleford-and-harpford-by-election-158487 |access-date=22 June 2023 |work=Sidmouth Nub News |date=11 November 2022}}</ref>
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{Devon elections}}
+
+[[Category:2019 English local elections|East Devon]]
+[[Category:May 2019 in the United Kingdom]]
+[[Category:East Devon District Council elections]]
+[[Category:2010s in Devon]]

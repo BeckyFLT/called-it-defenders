@@ -1,0 +1,977 @@
+{{Short description|2019 UK local government election}}
+{{Use dmy dates|date=April 2023}}
+{{Infobox election
+| election_name = 2019 South Holland District Council election
+| country = England
+| type = parliamentary
+| previous_election = 2015 South Holland District Council election
+| previous_year = 2015
+| outgoing_members = 
+| election_date = 2 May 2019
+| elected_members = 
+| next_election = 2023 South Holland District Council election
+| next_year = 2023
+| seats_for_election = All 37 council seats up for election
+| majority_seats = 19
+| opinion_polls = 
+| turnout = 
+<!-- Conservatives -->
+| image1 = [[File:No image wide.svg|95x50px|Blank]]
+| leader1 = 
+| party1 = Conservative Party (UK)
+| leader_since1 = 
+| leaders_seat1 = 
+| last_election1 = 28
+| seats_before1 = 
+| seats1 = 
+| seats_after1 = '''24'''
+| seat_change1 = {{decrease}} 4
+| popular_vote1 = 
+| percentage1 = 
+| swing1 = 
+<!-- Independents -->
+| image2 = [[File:No image wide.svg|95x50px|Blank]]
+| leader2 = 
+| party2 = Independent politician
+| leader_since2 = 
+| leaders_seat2 = 
+| last_election2 = 7
+| seats_before2 = 
+| seats2 = 
+| seats_after2 = 13
+| seat_change2 = {{increase}} 6
+| popular_vote2 = 
+| percentage2 = 
+| swing2 =
+
+| map_image = File:2019 South Holland District Council election.svg
+|map_size = 350px
+| map_caption = Map of the results of the election by ward
+}}
+
+The '''2019 [[South Holland, Lincolnshire|South Holland]] [[District council (England)|District Council]] [[election]]''' took place on 2 May 2019 to elect members of the [[South Holland District Council]] in [[Elections in England|England]]. It was held on the same day as other [[2019 United Kingdom local elections|local elections]].
+
+==Results summary==
+{{Election summary begin|title = South Holland District Council Election Result 2019}}
+{{Election summary party
+  |party      = Conservative Party (UK)
+  |seats      = '''24'''
+  |gain       = -
+  |loss       = 4
+  |net        = -4
+  |seats %    = 64.86
+  |votes %    = 54.67
+  |votes      = 18,014
+  |plus/minus = -4.98
+}}
+{{Election summary party
+  |party      = Independent (politician)
+  |seats      = '''13'''
+  |gain       = 6
+  |loss       = -
+  |net        = +6
+  |seats %    = 35.14
+  |votes %    = 37.65
+  |votes      = 12,407
+  |plus/minus = +13.05
+}}
+{{Election summary party
+  |party      = Green Party of England and Wales
+  |seats      = '''0'''
+  |gain       = -
+  |loss       = -
+  |net        = 0
+  |seats %    = 0.00 
+  |votes %    = 4.04
+  |votes      = 1,332
+  |plus/minus = +3.19
+}}
+{{Election summary party
+  |party      = UK Independence Party
+  |seats      = '''0'''
+  |gain       = -
+  |loss       = 2
+  |net        = -2
+  |seats %    = 0.00
+  |votes %    = 2.59
+  |votes      = 852
+  |plus/minus = -10.88
+}}
+{{Election summary party
+  |party      = Labour Party (UK)
+  |seats      = '''0'''
+  |gain       = -
+  |loss       = -
+  |net        = 0
+  |seats %    = 0.00
+  |votes %    = 0.56
+  |votes      = 184
+  |plus/minus = -0.12
+}}
+{{Election summary party
+  |party      = Liberal Democrats (UK)
+  |seats      = '''0'''
+  |gain       = -
+  |loss       = -
+  |net        = 0
+  |seats %    = 0.00
+  |votes %    = 0.49
+  |votes      = 163
+  |plus/minus = -0.26
+}}
+{{Election box end}}
+
+==Council Composition==
+'''Following''' the last election in 2015, the composition of the council was:
+{| style="width:100%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:#0087DC; width:75.68%;" | '''28'''
+| style="background:#DDDDDD; width:18.92%;" | '''7'''
+| style="background:#70147A; width:5.4%;" | '''2'''
+|-
+| <span style="color:#0087DC;">'''Conservative'''</span>
+| <span style="color:#DDDDDD;">'''Independent'''</span>
+| <span style="color:#70147A;">'''UKIP'''</span>
+|}
+
+'''After''' the election, the composition of the council was:
+{| style="width:100%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:#0087DC; width:64.86%;" | '''24'''
+| style="background:#DDDDDD; width:35.14%;" | '''13'''
+|-
+| <span style="color:#0087DC;">'''Conservative'''</span>
+| <span style="color:#DDDDDD;">'''Independent'''</span>
+|}
+
+==Ward results==
+[[File:South Holland District Council wards.svg|thumb|400px|Ward boundaries]]
+Incumbent councillors are denoted by an asterisk (*)
+
+===Crowland and Deeping St Nicholas===
+{{Election box begin |title= Crowland and Deeping St Nicholas (3 seats)<ref>[https://www.sholland.gov.uk/media/12642/Crowland-and-Deeping-St-Nicholas/pdf/Crowland_and_Deeping_St_Nicholas.pdf?m=637418174163200000 Declaration of result of poll]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Nigel Harry Pepper
+   |votes      = 867
+   |percentage = 57.2
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Bryan Alcock*
+   |votes      = 758
+   |percentage = 50.0
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = James Robert Astill*
+   |votes      = 616
+   |percentage = 40.7
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Angela Harrison*
+   |votes      = 598
+   |percentage = 39.5
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Paul Silvester Przyszlak
+   |votes      = 499
+   |percentage = 32.9
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 30.64
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Donington, Quadring and Gosberton===
+{{Election box begin |title= Donington, Quadring and Gosberton (3 seats)<ref>[https://www.sholland.gov.uk/media/12638/Donington-Quadring-and-Gosberton/pdf/Donington_Quadring_and_Gosberton.pdf?m=637418174166870000 Declaration of result of poll]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Jane Lesley King*
+   |votes      = 962
+   |percentage = 59.9
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Henry John William Bingham
+   |votes      = 808
+   |percentage = 50.3
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Simon Charles Walsh
+   |votes      = 735
+   |percentage = 45.7
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Trevor John Hyde
+   |votes      = 507
+   |percentage = 31.5
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Ann Elizabeth Savage
+   |votes      = 486
+   |percentage = 30.2
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 28.47
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box gain with party link
+   |winner    = Independent (politician)
+   |loser = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box gain with party link
+   |winner    = Independent (politician)
+   |loser = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Fleet===
+{{Election box begin |title= Fleet (1 seat)<ref>[https://www.sholland.gov.uk/media/12635/Fleet/pdf/Fleet.pdf?m=637418174169870000 Declaration of result of polls]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Peter Ephraim Coupland*
+   |votes      = 379
+   |percentage = 63.8
+   |change     = +1.8
+}}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Edward George McNally
+   |votes      = 215
+   |percentage = 36.2
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 164
+   |percentage =27.6
+   |change     =-2.4
+}}
+{{Election box turnout
+   |votes      = 594
+   |percentage = 32.57
+   |change     =+2.57
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Gedney===
+{{Election box begin |title= Gedney (1 seat)<ref>[https://www.sholland.gov.uk/media/12222/Gedney-Uncontested-Notice/pdf/Gedney_Ward.pdf?m=637418180424400000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jo Reynolds*
+   |votes      = ''Uncontested''
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = ''N/A''
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Holbeach Hurn===
+{{Election box begin |title= Holbeach Hurn (1 seat)<ref>[https://www.sholland.gov.uk/media/12225/Holbeach-Hurn-Uncontested-Notice/pdf/Holbeach_Hurn1.pdf?m=637418180427400000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Nick Worth
+   |votes      = ''Uncontested''
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = ''N/A''
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Holbeach Town===
+{{Election box begin |title= Holbeach Town (3 seats)<ref>[https://www.sholland.gov.uk/media/12641/Holbeach-Town/pdf/Holbeach_Town.pdf?m=637418174172970000 Declaration of result of poll]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Francis Biggadike*
+   |votes      = 890
+   |percentage = 58.4
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Tracey Ann Carter*
+   |votes      = 890
+   |percentage = 58.4
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Graham Thomas Desmond Rudkin
+   |votes      = 686
+   |percentage = 45.0
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Paul Cayton Foyster*
+   |votes      = 593
+   |percentage = 38.9
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gordon Geoffrey Donley
+   |votes      = 491
+   |percentage = 32.2
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 26.06
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box gain with party link
+   |winner    = Independent (politician)
+   |loser = UK Independence Party
+   |swing     =
+}}
+{{Election box end}}
+
+Foyster was previously elected as a UKIP councillor.
+
+===Long Sutton===
+{{Election box begin |title= Long Sutton (3 seats)<ref>[https://www.sholland.gov.uk/media/12643/Long-Sutton/pdf/Long_Sutton.pdf?m=637418174177870000 Declaration of result of polls]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Andrew Charles Tennant*
+   |votes      = 1,039
+   |percentage = 52.3
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jack Tyrrell*
+   |votes      = 944
+   |percentage = 47.6
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = David John Wilkinson
+   |votes      = 899
+   |percentage = 45.3
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Laura Jean Eldridge*
+   |votes      = 885
+   |percentage = 44.6
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Richard Henry King
+   |votes      = 800
+   |percentage = 40.3
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 32.81
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box gain with party link
+   |winner    = Independent (politician)
+   |loser = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Moulton, Weston and Cowbit===
+{{Election box begin |title= Moulton, Weston and Cowbit (3 seats)<ref>[https://www.sholland.gov.uk/media/12639/Moulton-Weston-and-Cowbit/pdf/Moulton_Weston_Cowbit.pdf?m=637418174180570000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Anthony Casson*
+   |votes      = 1,042
+   |percentage = 65.2
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Robert Woolf*
+   |votes      = 929
+   |percentage = 58.2
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Rodney Grocock*
+   |votes      = 709
+   |percentage = 44.4
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Richard Geoffrey Fairman
+   |votes      = 637
+   |percentage = 39.9
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 29.96
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+ 
+
+===Pinchbeck and Surfleet===
+{{Election box begin |title= Pinchbeck and Surfleet (3 seats)<ref>[https://www.sholland.gov.uk/media/12646/Pinchbeck-and-Surfleet/pdf/Pinchbeck_and_Surfleet.pdf?m=637418174183300000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Elizabeth Jane Sneath*
+   |votes      = 918
+   |percentage = 57.7
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = James Edward Avery*
+   |votes      = 860
+   |percentage = 54.0
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Sally Ann Slade*
+   |votes      = 834
+   |percentage = 52.4
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Terrence Moore
+   |votes      = 823
+   |percentage = 51.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 28.94
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+ 
+
+===Spalding Castle===
+{{Election box begin |title= Spalding Castle (1 seat)<ref>[https://www.sholland.gov.uk/media/12631/Spalding-Castle/pdf/Spalding_Castle.pdf?m=637418174186770000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gary John Taylor
+   |votes      = 289
+   |percentage = 46.7
+   |change     = -19.1
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Alistair Mark Jonathon Crisp
+   |votes      = 233
+   |percentage = 37.6
+   |change     = +25.5
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = James Anthony Le Sage
+   |votes      = 97
+   |percentage =15.7
+   |change     = -6.4
+}}
+{{Election box majority
+   |votes      = 56
+   |percentage =9.1
+   |change     =-34.6
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 32.71
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Spalding Monks House===
+{{Election box begin |title= Spalding Monks House (2 seats)<ref>[https://www.sholland.gov.uk/media/12636/Spalding-Monks-House/pdf/Spalding_Monks_house.pdf?m=637418174189370000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Angela Mary Porter*
+   |votes      = 889
+   |percentage = 76.7
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Anthony Christopher Cronin
+   |votes      = 438
+   |percentage = 37.8
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Zoe Emma Lane
+   |votes      = 336
+   |percentage = 29.0
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Rodney Joseph Sadd
+   |votes      = 116
+   |percentage = 10.0
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Hellen Jenner
+   |votes      = 80
+   |percentage = 6.9
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Janet Barnes
+   |votes      = 68
+   |percentage = 5.9
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Lee Geoffrey Crisp
+   |votes      = 56
+   |percentage = 4.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 28.55
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box gain with party link
+   |winner    = Independent (politician)
+   |loser = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+ 
+
+===Spalding St. Johns===
+{{Election box begin |title= Spalding St. Johns (2 seats)<ref>[https://www.sholland.gov.uk/media/12637/Spalding-St-Johns/pdf/Spalding_St_Johns.pdf?m=637418174192230000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Manzur Hasan
+   |votes      = 507
+   |percentage = 45.6
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jack Daniel McLean*
+   |votes      = 435
+   |percentage = 39.1
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Janet Brenda Whitbourn
+   |votes      = 368
+   |percentage = 33.1
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Valery Gemmell
+   |votes      = 295
+   |percentage = 26.5
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Morgan Nicholas Crisp
+   |votes      = 143
+   |percentage = 12.9
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Rustana Zamara
+   |votes      = 94
+   |percentage = 8.5
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 25.47
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+ 
+
+===Spalding St. Marys===
+{{Election box begin |title= Spalding St. Marys (2 seats)<ref>[https://www.sholland.gov.uk/media/12632/Spalding-St-Mary-s/pdf/Spalding_St_Marys.pdf?m=637418174194900000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gary Andrew Porter*
+   |votes      = 439
+   |percentage = 50.6
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Henry Thomas Drury*
+   |votes      = 427
+   |percentage = 49.2
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Robert Carl West
+   |votes      = 266
+   |percentage = 30.6
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Adam Baker
+   |votes      = 262
+   |percentage = 30.2
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Jonans Sandijs
+   |votes      = 144
+   |percentage = 16.6
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 23.24
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Spalding St. Pauls===
+{{Election box begin |title= Spalding St. Pauls (2 seats)<ref>[https://www.sholland.gov.uk/media/12633/Spalding-St-Paul-s/pdf/Spalding_St_Pauls.pdf?m=637418174197930000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Robert Antony Gibson
+   |votes      = 398
+   |percentage = 55.1
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Glynis Pearl Scalese
+   |votes      = 355
+   |percentage = 49.2
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = David Ashby*
+   |votes      = 312
+   |percentage = 43.2
+   |change     = 
+}} 
+{{Election box turnout
+   |votes      = 
+   |percentage = 19.30
+   |change     =
+}}
+{{Election box gain with party link
+   |winner    = Independent (politician)
+   |loser = UK Independence Party
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Spalding Wygate===
+{{Election box begin |title= Spalding Wygate (2 seats)<ref>[https://www.sholland.gov.uk/media/12634/Spalding-Wygate/pdf/Spalding_Wygate.pdf?m=637418174203470000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Christine Jane Lawton*
+   |votes      = 483
+   |percentage = 43.7
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Roger Gambba-Jones*
+   |votes      = 469
+   |percentage = 42.4
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Sheila Mary Bunce
+   |votes      = 343
+   |percentage = 31.0
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Heather Julie Irene Violett
+   |votes      = 237
+   |percentage = 21.4
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Martin Christopher Blake
+   |votes      = 219
+   |percentage = 19.8
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Neil Andrew Oakman
+   |votes      = 163
+   |percentage = 14.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = 23.94
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Sutton Bridge===
+{{Election box begin |title= Sutton Bridge (2 seats)<ref>[https://www.sholland.gov.uk/media/12640/Sutton-Bridge/pdf/Sutton_Bridge.pdf?m=637418174207900000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Michael David Booth*
+   |votes      = 686
+   |percentage = 67.9
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Christopher James Thomas Harrison Brewis*
+   |votes      = 686
+   |percentage = 67.9
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Victoria Hills
+   |votes      = 280
+   |percentage = 27.7
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Sally Ann Beal
+   |votes      = 176
+   |percentage = 17.4
+   |change     = 
+}} 
+{{Election box turnout
+   |votes      = 
+   |percentage = 30.10
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Independent (politician)
+   |swing     =
+}}
+{{Election box end}}
+
+===The Saints===
+{{Election box begin |title= The Saints (1 seat)<ref>[https://www.sholland.gov.uk/media/12224/The-Saints-Uncontested-Notice/pdf/The_Saints.pdf?m=637418180421400000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Michael David Seymour*
+   |votes      = ''Uncontested''
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = ''N/A''
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Whaplode and Holbeach St Johns===
+{{Election box begin |title= Whaplode and Holbeach St Johns (2 seats)<ref>[https://www.sholland.gov.uk/media/12223/Whaplode-and-Holbeach-St-John-s-Uncontested-Notice/pdf/Whaplode_and_Holbeach_St_Johns1.pdf?m=637418180418400000 Notice of uncontested election]</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Allan Charles Beal
+   |votes      = ''Uncontested''
+   |percentage =
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Alexander Redgate
+   |votes      = ''Uncontested''
+   |percentage =
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 
+   |percentage = ''N/A''
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{Lincolnshire elections}}
+
+[[Category:2019 English local elections|South Holland]]
+[[Category:May 2019 in the United Kingdom]]
+[[Category:South Holland District Council elections|2019]]
+[[Category:2010s in Lincolnshire]]

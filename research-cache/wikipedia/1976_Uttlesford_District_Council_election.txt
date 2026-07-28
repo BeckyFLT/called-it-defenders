@@ -1,0 +1,1229 @@
+{{Short description|1976 English local election}}
+{{Infobox election
+| election_name     = 1976 Uttlesford District Council election
+| country           = Essex
+| type              = parliamentary
+| previous_election = 1973 Uttlesford District Council election
+| previous_year     = 1973
+| outgoing_members  = 
+| election_date     = {{Start date|1976|5|6|df=y}}
+| elected_members   = 
+| next_election     = 1979 Uttlesford District Council election
+| next_year         = 1979
+| seats_for_election= All 42 seats to [[Uttlesford District Council]]
+| majority_seats    = 22
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = 
+| party1            = Conservative Party (UK)
+| leader_since1     = 
+| last_election1    = 
+| leaders_seat1     = 
+| seats_before1     = 
+| seats1            = '''30'''
+| seats_after1      = 
+| seat_change1      = {{increase}} 8
+| popular_vote1     = 12,621
+| percentage1       = 55.5%
+| swing1            = {{increase}} 10.9%
+| seats_needed1     = 
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = 
+| party2            = Independent politician
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 
+| seats_before2     = 
+| seats2            = '''5'''
+| seats_after2      = 
+| seat_change2      = {{decrease}} 5
+| popular_vote2     = 1,727
+| percentage2       = 7.6%
+| swing2            = {{decrease}} 1.9%
+| seats_needed2     = 
+<!-- Party 3 -->
+| image3            = [[File:No image wide.svg|95x50px|Blank]]
+| leader3           = 
+| party3            = Liberal Party (UK)
+| leader_since3     =
+| leaders_seat3     = 
+| last_election3    = 
+| seats_before3     = 
+| seats3            = '''4'''
+| seats_after3      = 
+| seat_change3      = {{increase}} 2
+| popular_vote3     = 3,812
+| percentage3       = 16.8%
+| swing3            = {{increase}} 9.9%
+| seats_needed3     = 
+<!-- Party 4 -->
+| image4            = [[File:No image wide.svg|95x50px|Blank]]
+| leader4           = 
+| party4            = Labour Party (UK)
+| leader_since4     =
+| leaders_seat4     = 
+| last_election4    = 
+| seats_before4     = 
+| seats4            = '''3'''
+| seats_after4      = 
+| seat_change4      = {{decrease}} 4
+| popular_vote4     = 4,504
+| percentage4       = 19.8%
+| swing4            = {{decrease}} 19.2%
+| seats_needed4     = 
+<!-- Party 5 -->
+| image5            = [[File:No image wide.svg|95x50px|Blank]]
+| leader5           = 
+| party5            = Independent Conservative
+| leader_since5     = 
+| leaders_seat5     = 
+| last_election5    = 
+| seats_before5     = 
+| seats5            = '''0'''
+| seats_after5      = 
+| seat_change5      = {{decrease}} 1
+| popular_vote5     = ''N/A''
+| percentage5       = ''N/A''
+| swing5            = ''N/A''
+| seats_needed5     = 
+| map_image         = Uttlesford UK ward map with seats 1976.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Winner of each seat at the 1976 Uttlesford District Council election.
+| title = Council control
+| posttitle = Council control after election
+| before_election = 
+| before_party = Conservative Party (UK)
+| after_election = 
+| after_party = Conservative Party (UK)
+}}
+
+The '''1976 Uttlesford District Council election''' took place on '''6 May 1976''' to elect members of [[Uttlesford District Council]] in [[Essex]], [[England]].<ref>{{Cite web|url=https://www.electionscentre.co.uk/wp-content/uploads/2015/06/Uttlesford-1973-2011.pdf |title=Uttlesford District Council Election Results 1973-2011 |access-date=31 December 2025 |work=[[Colin Rallings]] & [[Michael Thrasher]] |publisher=The Elections Centre, [[Plymouth University]]}}</ref> This was on the same day as other [[1976 United Kingdom local elections|local elections]].
+
+==Summary==
+
+===Election result===
+
+{{Local election summary begin|title=1976 Uttlesford District Council election<ref>{{Cite web|url=https://www.electionscentre.co.uk/wp-content/uploads/2016/03/composition_calc.html |title=Composition calculator |access-date=31 December 2025 |work=[[Colin Rallings]] & [[Michael Thrasher]] |publisher=The Elections Centre, [[Plymouth University]]}}</ref>}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =37
+  |seats         ='''30'''
+  |gain          =7
+  |loss          =1
+  |net           = {{increase}} 8
+  |seats %       =71.4
+  |votes         =12,621
+  |votes %       =55.5
+  |plus/minus    =+10.9
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =10
+  |seats         ='''5'''
+  |gain          =0
+  |loss          =4
+  |net           ={{decrease}} 5
+  |seats %       =11.9
+  |votes         =1,727
+  |votes %       =7.6
+  |plus/minus    =–1.9
+}}
+{{Local election summary party
+  |party         =Liberal Party (UK)
+  |candidates    =9
+  |seats         ='''4'''
+  |gain          =1
+  |loss          =0
+  |net           ={{increase}} 2
+  |seats %       =9.5
+  |votes         =3,812
+  |votes %       =16.8
+  |plus/minus    =+9.9
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =15
+  |seats         ='''3'''
+  |gain          =0
+  |loss          =2
+  |net           ={{decrease}} 4
+  |seats %       =7.1
+  |votes         =4,504
+  |votes %       =19.8
+  |plus/minus    =–19.2
+}}
+{{Local election summary party
+  |party         =Independent Conservative
+  |candidates    =9
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =1
+  |net           ={{decrease}} 1
+  |seats %       =0.0
+  |votes         =''N/A''
+  |votes %       =''N/A''
+  |plus/minus    =''N/A''
+}}
+|-
+{{Election box end}}
+
+==Ward results==
+
+===Ashdon===
+
+{{Election box begin | title=Ashdon}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = W. Johnstone
+}}
+{{Election box registered electors
+   |reg. electors = 738
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Birchanger===
+
+{{Election box begin | title=Birchanger}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = D. Haggerwood
+}}
+{{Election box registered electors
+   |reg. electors = 863
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Clavering===
+
+{{Election box begin | title=Clavering}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = E. Abrahams
+}}
+{{Election box registered electors
+   |reg. electors = 1,085
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent Conservative
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Elsenham===
+
+{{Election box begin | title=Elsenham}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = J. Hurwitz
+   |votes      = 360
+   |percentage = 69.0
+   |change     = +5.2
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = R. Shaw
+   |votes      = 162
+   |percentage = 31.0
+   |change     = –5.2
+}}
+{{Election box majority
+   |votes      = 198
+   |percentage = 37.8
+   |change     = +5.2
+ }}
+{{Election box turnout
+   |votes      = 522
+   |percentage = 60.3
+   |change     = +3.6
+ }}
+{{Election box registered electors
+   |reg. electors = 873
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = {{increase}}5.2
+}}
+ {{Election box end}}
+
+===Felsted===
+
+{{Election box begin | title=Felsted (2 seats)}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = C. Millington-Smith
+   |votes      = 537
+   |percentage = 60.2
+   |change     = ±0.0
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = W. Wright
+   |votes      = 483
+   |percentage = 54.2
+   |change     = +11.7
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = J. Guthrie-Dow
+   |votes      = 410
+   |percentage = 46.0
+   |change     = +6.1
+}}
+{{Election box turnout
+   |votes      = ~891
+   |percentage = 43.1
+   |change     = +16.3
+ }}
+{{Election box registered electors
+   |reg. electors = 2,068
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Great Dunmow North===
+
+{{Election box begin no change | title=Great Dunmow North (2 seats)}}
+{{Election box winning candidate with party link no change
+   |party      = Liberal Party (UK)
+   |candidate  = J. Garrett
+   |votes      = 485
+   |percentage = 52.9
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = R. Davey
+   |votes      = 441
+   |percentage = 48.1
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = D. Wright
+   |votes      = 440
+   |percentage = 48.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = M. Ulph
+   |votes      = 242
+   |percentage = 26.4
+   |change     = 
+}}
+{{Election box turnout no change
+   |votes      = ~917
+   |percentage = 55.7
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,647
+ }}
+{{Election box new seat win
+   |winner     = Liberal Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Great Dunmow South===
+
+{{Election box begin no change | title=Great Dunmow South (2 seats)}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = S. Hopkins
+   |votes      = 543
+   |percentage = 57.7
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Liberal Party (UK)
+   |candidate  = N. Prowse
+   |votes      = 485
+   |percentage = 51.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = N. Howlett
+   |votes      = 479
+   |percentage = 50.9
+   |change     = 
+}}
+{{Election box turnout no change
+   |votes      = ~941
+   |percentage = 41.3
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,278
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Liberal Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Great Hallingbury===
+
+{{Election box begin | title=Great Hallingbury}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Independent politician
+  |candidate  = A. Streeter
+}}
+{{Election box registered electors
+   |reg. electors = 673
+ }}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Hatfield Broad Oak===
+
+{{Election box begin | title=Hatfield Broad Oak}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = D. Davies
+   |votes      = 332
+   |percentage = 65.7
+   |change     = +0.3
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = B. Clark
+   |votes      = 98
+   |percentage = 19.4
+   |change     = –15.2
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = R. Lumley
+   |votes      = 75
+   |percentage = 14.9
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 234
+   |percentage = 46.3
+   |change     = +15.9
+ }}
+{{Election box turnout
+   |votes      = 505
+   |percentage = 60.6
+   |change     = +16.1
+ }}
+{{Election box registered electors
+   |reg. electors = 834
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = {{increase}}7.8
+}}
+ {{Election box end}}
+
+===Hatfield Heath===
+
+{{Election box begin | title=Hatfield Heath}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = I. Delderfield
+   |votes      = 362
+   |percentage = 66.7
+   |change     = +16.3
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = R. Howard
+   |votes      = 181
+   |percentage = 33.3
+   |change     = –4.8
+}}
+{{Election box majority
+   |votes      = 181
+   |percentage = 33.2
+   |change     = +21.0
+ }}
+{{Election box turnout
+   |votes      = 543
+   |percentage = 52.7
+   |change     = ±0.0
+ }}
+{{Election box registered electors
+   |reg. electors = 1,053
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = {{increase}}10.6
+}}
+ {{Election box end}}
+
+===Henham===
+
+{{Election box begin | title=Henham}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = R. Glover
+}}
+{{Election box registered electors
+   |reg. electors = 1,059
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Little Hallingbury===
+
+{{Election box begin | title=Little Hallingbury}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = A. Row
+   |votes      = 268
+   |percentage = 51.7
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = M. Ardley
+   |votes      = 179
+   |percentage = 34.6
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Party (UK)
+   |candidate  = J. Wilkinson
+   |votes      = 71
+   |percentage = 13.7
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 89
+   |percentage = 17.1
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 518
+   |percentage = 53.0
+   |change     = ''N/A''
+ }}
+{{Election box registered electors
+   |reg. electors = 980
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Littlebury===
+
+{{Election box begin | title=Littlebury}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Menell
+}}
+{{Election box registered electors
+   |reg. electors = 697
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Newport===
+
+{{Election box begin | title=Newport}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = H. Pugh
+}}
+{{Election box registered electors
+   |reg. electors = 1,147
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Rickling===
+
+{{Election box begin | title=Rickling}}
+{{Election box winning candidate with party link
+   |party      = Liberal Party (UK)
+   |candidate  = D. Wraith
+   |votes      = 243
+   |percentage = 50.9
+   |change     = +19.0
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = P. Wawn
+   |votes      = 234
+   |percentage = 49.1
+   |change     = +10.8
+}}
+{{Election box majority
+   |votes      = 9
+   |percentage = 1.8
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 477
+   |percentage = 66.9
+   |change     = +5.1
+ }}
+{{Election box registered electors
+   |reg. electors = 714
+ }}
+{{Election box gain with party link
+   |winner     = Liberal Party (UK)
+   |loser      = Conservative Party (UK)
+   |swing      = {{increase}}4.1
+}}
+ {{Election box end}}
+
+===Saffron Walden Audley===
+
+{{Election box begin no change | title=Saffron Walden Audley (2 seats)}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = D. Miller
+   |votes      = 657
+   |percentage = 58.3
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = S. Sutton-Foster
+   |votes      = 482
+   |percentage = 42.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = D. Weaver
+   |votes      = 447
+   |percentage = 39.7
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = A. Sermon
+   |votes      = 263
+   |percentage = 23.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = A. Kemp
+   |votes      = 224
+   |percentage = 19.9
+   |change     = 
+}}
+{{Election box turnout no change
+   |votes      = ~1,127
+   |percentage = 53.7
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,098
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Saffron Walden Castle===
+
+{{Election box begin no change | title=Saffron Walden Castle (2 seats)}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = P. Preece
+   |votes      = 570
+   |percentage = 57.1
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = J. Dowsett
+   |votes      = 407
+   |percentage = 40.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = P. Hoare
+   |votes      = 314
+   |percentage = 31.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = M. Agley
+   |votes      = 281
+   |percentage = 28.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Party (UK)
+   |candidate  = S. Taylor
+   |votes      = 228
+   |percentage = 22.8
+   |change     = 
+}}
+{{Election box turnout no change
+   |votes      = ~998
+   |percentage = 54.0
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,848
+ }}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Saffron Walden Plantation===
+
+{{Election box begin no change | title=Saffron Walden Plantation (2 seats)}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = S. Neville
+   |votes      = 432
+   |percentage = 57.6
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = D. Mensforth
+   |votes      = 328
+   |percentage = 43.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = K. Wilson
+   |votes      = 261
+   |percentage = 34.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Party (UK)
+   |candidate  = W. Keep
+   |votes      = 168
+   |percentage = 22.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = J. Pratt
+   |votes      = 157
+   |percentage = 20.9
+   |change     = 
+}}
+{{Election box turnout no change
+   |votes      = ~750
+   |percentage = 44.2
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,696
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Saffron Walden Shire===
+
+{{Election box begin no change | title=Saffron Walden Shire (2 seats)}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = R. Green
+   |votes      = 559
+   |percentage = 49.0
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = R. Eastham
+   |votes      = 515
+   |percentage = 45.1
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = D. Kingston
+   |votes      = 469
+   |percentage = 41.1
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Party (UK)
+   |candidate  = G. Heathcock
+   |votes      = 340
+   |percentage = 29.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = J. Evans
+   |votes      = 285
+   |percentage = 25.0
+   |change     = 
+}}
+{{Election box turnout no change
+   |votes      = ~1,141
+   |percentage = 50.4
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,264
+ }}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Stansted Mountfitchet===
+
+{{Election box begin | title=Stansted Mountfitchet (3 seats)}}
+{{Election box winning candidate with party link
+   |party      = Liberal Party (UK)
+   |candidate  = P. Clark
+   |votes      = 1,023
+   |percentage = 59.6
+   |change     = +26.9
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = P. Jones
+   |votes      = 1,011
+   |percentage = 58.9
+   |change     = +34.1
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = G. Clarke
+   |votes      = 965
+   |percentage = 56.2
+   |change     = +34.7
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = V. Mercer
+   |votes      = 774
+   |percentage = 45.1
+   |change     = +28.1
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Party (UK)
+   |candidate  = R. Clifford
+   |votes      = 642
+   |percentage = 37.4
+   |change     = +19.9
+}}
+{{Election box turnout
+   |votes      = ~1,718
+   |percentage = 49.4
+   |change     = –9.4
+ }}
+{{Election box registered electors
+   |reg. electors = 3,477
+ }}
+{{Election box hold with party link no swing
+   |winner     = Liberal Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Stebbing===
+
+{{Election box begin | title=Stebbing}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Independent politician
+  |candidate  = E. Kiddle
+}}
+{{Election box registered electors
+   |reg. electors = 970
+ }}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Stort Valley===
+
+{{Election box begin | title=Stort Valley}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = D. Collins
+}}
+{{Election box registered electors
+   |reg. electors = 912
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Takeley===
+
+{{Election box begin | title=Takeley (2 seats)}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Independent politician
+  |candidate  = W. Dudgeon
+}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = P. MacPhail
+}}
+{{Election box registered electors
+   |reg. electors = 2,072
+ }}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Thaxted===
+
+{{Election box begin | title=Thaxted (2 seats)}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = I. Barnard
+   |votes      = 707
+   |percentage = 71.0
+   |change     = ''N/A''
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = P. Latchford
+   |votes      = 573
+   |percentage = 57.6
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = G. Fraenkel
+   |votes      = 388
+   |percentage = 39.0
+   |change     = –1.7
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = A. Mussard
+   |votes      = 257
+   |percentage = 25.8
+   |change     = –4.3
+}}
+{{Election box turnout
+   |votes      = ~995
+   |percentage = 57.3
+   |change     = +3.1
+ }}
+{{Election box registered electors
+   |reg. electors = 1,737
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+ {{Election box end}}
+
+===The Canfields===
+
+{{Election box begin | title=The Cranfields}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = K. Fidler
+   |votes      = 486
+   |percentage = 66.3
+   |change     = +28.4
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = J. Chaplin
+   |votes      = 247
+   |percentage = 33.7
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 239
+   |percentage = 32.5
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 733
+   |percentage = 59.8
+   |change     = +2.8
+ }}
+{{Election box registered electors
+   |reg. electors = 1,235
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+ {{Election box end}}
+
+===The Chesterfords===
+
+{{Election box begin | title=The Chesterfords}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Moore
+}}
+{{Election box registered electors
+   |reg. electors = 874
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===The Eastons===
+
+{{Election box begin | title=The Eastons}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = G. Askew
+   |votes      = 346
+   |percentage = 63.6
+   |change     = –0.1
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Party (UK)
+   |candidate  = A. Proudley
+   |votes      = 198
+   |percentage = 36.4
+   |change     = +0.1
+}}
+{{Election box majority
+   |votes      = 148
+   |percentage = 27.1
+   |change     = –0.2
+ }}
+{{Election box turnout
+   |votes      = 544
+   |percentage = 62.7
+   |change     = +2.4
+ }}
+{{Election box registered electors
+   |reg. electors = 887
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = {{decrease}}0.1
+}}
+ {{Election box end}}
+
+===The Rodings===
+
+{{Election box begin | title=The Rodings}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = K. Tivendale
+}}
+{{Election box registered electors
+   |reg. electors = 882
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===The Sampfords===
+
+{{Election box begin | title=The Sampfords}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = H. Hughes
+   |votes      = 553
+   |percentage = 89.0
+   |change     = +49.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = J. Smith
+   |votes      = 68
+   |percentage = 11.0
+   |change     = –0.9
+}}
+{{Election box majority
+   |votes      = 485
+   |percentage = 78.0
+   |change     = +77.9
+ }}
+{{Election box turnout
+   |votes      = 621
+   |percentage = 55.5
+   |change     = –5.3
+ }}
+{{Election box registered electors
+   |reg. electors = 1,108
+ }}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = {{increase}}25.2
+}}
+ {{Election box end}}
+
+===Wenden Lofts===
+
+{{Election box begin | title=Wenden Lofts}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Independent politician
+  |candidate  = B. Erith
+}}
+{{Election box registered electors
+   |reg. electors = 908
+ }}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Wimbish & Debden===
+
+{{Election box begin | title=Wimbish & Debden}}
+{{Election box winning candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Tomblin
+}}
+{{Election box registered electors
+   |reg. electors = 957
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+==References==
+
+{{reflist}}
+
+{{Essex elections}}
+{{1976 United Kingdom local elections}}
+
+[[Category:Uttlesford District Council elections]]
+[[Category:1976 English local elections|Uttlesford]]
+[[Category:May 1976 in the United Kingdom]]
+[[Category:1970s in Essex]]

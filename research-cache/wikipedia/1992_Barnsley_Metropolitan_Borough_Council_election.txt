@@ -1,0 +1,979 @@
+{{Short description|1992 local election in England}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+{{Infobox election
+| election_name = 1992 Barnsley Metropolitan Borough Council election
+| country = England
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[1991 Barnsley Metropolitan Borough Council election]]
+| previous_year = [[1991 Barnsley Metropolitan Borough Council election|1991]]
+| next_election = [[1994 Barnsley Metropolitan Borough Council election]]
+| next_year = [[1994 Barnsley Metropolitan Borough Council election|1994]]
+| seats_for_election = One third of seats (22 of 66) to [[Barnsley Metropolitan Borough Council]]
+| majority_seats = 34
+| election_date = 7 May 1992
+
+| party1          = Labour Party (UK)
+| seats1          = 21
+| seat_change1    = {{steady}}
+| swing1          =
+
+| party2          = Conservative Party (UK)
+| seats2          = 1
+| seat_change2    = {{steady}}
+| swing2          =
+
+| party3          = Liberal Democrats (UK)
+| seats3          = 0
+| seat_change3    = {{steady}}
+| swing3          =
+
+| map_image = Barnsley UK local election 1992 map.png
+| map_size = 400px
+| map_caption = Map showing the results of the 1992 Barnsley council elections.
+| title = Majority party
+| posttitle = Majority party after election
+| before_election = [[Labour Party (UK)|Labour]]
+| before_party = 
+| after_election = [[Labour Party (UK)|Labour]]
+| after_party = 
+}}
+
+Elections to [[Barnsley Metropolitan Borough Council]] were held on 7 May 1992, with one third of the council up for election. The election resulted in Labour retaining control of the council.<ref name="results">{{cite web| url = http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Barnsley-1973-2012.pdf | title = Elections Centre: Barnsley 1973-2012 | publisher = electionscentre.co.uk/plymouth.ac.uk |access-date = 2017-07-25 | archive-url = https://web.archive.org/web/20170725171829/http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Barnsley-1973-2012.pdf | archive-date = 2017-07-25}}</ref><ref name="results2">{{cite web| url = https://www.barnsley.gov.uk/media/4121/electionresults1979to2003.pdf | title = Election results 1979 to 2003 | publisher = barnsley.gov.uk |access-date = 2017-07-28 | archive-url = https://web.archive.org/web/20170728185506/https://www.barnsley.gov.uk/media/4121/electionresults1979to2003.pdf | archive-date = 2017-07-28}}</ref>
+
+==Election result==
+{{Election summary begin|title = Barnsley Metropolitan Borough Council Election Result 1992<ref name="results" /><ref name="results2" />}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 21
+  |gain       = 1
+  |loss       = 0
+  |net        = +1
+  |seats %    = 95.5
+  |votes %    = 67.8
+  |votes      = 23,654
+  |plus/minus = +3.9
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 4.5
+  |votes %    = 16.6 
+  |votes      = 5,801
+  |plus/minus = -1.0
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 9.3
+  |votes      = 3,240
+  |plus/minus = +9.3
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 2.9
+  |votes      = 994
+  |plus/minus = -0.2
+}}
+{{Election summary|
+  |party      = Barnsley Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.5
+  |votes      = 510
+  |plus/minus = -3.4
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        = -1
+  |seats %    = 0.0
+  |votes %    = 1.5
+  |votes      = 507
+  |plus/minus = -9.0
+}}
+{{Election summary party|
+  |party      = Independent Labour
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.6
+  |votes      = 198
+  |plus/minus = +0.6
+}}
+{{Election box end}}
+
+This resulted in the following composition of the council:<ref name="results" /><ref name="results2" />
+
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 62
+| 63
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+| 2
+| 2
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent
+| 2
+| 1
+|-
+! colspan=2| Total
+! style="text-align: center"| 66
+! colspan=3| 66
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|58|border=darkgray}}
+! {{Color box|#FFBF00|60|border=darkgray}}
+|}
+
+==Ward results==
+
++/- figures represent changes from the last time these wards were contested.
+
+{{Election box begin | title=Ardsley (7616)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Wilson H.*
+  |votes      = 992
+  |percentage = 76.5
+  |change     = ''N/A''
+}}
+{{Election box candidate|
+  |party      = Barnsley Party
+  |candidate  = Ellis R.
+  |votes      = 166
+  |percentage = 12.8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Barrett C. Ms.
+  |votes      = 139
+  |percentage = 10.7
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 826
+  |percentage = 63.7
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,297
+  |percentage = 17.0
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Athersley (6604)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bostwick D.
+  |votes      = Unopposed
+  |percentage = ''N/A''
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Brierley (7479)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Whittaker A.*
+  |votes      = 1,238
+  |percentage = 66.1
+  |change     = +7.5
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Vodden N.
+  |votes      = 368
+  |percentage = 19.7
+  |change     = -7.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Schofield D. Ms.
+  |votes      = 266
+  |percentage = 14.2
+  |change     = -0.3
+}}
+{{Election box majority|
+  |votes      = 870
+  |percentage = 46.5
+  |change     = +14.8
+}}
+{{Election box turnout|
+  |votes      = 1,872
+  |percentage = 25.0
+  |change     = -12.8
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = +7.3
+}}
+{{Election box end}}
+{{Election box begin | title=Central (8819)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Watts J. Ms.*
+  |votes      = Unopposed
+  |percentage = ''N/A''
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Cudworth (8057)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Houghton S.*
+  |votes      = 1,648
+  |percentage = 82.3
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jobling H. Ms.
+  |votes      = 189
+  |percentage = 9.4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Cowton E. Ms.
+  |votes      = 165
+  |percentage = 8.2
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 1,459
+  |percentage = 72.9
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 2,002
+  |percentage = 24.8
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Darfield (8004)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Barlow E.*
+  |votes      = 1,359
+  |percentage = 77.2
+  |change     = -4.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Burton J.
+  |votes      = 258
+  |percentage = 14.7
+  |change     = -3.6
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Arundel T. Ms.
+  |votes      = 143
+  |percentage = 8.1
+  |change     = +8.1
+}}
+{{Election box majority|
+  |votes      = 1,101
+  |percentage = 62.6
+  |change     = -0.9
+}}
+{{Election box turnout|
+  |votes      = 1,760
+  |percentage = 22.0
+  |change     = -11.1
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -0.4
+}}
+{{Election box end}}
+{{Election box begin | title=Darton (9722)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Miller P.*
+  |votes      = 1,475
+  |percentage = 60.3
+  |change     = -15.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Shorthouse A.
+  |votes      = 501
+  |percentage = 20.5
+  |change     = +20.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elders E. Ms.
+  |votes      = 469
+  |percentage = 19.2
+  |change     = -5.1
+}}
+{{Election box majority|
+  |votes      = 974
+  |percentage = 39.8
+  |change     = -11.6
+}}
+{{Election box turnout|
+  |votes      = 2,445
+  |percentage = 25.1
+  |change     = -7.2
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -17.9
+}}
+{{Election box end}}
+{{Election box begin | title=Dearne South (9040)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Thomson J.*
+  |votes      = 1,981
+  |percentage = 88.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mosley A.
+  |votes      = 255
+  |percentage = 11.4
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 1,726
+  |percentage = 77.2
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 2,236
+  |percentage = 24.7
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Dearne Thurnscoe (8373)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Young K.*
+  |votes      = Unopposed
+  |percentage = ''N/A''
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Dodworth (9441)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ryan J.*
+  |votes      = 1,448
+  |percentage = 64.3
+  |change     = -0.9
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Jones D.
+  |votes      = 805
+  |percentage = 35.7
+  |change     = +19.4
+}}
+{{Election box majority|
+  |votes      = 643
+  |percentage = 28.5
+  |change     = -18.3
+}}
+{{Election box turnout|
+  |votes      = 2,253
+  |percentage = 23.9
+  |change     = -13.3
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -10.1
+}}
+{{Election box end}}
+{{Election box begin | title=Hoyland East (8060)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Beardshall P.*
+  |votes      = Unopposed
+  |percentage = ''N/A''
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Hoyland West (6874)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Wroe C.*
+  |votes      = 1,117
+  |percentage = 65.7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Armer B.
+  |votes      = 384
+  |percentage = 22.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Independent Labour
+  |candidate  = Newnbold A.
+  |votes      = 198
+  |percentage = 11.7
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 733
+  |percentage = 43.1
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,699
+  |percentage = 24.7
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Monk Bretton (8949)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sheard T.*
+  |votes      = 1,164
+  |percentage = 78.7
+  |change     = +7.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Fisher G.
+  |votes      = 190
+  |percentage = 12.8
+  |change     = +12.8
+}}
+{{Election box candidate|
+  |party      = Barnsley Party
+  |candidate  = Swapisz P.
+  |votes      = 125
+  |percentage = 8.5
+  |change     = -20.0
+}}
+{{Election box majority|
+  |votes      = 974
+  |percentage = 65.9
+  |change     = +22.8
+}}
+{{Election box turnout|
+  |votes      = 1,479
+  |percentage = 16.5
+  |change     = -12.8
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -2.8
+}}
+{{Election box end}}
+{{Election box begin | title=North West (7413)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Denton W.*
+  |votes      = 938
+  |percentage = 60.2
+  |change     = -9.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Carrington C. Ms.
+  |votes      = 515
+  |percentage = 33.1
+  |change     = +2.8
+}}
+{{Election box candidate|
+  |party      = Barnsley Party
+  |candidate  = Holderness B.
+  |votes      = 104
+  |percentage = 6.7
+  |change     = +6.7
+}}
+{{Election box majority|
+  |votes      = 423
+  |percentage = 27.2
+  |change     = -12.2
+}}
+{{Election box turnout|
+  |votes      = 1,557
+  |percentage = 21.0
+  |change     = -6.6
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -6.1
+}}
+{{Election box end}}
+{{Election box begin | title=Park (5252)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Doyle P.
+  |votes      = 1,239
+  |percentage = 79.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Cowton S.
+  |votes      = 326
+  |percentage = 20.8
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 913
+  |percentage = 58.3
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,565
+  |percentage = 29.8
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Penistone East (7424)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Smith L. Ms.*
+  |votes      = 1,470
+  |percentage = 48.5
+  |change     = +7.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Rawson R. Ms.
+  |votes      = 1,241
+  |percentage = 40.9
+  |change     = -8.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Marshall J. Ms.
+  |votes      = 321
+  |percentage = 10.6
+  |change     = +10.6
+}}
+{{Election box majority|
+  |votes      = 229
+  |percentage = 7.6
+  |change     = -0.4
+}}
+{{Election box turnout|
+  |votes      = 3,032
+  |percentage = 40.8
+  |change     = -11.5
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = +7.8
+}}
+{{Election box end}}
+{{Election box begin | title=Penistone West (8460)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Hinchliff B. Ms.*
+  |votes      = 1,823
+  |percentage = 59.0
+  |change     = +59.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Boaler M.
+  |votes      = 1,078
+  |percentage = 34.9
+  |change     = +0.6
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Wood A. Ms.
+  |votes      = 189
+  |percentage = 6.1
+  |change     = +6.1
+}}
+{{Election box majority|
+  |votes      = 745
+  |percentage = 24.1
+  |change     = -7.3
+}}
+{{Election box turnout|
+  |votes      = 3,090
+  |percentage = 36.5
+  |change     = -5.7
+}}
+{{Election box hold with party link|
+  |winner = Conservative Party (UK)
+  |swing  = +29.2
+}}
+{{Election box end}}
+{{Election box begin | title=Royston (8821)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Newman W.*
+  |votes      = 1,451
+  |percentage = 81.0
+  |change     = +5.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Oldfield H.
+  |votes      = 226
+  |percentage = 12.6
+  |change     = +12.6
+}}
+{{Election box candidate|
+  |party      = Barnsley Party
+  |candidate  = Sheriff J.
+  |votes      = 115
+  |percentage = 6.4
+  |change     = -17.9
+}}
+{{Election box majority|
+  |votes      = 1,225
+  |percentage = 68.4
+  |change     = +17.0
+}}
+{{Election box turnout|
+  |votes      = 1,792
+  |percentage = 20.3
+  |change     = -12.0
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -3.6
+}}
+{{Election box end}}
+{{Election box begin | title=South West (7691)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = McCormick R.*
+  |votes      = 1,293
+  |percentage = 67.4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Carrington J.
+  |votes      = 624
+  |percentage = 32.6
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 669
+  |percentage = 34.9
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,917
+  |percentage = 24.9
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Wombwell North (5296)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Storey A.*
+  |votes      = 777
+  |percentage = 80.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Dearle E. Ms.
+  |votes      = 193
+  |percentage = 19.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 584
+  |percentage = 60.2
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 970
+  |percentage = 18.3
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Wombwell South (8300)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Cross A. Ms.
+  |votes      = 1,474
+  |percentage = 76.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Newton E. Ms.
+  |votes      = 464
+  |percentage = 23.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 1,010
+  |percentage = 52.1
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,938
+  |percentage = 23.3
+  |change     = ''N/A''
+}}
+{{Election box gain with party link|
+  |winner = Labour Party (UK)
+  |loser = Independent (politician)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Worsbrough (8228)<ref name="results" /><ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Hadfield G.*
+  |votes      = 1,512
+  |percentage = 75.6
+  |change     = -8.2
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Newton M.
+  |votes      = 488
+  |percentage = 24.4
+  |change     = +24.4
+}}
+{{Election box majority|
+  |votes      = 1,024
+  |percentage = 51.2
+  |change     = -16.5
+}}
+{{Election box turnout|
+  |votes      = 2,000
+  |percentage = 24.3
+  |change     = -8.8
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -16.3
+}}
+{{Election box end}}
+
+==By-elections between 1992 and 1994==
+
+{{Election box begin | title=Athersley (6604) 24 September 1992 By-election<ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Woodhead, M.
+  |votes      = 936
+  |percentage = 88.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lewis, B.
+  |votes      = 125
+  |percentage = 11.8
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 811
+  |percentage = 75.7
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,061
+  |percentage = 16.1
+  |change     = ''N/A''
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = ''N/A''
+}}
+{{Election box end}}
+{{Election box begin | title=Brierley (7410) 20 May 1993 By-election<ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Tarn, P. T.
+  |votes      = 890
+  |percentage = 49.4
+  |change     = -16.7
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Schofield D. Ms.
+  |votes      = 599
+  |percentage = 33.2
+  |change     = +33.2
+}}
+{{Election box candidate|
+  |party      = Honest Independent
+  |candidate  = Vodden N.
+  |votes      = 239
+  |percentage = 13.3
+  |change     = -6.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Cowton, S. R.
+  |votes      = 74
+  |percentage = 4.1
+  |change     = +4.1
+}}
+{{Election box majority|
+  |votes      = 291
+  |percentage = 16.2
+  |change     = -30.3
+}}
+{{Election box turnout|
+  |votes      = 1,802
+  |percentage = 24.3
+  |change     = -0.7
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -24.9
+}}
+{{Election box end}}
+{{Election box begin | title=Darton (10259) 8 July 1993 By-election<ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Shepherd, J. M.
+  |votes      = 1,583
+  |percentage = 82.1
+  |change     = +21.8
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Shorthouse, A. M.
+  |votes      = 346
+  |percentage = 17.9 
+  |change     = -2.6
+}}
+{{Election box majority|
+  |votes      = 1,237
+  |percentage = 64.2 
+  |change     = +24.4
+}}
+{{Election box turnout|
+  |votes      = 1,929
+  |percentage = 18.8
+  |change     = -6.3
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = +12.2
+}}
+{{Election box end}}
+{{Election box begin | title=Royston (8803) 8 July 1993 By-election<ref name="results2" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Horsley, D.
+  |votes      = 833
+  |percentage = 65.2
+  |change     = -15.8
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Dearle, E.
+  |votes      = 444
+  |percentage = 34.8
+  |change     = +34.8
+}}
+{{Election box majority|
+  |votes      = 389
+  |percentage = 30.4
+  |change     = -38.0
+}}
+{{Election box turnout|
+  |votes      = 1,277
+  |percentage = 14.5 
+  |change     = -5.8
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing  = -25.3
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 1992}}
+
+[[Category:1992 English local elections]]
+[[Category:Barnsley Council elections|1992]]
+[[Category:1990s in South Yorkshire]]

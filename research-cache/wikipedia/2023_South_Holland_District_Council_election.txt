@@ -1,0 +1,374 @@
+{{Short description|2023 English local election}}
+{{Infobox election
+| election_name     = 2023 South Holland District Council election
+| country           = Lincolnshire
+| type              = parliamentary
+| previous_election = 2019 South Holland District Council election
+| previous_year     = 2019
+| outgoing_members  = 
+| election_date     = {{Start date|2023|5|4|df=y}}
+| elected_members   = 
+| next_election     = 2027 South Holland District Council election
+| next_year         = 2027
+| seats_for_election= All 37 seats on [[South Holland District Council]]
+| majority_seats    = 19
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = [[Gary Porter, Baron Porter of Spalding|Gary Porter]] (defeated)
+| party1            = Conservative Party (UK)
+| leader_since1     = 
+| last_election1    = 
+| leaders_seat1     = 
+| seats_before1     = 23
+| seats1            = 
+| seats_after1      = '''19'''
+| seat_change1      = 
+| popular_vote1     = 
+| percentage1       = 
+| swing1            = 
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = Rob Gibson
+| party2            = South Holland Independents
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 
+| seats_before2     = 7
+| seats2            = 
+| seats_after2      = '''15'''
+| seat_change2      = 
+| popular_vote2     = 
+| percentage2       = 
+| swing2            = 
+<!-- Party 3 -->
+| image3            = [[File:No image wide.svg|95x50px|Blank]]
+| leader3           = 
+| party3            = Independent politician
+| leader_since3     = 
+| leaders_seat3     = 
+| last_election3    = 
+| seats_before3     = 7
+| seats3            = 
+| seats_after3      = '''3'''
+| seat_change3      = 
+| popular_vote3     = 
+| percentage3       = 
+| swing3            = 
+| map_image         = File:South Holland UK ward map 2023.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Results by ward
+| title = [[Leader of the council|Leader]]
+| posttitle = Leader after election
+| before_election = Gary Porter
+| before_party = Conservative Party (UK)
+| after_election = Nick Worth
+| after_party = Conservative Party (UK)
+}}
+
+The '''2023 South Holland District Council election''' took place on 4 May 2023, to elect all 37 members of [[South Holland District Council]] in [[Lincolnshire]], England. This was on the same day as [[2023 United Kingdom local elections|other local elections across England]].
+
+==Overview==
+Prior to the election the council was under Conservative majority control. At the previous [[2019 South Holland District Council election|election in 2019]] every elected candidate had been either a Conservative or an independent councillor. In 2021 a group of the independent councillors formed a registered political party, the "South Holland Independents".<ref>{{cite web |title=South Holland Independents |url=https://search.electoralcommission.org.uk/English/Registrations/PP12771 |website=The Electoral Commission |access-date=29 June 2023}}</ref> By the time of the 2023 election seven of the independent councillors had joined the South Holland Independents. They sat on the council as a group with four of the other seven independent councillors as the "South Holland Independents and Independents" group. The other three independent councillors (all of whom had been elected as Conservatives) did not belong to any group.<ref name=standing/><ref>{{cite web |title=Your councillors by party |url=https://democracy.sholland.gov.uk/mgMemberIndex.aspx?FN=PARTY&VW=LIST&PIC=0 |website=South Holland District Council |access-date=29 June 2023 |archive-url=https://web.archive.org/web/20230405002042/https://democracy.sholland.gov.uk/mgMemberIndex.aspx?FN=PARTY&VW=LIST&PIC=0 |archive-date=5 April 2023}}</ref>
+
+Following the results, the Conservatives retained overall control, but with a reduced majority. Their leader, [[Gary Porter, Baron Porter of Spalding|Gary Porter]], who had been leader of the council since 2003, lost his seat.<ref>{{Cite web |date=2023-05-04 |title=South Holland District Council local election results |url=https://www.spaldingtoday.co.uk/news/live-south-holland-district-council-local-election-results-9311190/ |access-date=2023-05-07 |website=Spalding Today |language=en}}</ref> Nick Worth was appointed the new leader of the council at the subsequent annual council meeting on 17 May 2023.<ref>{{cite news |last1=Browne |first1=Duncan |title=New South Holland District Council leader Coun Nick Worth lays out his plans for the future and calls on teamwork from both sides of the chamber |url=https://www.spaldingtoday.co.uk/news/new-council-leader-lays-out-his-plans-for-the-future-and-cal-9313960/ |access-date=29 June 2023 |work=Spalding Today |date=23 May 2023}}</ref> The South Holland Independents won 15 seats and the other three seats were won by other independent councillors. The South Holland Independents and independents formed a single group of 18 councillors after the election called the "Independent Group".<ref>{{cite web |title=Your councillors by political grouping |url=https://democracy.sholland.gov.uk/mgMemberIndex.aspx?FN=GROUPING&VW=LIST&PIC=0 |website=South Holland District Council |access-date=29 June 2023}}</ref>
+
+==Results==
+{{Local election summary begin|title=2023 South Holland District Council election<ref>{{Cite news |title=South Holland result - Local Elections 2023 |language=en-GB |work=BBC News |url=https://www.bbc.com/news/election/2023/england/councils/E07000140 |access-date=2023-05-07}}</ref>}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =35
+  |seats         ='''19'''
+  |gain          =2
+  |loss          =9
+  |net           ={{decrease}} 5
+  |seats %       =51.4
+  |votes %       =
+  |votes         =9,928
+  |plus/minus    =
+}}
+{{Local election summary party
+  |party         =South Holland Independents
+  |candidates    =19
+  |seats         ='''15'''
+  |gain          =15
+  |loss          =0
+  |net           ={{increase}} 15
+  |seats %       =40.5
+  |votes %       =
+  |votes         =6,865
+  |plus/minus    =
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =7
+  |seats         ='''3'''
+  |gain          =0
+  |loss          =8
+  |net           ={{decrease}} 10
+  |seats %       =8.1
+  |votes %       =
+  |votes         =3,224
+  |plus/minus    =
+}}
+{{Local election summary party
+  |party         =Green Party of England and Wales
+  |candidates    =4
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |seats %       =0
+  |votes %       =
+  |votes         =1,221
+  |plus/minus    =
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =1
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |seats %       =0
+  |votes %       =
+  |votes         =401
+  |plus/minus    =
+}}
+{{Local election summary party
+  |party         =Reform UK
+  |candidates    =1
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |seats %       =0
+  |votes %       =
+  |votes         =212
+  |plus/minus    =
+}}
+{{Election box end}}
+
+==Ward results==
+The results for each ward were as follows, with an asterisk (*) indicating sitting councillors standing for re-election.<ref name=standing>{{cite news |last1=Mann |first1=Sebastian |last2=Turner |first2=James |last3=Jaines |first3=Daniel |title=Local elections: Who's standing in Lincolnshire in May 2023? |url=https://www.lincolnshirelive.co.uk/news/local-news/local-elections-whos-standing-lincolnshire-8329569 |access-date=29 June 2023 |work=Lincolnshire Live |date=9 April 2023}}</ref>
+===Crowland and Deeping St Nicholas===
+{{Election box begin | title=Crowland and Deeping St Nicholas}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=James Robert Astill*<br>''(Jim Astill)''|votes=770 |percentage= 58.2|change=+17.5}}
+{{Election box winning candidate with party link |party =Independent politician|candidate=Bryan Alcock*|votes=757 |percentage= 57.2|change=+7.2}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Angela Harrison<br>''(Angie Harrison)''|votes=577 |percentage= 43.6|change=+4.1}}
+{{Election box candidate with party link |party =Green Party of England and Wales|candidate=Amy Rebecca Cook-Nykyforczuk|votes=489 |percentage= 37.0|change=''N/A''}}
+{{Election box turnout |votes=1,326|percentage=24.55|change=}}{{Election box registered electors|reg. electors=5,402}}
+
+{{Election box hold with party link no swing
+|winner=Conservative Party (UK)}}
+{{Election box hold with party link no swing|winner=Independent politician}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+===Donington, Quadring and Gosberton===
+{{Election box begin | title=Donington, Quadring and Gosberton}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Jane Lesley King*|votes=856 |percentage= 55.7|change=-4.2}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Henry John William Bingham*|votes=737 |percentage= 48.0|change=-2.3}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Margaret Ann Geaney|votes=631 |percentage= 41.1|change=+9.6}}
+{{Election box candidate with party link |party =South Holland Independents|candidate=Simon Charles Walsh*|votes=597 |percentage= 38.9|change=-6.8}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Colin Neville Johnson|votes=542 |percentage= 35.3|change=+5.1}}
+{{Election box candidate with party link |party =Reform UK|candidate=Matthew James Swainson|votes=212 |percentage= 13.8|change=''N/A''}}
+{{Election box turnout |votes=1,550|percentage=26.48 |change=}}{{Election box registered electors|reg. electors=5,854}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Independent politician}}
+{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Independent politician}}
+{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Independent politician}}
+{{Election box end}}
+Jane King had been elected as an independent in 2019; seat shown here as South Holland Independents gain from independent to allow comparison with 2019 results. Henry Bingham had been elected as an independent in 2019 but joined the Conservatives in 2021; seat shown here as Conservative gain from independent.<ref>{{cite news |last1=Brookes |first1=Andrew |title=Donington, Quadring and Gosberton councillor joins Conservative group |url=https://www.spaldingtoday.co.uk/news/henry-joins-conservative-group-9222226/ |access-date=29 June 2023 |work=Spalding Today |date=24 October 2021}}</ref> Margaret Geaney has previously been a councillor for the Bletchley West Ward (Milton Keynes) between 2015 and 2019.
+
+===Fleet===
+{{Election box begin | title=Fleet}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Paul Stephen Barnes|votes=373 |percentage= 65.6|change=''N/A''}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Edward George McNally|votes=196 |percentage= 34.4|change=-1.8}}
+{{Election box turnout |votes=573|percentage=29.75 |change=}}{{Election box registered electors|reg. electors=1,926}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box end}}
+
+===Gedney===
+{{Election box begin | title=Gedney}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Joanne Louise Reynolds*<br>''(Jo Reynolds)''|votes=289 |percentage= 60.7|change=+60.7}}
+{{Election box candidate with party link |party =South Holland Independents|candidate=Matthew James Stancer|votes=187 |percentage= 39.3|change=''N/A''}}
+{{Election box turnout |votes=479|percentage=26.35|change=}}{{Election box registered electors|reg. electors=1,818}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+===Holbeach Hurn===
+{{Election box begin | title=Holbeach Hurn}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Charles Nicholas Worth*<br>''(Nick Worth)''|votes=331 |percentage= 73.7|change=+73.7}}
+{{Election box candidate with party link |party =Green Party of England and Wales|candidate=Wendy Jane Blackman|votes=118 |percentage= 26.3|change=''N/A''}}
+{{Election box turnout |votes=453|percentage=25.18|change=}}{{Election box registered electors|reg. electors=1,799}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+===Holbeach Town===
+{{Election box begin | title=Holbeach Town}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Tracey Ann Carter*|votes=959 |percentage= 60.3|change=+1.9}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=Sophie Elizabeth Hutchinson|votes=734 |percentage=46.1 |change=''N/A''}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Nanette Jacqueline Chapman|votes=557 |percentage=35.0 |change=-23.4}}
+{{Election box candidate with party link |party =South Holland Independents|candidate=Paul Cayton Foyster|votes=523 |percentage=32.9 |change=-6.0}}
+{{Election box candidate with party link |party =Independent politician|candidate=Graham Thomas Desmond Rudkin*|votes=496 |percentage=31.2 |change=-13.8}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Malcolm Godfrey Chandler|votes=484 |percentage=30.4 |change=-1.8}}
+{{Election box candidate with party link |party =Independent politician|candidate=Francis Biggadike*|votes=332 |percentage=20.9 |change=-37.5}}
+{{Election box turnout |votes=1,597|percentage=25.21|change=}}{{Election box registered electors|reg. electors=6,336}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Independent politician}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+Francis Biggadike had been elected in 2019 as a Conservative but left the party early in 2023 after not being selected as the party's candidate for this election.<ref>{{cite news |last1=Brookes |first1=Andrew |title=Francis Biggadike, 90, set to stand as non-aligned independent for Holbeach Town ward |url=https://www.spaldingtoday.co.uk/news/francis-90-fights-on-alone-as-he-bids-to-keep-his-seat-9307497/ |access-date=29 June 2023 |work=Spalding Today |date=7 April 2023}}</ref>
+
+===Long Sutton===
+{{Election box begin | title=Long Sutton}}{{Election box winning candidate with party link |party =Independent politician|candidate=Andrew Charles Tennant*|votes=982 |percentage= 58.2|change=+5.9}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Jack Tyrrell*|votes=967 |percentage= 57.3|change=+9.7}}
+{{Election box winning candidate with party link |party =Independent politician|candidate=David John Wilkinson*|votes=782 |percentage= 46.4|change=+1.1}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=David Ivan Thompson|votes=624 |percentage= 37.0|change=-7.6}}
+{{Election box turnout |votes=1,691|percentage=27.88|change=}}{{Election box registered electors|reg. electors=6,066}}
+{{Election box hold with party link no swing|winner=Independent politician}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box hold with party link no swing|winner=Independent politician}}
+{{Election box end}}
+
+===Moulton, Weston and Cowbit===
+{{Election box begin | title=Moulton, Weston and Cowbit}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Anthony Casson*|votes=1,006 |percentage= 57.7|change=-7.5}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=Thomas Edmund Sneath|votes=976 |percentage= 56.0|change=''N/A''}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Andrew Robert Woolf*|votes=958 |percentage= 54.9|change=-3.3}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Rodney Grocock*|votes=659 |percentage= 37.8|change=-6.6}}
+{{Election box turnout |votes=1,759|percentage=29.95|change=}}{{Election box registered electors|reg. electors=5,874}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+===Pinchbeck and Surfleet===
+{{Election box begin | title=Pinchbeck and Surfleet}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Elizabeth Jane Sneath*|votes=904 |percentage= 56.7|change=-1.0}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=James Edward Avery*|votes=886 |percentage= 55.6|change=+1.6}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Sally Ann Slade*|votes=780 |percentage= 49.0|change=-3.4}}
+{{Election box candidate with party link |party =Independent politician|candidate=Terence Moore<br>''(Terry Moore)''|votes=699 |percentage= 43.9|change=-7.8}}
+{{Election box candidate with party link |party =Green Party of England and Wales|candidate=Simon Richard Jenkins|votes=431 |percentage= 27.1|change=''N/A''}}
+{{Election box turnout |votes=1,599|percentage=27.13|change=}}{{Election box registered electors|reg. electors=5,894}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+===Spalding Castle===
+{{Election box begin | title=Spalding Castle}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Gary John Taylor*|votes=335 |percentage= 64.7|change=+18.0}}
+{{Election box candidate with party link |party =Green Party of England and Wales|candidate=Martin Christopher Blake|votes=183 |percentage= 35.3|change=-2.3}}
+{{Election box turnout |votes=521|percentage=28.47|change=}}{{Election box registered electors|reg. electors=1,830}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+===Spalding Monks House===
+{{Election box begin | title=Spalding Monks House}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Suresh Chauhan<br>''(Sam Chauhan)''|votes=604 |percentage= 59.4|change=''N/A''}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=Ingrid Helen Sheard|votes=524 |percentage= 51.5|change=''N/A''}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Stephen Peter Timewell*|votes=468 |percentage= 46.0|change=+17.0}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Valerie Gemmell<br>''(Val Gemmell)''|votes=275 |percentage= 27.0|change=''N/A''}}
+{{Election box turnout |votes=1,022|percentage=24.32|change=}}{{Election box registered electors|reg. electors=4,203}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box end}}
+Shown as two gains for South Holland Independents from independents to allow comparison with 2019 results. Stephen Timewell had won his seat for the Conservatives in a by-election in 2022. The other seat was held by Anthony Cronin, who was elected as an independent in 2019 but who subsequently joined the South Holland Independents. He did not stand for re-election.<ref name=standing/>
+
+===Spalding St John's===
+{{Election box begin | title=Spalding St John's}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Manzur Hasan*|votes=732 |percentage= 71.6|change=+26.0}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=James Anthony Le Sage|votes=611 |percentage= 59.7|change=''N/A''}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Edward Oliver Sneath|votes=242 |percentage= 23.7|change=-16.4}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Ann Elizabeth Savage|votes=224 |percentage= 21.9|change=-11.2}}
+{{Election box turnout |votes=1,024|percentage=23.75|change=}}{{Election box registered electors|reg. electors=4,312}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Independent politician}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box end}}
+Manzur Hasan had been elected in 2019 as an independent councillor but had subsequently joined the South Holland Independents. The other seat had been held by Jack McLean prior to the election, who had been elected in 2019 as a Conservative but left the party in October 2020 and sat as a non-aligned independent for the remainder of his term. He did not stand for re-election.
+
+===Spalding St Mary's===
+{{Election box begin | title=Spalding St Mary's}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Mark Edward Le Sage|votes=559 |percentage= 57.4|change=''N/A''}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=David Roy Ashby<br>''(Dave Ashby)''|votes=472 |percentage= 48.5|change=''N/A''}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=William Luke John Hayes|votes=432 |percentage= 44.4|change=-4.8}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Gary Andrew Porter*|votes=368 |percentage= 37.8|change=-12.8}}
+{{Election box turnout |votes=978|percentage=26.82|change=}}{{Election box registered electors|reg. electors=3,647}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box end}}
+
+===Spalding St Paul's===
+{{Election box begin | title=Spalding St Paul's}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Robert Antony Gibson*<br>''(Rob Gibson)''|votes=458 |percentage= 65.4|change=+10.3}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=Bailey Paul John Boulding|votes=385 |percentage= 55.0|change=''N/A''}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Glynis Pearl Scalese*|votes=269 |percentage= 38.4|change=-10.8}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Christopher James Sutton|votes=197 |percentage= 28.1|change=-15.1}}
+{{Election box turnout |votes=707|percentage=19.42 |change=}}{{Election box registered electors|reg. electors=3,641}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Independent politician}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box end}}
+Rob Gibson had been elected in 2019 as an independent but had subsequently been one of the founder members of the South Holland Independents, of which he was the leader.
+
+===Spalding Wygate===
+{{Election box begin | title=Spalding Wygate}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Janet Brenda Whitbourn<br>''(Jan Whitbourn)''|votes=473 |percentage= 45.5|change=+1.8}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=Aaron Jacob Spencer|votes=423 |percentage= 40.7|change=''N/A''}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Roger Gambba-Jones*|votes=411 |percentage= 39.6|change=-2.8}}
+{{Election box candidate with party link |party =Labour Party (UK)|candidate=Aidan James Forman|votes=401 |percentage= 38.6|change=''N/A''}}
+{{Election box turnout |votes=1,040|percentage=21.83|change=}}{{Election box registered electors|reg. electors=4,763}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Conservative Party (UK)}}
+{{Election box end}}
+
+===Sutton Bridge===
+{{Election box begin | title=Sutton Bridge}}{{Election box winning candidate with party link |party =South Holland Independents|candidate=Michael David Booth*|votes=540 |percentage= 58.7|change=-9.2}}
+{{Election box winning candidate with party link |party =South Holland Independents|candidate=Christopher James Thomas Harrison Brewis*|votes=493 |percentage= 53.6|change=-14.3}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Peter Ephraim Coupland**|votes=381 |percentage= 41.4|change=+13.7}}
+{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Laurence Philip Marchant|votes=348 |percentage= 37.8|change=+20.4}}
+{{Election box turnout |votes=948|percentage=27.7 |change=}}{{Election box registered electors|reg. electors=3,423}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Independent politician}}
+{{Election box gain with party link no swing|winner=South Holland Independents|loser=Independent politician}}
+{{Election box end}}
+Peter Coupland had been the councillor for Fleet ward immediately before the election. Michael Booth and Christopher Brewis had both been elected in 2019 as independents but subsequently joined the South Holland Independents.
+
+===The Saints===
+{{Election box begin | title=The Saints}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Laura Jean Eldridge|votes=524 |percentage= 76.8|change=+76.8}}
+{{Election box candidate with party link |party =Independent politician|candidate=Michael David Seymour*|votes=158 |percentage= 23.2|change=+23.2}}
+{{Election box turnout |votes=686|percentage=32.36 |change=}}{{Election box registered electors|reg. electors=2,120}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+Michael Seymour had been elected as a Conservative in 2019 but left the party early in 2023 after not being selected as the party's candidate for this election.
+
+===Whaplode and Holbeach St John's===
+{{Election box begin | title=Whaplode and Holbeach St John's}}{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Allan Charles Beal*|votes=615 |percentage= 60.5|change=+60.5}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Paul Alexander Redgate*|votes=555 |percentage= 54.6|change=+54.6}}
+{{Election box candidate with party link |party =South Holland Independents|candidate=Harry Joshua Griffen|votes=423|percentage= 41.6|change=''N/A''}}
+{{Election box turnout |votes=1,024|percentage=28.58 |change=}}{{Election box registered electors|reg. electors=3,583}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box hold with party link no swing|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+==Changes 2023–2027==
+
+===Spalding St Paul's===
+{{Election box begin | title=Spalding St Paul's by election, 9 November 2023}}
+{{Election box winning candidate with party link |party =Conservative Party (UK)|candidate=Glynis Pearl Scalese|votes=155|percentage= 24.9|change=-13.5}}
+{{Election box candidate with party link |party =South Holland Independents|candidate=Vanessa Browning|votes=155|percentage= 24.9|change=-30.1}}
+{{Election box candidate with party link |party =Independent politician|candidate=Stephen Peter Timewell|votes=132|percentage= 21.2|change=''N/A''}}
+{{Election box candidate with party link |party =Labour Party (UK)|candidate=Aidan James Forman|votes=108|percentage= 17.3|change=''N/A''}}
+{{Election box candidate with party link |party =Independent politician|candidate=Julian Ashley Wheeler|votes=73|percentage= 11.7|change=''N/A''}}
+{{Election box turnout |votes=623|percentage=17.53|change=}}{{Election box registered electors|reg. electors=3,582}}
+{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=South Holland Independents}}
+{{Election box end}}
+This by-election was triggered by the resignation of South Holland Independents councillor Bailey Boulding.<ref>{{cite news |last1=Fear |first1=Victoria |title=Spalding councillor has resigned |url=https://www.spaldingtoday.co.uk/news/councillor-resigns-due-to-family-issues-9332142/ |access-date=28 November 2023 |work=Spalding Today |date=26 September 2023}}</ref> The result of the by-election was a tie which was resolved by drawing lots.<ref>{{cite news |last1=Fear |first1=Victoria |title=Conservative Party re-takes Spalding St Paul's ward seat with Glynis Scalese winning the seat after the drawing of lots to decide tied race |url=https://www.spaldingtoday.co.uk/news/conservative-party-retakes-the-spalding-st-paul-s-ward-in-dr-9339247/ |access-date=28 November 2023 |work=Spalding Today |date=28 November 2023}}</ref><ref>{{cite web |title=Declaration of results - Spalding St Paul's Ward |url=https://www.sholland.gov.uk/article/24753/Declaration-of-Results-Spalding-St-Paul-s-Ward |website=South Holland District Council |access-date=28 November 2023}}</ref>
+
+===Long Sutton===
+
+{{Election box begin | title=Long Sutton by-election, 30th July 2026}}{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Naomi Andrews|votes=|percentage=|change=}}
+{{Election box candidate with party link |party =Green Party of England and Wales|candidate=James Timpson|votes= |percentage= |change=}}
+{{Election box candidate with party link |party =Reform UK|candidate=Robbie Woods|votes= |percentage= |change=}}
+{{Election box turnout |votes=|percentage=|change=}}{{Election box registered electors|reg. electors=}}
+{{Election box hold with party link no swing|winner=}}
+{{Election box end}}
+
+== References ==
+{{Reflist}}
+
+{{Lincolnshire elections}}
+{{2023 United Kingdom local elections}}
+
+[[Category:2023 English local elections|South Holland]]
+[[Category:May 2023 in the United Kingdom]]
+[[Category:South Holland District Council elections]]
+[[Category:2020s in Lincolnshire]]
