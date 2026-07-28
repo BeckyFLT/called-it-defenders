@@ -1,0 +1,22 @@
+name: Refresh pending defenders list
+on:
+  schedule:
+    - cron: '0 23 * * 4'   # Thursday 23:00 UTC, ahead of the Friday agent
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch pending list from called-it.uk
+        run: |
+          curl -sf https://called-it.uk/api/elections/pending-defenders -o pending.json
+          python3 -c "import json; json.load(open('pending.json'))"  # must be valid JSON
+      - name: Commit if changed
+        run: |
+          git config user.name "pending-refresh bot"
+          git config user.email "actions@github.com"
+          git add pending.json
+          git diff --cached --quiet || (git commit -m "Refresh pending list: $(date -u +%F)" && git push)
