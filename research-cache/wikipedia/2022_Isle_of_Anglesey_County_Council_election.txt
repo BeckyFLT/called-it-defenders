@@ -438,14 +438,14 @@ The by-election was caused by the death of Plaid Cymru councillor Trefor Lloyd H
 
 === Bro'r Llynnoedd (2026)===
 
-{{Election box begin|title=Bro'r Llynnoedd}}
+{{Election box begin|title=Bro'r Llynnoedd<ref>https://www.monfm.co.uk/information/local/four-candidates-for-bror-llynnoedd-by-election/</ref>}}
 {{Election box candidate with party link|party=Green Party of England and Wales|candidate=Nick Bounds|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Conservative Party (UK)|candidate=Margaret John|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Reform UK|candidate=Richard Jones|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Plaid Cymru|candidate=John Taylor|votes=|percentage=|change=}}
-{{Election box majority||votes=''N/A''|percentage=''N/A''|change=''N/A''}}
+{{Election box majority||votes=|percentage=|change=}}
 {{Election box turnout||votes=|percentage=|change=}}
-{{election box hold no swing}}
+{{election box hold with party link|winner=|loser=|swing=}}
 {{Election box end}}
 
 ==Aftermath==
