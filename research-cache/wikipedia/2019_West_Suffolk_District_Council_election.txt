@@ -1,0 +1,2685 @@
+{{Short description|2019 UK local government election}}
+{{Use dmy dates|date=April 2022}}
+
+{{Infobox election
+| election_name     = 2019 West Suffolk District Council election
+| country           = Suffolk
+| type              = parliamentary
+| previous_election = 
+| previous_year     = 
+| outgoing_members  = 
+| election_date     = {{Start date|2019|5|2|df=y}}
+| elected_members   = 
+| next_election     = 2023 West Suffolk District Council election
+| next_year         = 2023
+| seats_for_election= All 64 seats to [[West Suffolk District Council]]
+| majority_seats    = 33
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = 
+| party1            = Conservative Party (UK)
+| leader_since1     =
+| last_election1    =
+| leaders_seat1     =
+| seats_before1     = 55{{efn|name=bbcnotional|West Suffolk Council held no previous election, having been formed in 2019 from the merger of [[Forest Heath District Council|Forest Heath]] and [[St Edmundsbury Borough Council|St Edmundsbury]]. These figures are the [[BBC News]] "notional" 2015 baseline, calculated by projecting the 2015 results in the two predecessor councils onto the new West Suffolk wards.<ref>{{cite web |title=West Suffolk Council |url=https://web.archive.org/web/20201104142506/https://www.bbc.com/news/topics/cpzqg374rl1t/west-suffolk-council |website=BBC News |archive-url=https://web.archive.org/web/20201104142506/https://www.bbc.com/news/topics/cpzqg374rl1t/west-suffolk-council |archive-date=4 November 2020 |url-status=live |access-date=5 August 2026}}</ref> The BBC's notional calculation does not track [[West Suffolk Independents]] as a separate category, so the 55 notional Conservative seats include what became the 7 West Suffolk Independents seats after the 2019 election; no comparable notional figure is available for that party.}}
+| seats1            = '''36'''
+| seats_after1      =
+| seat_change1      = {{decrease}}12
+| popular_vote1     = 24,134
+| percentage1       = 48.2%
+| swing1            = 
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = 
+| party2            = Independent politician
+| leader_since2     = 
+| leaders_seat2     =
+| last_election2    =
+| seats_before2     = 3{{efn|name=bbcnotional}}
+| seats2            = '''15'''
+| seats_after2      =
+| seat_change2      = {{increase}}12
+| popular_vote2     = 9,860
+| percentage2       = 19.7%
+| swing2            = 
+<!-- Party 3 -->
+| image3            = [[File:No image wide.svg|95x50px|Blank]]
+| leader3           = 
+| party3            = West Suffolk Independents
+| leader_since3     =
+| leaders_seat3     = 
+| last_election3    = 
+| seats_before3     = 
+| seats3            = '''7'''
+| seats_after3      = 
+| seat_change3      = 
+| popular_vote3     = 3,074
+| percentage3       = 6.1%
+| swing3            = 
+<!-- Party 4 -->
+| image4            = [[File:No image wide.svg|95x50px|Blank]]
+| leader4           = 
+| party4            = Labour Party (UK)
+| leader_since4     =
+| leaders_seat4     =
+| last_election4    =
+| seats_before4     = 2{{efn|name=bbcnotional}}
+| seats4            = '''5'''
+| seats_after4      =
+| seat_change4      = {{increase}}3
+| popular_vote4     = 9,159
+| percentage4       = 18.3%
+| swing4            = 
+<!-- Party 5 -->
+| image5            = [[File:No image wide.svg|95x50px|Blank]]
+| leader5           = 
+| party5            = Green Party of England and Wales
+| leader_since5     = 
+| leaders_seat5     =
+| last_election5    =
+| seats_before5     = 0{{efn|name=bbcnotional}}
+| seats5            = '''1'''
+| seats_after5      =
+| seat_change5      = {{increase}}1
+| popular_vote5     = 1,047
+| percentage5       = 2.1%
+| swing5            = 
+| map_image         = West Suffolk UK ward map 2019.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Winner of each seat at the 2019 West Suffolk District Council election
+| title = Council control
+| posttitle = Council control after election
+| before_election = 
+| before_party = 
+| after_election = 
+| after_party = Conservative Party (UK)
+}}
+
+The '''2019 West Suffolk District Council election''' was held on 2 May 2019 and was the inaugural election of the new [[West Suffolk District Council]].<ref>{{cite web |title=Local Elections 2019 in the Anglia region |url=https://www.itv.com/news/anglia/story/2019-04-30/local-elections-2019-in-the-anglia-region/ |website=ITV News |access-date=2 January 2020 |language=en}}</ref> It was held concurrently with [[2019 United Kingdom local elections|other local elections across the United Kingdom]].
+
+The [[Conservative Party (UK)|Conservative Party]] won 36 of the 64 seats, giving it outright control of the new council.<ref name="WSC-2019-results"/>
+
+==Summary==
+
+===Election result===
+
+{{Local election summary begin|title=2019 West Suffolk District Council election<ref name="WSC-2019-results">{{Cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/wscelectionresults2may2019.cfm |title=West Suffolk Council election results 2 May 2019 |website=www.westsuffolk.gov.uk |publisher=[[West Suffolk District Council]] |access-date=24 July 2026}}</ref>}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =61
+  |seats         ='''36'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =48.2
+  |seats %       =56.3
+  |votes         =24,134
+  |plus/minus    =''N/A''
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =21
+  |seats         ='''15'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =19.7
+  |seats %       =23.4
+  |votes         =9,860
+  |plus/minus    =''N/A''
+}}
+{{Local election summary party
+  |party         =West Suffolk Independents
+  |candidates    =10
+  |seats         ='''7'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =6.1
+  |seats %       =10.9
+  |votes         =3,074
+  |plus/minus    =''N/A''
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =36
+  |seats         ='''5'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =18.3
+  |seats %       =7.8
+  |votes         =9,159
+  |plus/minus    =''N/A''
+}}
+{{Local election summary party
+  |party         =Green Party of England and Wales
+  |candidates    =3
+  |seats         ='''1'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =2.1
+  |seats %       =1.6
+  |votes         =1,047
+  |plus/minus    =''N/A''
+}}
+{{Local election summary party
+  |party         =Liberal Democrats (UK)
+  |candidates    =6
+  |seats         ='''0'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =3.1
+  |seats %       =0.0
+  |votes         =1,549
+  |plus/minus    =''N/A''
+}}
+{{Local election summary party
+  |party         =UKIP
+  |candidates    =4
+  |seats         ='''0'''
+  |gain          =''N/A''
+  |loss          =''N/A''
+  |net           =''N/A''
+  |votes %       =2.4
+  |seats %       =0.0
+  |votes         =1,219
+  |plus/minus    =''N/A''
+}}
+|-
+{{Election box end}}
+
+==Ward results==
+
+Results for each ward at the 2 May 2019 election were as follows:<ref name="WSC-2019-results"/>
+
+===Abbeygate===
+
+{{Election box begin no change | title=Abbeygate<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/AbbeygateDeclarationOfResults201905031212121202.PDF |title=Declaration of Result - Abbeygate |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Green Party of England and Wales
+   |candidate  = Lisa Ingwall King
+   |votes      = 628
+   |percentage = 46.4
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Joanna Rayner
+   |votes      = 523
+   |percentage = 38.7
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Speed
+   |votes      = 484
+   |percentage = 35.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Democrats (UK)
+   |candidate  = Christopher Lale
+   |votes      = 392
+   |percentage = 29.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Nicola Iannelli-Popham
+   |votes      = 385
+   |percentage = 28.5
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 39
+   |percentage = 2.9
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,378
+   |percentage = 37.0
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,724
+ }}
+{{Election box new seat win
+   |winner     = Green Party of England and Wales
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Bardwell===
+
+{{Election box begin no change | title=[[Bardwell Ward|Bardwell]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/BardwellDeclarationOfResults201905031125112505.PDF |title=Declaration of Result - Bardwell |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Smith
+   |votes      = 518
+   |percentage = 73.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = UKIP
+   |candidate  = Julian Flood
+   |votes      = 190
+   |percentage = 26.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 328
+   |percentage = 46.3
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 759
+   |percentage = 36.9
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,055
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Barningham===
+
+{{Election box begin no change | title=[[Barningham, Suffolk|Barningham]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Carol Bull
+}}
+{{Election box registered electors no change
+   |reg. electors = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Barrow===
+
+{{Election box begin no change | title=[[Barrow, Suffolk|Barrow]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Houlder
+}}
+{{Election box registered electors no change
+   |reg. electors = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Brandon Central===
+
+{{Election box begin no change | title=[[Brandon, Suffolk|Brandon]] Central<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/BrandonCentralDeclarationOfResults201905030942094245.PDF |title=Declaration of Result - Brandon Central |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Victor Lukaniuk
+   |votes      = 292
+   |percentage = 58.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Francis Hart
+   |votes      = 91
+   |percentage = 18.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Susan Smith
+   |votes      = 68
+   |percentage = 13.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Susan Dean
+   |votes      = 50
+   |percentage = 10.0
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 201
+   |percentage = 40.2
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 505
+   |percentage = 22.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,230
+ }}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Brandon East===
+
+{{Election box begin no change | title=Brandon East<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/BrandonEastDeclarationOfResults20190503.pdf |title=Declaration of Result - Brandon East |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Philip Wittam
+   |votes      = 179
+   |percentage = 31.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Reginald Silvester
+   |votes      = 173
+   |percentage = 30.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Peter Ridgwell
+   |votes      = 111
+   |percentage = 19.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Andrew Erlam
+   |votes      = 59
+   |percentage = 10.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Peter Callaghan
+   |votes      = 50
+   |percentage = 8.7
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 6
+   |percentage = 1.0
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 581
+   |percentage = 26.4
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,200
+ }}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Brandon West===
+
+{{Election box begin no change | title=Brandon West<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/BrandonWestDeclarationOfResults201905031012101212.PDF |title=Declaration of Result - Brandon West |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = David Palmer
+   |votes      = 267
+   |percentage = 46.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Edward Stewar
+   |votes      = 177
+   |percentage = 30.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Christine Mason
+   |votes      = 128
+   |percentage = 22.3
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 90
+   |percentage = 15.7
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 590
+   |percentage = 26.1
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,257
+ }}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Chedburgh & Chevington===
+
+{{Election box begin no change | title=[[Chedburgh]] & [[Chevington, Suffolk|Chevington]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/ChedburghChevingtonDeclarationOfResults201905031150115057.PDF |title=Declaration of Result - Chedburgh and Chevington |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Michael Chester
+   |votes      = 628
+   |percentage = 73.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Gary Dillon
+   |votes      = 227
+   |percentage = 26.5
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 401
+   |percentage = 46.9
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 886
+   |percentage = 41.9
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,117
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Clare, Hundon & Kedington===
+
+{{Election box begin no change | title=[[Clare, Suffolk|Clare]], [[Hundon]] & [[Kedington]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/ClareHundonKedingtonDeclarationOfResults201905031047104746.PDF |title=Declaration of Result - Clare, Hundon and Kedington |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Marion Rushbrook
+   |votes      = 1,134
+   |percentage = 49.6
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = James Meikle
+   |votes      = 1,025
+   |percentage = 44.9
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Karen Richardson
+   |votes      = 1,019
+   |percentage = 44.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Robin Pilley
+   |votes      = 822
+   |percentage = 36.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = UKIP
+   |candidate  = Stuart Letten
+   |votes      = 558
+   |percentage = 24.4
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 197
+   |percentage = 8.6
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 2,353
+   |percentage = 38.4
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 6,122
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Eastgate===
+
+{{Election box begin no change | title=Eastgate<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/EastgateDeclarationOfResults201905031030103053.PDF |title=Declaration of Result - Eastgate |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Clifford Waterman
+   |votes      = 228
+   |percentage = 33.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Patricia Warby
+   |votes      = 225
+   |percentage = 33.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Frankie Wright
+   |votes      = 225
+   |percentage = 33.2
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 3
+   |percentage = 0.4
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 688
+   |percentage = 38.0
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,810
+ }}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Exning===
+
+{{Election box begin no change | title=[[Exning]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Simon Cole
+}}
+{{Election box registered electors no change
+   |reg. electors = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverhill Central===
+
+{{Election box begin no change | title=Haverhill Central<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HaverhillCentralDeclarationOfResults201905031144114403.PDF |title=Declaration of Result - Haverhill Central |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Aaron Luccarini
+   |votes      = 239
+   |percentage = 40.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Susan Roach
+   |votes      = 195
+   |percentage = 32.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Roger Andre
+   |votes      = 159
+   |percentage = 26.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 44
+   |percentage = 7.4
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 601
+   |percentage = 25.9
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,322
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverhill East===
+
+{{Election box begin no change | title=[[Haverhill, Suffolk|Haverhill East]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HaverhillEastDeclarationOfResults201905030955095514.PDF |title=Declaration of Result - Haverhill East |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = John Burns
+   |votes      = 246
+   |percentage = 41.2
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Patrick Hanlon
+   |votes      = 226
+   |percentage = 37.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Bryan Hawes
+   |votes      = 207
+   |percentage = 34.7
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Lora-Jane Miller-Jones
+   |votes      = 182
+   |percentage = 30.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Tatiana Chernyavskaya
+   |votes      = 156
+   |percentage = 26.1
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 19
+   |percentage = 3.2
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 604
+   |percentage = 22.1
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,739
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverhill North===
+
+{{Election box begin no change | title=[[Haverhill, Suffolk|Haverhill North]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HaverhillNorthDeclarationOfResults201905031114111455.PDF |title=Declaration of Result - Haverhill North |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Elaine McManus
+   |votes      = 404
+   |percentage = 45.3
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Joseph Mason
+   |votes      = 373
+   |percentage = 41.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = UKIP
+   |candidate  = Ian Hirst
+   |votes      = 248
+   |percentage = 27.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Green Party of England and Wales
+   |candidate  = Donald Allwright
+   |votes      = 240
+   |percentage = 26.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Damian Page
+   |votes      = 221
+   |percentage = 24.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 125
+   |percentage = 14.0
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 905
+   |percentage = 29.3
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,090
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverhill South===
+
+{{Election box begin no change | title=[[Haverhill, Suffolk|Haverhill South]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HaverhillSouthDeclarationOfResults201905031158115849.PDF |title=Declaration of Result - Haverhill South |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Jason Crooks
+   |votes      = 310
+   |percentage = 39.4
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = David Smith
+   |votes      = 274
+   |percentage = 34.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Elizabeth Smith
+   |votes      = 267
+   |percentage = 34.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Denis Lynch
+   |votes      = 207
+   |percentage = 26.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Heike Sowa
+   |votes      = 168
+   |percentage = 21.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Democrats (UK)
+   |candidate  = Kenneth Rolph
+   |votes      = 136
+   |percentage = 17.3
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 7
+   |percentage = 0.9
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 814
+   |percentage = 18.8
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 4,330
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverhill South East===
+
+{{Election box begin no change | title=[[Haverhill, Suffolk|Haverhill South East]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HaverhillSouthEastDeclarationOfResults201905031156115654.PDF |title=Declaration of Result - Haverhill South East |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Anthony Brown
+   |votes      = 346
+   |percentage = 56.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Liam Collins
+   |votes      = 172
+   |percentage = 27.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Alan Stinchcombe
+   |votes      = 100
+   |percentage = 16.2
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 174
+   |percentage = 28.2
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 620
+   |percentage = 32.5
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,905
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverhill West===
+
+{{Election box begin no change | title=[[Haverhill, Suffolk|Haverhill West]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HaverhillWestDeclarationOfResults201905031133113317.PDF |title=Declaration of Result - Haverhill West |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Margaret Marks
+   |votes      = 487
+   |percentage = 45.3
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = David Roach
+   |votes      = 458
+   |percentage = 42.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Rebecca Smith
+   |votes      = 396
+   |percentage = 36.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Stuart Dillon
+   |votes      = 334
+   |percentage = 31.1
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Paula Fox
+   |votes      = 302
+   |percentage = 28.1
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 62
+   |percentage = 5.8
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,091
+   |percentage = 25.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 4,270
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Horringer===
+
+{{Election box begin no change | title=[[Horringer]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/HorringerDeclarationOfResults201905031105110517.PDF |title=Declaration of Result - Horringer |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Terence Clements
+   |votes      = 524
+   |percentage = 68.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Robin Davies
+   |votes      = 237
+   |percentage = 31.1
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 287
+   |percentage = 37.7
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 783
+   |percentage = 39.3
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,993
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Iceni===
+
+{{Election box begin no change | title=[[Iceni]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/IceniDeclarationOfResults201905031128112839.PDF |title=Declaration of Result - Iceni |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Dawn Dicker
+   |votes      = 373
+   |percentage = 46.7
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Michael Bradshaw
+   |votes      = 259
+   |percentage = 32.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Jordon Millward
+   |votes      = 228
+   |percentage = 28.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Douglas Hall
+   |votes      = 219
+   |percentage = 27.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Green Party of England and Wales
+   |candidate  = Simon Morse
+   |votes      = 179
+   |percentage = 22.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Claire Unwin
+   |votes      = 104
+   |percentage = 13.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Gaelle Kemp
+   |votes      = 95
+   |percentage = 11.9
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 31
+   |percentage = 3.9
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 804
+   |percentage = 24.7
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,257
+ }}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Ixworth===
+
+{{Election box begin no change | title=[[Ixworth]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Griffiths
+}}
+{{Election box majority no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Kentford & Moulton===
+
+{{Election box begin no change | title=[[Kentford]] & [[Moulton, Suffolk|Moulton]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/KentfordMoultonDeclarationOfResults201905031009100942.PDF |title=Declaration of Result - Kentford and Moulton |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Roger Dicker
+   |votes      = 518
+   |percentage = 58.1
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Thomas Kerby
+   |votes      = 248
+   |percentage = 27.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Hilary Appleton
+   |votes      = 126
+   |percentage = 14.1
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 270
+   |percentage = 30.3
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 897
+   |percentage = 42.4
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,117
+ }}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Lakenheath===
+
+{{Election box begin no change | title=[[Lakenheath]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/LakenheathDeclarationOfResults201905031027102736.PDF |title=Declaration of Result - Lakenheath |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = David Gathercole
+   |votes      = 717
+   |percentage = 61.2
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Frost
+   |votes      = 537
+   |percentage = 45.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = [[Colin Noble (politician)|Colin Noble]]
+   |votes      = 438
+   |percentage = 37.4
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 99
+   |percentage = 8.4
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,215
+   |percentage = 30.7
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,956
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Manor===
+
+{{Election box begin no change | title=Manor}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brian Harvey
+}}
+{{Election box majority no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Mildenhall Great Heath===
+
+{{Election box begin no change | title=[[Mildenhall, Suffolk|Mildenhall]] Great Heath<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/MildenhallGreatHeathDeclarationOfResults201905031023102336.PDF |title=Declaration of Result - Mildenhall Great Heath |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Richard Alecock
+   |votes      = 432
+   |percentage = 79.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Russell Leaman
+   |votes      = 115
+   |percentage = 21.0
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 317
+   |percentage = 58.0
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 556
+   |percentage = 27.1
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,052
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Mildenhall Kingsway & Market===
+
+{{Election box begin no change | title=[[Mildenhall, Suffolk|Mildenhall Kingsway & Market]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/MildenhallKingswayMarketDeclarationOfResults201905031001100118.PDF |title=Declaration of Result - Mildenhall Kingsway and Market |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Ian Shipp
+   |votes      = 399
+   |percentage = 62.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = David Bowman
+   |votes      = 179
+   |percentage = 28.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Patrick Finn
+   |votes      = 62
+   |percentage = 9.7
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 220
+   |percentage = 34.4
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 642
+   |percentage = 31.2
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,057
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Mildenhall Queensway===
+
+{{Election box begin no change | title=[[Mildenhall, Suffolk|Mildenhall Queensway]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/MildenhallQueenswayDeclarationOfResults.pdf |title=Declaration of Result - Mildenhall Queensway |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Andrew Neal
+   |votes      = 379
+   |percentage = 57.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Ruth Bowman
+   |votes      = 283
+   |percentage = 42.7
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 96
+   |percentage = 14.5
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 667
+   |percentage = 41.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,605
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Minden===
+
+{{Election box begin no change | title=[[Milden, Suffolk|Minden]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/MindenDeclarationOfResults201905031216121635.PDF |title=Declaration of Result - Minden |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Everitt
+   |votes      = 622
+   |percentage = 40.8
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Clive Springett
+   |votes      = 546
+   |percentage = 35.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Donna Higgins
+   |votes      = 488
+   |percentage = 32.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Richard O'Driscoll
+   |votes      = 460
+   |percentage = 30.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Democrats (UK)
+   |candidate  = Edward Allen
+   |votes      = 425
+   |percentage = 27.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Democrats (UK)
+   |candidate  = Helen Korfanty
+   |votes      = 394
+   |percentage = 25.9
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 58
+   |percentage = 3.8
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,556
+   |percentage = 36.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 4,246
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Moreton Hall===
+
+{{Election box begin no change | title=[[Moreton Hall (Suffolk)|Moreton Hall]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/MoretonHallDeclarationOfResults201905031117111726.PDF |title=Declaration of Result - Moreton Hall |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Trevor Beckwith
+   |votes      = 1,200
+   |percentage = 67.2
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Francis Warby
+   |votes      = 1,058
+   |percentage = 59.2
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Peter Thompson
+   |votes      = 738
+   |percentage = 41.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Antony Whittingham
+   |votes      = 492
+   |percentage = 27.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Cyrille Bouche
+   |votes      = 380
+   |percentage = 21.3
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 246
+   |percentage = 13.8
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,792
+   |percentage = 32.5
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 5,511
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Newmarket East===
+
+{{Election box begin no change | title=[[Newmarket, Suffolk|Newmarket East]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/NewmarketEastDeclarationOfResults201905031100110029.PDF |title=Declaration of Result - Newmarket East |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = [[Rachel Hood]]
+   |votes      = 353
+   |percentage = 37.6
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Nobbs
+   |votes      = 337
+   |percentage = 35.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Andrew Appleby
+   |votes      = 260
+   |percentage = 27.7
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Christopher O'Neil
+   |votes      = 233
+   |percentage = 24.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Robert Yarrow
+   |votes      = 196
+   |percentage = 20.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Susan Perry
+   |votes      = 187
+   |percentage = 19.9
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Democrats (UK)
+   |candidate  = Andrew Gillett
+   |votes      = 115
+   |percentage = 12.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Liberal Democrats (UK)
+   |candidate  = John Derry
+   |votes      = 87
+   |percentage = 9.3
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 77
+   |percentage = 8.2
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 947
+   |percentage = 24.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,858
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Newmarket North===
+
+{{Election box begin no change | title=[[Newmarket, Suffolk|Newmarket North]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/NewmarketNorthDeclarationOfResults201905031040104051.PDF |title=Declaration of Result - Newmarket North |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Michael Anderson
+   |votes      = 404
+   |percentage = 46.4
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Robin Millar
+   |votes      = 331
+   |percentage = 38.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = West Suffolk Independents
+   |candidate  = Ruth Allen
+   |votes      = 289
+   |percentage = 33.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Edwards
+   |votes      = 220
+   |percentage = 25.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Oliver Bowen
+   |votes      = 195
+   |percentage = 22.4
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Duncan Russell
+   |votes      = 182
+   |percentage = 20.9
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 42
+   |percentage = 4.8
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 890
+   |percentage = 25.5
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,494
+ }}
+{{Election box new seat win
+   |winner     = West Suffolk Independents
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Newmarket West===
+
+{{Election box begin no change | title=[[Newmarket, Suffolk|Newmarket West]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/NewmarketWestDeclarationOfResults201905031203120312.PDF |title=Declaration of Result - Newmarket West |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Drummond
+   |votes      = 482
+   |percentage = 49.0
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Winston Lay
+   |votes      = 376
+   |percentage = 38.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Michael Jeffreys
+   |votes      = 350
+   |percentage = 35.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Yasemin Fitzgerald
+   |votes      = 319
+   |percentage = 32.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = UKIP
+   |candidate  = David Hudson
+   |votes      = 223
+   |percentage = 22.7
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 26
+   |percentage = 2.6
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,006
+   |percentage = 27.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,651
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Pakenham & Troston===
+
+{{Election box begin no change | title=[[Pakenham, Suffolk|Pakenham]] & [[Troston]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Simon Brown
+}}
+{{Election box majority no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Risby===
+
+{{Election box begin no change | title=[[Risby, Suffolk|Risby]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/RisbyDeclarationOfResults201905030944094405.PDF |title=Declaration of Result - Risby |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Susan Glossop
+   |votes      = 565
+   |percentage = 73.0
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Sheila Rowell
+   |votes      = 209
+   |percentage = 27.0
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 356
+   |percentage = 46.0
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 802
+   |percentage = 36.1
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,221
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Rougham===
+
+{{Election box begin no change | title=[[Rougham, Suffolk|Rougham]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/RoughamDeclarationOfResults201905030938093807.PDF |title=Declaration of Result - Rougham |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Sara Mildmay-White
+   |votes      = 491
+   |percentage = 74.1
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Quentin Cornish
+   |votes      = 171
+   |percentage = 25.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 320
+   |percentage = 48.3
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 680
+   |percentage = 36.9
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 1,844
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Southgate===
+
+{{Election box begin no change | title=Southgate<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/SouthgateDeclarationOfResults201905031152115243.PDF |title=Declaration of Result - Southgate |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+<!-- Hung Chung (Hung Chow Chung) was re-elected for Southgate on 4 May 2023 alongside Sarah-Anne Stamp,
+the winner of the 2021 by-election; Ann Williamson does not appear in the 2023 candidate list at all.
+See the by-election entry below for sourcing. -->
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Hung Chung
+   |votes      = 902
+   |percentage = 72.9
+   |change     =
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Ann Williamson
+   |votes      = 720
+   |percentage = 58.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Ian Cullen
+   |votes      = 406
+   |percentage = 32.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 314
+   |percentage = 25.4
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,262
+   |percentage = 39.0
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,239
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Stanton===
+
+{{Election box begin no change | title=[[Stanton, Suffolk|Stanton]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Thorndyke
+}}
+{{Election box majority no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===St. Olaves===
+
+{{Election box begin no change | title=[[St Olaves|St. Olaves]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/StOlavesDeclarationOfResults201905031149114902.PDF |title=Declaration of Result - St Olaves |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = [[Paul Hopfensperger]]
+   |votes      = 680
+   |percentage = 71.4
+   |change     = 
+}}
+{{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Max Clarke
+   |votes      = 341
+   |percentage = 35.8
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Karen Soons
+   |votes      = 314
+   |percentage = 33.0
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 27
+   |percentage = 2.8
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 953
+   |percentage = 30.4
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,135
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===The Fornhams & Great Barton===
+
+{{Election box begin no change | title=The Fornhams & [[Great Barton]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/TheFornhamsGreatBartonDeclarationOfResults201905031043104344.PDF |title=Declaration of Result - The Fornhams and Great Barton |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Rebecca Hopfensperger
+   |votes      = 942
+   |percentage = 71.6
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Sarah Broughton
+   |votes      = 890
+   |percentage = 67.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Darren Turner
+   |votes      = 352
+   |percentage = 26.7
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 538
+   |percentage = 40.9
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,345
+   |percentage = 41.1
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,275
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===The Rows===
+
+{{Election box begin no change | title=The Rows<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/TheRowsDeclarationOfResults201905031036103609.PDF |title=Declaration of Result - The Rows |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = John Smith
+   |votes      = 636
+   |percentage = 60.6
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = Donald Waldron
+   |votes      = 467
+   |percentage = 44.5
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = James Waters
+   |votes      = 402
+   |percentage = 38.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Lance Stanbury
+   |votes      = 306
+   |percentage = 29.2
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 65
+   |percentage = 6.2
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,059
+   |percentage = 31.9
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,321
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Tollgate===
+
+{{Election box begin no change | title=Tollgate<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/TollgateDeclarationOfResults201905031102110230.PDF |title=Declaration of Result - Tollgate |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Independent politician
+   |candidate  = David Nettleton
+   |votes      = 793
+   |percentage = 69.8
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Diane Hind
+   |votes      = 484
+   |percentage = 42.6
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = John Levantis
+   |votes      = 361
+   |percentage = 31.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 123
+   |percentage = 10.8
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,153
+   |percentage = 28.3
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 4,070
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Westgate===
+
+{{Election box begin no change | title=Westgate<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WestgateDeclarationOfResults201905031213121359.PDF |title=Declaration of Result - Westgate |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Richard Rout
+   |votes      = 933
+   |percentage = 64.2
+   |change     = 
+}}
+ {{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = John Augustine
+   |votes      = 848
+   |percentage = 58.3
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Marilyn Sayer
+   |votes      = 554
+   |percentage = 38.1
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 294
+   |percentage = 20.2
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 1,497
+   |percentage = 38.6
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 3,873
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Whepstead & Wickhambrook===
+
+{{Election box begin no change | title=[[Whepstead]] & [[Wickhambrook]]<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WhepsteadWickhambrookDeclarationOfResults201905030941094104.PDF |title=Declaration of Result - Whepstead and Wickhambrook |publisher=[[West Suffolk District Council]] |date=3 May 2019 |access-date=5 August 2026}}</ref>}}
+{{Election box winning candidate with party link no change
+   |party      = Conservative Party (UK)
+   |candidate  = Alison Evans
+   |votes      = 620
+   |percentage = 80.2
+   |change     = 
+}}
+ {{Election box candidate with party link no change
+   |party      = Labour Party (UK)
+   |candidate  = Michael McConnell
+   |votes      = 153
+   |percentage = 19.8
+   |change     = 
+}}
+{{Election box majority no change
+   |votes      = 467
+   |percentage = 60.4
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 797
+   |percentage = 39.7
+   |change     = 
+ }}
+{{Election box registered electors no change
+   |reg. electors = 2,006
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Withersfield===
+
+{{Election box begin no change | title=[[Withersfield]]}}
+{{Election box candidate unopposed with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Stevens
+}}
+{{Election box majority no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout no change
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+==Changes 2019–2023==
+
+===Affiliation and leadership changes===
+
+* Moreton Hall councillor Frank Warby, elected as an independent in 2019, had joined the Conservative group by June 2020, when he resigned from the council and the party amid a dispute over Facebook posts he had shared.<ref>{{cite news |title=Investigation dropped after West Suffolk councillor resigns amid racism allegations |url=https://www.eadt.co.uk/news/21401555.investigation-dropped-west-suffolk-councillor-resigns-amid-racism-allegations/ |publisher=East Anglian Daily Times |first=Jason |last=Noble |date=16 June 2020 |access-date=24 July 2026}}</ref>
+* Exning councillor Simon Cole, elected as a Conservative in 2019, was sitting with the West Suffolk Independents group by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
+* Kentford and Moulton councillor Roger Dicker, elected for the West Suffolk Independents in 2019, was sitting as a non-grouped independent by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
+* Brandon West councillor David Palmer, elected for the West Suffolk Independents in 2019, was sitting as a Conservative by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
+* St. Olaves councillor Max Clarke, elected as Labour in 2019, was sitting as an independent by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
+* Haverhill North councillor Elaine McManus, elected as a Conservative in 2019, had left the Conservative group by August 2022 and resigned as a councillor in September 2022 after being convicted of bribery in connection with a false statement made to Ofsted.<ref>{{cite news |title=Former mayor convicted of bribery resigns as councillor |url=https://www.eadt.co.uk/news/local-council/elaine-mcmanus-haverhill-west-suffolk-resigns-councillor-9233230 |publisher=East Anglian Daily Times |access-date=24 July 2026}}</ref><ref>{{cite news |title=Haverhill town and district councillor Elaine McManus resigns following bribery conviction |url=https://www.suffolknews.co.uk/haverhill/news/district-and-town-councillor-steps-down-in-the-wake-of-court-9270586/ |publisher=Suffolk News |access-date=24 July 2026}}</ref> No by-election was held to fill the vacancy before the [[2023 West Suffolk District Council election|2023 election]].
+* Tollgate councillor David Nettleton, elected as an independent in 2019, was sitting as a Conservative by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
+
+===By-elections===
+
+====Newmarket North====
+
+{{Election box begin | title=Newmarket North: 30 January 2020<ref name="WS bye election Jan 2020">{{cite web |title=Election of a District Councillor for Newmarket North |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Declaration-of-results-Newmarket-North-200130.pdf |website=westsuffolk.gov.uk |publisher=West Suffolk District Council |archive-url=https://web.archive.org/web/20220302093151/https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Declaration-of-results-Newmarket-North-200130.pdf |archive-date=2 March 2022 |url-status=dead |access-date=2 March 2022}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Karen Soons
+   |votes      = 309
+   |percentage = 42.4
+   |change     = +17.1
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jonathan Edge
+   |votes      = 130
+   |percentage = 17.9
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = West Suffolk Independents
+   |candidate  = Ruth Allen
+   |votes      = 118
+   |percentage = 16.2
+   |change     = -17.0
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Theresa Chipulina
+   |votes      = 73
+   |percentage = 10.0
+   |change     = -12.4
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Frank Stennett
+   |votes      = 54
+   |percentage = 7.4
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Alice Haylock
+   |votes      = 44
+   |percentage = 6.0
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 179
+   |percentage = 24.6
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 733
+   |percentage = 19.5
+   |change     =
+ }}
+{{Election box registered electors
+   |reg. electors = 3,756
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Newmarket North on 30 January 2020, following the resignation of Conservative councillor Robin Millar after his election as MP for [[Aberconwy (UK Parliament constituency)|Aberconwy]] at the [[2019 United Kingdom general election|2019 general election]].<ref>{{cite news |title=By-elections will be held in Suffolk in early 2020 |url=https://www.eadt.co.uk/news/21407868.by-elections-will-held-suffolk-early-2020/ |publisher=East Anglian Daily Times |date=20 December 2019 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Newmarket set to go the polls again in fourth election in the space of a year |url=https://www.suffolknews.co.uk/newmarket/news/newmarket-set-to-go-the-polls-again-in-fourth-election-in-the-space-of-a-year-9094344/ |publisher=Suffolk News |first=Dan |last=Barker |date=20 December 2019 |access-date=24 July 2026}}</ref>
+
+====Abbeygate====
+
+{{Election box begin | title=Abbeygate: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021Abbeygate.pdf |title=Declaration of Result - Abbeygate |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Julia Wakelam
+   |votes      = 751
+   |percentage = 45.9
+   |change     = +13.3
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Nick Wiseman
+   |votes      = 606
+   |percentage =37.0
+   |change     = +9.9
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Cheryl Godber
+   |votes      = 279
+   |percentage =17.0
+   |change     = –2.9
+}}
+{{Election box majority
+   |votes      = 145
+   |percentage = 8.9
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 1,655
+   |percentage = 43.2
+   |change     = +6.2
+ }}
+{{Election box registered electors
+   |reg. electors = 3,828
+ }}
+{{Election box hold with party link
+   |winner     = Green Party of England and Wales
+   |loser      = 
+   |swing      = {{increase}}1.7
+}}
+ {{Election box end}}
+
+A by-election was held in Abbeygate on 6 May 2021, following the resignation of Green councillor Lisa Ingwall King due to the long-term effects of COVID-19.<ref>{{cite news |title=Bury St Edmunds councillor Lisa Ingwall King resigns after suffering from debilitating effects of long Covid |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/councillor-resigns-after-suffering-from-debilitating-effects-9181809/ |publisher=Suffolk News |date=16 March 2021 |access-date=24 July 2026}}</ref><ref>{{cite news |title='I had to prioritise my health' – councillor stands down due to long Covid |url=https://www.eadt.co.uk/news/21282588.i-prioritise-health---councillor-stands-due-long-covid/ |publisher=East Anglian Daily Times |date=22 March 2021 |access-date=24 July 2026}}</ref>
+
+====Clare, Hundon and Kedington====
+
+{{Election box begin | title=Clare, Hundon and Kedington: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021ClareHundonandKedington.pdf |title=Declaration of Result - Clare, Hundon and Kedington |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Nick Clarke
+   |votes      = 1,814
+   |percentage = 72.5
+   |change     =
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Kerry Rogers
+   |votes      = 697
+   |percentage =27.9
+   |change     =
+}}
+{{Election box majority
+   |votes      = 1,117
+   |percentage = 44.6
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,532
+   |percentage = 40.2
+   |change     = +1.8
+ }}
+{{Election box registered electors
+   |reg. electors = 6,295
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Clare, Hundon and Kedington on 6 May 2021, following the death of independent councillor Jim Meikle on 22 February 2021.<ref>{{cite news |title=Tributes paid to independent West Suffolk councillor Jim Meikle |url=https://www.eadt.co.uk/news/local-council/21283604.tributes-paid-independent-west-suffolk-councillor-jim-meikle/ |publisher=East Anglian Daily Times |first=Paul |last=Geater |date=27 February 2021 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Late councillor for Clare, Hundon and Kedington Jim Meikle was 'a man of ideas' who had 'endless time for all that he met' |url=https://www.suffolknews.co.uk/haverhill/news/school-pioneer-jim-was-one-of-the-good-guys-9196622/ |publisher=Suffolk News |date=26 April 2021 |access-date=24 July 2026}}</ref>
+
+====Lakenheath====
+
+{{Election box begin | title=Lakenheath: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofresults6May2021Lakenheath.pdf |title=Declaration of Result - Lakenheath |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = [[Colin Noble (politician)|Colin Noble]]
+   |votes      = 573
+   |percentage = 48.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Gerald Kelly
+   |votes      = 434
+   |percentage = 36.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Layla Britton
+   |votes      = 119
+   |percentage =10.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = David Chandler
+   |votes      = 64
+   |percentage =5.4
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 139
+   |percentage = 11.7
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,196
+   |percentage = 28.9
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,134
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Lakenheath on 6 May 2021, following the death of independent councillor David Gathercole on 22 August 2020.<ref>{{cite news |title=Tributes paid to 'awe-inspiring' cowboy councillor |url=https://www.eadt.co.uk/news/21397443.tributes-paid-awe-inspiring-cowboy-councillor/ |publisher=East Anglian Daily Times |first=Oliver |last=Sullivan |date=11 September 2020 |access-date=24 July 2026}}</ref>
+
+====Moreton Hall====
+
+{{Election box begin | title=Moreton Hall: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021MoretonHall.pdf |title=Declaration of Result - Moreton Hall |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Birgitte Mager
+   |votes      = 1,098
+   |percentage = 52.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Barry Thomas
+   |votes      = 496
+   |percentage =23.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Cyrille Bouche
+   |votes      = 495
+   |percentage =23.7
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 602
+   |percentage = 28.8
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 2,104
+   |percentage = 35.9
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 5,855
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Moreton Hall on 6 May 2021, following the resignation of Conservative councillor Frank Warby on 15 June 2020.<ref>{{cite news |title=Investigation dropped after West Suffolk councillor resigns amid racism allegations |url=https://www.eadt.co.uk/news/21401555.investigation-dropped-west-suffolk-councillor-resigns-amid-racism-allegations/ |publisher=East Anglian Daily Times |first=Jason |last=Noble |date=16 June 2020 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Councillor suspended by Conservative group after concerns about Facebook posts |url=https://www.eadt.co.uk/news/21401563.councillor-suspended-conservative-group-concerns-facebook-posts/ |publisher=East Anglian Daily Times |date=13 June 2020 |access-date=24 July 2026}}</ref>
+
+====Southgate====
+
+{{Election box begin | title=Southgate: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021Southgate.pdf |title=Declaration of Result - Southgate |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Sarah Stamp
+   |votes      = 814
+   |percentage = 58.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Richard O'Driscoll
+   |votes      = 251
+   |percentage =17.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Chris Dexter-Mills
+   |votes      = 186
+   |percentage =13.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Helen Korfanty
+   |votes      = 148
+   |percentage =10.6
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 563
+   |percentage = 40.2
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 1,407
+   |percentage = 43.7
+   |change     =
+ }}
+{{Election box registered electors
+   |reg. electors = 3,220
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Southgate on 6 May 2021, following the resignation of councillor Ann Williamson.<ref>{{cite news |title=Six seats up for grabs in council by-election |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/six-seats-up-for-grabs-in-council-by-election-9195004/ |publisher=Suffolk News |first=Jason |last=Noble |date=9 April 2021 |access-date=24 July 2026}}</ref><ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-20230504-Southgate.pdf |title=Declaration of Result - Southgate |publisher=[[West Suffolk District Council]] |date=5 May 2023 |access-date=4 August 2026}}</ref>
+
+====Whepstead and Wickhambrook====
+
+{{Election box begin | title=Whepstead and Wickhambrook: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofresults6May2021WhepsteadandWickhambrook.pdf |title=Declaration of Result - Whepstead and Wickhambrook |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Sarah Pugh
+   |votes      = 645
+   |percentage = 69.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Robin Davies
+   |votes      = 142
+   |percentage =15.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Vicki Martin
+   |votes      = 137
+   |percentage =14.8
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 503
+   |percentage = 54.4
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 931
+   |percentage = 45.0
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,071
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Whepstead and Wickhambrook on 6 May 2021, following the resignation of Conservative councillor Mary Evans.<ref>{{cite news |title=Deputy leader to step away from councils |url=https://www.suffolknews.co.uk/sudbury/news/deputy-leader-to-step-away-from-councils-9143684/ |publisher=Suffolk News |first=Steve |last=Barton |date=3 December 2020 |access-date=24 July 2026}}</ref>
+
+====The Rows====
+
+{{Election box begin | title=The Rows: 30 September 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-The-Rows-210930.pdf |title=Declaration of Result - The Rows |publisher=[[West Suffolk District Council]] |date=30 September 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Lance Stanbury
+   |votes      = 428
+   |percentage = 65.2
+   |change     = +26.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Theresa Chipulina
+   |votes      = 126
+   |percentage =19.2
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Robert Pinsker
+   |votes      = 102
+   |percentage =15.5
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 302
+   |percentage = 46.0
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 677
+   |percentage = 18.0
+   |change     =
+ }}
+{{Election box registered electors
+   |reg. electors = 3,759
+ }}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = {{increase}}3.7
+}}
+ {{Election box end}}
+
+A by-election was held in The Rows on 30 September 2021, following the death of independent councillor John Smith.<ref>{{cite news |title=Newmarket town council still predominantly independent but Conservatives make gains in the region |url=https://www.suffolknews.co.uk/newmarket/news/by-elections-see-conservative-gains-9218872/ |publisher=Suffolk News |first=Craig |last=Bradshaw |date=1 October 2021 |access-date=24 July 2026}}</ref>
+
+====Horringer====
+
+{{Election box begin | title=Horringer: 25 November 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-Horringer-211125.pdf |title=Declaration of Result - Horringer |publisher=[[West Suffolk District Council]] |date=25 November 2021 |access-date=24 July 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Nick Wiseman
+   |votes      = 257
+   |percentage = 47.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Aaron McIntyre
+   |votes      = 204
+   |percentage =37.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Daniel Linehan
+   |votes      = 78
+   |percentage =14.5
+   |change     =
+}}
+{{Election box majority
+   |votes      = 53
+   |percentage = 9.8
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 542
+   |percentage = 26.8
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,022
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+A by-election was held in Horringer on 25 November 2021, following the resignation of Conservative councillor Terry Clements, who had served on the council for more than 38 years.<ref>{{cite news |title='When they stop listening, stop talking' – Councillor resigns in passionate speech |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/councillor-announces-resignation-from-west-suffolk-council-9219243/ |publisher=Suffolk News |first=Kevin |last=Hurst |date=5 October 2021 |access-date=24 July 2026}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{Suffolk elections}}
+{{United Kingdom local elections, 2019}}
+
+[[Category:West Suffolk District Council elections]]
+[[Category:2019 English local elections|West Suffolk]]
+[[Category:May 2019 in the United Kingdom]]
+[[Category:2010s in Suffolk]]

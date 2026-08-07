@@ -1563,57 +1563,57 @@ Mike Tayler had been the incumbent for Thaxted & The Eastons ward before the ele
 A by-election is due to be held on 30 July 2026 due to the resignation of incumbent councillor Alexander Armstrong (Residents for Uttlesford).
 
 {{Election box begin | title=Great Dunmow North by-election: 30 July 2026<br><small>Resignation of Alexander Armstrong (Residents for Uttlesford)</small>}}
-{{Election box candidate with party link
+{{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Will Church
-   |votes      = 
-   |percentage = 
-   |change     = 
-}}
- {{Election box candidate with party link
-   |party      = Liberal Democrats (UK, 2025)
-   |candidate  = Lorraine Flawn
-   |votes      = 
-   |percentage = 
-   |change     = 
+   |votes      = 705
+   |percentage = 50.5
+   |change     = +11.9
 }}
  {{Election box candidate with party link
    |party      = Reform UK
    |candidate  = Rod Jones
-   |votes      = 
-   |percentage = 
-   |change     = 
+   |votes      = 390
+   |percentage = 27.9
+   |change     = ''N/A''
 }}
  {{Election box candidate with party link
    |party      = Residents for Uttlesford
    |candidate  = Sandi Merifield
-   |votes      = 
-   |percentage = 
-   |change     = 
+   |votes      = 138
+   |percentage = 9.9
+   |change     = -29.5
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Oliver Rogers
-   |votes      = 
-   |percentage = 
-   |change     = 
+   |votes      = 126
+   |percentage = 9.0
+   |change     = -3.3
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Lorraine Flawn
+   |votes      = 37
+   |percentage = 2.7
+   |change     = -7.1
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
-   |change     = 
+   |votes      = 315
+   |percentage = 22.6
+   |change     = ''N/A''
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 
-   |change     = 
+   |votes      = 1396
+   |percentage = 28.8
+   |change     = -2.6
  }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 4847
  }}
-{{Election box hold with party link
-   |winner     = 
-   |loser      = 
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Residents for Uttlesford
    |swing      = 
 }}
  {{Election box end}}

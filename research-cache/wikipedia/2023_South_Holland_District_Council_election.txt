@@ -356,11 +356,13 @@ This by-election was triggered by the resignation of South Holland Independents 
 ===Long Sutton===
 
 {{Election box begin | title=Long Sutton by-election, 30th July 2026<ref>https://www.sholland.gov.uk/article/30557/Notice-of-Vacancy-Long-Sutton-District-Ward</ref>}}
-{{Election box candidate with party link |party =Conservative Party (UK)|candidate=Naomi Andrews|votes=|percentage=|change=}}
-{{Election box candidate with party link |party =Green Party of England and Wales|candidate=James Timpson|votes= |percentage= |change=}}
-{{Election box candidate with party link |party =Reform UK|candidate=Robbie Woods|votes= |percentage= |change=}}
-{{Election box turnout |votes=|percentage=|change=}}{{Election box registered electors|reg. electors=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box winning candidate with party link |party=Reform UK|candidate=Robbie Woods|votes=866|percentage=56.3|change=''N/A''}}
+{{Election box candidate with party link |party=Conservative Party (UK)|candidate=Naomi Andrews|votes=445|percentage=28.9|change=-20.7}}
+{{Election box candidate with party link |party=Green Party of England and Wales|candidate=James Timpson|votes=227|percentage=14.8|change=''N/A''}}
+{{Election box majority|votes=421|percentage=27.4|change=''N/A''}}
+{{Election box turnout|votes=1538|percentage=25.4|change=-2.5}}
+{{Election box registered electors|reg. electors=6066}}
+{{Election box gain with party link|winner=Reform UK|loser=Independent|swing=}}
 {{Election box end}}
 
 == References ==
