@@ -1,0 +1,1753 @@
+{{Short description|2003 UK local government election}}
+{{Use dmy dates|date=May 2023}}
+{{Use British English|date=December 2013}}
+{{Infobox election
+| election_name     = 2003 North Somerset Council election
+| type              = parliamentary
+| ongoing           = no
+| election_date     = {{Start date|2003|05|01|df=y}}
+| previous_election = 1999 North Somerset Council election
+| previous_year     = 1999
+| next_election     = 2007 North Somerset Council election
+| next_year         = 2007
+| seats_for_election= All 61 seats to [[North Somerset Council]]
+| majority_seats    = 31
+<!-- Conservative -->
+| image1            = <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Conservative Party (UK)}}; font-size:38px;"> '''Con'''</span></div>
+| party1            = Conservative Party (UK)
+| last_election1    = 32, N/A
+| seats1            = '''24'''
+| seat_change1      = {{decrease}} 8
+| popular_vote1     = '''38,862'''
+| percentage1       = '''37.6%'''
+| swing1            = N/A
+<!--Liberal Democrats-->
+| image2            =  <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Liberal Democrats (UK)}}; font-size:38px;"> '''LD'''</span></div>
+| party2            = Liberal Democrats (UK)
+| last_election2    = 11 seats, N/A
+| seats2            = 24
+| seat_change2      = {{increase}} 13
+| popular_vote2     = 39,307
+| percentage2       = 38.0%
+| swing2            = N/A
+<!--Labour-->
+| image3           =  <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Labour Party (UK)}}; font-size:38px;"> '''Lab'''</span></div>
+| party3            = Labour Party (UK)
+| last_election3    = 13 seats, N/A
+| seats3            = 10
+| seat_change3      = {{decrease}} 3
+| popular_vote3     = 20,620
+| percentage3       = 20.0%
+| swing3            = N/A
+<!--Independent-->
+| image4            =  <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Independent (politician)}}; font-size:38px;"> '''Ind'''</span></div>
+| party4            = Independent politician
+| last_election4    = 4 seats, N/A
+| seats4            = 3
+| seat_change4      = {{decrease}} 1
+| popular_vote4     = 3,781
+| percentage4       = 3.7%
+| swing4            = N/A
+<!--Green-->
+| image5            =  <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Green Party of England and Wales}}; font-size:38px;"> '''Grn'''</span></div>
+| party5            = Green Party of England and Wales
+| last_election5    = 1 seat, N/A
+| seats5            = 1
+| seat_change5      = -
+| popular_vote5     = 627
+| percentage5       = 0.6%
+| swing5            = N/A
+<!-- map -->
+| map_image         =  2003 North Somerset Council Election Map.svg
+| map_caption       = Map of the results of the 2003 North Somerset council election. [[Conservative Party (UK)|Conservatives]] in blue, [[Independent (politician)|independent]] in grey, [[Liberal Democrats (UK)|Liberal Democrats]] in yellow, [[Labour Party (UK)|Labour]] in red and [[Green Party of England and Wales|Green Party]] in green.
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[Conservative Party (UK)|Conservative]]
+| after_election = [[No Overall Control]]
+}}
+
+The '''2003 North Somerset Council election''' took place on 1 May 2003 to elect members of [[North Somerset]] [[Unitary authority|Unitary]] Council in [[Somerset]], [[England]]. The whole council was up for election and the [[Conservative Party (UK)|Conservative Party]] lost overall control of the council to [[no overall control]].<ref name="lose">{{cite news|url=https://news.bbc.co.uk/2/shared/bsp/hi/vote2003/locals/html/189.stm|title=Local elections|publisher=[[BBC News]]|access-date=15 August 2011}}</ref>
+
+==Election result==
+
+{{Election summary begin|title = North Somerset local election result 2003<ref name="results">{{cite web|url=http://www.politicsresources.net/area/uk/loc03/pages/NorthSomerset/results.html|title=Council Elections – 1 May 2003|publisher=Political Science Resources|access-date=15 August 2011|archive-url=https://web.archive.org/web/20120820020734/http://www.politicsresources.net/area/uk/loc03/pages/NorthSomerset/results.html|archive-date=20 August 2012|url-status=dead}}</ref><ref name="council">{{cite news|url=https://www.telegraph.co.uk/news/uknews/1429056/Local-council-election-results.html|title=Local council election results|date=3 May 2003|work=[[The Daily Telegraph]]|location=London|access-date=16 August 2011}}</ref>}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 24
+  |gain       = 
+  |loss       = 
+  |net        = -8
+  |seats %    = 39.3
+  |votes %    = 37.6
+  |votes      = 38,862
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 23
+  |gain       = 
+  |loss       = 
+  |net        = +11
+  |seats %    = 37.7
+  |votes %    = 38.0
+  |votes      = 39,307
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 10
+  |gain       = 
+  |loss       = 
+  |net        = -1
+  |seats %    = 16.4
+  |votes %    = 20.0
+  |votes      = 20,620
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 3
+  |gain       = 
+  |loss       = 
+  |net        = -1
+  |seats %    = 4.9
+  |votes %    = 3.7
+  |votes      = 3,781
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 1.6
+  |votes %    = 0.6
+  |votes      = 627
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 0.1
+  |votes      = 124
+  |plus/minus = 
+}}
+{{Election summary|
+  |party      = Others
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = -1
+  |seats %    = 0
+  |votes %    = 0
+  |votes      = 0
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==Ward results==
+
+{{Election box begin | title=Backwell (2)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Felicity Baker
+  |votes      = 1,023
+  |percentage = 61.5%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Burden
+  |votes      = 903
+  |percentage = 54.3%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Helen Madge
+  |votes      = 648
+  |percentage = 39.0%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alan Armstrong
+  |votes      = 517
+  |percentage = 31.1%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Punter
+  |votes      = 234
+  |percentage = 14.1%
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,325
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Banwell and Winscombe (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ann Harley
+  |votes      = 1,311
+  |percentage = 55.5%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Anthony Lake
+  |votes      = 1,297
+  |percentage = 54.9%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Hugh Parsons
+  |votes      = 1,261
+  |percentage = 53.4%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Bibb
+  |votes      = 846
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Amanda Brading
+  |votes      = 801
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Christopher Luke
+  |votes      = 649
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stanley Banks
+  |votes      = 336
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Simon Arlidge
+  |votes      = 324
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Andrew Hughes
+  |votes      = 263
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 7,088
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Blagdon and Churchill<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elizabeth Wells
+  |votes      = 644
+  |percentage = 57.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anthony Hughes
+  |votes      = 372
+  |percentage = 33.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ernest Barnhurst
+  |votes      = 98
+  |percentage = 8.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 272
+  |percentage = 24.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,114
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon Central<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael Nobes
+  |votes      = 375
+  |percentage = 51.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Carl Francis-Pester
+  |votes      = 219
+  |percentage = 29.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anne Carpenter
+  |votes      = 140
+  |percentage = 19.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 156
+  |percentage = 21.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 734
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon East<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = David Shopland
+  |votes      = 445
+  |percentage = 47.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = William Lavelle
+  |votes      = 227
+  |percentage = 24.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mary Mclean
+  |votes      = 144
+  |percentage = 15.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jeremy Callaghan
+  |votes      = 117
+  |percentage = 12.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 218
+  |percentage = 23.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 933
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon North<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lionel Bates
+  |votes      = 495
+  |percentage = 58.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Joan Watkins
+  |votes      = 229
+  |percentage = 27.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Farley
+  |votes      = 123
+  |percentage = 14.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 266
+  |percentage = 31.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 847
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon South<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Alan Cotton
+  |votes      = 316
+  |percentage = 39.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Graham Watkins
+  |votes      = 271
+  |percentage = 33.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Christopher Blades
+  |votes      = 216
+  |percentage = 26.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 45
+  |percentage = 5.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 803
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon Walton<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = George Morris
+  |votes      = 592
+  |percentage = 52.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jack Dagnall
+  |votes      = 537
+  |percentage = 47.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 55
+  |percentage = 4.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,129
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon West<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Chanel Stevens
+  |votes      = 409
+  |percentage = 45.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ericka Blades
+  |votes      = 251
+  |percentage = 28.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Patrick Mcneill
+  |votes      = 231
+  |percentage = 25.9
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 158
+  |percentage = 17.7
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 891
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clevedon Yeo<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Norton-Sealey
+  |votes      = 351
+  |percentage = 45.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bryan Moore
+  |votes      = 240
+  |percentage = 31.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Julian Carpenter
+  |votes      = 177
+  |percentage = 23.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 111
+  |percentage = 14.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 768
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Congresbury<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Thomas Leimdorfer
+  |votes      = 627
+  |percentage = 58.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gillian Bute
+  |votes      = 442
+  |percentage = 41.3
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 185
+  |percentage = 17.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,069
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Easton-in-Gordano<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Fisher
+  |votes      = 636
+  |percentage = 61.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Wendy Griggs
+  |votes      = 237
+  |percentage = 22.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Derek Waters
+  |votes      = 163
+  |percentage = 15.7
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 399
+  |percentage = 38.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,036
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Gordano<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nigel Ashton
+  |votes      = 639
+  |percentage = 67.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Charles Pritchard
+  |votes      = 198
+  |percentage = 20.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Barry Cooper
+  |votes      = 115
+  |percentage = 12.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 441
+  |percentage = 46.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 952
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Hutton and Locking (2)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Peddlesden
+  |votes      = 1,039
+  |percentage = 54.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Elfan Rees
+  |votes      = 946
+  |percentage = 49.8%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Bryan Mcgrath
+  |votes      = 687
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Richard Bartlett
+  |votes      = 637
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Timothy Taylor
+  |votes      = 270
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Roxburgh
+  |votes      = 220
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,799
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Kewstoke<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ian Porter
+  |votes      = 424
+  |percentage = 52.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Evans
+  |votes      = 255
+  |percentage = 31.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jacqueline Scholes
+  |votes      = 125
+  |percentage = 15.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 169
+  |percentage = 21.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 804
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Nailsea East (2)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Cole
+  |votes      = 1,119
+  |percentage = 62.1%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robert Coleman
+  |votes      = 986
+  |percentage = 54.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Angela Barber
+  |votes      = 836
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Anita Heappey
+  |votes      = 663
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,604
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Nailsea North and West (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robert Steadman
+  |votes      = 1,062
+  |percentage = 39.0%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jeremy Blatchford
+  |votes      = 1,031
+  |percentage = 37.9%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Tonkin
+  |votes      = 960
+  |percentage = 35.3%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mary Blatchford
+  |votes      = 958
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Suzanne Williams
+  |votes      = 955
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alan Clarke
+  |votes      = 954
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Julian Parry
+  |votes      = 756
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sarah Obrien
+  |votes      = 745
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Catherine Elliott
+  |votes      = 738
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 8,159
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Pill<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Glyndwr Duck
+  |votes      = 587
+  |percentage = 61.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Adrian Phillips
+  |votes      = 222
+  |percentage = 23.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Maw
+  |votes      = 150
+  |percentage = 15.6
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 365
+  |percentage = 38.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 959
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Portishead Central<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Clark
+  |votes      = 204
+  |percentage = 41.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = James Mcmurray
+  |votes      = 174
+  |percentage = 35.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Andrew Hamblin
+  |votes      = 116
+  |percentage = 23.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 30
+  |percentage = 6.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 494
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Portishead Coast<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = James Walters
+  |votes      = 608
+  |percentage = 59.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Philip Palmer
+  |votes      = 414
+  |percentage = 40.5
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 194
+  |percentage = 19.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,022
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Portishead East<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Arthur Terry
+  |votes      = 386
+  |percentage = 39.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Daisy Bickley
+  |votes      = 309
+  |percentage = 31.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Roger Whitfield
+  |votes      = 284
+  |percentage = 29.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 77
+  |percentage = 7.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 979
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Portishead Redcliffe Bay<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Daws
+  |votes      = 606
+  |percentage = 60.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Clark
+  |votes      = 401
+  |percentage = 39.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 205
+  |percentage = 20.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,007
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Portishead South and North Weston<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jonathan Gething
+  |votes      = 389
+  |percentage = 41.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Mcmurray
+  |votes      = 299
+  |percentage = 31.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patricia Gardener
+  |votes      = 252
+  |percentage = 26.8
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 90
+  |percentage = 9.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 940
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Portishead West<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Nicholas Brown
+  |votes      = 898
+  |percentage = 81.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Rosalind Cruse
+  |votes      = 198
+  |percentage = 18.1
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 700
+  |percentage = 63.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,096
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare Central (2)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Crockford-Hawley
+  |votes      = 693
+  |percentage = 52.4%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ian Baker
+  |votes      = 655
+  |percentage = 49.5%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mark Terry-Short
+  |votes      = 375
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Hunt
+  |votes      = 360
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Josephine Bateman
+  |votes      = 222
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Frederick Roberts
+  |votes      = 199
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Adam Nash
+  |votes      = 92
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Alan James
+  |votes      = 51
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,647
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare Clarence and Uphill (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Roe
+  |votes      = 1,385
+  |percentage = 59.6%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Anthony Bryant
+  |votes      = 1,368
+  |percentage = 58.9%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Clive Webb
+  |votes      = 1,345
+  |percentage = 57.9%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Kenneth Tucker
+  |votes      = 647
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Solomon
+  |votes      = 620
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Hobb-Titchard
+  |votes      = 599
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stephen Varney
+  |votes      = 339
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jamie Dormer-Durling
+  |votes      = 337
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Karoline Bateman
+  |votes      = 328
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 6,968
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare East (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Derek Kraft
+  |votes      = 1,034
+  |percentage = 58.1%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Richard Tucker
+  |votes      = 990
+  |percentage = 55.6%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Muriel Kraft
+  |votes      = 944
+  |percentage = 53.0%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Grace Atkinson
+  |votes      = 629
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Bryan Osborne
+  |votes      = 610
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Raymond Hicks
+  |votes      = 591
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Brian Hampson
+  |votes      = 543
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 5,341
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare Milton and Old Worle (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jennifer Gosden
+  |votes      = 1,169
+  |percentage = 42.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Astra Brand
+  |votes      = 1,118
+  |percentage = 40.8%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rosslyn Willis
+  |votes      = 1,112
+  |percentage = 40.6%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Crew
+  |votes      = 1,025
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Patrick Taylor
+  |votes      = 1,018
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Frederick Hogg
+  |votes      = 1,009
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Simon Stokes
+  |votes      = 481
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Elizabeth Swan
+  |votes      = 450
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William Swan
+  |votes      = 424
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jeffrey Bullingham
+  |votes      = 407
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 8,213
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare North Worle (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alan Hockridge
+  |votes      = 1,356
+  |percentage = 71.0%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ronald Moon
+  |votes      = 1,236
+  |percentage = 64.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Richard Skinner
+  |votes      = 1,143
+  |percentage = 60.0%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Frederick Parsons
+  |votes      = 627
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Frederick Gamble
+  |votes      = 610
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Francis
+  |votes      = 268
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Lynda Pearcey
+  |votes      = 248
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Simon Morse
+  |votes      = 243
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 5,731
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare South (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ian Parker
+  |votes      = 1,122
+  |percentage = 71.6%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mari Owens
+  |votes      = 1,057
+  |percentage = 67.4%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robert Bateman
+  |votes      = 1,056
+  |percentage = 67.4%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Raymond Armstrong
+  |votes      = 388
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Celia Davies
+  |votes      = 386
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = June How
+  |votes      = 357
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Marriott
+  |votes      = 338
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,704
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare South Worle (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sally Tabrett
+  |votes      = 989
+  |percentage = 46.9%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Colin Golland
+  |votes      = 953
+  |percentage = 45.2%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Wright
+  |votes      = 921
+  |percentage = 43.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Flint
+  |votes      = 621
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael Lyall
+  |votes      = 608
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Belton-Reed
+  |votes      = 584
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ena King
+  |votes      = 533
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sidney Carter
+  |votes      = 526
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Lane
+  |votes      = 479
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Heenan
+  |votes      = 109
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 6,323
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Weston Super Mare West (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mark Canniford
+  |votes      = 1,337
+  |percentage = 54.5%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Bell
+  |votes      = 1,336
+  |percentage = 54.5%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robert Payne
+  |votes      = 1,179
+  |percentage = 48.1%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Horler
+  |votes      = 895
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Cleland
+  |votes      = 864
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Fazackerley
+  |votes      = 853
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Paul Spencer
+  |votes      = 223
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robert Craig
+  |votes      = 210
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Hollebon
+  |votes      = 197
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Vanessa Hollebon
+  |votes      = 188
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Mervyn Gibbs
+  |votes      = 73
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 7,355
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Winford<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Audrey Telling
+  |votes      = 456
+  |percentage = 57.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jessica Monks
+  |votes      = 335
+  |percentage = 42.4
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 121
+  |percentage = 15.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 791
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Wraxall and Long Ashton (2)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Cook
+  |votes      = 1,097
+  |percentage = 56.6%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Howard Roberts
+  |votes      = 1,000
+  |percentage = 51.6%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Angela Neale
+  |votes      = 807
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Donald Barritt
+  |votes      = 653
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Smart
+  |votes      = 317
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,874
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Wrington<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Deborah Yamanaka
+  |votes      = 708
+  |percentage = 67.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Teresa Kemp
+  |votes      = 336
+  |percentage = 32.2
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 372
+  |percentage = 35.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,044
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Yatton (3)<ref name=results/>}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Greta Lewis
+  |votes      = 1,607
+  |percentage = 71.1%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Isabel Cummings
+  |votes      = 1,388
+  |percentage = 61.4%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Kehoe
+  |votes      = 1,251
+  |percentage = 55.4%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stanley Kehoe
+  |votes      = 1,048
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alison Tull
+  |votes      = 872
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Douglas May
+  |votes      = 612
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 6,778
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Somerset elections}}
+{{United Kingdom local elections, 2003}}
+
+[[Category:2003 English local elections]]
+[[Category:North Somerset Council elections|2003]]
+[[Category:2000s in Somerset]]

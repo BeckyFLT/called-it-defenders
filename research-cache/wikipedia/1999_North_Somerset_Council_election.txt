@@ -1,0 +1,97 @@
+{{Short description|1999 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+[[File:North Somerset UK local election 1999 map.svg|thumb|300px|right|Map of the results of the 1999 North Somerset council election. [[Conservative Party (UK)|Conservatives]] in blue, [[Liberal Democrats (UK)|Liberal Democrats]] in yellow, [[Labour Party (UK)|Labour]] in red, [[Independent (politician)|independent]] in grey, [[Green Party of England and Wales|Green Party]] in green and [[Liberal Party (UK, 1989)|Liberal Paty]] in orange.]]
+The '''1999 North Somerset Council election''' took place on 6 May 1999 to elect members of [[North Somerset]] [[Unitary authority|Unitary]] Council in [[Somerset]], [[England]]. The whole council was up for election with boundary changes since the [[1995 North Somerset Council election|last election in 1995]] increasing the number of seats by 2.<ref name="gain">{{cite news|url=https://news.bbc.co.uk/hi/english/static/vote_99/locals_99/html/constituency/169.stm|title=North Somerset|publisher=[[BBC News Online]]|access-date=14 August 2011}}</ref> The [[Conservative Party (UK)|Conservative Party]] gained overall control of the council from [[no overall control]].<ref name="nations">{{cite news|title=How the nations voted|date=8 May 1999|work=[[The Times]]|page=48}}</ref>
+
+==Election result==
+
+{{Election Summary Begin|title = North Somerset local election result 1999<ref name=nations/><ref name="control">{{cite web|url=http://www.n-somerset.gov.uk/council/press+releases/1999/may/19990507torieuncil.asp|title=Tories Gain Control of North Somerset Council|date=7 May 1999|publisher=North Somerset Council|access-date=14 August 2011|archive-url=https://web.archive.org/web/20030817054830/http://www.n-somerset.gov.uk/council/press+releases/1999/may/19990507torieuncil.asp|archive-date=2003-08-17 <!-- 054830 --> }}</ref>}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 32
+  |gain       = 
+  |loss       = 
+  |net        = +15
+  |seats %    = 52.5
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 13
+  |gain       = 
+  |loss       = 
+  |net        = +8
+  |seats %    = 21.3
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 11
+  |gain       = 
+  |loss       = 
+  |net        = -18
+  |seats %    = 18.0
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 3
+  |gain       = 
+  |loss       = 
+  |net        = +2
+  |seats %    = 4.9
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Green Party of England and Wales
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 1.6
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Liberal Party (UK, 1989)
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 1.6
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary|
+  |party      = Others
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = -5
+  |seats %    = 0
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Somerset elections}}
+{{United Kingdom local elections, 1999}}
+
+[[Category:1999 English local elections]]
+[[Category:North Somerset Council elections|1999]]
+[[Category:1990s in Somerset]]
