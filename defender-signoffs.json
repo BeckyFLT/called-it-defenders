@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "ballotPaperId": "local.isle-of-anglesey.bror-llynnoedd.by.2026-07-30",
+    "partyId": "PP77",
+    "partyName": "Plaid Cymru - The Party of Wales",
+    "source": "https://andrewteale.me.uk/leap/by/2026-07-30/",
+    "note": "Death of Ken Taylor; elected Plaid Cymru in Bro'r Llynnoedd at the 2022 Isle of Anglesey County Council election (confirmed via Wikipedia: 2022 Isle of Anglesey County Council election)",
+    "decidedAt": "2026-08-07"
+  },
+  {
+    "ballotPaperId": "local.south-holland.long-sutton.by.2026-07-30",
+    "partyId": "ynmp-party:2",
+    "partyName": "Independent",
+    "source": "https://andrewteale.me.uk/leap/by/2026-07-30/",
+    "note": "Death of David Wilkinson; elected as an Independent in Long Sutton at the 2023 South Holland District Council election, consistent with LEAP's 'RUK gain from Ind' notation (confirmed via Wikipedia: 2023 South Holland District Council election)",
+    "decidedAt": "2026-08-07"
+  },
+  {
+    "ballotPaperId": "local.uttlesford.great-dunmow-north.by.2026-07-30",
+    "partyId": "PP2468",
+    "partyName": "Residents for Uttlesford",
+    "source": "https://andrewteale.me.uk/leap/by/2026-07-30/",
+    "note": "Resignation of Alex Armstrong; elected Residents for Uttlesford in Great Dunmow North at the 2023 Uttlesford District Council election, which also directly documents this 2026 by-election as his resignation (Wikipedia: 2023 Uttlesford District Council election)",
+    "decidedAt": "2026-08-07"
+  },
+  {
+    "ballotPaperId": "local.huntingdonshire.st-neots-eynesbury.by.2026-08-20",
+    "partyId": "PP7931",
+    "partyName": "Reform UK",
+    "source": "https://en.wikipedia.org/wiki/2026_Huntingdonshire_District_Council_election",
+    "note": "Resignation of Reform UK councillor Tony Nelson, less than two months after winning the seat for Reform UK at the May 2026 Huntingdonshire District Council election; by-election set for 20 August 2026 (source cites council's official Notice of Vacancy)",
+    "decidedAt": "2026-08-07"
+  }
+]
