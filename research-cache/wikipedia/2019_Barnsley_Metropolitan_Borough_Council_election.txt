@@ -1,7 +1,7 @@
 {{Short description|2019 UK local government election}}
 {{Use dmy dates|date=July 2019}}
 {{Use British English|date=July 2019}}
-The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 May 2019 to elect members of [[Barnsley Metropolitan Borough Council]] in England.<ref>{{cite web |title = Barnsley Metropolitan Borough Council |url = https://www.bbc.com/news/topics/cn1r2w32629t/barnsley-metropolitan-borough-council | website = BBC.co.uk |publisher = [[BBC]] |access-date = 5 June 2019}}</ref> This was on the same day as other [[United Kingdom local elections, 2019|local elections]].
+The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 May 2019 to elect members of [[Barnsley Metropolitan Borough Council]] in England.<ref name="results"/> This was on the same day as other [[United Kingdom local elections, 2019|local elections]].
 
 ==Result==
 {{Election summary partial council net begin|title = 2019 Barnsley Metropolitan Borough Council election}}
@@ -141,17 +141,17 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 
 ==Ward results==
 [[File:2019 Barnsley Council election.png|thumb|400px|Map of the results of the election by electoral ward.]]
-<ref>{{Cite web|url=https://www.barnsley.gov.uk/services/voting-and-elections/local-government-elections-thursday-2-may-2019/|title=Local government elections - Thursday 2 May 2019|website=www.barnsley.gov.uk|access-date=5 June 2019}}</ref>
-<ref>{{cite web |title=Barnsley - 2019|url=https://www.electionsengland.co.uk/result.php?authority=Barnsley&year=2019 |publisher=Elections England}}</ref>
+<ref>{{cite web |title=Local government elections - Thursday 2 May 2019 |url=https://www.barnsley.gov.uk/services/voting-and-elections/local-government-elections-thursday-2-may-2019/ |publisher=[[Barnsley Metropolitan Borough Council]] |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20191014122928/https://www.barnsley.gov.uk/services/voting-and-elections/local-government-elections-thursday-2-may-2019/ |archive-date=14 October 2019}}</ref>
+<ref name="results">{{cite news |title=Results of local government elections |url=https://www.barnsley.gov.uk/news/local-government-elections-2019/ |publisher=[[Barnsley Metropolitan Borough Council]] |date=3 May 2019 |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20190605124431/https://www.barnsley.gov.uk/news/local-government-elections-2019/ |archive-date=5 June 2019}}</ref>
 ===Central ward===
-{{Election box begin | title=Central}}
+{{Election box begin | title=Central<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Martin Dyson|votes=750|percentage=44.2|change={{decrease}}23.8}}
 {{Election box candidate with party link||party=Green Party of England and Wales|candidate=Chris Scarfe|votes=474|percentage=28.0|change={{increase}}18.4}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Adrian Thompson|votes=289|percentage=17.1|change={{decrease}}0.1}}
 {{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Connor Audsley|votes=182|percentage=10.7|change={{increase}}5.5}}
 {{Election box majority|
   |votes      = 276
-  |percentage = 16.2
+  |percentage = 16.3
   |change     = {{decrease}}34.6
 }}
 {{Election box hold with party link|
@@ -161,7 +161,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Cudworth ward===
-{{Election box begin | title=Cudworth}}
+{{Election box begin | title=Cudworth<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Charlie Wraith|votes=933|percentage=61.7|change={{decrease}}13.0}}
 {{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Ellis-Mourant|votes=340|percentage=22.5|change={{increase}}19.5}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Mark Brook|votes=240|percentage=15.9|change={{increase}}5.5}}
@@ -177,7 +177,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Darfield ward===
-{{Election box begin | title=Darfield}}
+{{Election box begin | title=Darfield<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Democrats and Veterans|candidate=Trevor Smith|votes=750|percentage=38.1|change={{increase}}18.4}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Dorothy Coates|votes=666|percentage=33.8|change={{decrease}}23.5}}
 {{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Kim Boon|votes=198|percentage=10.1|change={{increase}}2.0}}
@@ -196,7 +196,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Darton East ward===
-{{Election box begin | title=Darton East}}
+{{Election box begin | title=Darton East<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Steve Hunt|votes=1,832|percentage=70.5|change={{increase}}53.1}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Martin Flack|votes=570|percentage=21.9|change={{decrease}}41.7}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Debbie Toon|votes=197|percentage=7.6|change={{decrease}}11.4}}
@@ -213,14 +213,14 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Darton West ward===
-{{Election box begin | title=Darton West}}
+{{Election box begin | title=Darton West<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Trevor Cave|votes=810|percentage=39.7|change={{decrease}}15.5}}
 {{Election box candidate with party link||party=Green Party of England and Wales|candidate=Tom Heyes|votes=499|percentage=24.5|change={{increase}}10.5}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Lee Ogden|votes=452|percentage=22.2|change={{decrease}}2.9}}
 {{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Andrew Waters|votes=277|percentage=13.6|change={{increase}}7.9}}
 {{Election box majority|
   |votes      = 311
-  |percentage = 15.2
+  |percentage = 15.3
   |change     = {{decrease}}14.9
 }}
 {{Election box hold with party link|
@@ -230,7 +230,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Dearne North ward===
-{{Election box begin | title=Dearne North}}
+{{Election box begin | title=Dearne North<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Alan Gardiner|votes=799|percentage=56.3|change={{decrease}}23.9}}
 {{Election box candidate with party link||party=English Democrats|candidate=Janus Polenceusz|votes=485|percentage=34.2|change=''N/A''}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Cicely Cowgill|votes=134|percentage=9.4|change={{decrease}}10.4}}
@@ -246,7 +246,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Dearne South ward===
-{{Election box begin | title=Dearne South}}
+{{Election box begin | title=Dearne South<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Independent (politician)|candidate=Sam Danforth|votes=1,173|percentage=51.7|change=''N/A''}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Graham Jarvis|votes=801|percentage=35.3|change={{decrease}}39.5}}
 {{Election box candidate with party link||party=English Democrats|candidate=Adrian Morgan|votes=175|percentage=7.7|change=''N/A''}}
@@ -264,7 +264,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Dodworth ward===
-{{Election box begin | title=Dodworth}}
+{{Election box begin | title=Dodworth<ref name="results"/>}}
 {{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Peter Fielding|votes=1,308|percentage=45.6|change={{increase}}39.1}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Richard Riggs|votes=647|percentage=22.6|change={{decrease}}15.2}}
 {{Election box candidate with party link||party=UK Independence Party|candidate=Jonathan Hastelow|votes=440|percentage=15.3|change=''N/A''}}
@@ -273,7 +273,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 
 {{Election box majority|
   |votes      = 661
-  |percentage = 23.0
+  |percentage = 23.1
   |change     = ''N/A''
 }}
 {{Election box gain with party link|
@@ -284,11 +284,11 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Hoyland Milton ward===
-{{Election box begin | title=Hoyland Milton}}
+{{Election box begin | title=Hoyland Milton<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Tim Shepherd|votes=982|percentage=44.0|change={{decrease}}27.7}}
 {{Election box candidate with party link||party=UK Independence Party|candidate=Daniel Simpson|votes=701|percentage=31.4|change=''N/A''}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Donna Cutts|votes=240|percentage=10.8|change={{decrease}}5.7}}
-{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Glenn Lawrence|votes=173|percentage=8.8|change={{decrease}}3.0}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Glenn Lawrence|votes=173|percentage=7.8|change={{decrease}}3.0}}
 {{Election box candidate with party link||party=English Democrats|candidate=Justin Saxton|votes=134|percentage=6.0|change=''N/A''}}
 {{Election box majority|
   |votes      = 281
@@ -302,7 +302,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Kingstone ward===
-{{Election box begin | title=Kingstone}}
+{{Election box begin | title=Kingstone<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Kevin Williams|votes=609|percentage=37.2|change={{decrease}}26.1}}
 {{Election box candidate with party link||party=Democrats and Veterans|candidate=Peter Doyle|votes=490|percentage=29.9|change=''N/A''}}
 {{Election box candidate with party link||party=Green Party of England and Wales|candidate=Peter Giles|votes=252|percentage=15.4|change=''N/A''}}
@@ -321,7 +321,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Monk Bretton ward===
-{{Election box begin | title=Monk Bretton}}
+{{Election box begin | title=Monk Bretton<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Democrats and Veterans|candidate=Victoria Felton|votes=1,236|percentage=54.5|change={{increase}}37.8}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Margaret Sheard|votes=660|percentage=29.1|change={{decrease}}33.2}}
 {{Election box candidate with party link||party=Yorkshire Party|candidate=Ryan Williams|votes=268|percentage=11.8|change=''N/A''}}
@@ -339,7 +339,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===North East ward===
-{{Election box begin | title=North East}}
+{{Election box begin | title=North East<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Anita Cherryholme|votes=786|percentage=36.2|change={{decrease}}28.2}}
 {{Election box candidate with party link||party=Independent (politician)|candidate=Raymond Archer|votes=712|percentage=32.8|change=''N/A''}}
 {{Election box candidate with party link||party=Yorkshire Party|candidate=Tony Devoy|votes=467|percentage=21.5|change={{decrease}}5.8}}
@@ -356,7 +356,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Old Town ward===
-{{Election box begin | title=Old Town}}
+{{Election box begin | title=Old Town<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Jo Newing|votes=720|percentage=35.1|change={{decrease}}19.7}}
 {{Election box candidate with party link||party=Independent (politician)|candidate=Donald Wood|votes=698|percentage=34.0|change=''N/A''}}
 {{Election box candidate with party link||party=Green Party of England and Wales|candidate=Kate Raynor|votes=259|percentage=12.6|change=''N/A''}}
@@ -374,7 +374,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Penistone East ward===
-{{Election box begin | title=Penistone East}}
+{{Election box begin | title=Penistone East<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Paul Hand-Davis|votes=1,359|percentage=39.4|change={{decrease}}11.1}}
 {{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Sue Waters|votes=929|percentage=26.9|change={{increase}}17.6}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Dave Webster|votes=602|percentage=17.4|change={{decrease}}15.7}}
@@ -391,7 +391,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Penistone West ward===
-{{Election box begin | title=Penistone West}}
+{{Election box begin | title=Penistone West<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=David Greenhough|votes=1,583|percentage=43.7|change={{decrease}}2.8}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew Robert Millner|votes=753|percentage=20.8|change={{decrease}}1.6}}
 {{Election box candidate with party link||party=Independent (politician)|candidate=David Wood|votes=563|percentage=15.6|change=''N/A''}}
@@ -410,7 +410,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Rockingham ward===
-{{Election box begin | title=Rockingham}}
+{{Election box begin | title=Rockingham<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Chris Lamb|votes=803|percentage=36.5|change={{decrease}}22.2}}
 {{Election box candidate with party link||party=Barnsley Independent Group|candidate=Steve Sylvester|votes=588|percentage=26.7|change=''N/A''}}
 {{Election box candidate with party link||party=English Democrats|candidate=Kevin Riddiough|votes=274|percentage=12.5|change={{increase}}1.4}}
@@ -429,8 +429,8 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Royston ward===
-{{Election box begin | title=Royston}}
-{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Pauline Mccarthy|votes=953|percentage=49.4|change={{decrease}}19.7}}
+{{Election box begin | title=Royston<ref name="results"/>}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Pauline McCarthy|votes=953|percentage=49.4|change={{decrease}}19.7}}
 {{Election box candidate with party link||party=UK Independence Party|candidate=Kirk Harper|votes=752|percentage=39.0|change=''N/A''}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Alex Wilkinson|votes=225|percentage=11.7|change={{decrease}}0.1}}
 {{Election box majority|
@@ -445,7 +445,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===St Helen's ward===
-{{Election box begin | title=St Helen's}}
+{{Election box begin | title=St Helen's<ref name="results"/>}}
 {{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Jenny Platts|votes=901|percentage=61.3|change={{decrease}}15.4}}
 {{Election box candidate with party link||party=Green Party of England and Wales|candidate=Alan Jones|votes=401|percentage=27.3|change={{increase}}15.8}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Jacob Griffin|votes=169|percentage=11.5|change={{decrease}}0.3}}
@@ -461,7 +461,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Stairfoot ward===
-{{Election box begin | title=Stairfoot}}
+{{Election box begin | title=Stairfoot<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Barnsley Independent Group|candidate=Andy Gillis|votes=1,057|percentage=53.9|change={{increase}}27.3}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Karen Dyson|votes=702|percentage=35.8|change={{decrease}}24.1}}
 {{Election box candidate with party link|party=Conservative Party (UK)|candidate=Elizabeth Hill|votes=121|percentage=6.2|change={{decrease}}7.3}}
@@ -479,11 +479,11 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Wombwell ward===
-{{Election box begin | title=Wombwell}}
+{{Election box begin | title=Wombwell<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Brenda Eastwood|votes=907|percentage=54.4|change={{decrease}}13.1}}
 {{Election box candidate with party link||party=Barnsley Independent Group|candidate=Sharon Gillis|votes=414|percentage=24.8|change=''N/A''}}
-{{Election box candidate with party link||party=English Democrats|candidate=Terence Cook|votes=186|percentage=11.2|change=''N/A''}}
-{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Terence Cook|votes=136|percentage=8.2|change=''N/A''}}
+{{Election box candidate with party link||party=English Democrats|candidate=Jon Seymour|votes=186|percentage=11.2|change=''N/A''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Susan Mary Rose|votes=136|percentage=8.2|change=''N/A''}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gareth Thompson|votes=25|percentage=1.5|change={{decrease}}19.0}}
 {{Election box majority|
   |votes      = 493
@@ -497,7 +497,7 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
 {{Election box end}}
 
 ===Worsbrough ward===
-{{Election box begin | title=Worsbrough}}
+{{Election box begin | title=Worsbrough<ref name="results"/>}}
 {{Election box winning candidate with party link||party=Independent (politician)|candidate=Jake Lodge|votes=948|percentage=49.9|change=''N/A''}}
 {{Election box candidate with party link||party=Labour Party (UK)|candidate=Roya Pourali|votes=625|percentage=32.9|change={{decrease}}29.9}}
 {{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael Barraclough|votes=181|percentage=9.5|change={{decrease}}11.1}}
@@ -513,6 +513,10 @@ The '''2019 Barnsley Metropolitan Borough Council election''' took place on 2 Ma
  |swing = 
 }}
 {{Election box end}}
+
+==Changes 2019–2021==
+*November 2019: Victoria Felton (Monk Bretton), elected for the Democrats and Veterans Party, left the party to sit as an Independent and stood for [[The Brexit Party]] in [[Barnsley Central (UK Parliament constituency)|Barnsley Central]] at the [[2019 United Kingdom general election|December 2019 general election]].<ref>{{cite news |title=Councillor standing for Brexit Party at general election |url=https://www.barnsleychronicle.com/article/17482/councillor-standing-for-brexit-party-at-general-election |newspaper=[[Barnsley Chronicle]] |date=1 November 2019 |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20211021083207/https://www.barnsleychronicle.com/article/17482/councillor-standing-for-brexit-party-at-general-election |archive-date=21 October 2021}}</ref>
+*October 2020: Trevor Smith (Darfield), elected for the Democrats and Veterans Party, joined the Labour Party.<ref>{{cite news |title=Councillor faces calls to stand down |url=https://www.barnsleychronicle.com/article/19810/councillor-faces-calls-to-stand-down |newspaper=[[Barnsley Chronicle]] |date=6 November 2020 |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20201113230522/https://www.barnsleychronicle.com/article/19810/councillor-faces-calls-to-stand-down |archive-date=13 November 2020}}</ref>
 
 == References ==
 {{reflist}}

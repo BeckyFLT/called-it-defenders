@@ -3,7 +3,7 @@
 {{Use British English|date=June 2020}}
 {{Infobox election
 | election_name = 2021 Barnsley Metropolitan Borough Council election
-| country = England
+| country = South Yorkshire
 | type = Parliamentary
 | ongoing = yes
 | party_colour = yes
@@ -79,7 +79,7 @@
 | before_party = [[Labour Party (UK)|Labour]]
 | after_election = 
 | after_party = 
-}}The '''2021 Barnsley Metropolitan Borough Council election''' took place on 6 May 2021 to elect members of [[Barnsley Metropolitan Borough Council]] in England. It took place on the same day as other [[2020 United Kingdom local elections|local elections]].<ref>{{Cite web|url=https://www.local.gov.uk/about/our-meetings-and-leadership/political-composition/local-government-elections|title=Local government elections|website=www.local.gov.uk|language=en|access-date=2020-01-07}}</ref> The election was originally due to take place in May 2020, but was postponed due to the [[COVID-19 pandemic]].<ref>{{cite news |title=Local elections postponed for a year over coronavirus |url=https://www.bbc.co.uk/news/uk-politics-51876269 |access-date=13 March 2020 |work=BBC News |date=13 March 2020}}</ref>
+}}The '''2021 Barnsley Metropolitan Borough Council election''' took place on 6 May 2021 to elect members of [[Barnsley Metropolitan Borough Council]] in England. It took place on the same day as other [[2020 United Kingdom local elections|local elections]].<ref>{{cite web |title=Local government elections |url=https://www.local.gov.uk/about/our-meetings-and-leadership/political-composition/local-government-elections |publisher=[[Local Government Association]] |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20210510000000/https://www.local.gov.uk/about/our-meetings-and-leadership/political-composition/local-government-elections |archive-date=10 May 2021}}</ref> The election was originally due to take place in May 2020, but was postponed due to the [[COVID-19 pandemic]].<ref>{{cite news |title=Local elections postponed for a year over coronavirus |url=https://www.bbc.co.uk/news/uk-politics-51876269 |work=BBC News |date=13 March 2020 |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20200313171804/https://www.bbc.co.uk/news/uk-politics-51876269 |archive-date=13 March 2020}}</ref>
 
 ==Results summary==
 
@@ -243,40 +243,42 @@
 {{Election box end}}
 
 ==Ward results==
+<ref name="results">{{cite web |title=Local government elections 2021 |url=https://www.barnsley.gov.uk/services/voting-and-elections/local-government-elections-2021/ |publisher=[[Barnsley Metropolitan Borough Council]] |access-date=8 August 2026 |archive-url=https://web.archive.org/web/20210531103631/https://www.barnsley.gov.uk/services/voting-and-elections/local-government-elections-2021/ |archive-date=31 May 2021}}</ref>
+
 
 ===Central ward===
-{{Election box begin | title = Central}}
+{{Election box begin | title=Central<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Summer Risebury
 |votes= 964
-|percentage= 48.88
+|percentage=48.9
 |change=+4.7
 }}
 {{Election box candidate with party link|
 |party=Conservative Party (UK)
 |candidate= Adrian Thompson
 |votes= 529
-|percentage= 26.83
+|percentage=26.8
 |change=+9.7
 }}
 {{Election box candidate with party link|
 |party=Green Party of England and Wales
 |candidate= Ian Guest
 |votes= 366
-|percentage= 18.56
+|percentage=18.6
 |change=-9.4
 }}
 {{Election box candidate with party link|
 |party=Liberal Democrats (UK)
 |candidate= Catherine Rogerson
 |votes= 113
-|percentage= 5.73
+|percentage=5.7
 |change=-5.0
 }}
 {{Election box majority
-| votes      = 435
-| percentage = 22.05
+  |votes      = 435
+  |percentage = 22.1
 | change     = 
 }}
 {{Election box turnout
@@ -284,8 +286,13 @@
 | percentage = 23.87
 | change     = 
 }}
-{{Election box registered electors|
-| reg. electors = 8,373
+{{Election box registered electors
+  |reg. electors = 8,373
+}}
+{{Election box rejected
+  |votes      = 17
+  |percentage = 0.9
+  |change     = 
 }}
 {{Election box hold with party link|
 | winner     = Labour Party (UK)
@@ -294,33 +301,33 @@
 {{Election box end}}
 
 ===Cudworth ward===
-{{Election box begin | title = Cudworth}}
+{{Election box begin | title=Cudworth<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Steve Houghton
 |votes= 1,368
-|percentage= 66.9
+|percentage=66.9
 |change=+5.2
 }}
 {{Election box candidate with party link|
 |party=Conservative Party (UK)
 |candidate= Mark Brook
 |votes= 316
-|percentage= 15.5
+|percentage=15.5
 |change=-0.4
 }}
 {{Election box candidate with party link|
 |party=Barnsley Independent Group
 |candidate= Mark Arnold
 |votes= 285
-|percentage= 13.9
+|percentage=13.9
 |change=''N/A''
 }}
 {{Election box candidate with party link|
 |party=Liberal Democrats (UK)
 |candidate= Elizabeth Waters
 |votes= 75
-|percentage= 3.7
+|percentage=3.7
 |change=-18.8
 }}
 {{Election box majority
@@ -338,8 +345,13 @@
 | percentage = 
 | change     =
 }}
-{{Election box registered electors|
-| reg. electors = 8,307
+{{Election box registered electors
+  |reg. electors = 8,307
+}}
+{{Election box rejected
+  |votes      = 8
+  |percentage = 0.4
+  |change     = 
 }}
 {{Election box hold with party link|
 | winner     = Labour Party (UK)
@@ -348,7 +360,7 @@
 {{Election box end}}
 
 ===Darfield ward===
-{{Election box begin | title=Darfield}}
+{{Election box begin | title=Darfield<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Kevin Osborne
@@ -395,6 +407,14 @@
 | percentage = 29.15
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,069
+}}
+{{Election box rejected
+  |votes      = 12
+  |percentage = 0.5
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -402,7 +422,7 @@
 {{Election box end}}
 
 ===Darton East ward===
-{{Election box begin | title=Darton East}}
+{{Election box begin | title=Darton East<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Liberal Democrats (UK)
 |candidate= Mat Crisp
@@ -443,15 +463,23 @@
 | percentage = 32.70
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,869
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.2
+  |change     = 
+}}
 {{Election box gain with party link|
  |winner = Liberal Democrats (UK)
  |loser = Labour Party (UK)
- |swing = 
+ |swing = 14.1
 }}
 {{Election box end}}
 
 ===Darton West ward===
-{{Election box begin | title=Darton West}}
+{{Election box begin | title=Darton West<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Alice Cave
@@ -486,6 +514,14 @@
 | percentage = 32.25
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,768
+}}
+{{Election box rejected
+  |votes      = 20
+  |percentage = 0.7
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -493,7 +529,7 @@
 {{Election box end}}
 
 ===Dearne North ward===
-{{Election box begin | title=Dearne North}}
+{{Election box begin | title=Dearne North<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Wendy Cain
@@ -534,6 +570,14 @@
 | percentage = 21.35
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,187
+}}
+{{Election box rejected
+  |votes      = 19
+  |percentage = 1.1
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -541,7 +585,7 @@
 {{Election box end}}
 
 ===Dearne South ward===
-{{Election box begin | title=Dearne South}}
+{{Election box begin | title=Dearne South<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Dorothy Coates
@@ -582,6 +626,14 @@
 | percentage = 23.99
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 9,169
+}}
+{{Election box rejected
+  |votes      = 26
+  |percentage = 1.1
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -589,7 +641,7 @@
 {{Election box end}}
 
 ===Dodworth ward===
-{{Election box begin | title=Dodworth}}
+{{Election box begin | title=Dodworth<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Liberal Democrats (UK)
 |candidate= Chris Wray
@@ -630,15 +682,23 @@
 | percentage = 35.23
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,487
+}}
+{{Election box rejected
+  |votes      = 14
+  |percentage = 0.5
+  |change     = 
+}}
 {{Election box gain with party link|
  |winner = Liberal Democrats (UK)
  |loser = Barnsley Independent Group
- |swing = 
+ |swing = 16.9
 }}
 {{Election box end}}
 
 ===Hoyland Milton ward===
-{{Election box begin | title=Hoyland Milton}}
+{{Election box begin | title=Hoyland Milton<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= James Stowe
@@ -685,6 +745,14 @@
 | percentage = 31.34
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 9,374
+}}
+{{Election box rejected
+  |votes      = 19
+  |percentage = 0.6
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -692,7 +760,7 @@
 {{Election box end}}
 
 ===Kingstone ward===
-{{Election box begin | title=Kingstone}}
+{{Election box begin | title=Kingstone<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Pooja Ramchandani
@@ -745,6 +813,14 @@
 | percentage = 23.84
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 7,769
+}}
+{{Election box rejected
+  |votes      = 11
+  |percentage = 0.6
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -752,7 +828,7 @@
 {{Election box end}}
 
 ===Monk Bretton ward===
-{{Election box begin | title=Monk Bretton}}
+{{Election box begin | title=Monk Bretton<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Steve Green
@@ -793,6 +869,14 @@
 | percentage = 25.94
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,953
+}}
+{{Election box rejected
+  |votes      = 5
+  |percentage = 0.2
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -800,7 +884,7 @@
 {{Election box end}}
 
 ===North East ward===
-{{Election box begin | title=North East}}
+{{Election box begin | title=North East<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Jeff Ennis
@@ -835,6 +919,14 @@
 | percentage = 25.40
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 10,214
+}}
+{{Election box rejected
+  |votes      = 10
+  |percentage = 0.4
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -842,7 +934,7 @@
 {{Election box end}}
 
 ===Old Town ward===
-{{Election box begin | title=Old Town}}
+{{Election box begin | title=Old Town<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Phil Lofts
@@ -895,6 +987,14 @@
 | percentage = 29.48
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,593
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.4
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -902,7 +1002,7 @@
 {{Election box end}}
 
 ===Penistone East ward===
-{{Election box begin | title=Penistone East}}
+{{Election box begin | title=Penistone East<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Conservative Party (UK)
 |candidate= John Wilson
@@ -937,6 +1037,14 @@
 | percentage = 44.69
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 9,651
+}}
+{{Election box rejected
+  |votes      = 25
+  |percentage = 0.6
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Conservative Party (UK)
  |swing = 
@@ -944,7 +1052,7 @@
 {{Election box end}}
 
 ===Penistone West ward===
-{{Election box begin | title=Penistone West}}
+{{Election box begin | title=Penistone West<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Liberal Democrats (UK)
 |candidate= Mandy Lowe-Flello
@@ -985,71 +1093,95 @@
 | percentage = 38.48
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 10,059
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.2
+  |change     = 
+}}
 {{Election box gain with party link|
  |winner = Liberal Democrats (UK)
  |loser = Labour Party (UK)
- |swing = 
+ |swing = 14.1
 }}
 {{Election box end}}
 
 ===Rockingham ward===
-{{Election box begin | title=Rockingham}}
+{{Election box begin | title=Rockingham<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
-|candidate= Nicola Sumner
-|votes= 1,085
+|candidate=Nicola Sumner
+|votes=1,084
 |percentage=39.1
-|change=+2.6}}
+|change=-10.8
+}}
 {{Election box candidate with party link|
 |party=Conservative Party (UK)
-|candidate= Roy Garratt
-|votes= 1,084
+|candidate=Roy Garratt
+|votes=1,084
 |percentage=39.1
-|change=+28.0}}
+|change=+23.2
+}}
 {{Election box candidate with party link|
 |party=Green Party of England and Wales
-|candidate= James Grinham
+|candidate=James Grinham
 |votes=289
 |percentage=10.4
-|change=+1.2}}
+|change=+0.7
+}}
 {{Election box candidate with party link|
 |party=Liberal Democrats (UK)
-|candidate= Paul Nugent
+|candidate=Paul Nugent
 |votes=124
 |percentage=4.5
-|change=+0.5}}
+|change=''N/A''
+}}
 {{Election box candidate with party link|
 |party=Trade Unionist and Socialist Coalition
-|candidate= Karen Fletcher
+|candidate=Karen Fletcher
 |votes=115
 |percentage=4.2
-|change=''N/A''}}
-{{Election box candidate|
-|party=Keep Equality Safe Party
-|candidate= Andy Belk
+|change=''N/A''
+}}
+{{Election box candidate with party link|
+|party=Keep Equality Safe
+|candidate=Andy Belk
 |votes=75
 |percentage=2.7
-|change=''N/A''}}
-{{Election box majority|
-  |votes      = 
-  |percentage = 
+|change=''N/A''
+}}
+{{Election box majority
+  |votes      = 0
+  |percentage = 0.0
   |change     = 
 }}
 {{Election box turnout
-| votes      = 2,781
-| percentage = 31.98
-| change     =
+  |votes      = 2,771
+  |percentage = 33.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 8,321
+}}
+{{Election box rejected
+  |votes      = 11
+  |percentage = 0.4
+  |change     = 
 }}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
+ |loser = 
  |swing = 
 }}
 {{Election box end}}
+''Note: Nicola Sumner and Roy Garratt tied with 1,084 votes each. Sumner won the seat following a coin toss.''<ref name="results"/>
 
 Nicola Sumner won on the toss of a coin. In the result this is shown as her winning an extra vote.
 
 ===Royston ward===
-{{Election box begin | title=Royston}}
+{{Election box begin | title=Royston<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Caroline Makinson
@@ -1096,6 +1228,14 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 | percentage = 27.39
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 8,713
+}}
+{{Election box rejected
+  |votes      = 8
+  |percentage = 0.3
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -1103,7 +1243,7 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 {{Election box end}}
 
 ===St Helen's ward===
-{{Election box begin | title=St Helen's}}
+{{Election box begin | title=St Helen's<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Sarah Tattersall
@@ -1150,6 +1290,14 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 | percentage = 21.89
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 7,946
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.5
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -1157,7 +1305,7 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 {{Election box end}}
 
 ===Stairfoot ward===
-{{Election box begin | title=Stairfoot}}
+{{Election box begin | title=Stairfoot<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Karen Dyson
@@ -1198,6 +1346,14 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 | percentage = 26.0
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 9,111
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.3
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -1205,7 +1361,7 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 {{Election box end}}
 
 ===Wombwell ward===
-{{Election box begin | title=Wombwell}}
+{{Election box begin | title=Wombwell<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= James Higginbottom
@@ -1258,6 +1414,14 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 | percentage = 25.43
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 9,673
+}}
+{{Election box rejected
+  |votes      = 15
+  |percentage = 0.6
+  |change     = 
+}}
 {{Election box hold with party link|
  |winner = Labour Party (UK)
  |swing = 
@@ -1265,7 +1429,7 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 {{Election box end}}
 
 ===Worsbrough ward===
-{{Election box begin | title=Worsbrough}}
+{{Election box begin | title=Worsbrough<ref name="results"/>}}
 {{Election box winning candidate with party link|
 |party=Labour Party (UK)
 |candidate= Roy Bowser
@@ -1300,10 +1464,18 @@ Nicola Sumner won on the toss of a coin. In the result this is shown as her winn
 | percentage = 29.56
 | change     =
 }}
+{{Election box registered electors
+  |reg. electors = 7,557
+}}
+{{Election box rejected
+  |votes      = 18
+  |percentage = 0.8
+  |change     = 
+}}
 {{Election box gain with party link|
  |winner = Labour Party (UK)
  |loser = Barnsley Independent Group
- |swing = 
+ |swing = 3.1
 }}
 {{Election box end}}
 

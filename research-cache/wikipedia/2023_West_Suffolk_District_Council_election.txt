@@ -2277,6 +2277,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 ===Haverhill West===
 
 {{Election box begin|title=Haverhill West by-election, 10th September 2026<ref>https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Notice-of-Election-WSC-Haverhill-West-10-September-2026.pdf</ref>}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Clare Higson|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}
