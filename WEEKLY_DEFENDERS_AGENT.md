@@ -74,6 +74,14 @@ elected under at the original election.
    }
    ```
 
+   **Defection cases:** if the vacating councillor had LEFT the party they
+   were elected under before the vacancy arose (defected to another party
+   or sat as an Independent), still record `partyId` as the as-elected
+   party, and additionally add `"defection": true` to the entry. This
+   makes the site show a plain WIN for the seat instead of a GAIN/HOLD
+   claim, while the party totals still count the defence correctly.
+   Mention any defection cases explicitly in your final message.
+
    Validate the file parses as JSON before committing.
 
 7. Commit with message `Weekly defender sign-offs: {today's date}` and
