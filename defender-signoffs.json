@@ -30,5 +30,13 @@
     "source": "https://en.wikipedia.org/wiki/2026_Huntingdonshire_District_Council_election",
     "note": "Resignation of Reform UK councillor Tony Nelson, less than two months after winning the seat for Reform UK at the May 2026 Huntingdonshire District Council election; by-election set for 20 August 2026 (source cites council's official Notice of Vacancy)",
     "decidedAt": "2026-08-07"
+  },
+  {
+    "ballotPaperId": "local.east-devon.honiton-st-michaels.by.2026-08-13",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "source": "https://honiton.nub.news/news/local-news/another-by-election-to-be-held-after-east-devon-district-councillor-resigns",
+    "note": "Resignation of Violet Bonetta; elected Labour in Honiton St Michael's at the 2023 East Devon District Council election, later sat as an Independent before resigning. Defence credited to the party as elected, per convention (defections ignored). Cross-checked against DC candidacies for the 2023 ballot.",
+    "decidedAt": "2026-08-17"
   }
 ]
