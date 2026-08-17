@@ -103,5 +103,114 @@
     "source": "https://www.brighton-hove.gov.uk/council-and-democracy/voting-and-elections/queens-park-election-thursday-24-september-2026",
     "note": "2026 audit correction (was Green): resignation of Milla Gauge, elected Labour May 2024. ElectCllrsUK: LAB defence.",
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.salford.quays.by.2024-01-11",
+    "partyId": "PP90",
+    "partyName": "Liberal Democrats",
+    "source": "https://feeds.bbci.co.uk/news/uk-england-manchester-67530061",
+    "note": "2024-25 audit correction (was Labour): resignation of Alex Warren, elected Lib Dem 2022 \u2014 the ward and press reported an LD hold.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.knowsley.whitefield.by.2024-03-21",
+    "partyId": "ynmp-party:2",
+    "partyName": "Independent",
+    "source": "https://www.andrewteale.me.uk/leap/by/2024-03-21/",
+    "note": "2024-25 audit correction (was Labour): disqualification of Steve Guy, elected Independent 2022.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.hackney.cazenove.by.2024-07-04",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2024-07-04/",
+    "note": "2024-25 audit correction (was Conservative): vacancy of Eluzer Goldberg, elected Labour 2022. LEAP: Lab hold.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.preston.lea-larches.by.2024-07-04",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2024-07-04/",
+    "note": "2024-25 audit correction (was Lib Dem): vacancy of David Borrow, elected Labour & Co-op 2022. LEAP: LD gain from Lab.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.oxford.marston.by.2024-07-18",
+    "partyId": "PP63",
+    "partyName": "Green Party",
+    "source": "https://greenoxford.com/greens-hold-marston-in-council-by-election/",
+    "note": "2024-25 audit correction (was Labour): resignation of Alistair Morris, elected Green 2022. Greens: hold.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.rochdale.north-middleton.by.2024-10-31",
+    "partyId": "PP14023",
+    "partyName": "Middleton Independents Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2024-10-31/",
+    "note": "2024-25 audit correction (was Labour & Co-op): disqualification of Peter Allonby, elected Middleton Independents 2022.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.new-forest.bransgore-burley-sopley-ringwood-east.by.2025-02-13",
+    "partyId": "PP63",
+    "partyName": "Green Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2025-02-13/",
+    "note": "2024-25 audit correction (was Conservative): vacancy of Neil Millington, elected Green 2023. LEAP: C gain from Grn.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.three-rivers.abbots-langley-bedmond.by.2025-03-19",
+    "partyId": "PP90",
+    "partyName": "Liberal Democrats",
+    "source": "https://www.andrewteale.me.uk/leap/by/2025-03-19/",
+    "note": "2024-25 audit correction (was Conservative): resignation of Sara Bedford, Lib Dem. LEAP: C gain from LD.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.hartlepool.throston.by.2025-05-01",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2025-05-01/",
+    "note": "2024-25 audit correction (was Reform UK): resignation of Cameron Sharp, elected Labour at the 2022 by-election; stayed Labour (left for a teaching job). LEAP: RUK gain from Lab.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.pendle.vivary-bridge.by.2025-05-01",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2025-05-01/",
+    "note": "2024-25 audit correction (was Lib Dem): vacancy of Tom Ormerod, elected Conservative 2023. LEAP: RUK gain from C.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.hartlepool.throston.by.2025-07-10",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "defection": true,
+    "source": "https://www.hartlepoolmail.co.uk/news/politics/hartlepool-councillor-steve-wallace-quits-labour-after-fall-out-with-section-of-the-party-4233983",
+    "note": "2024-25 audit correction (was Reform UK): resignation of Steve Wallace, elected Labour & Co-op 2023; quit Labour and sat as Independent before resigning \u2014 defection case.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.burnley.queensgate.by.2025-11-04",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "source": "https://www.andrewteale.me.uk/leap/by/2025-11-04/",
+    "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
+    "correction": true,
+    "decidedAt": "2026-08-17"
   }
 ]
