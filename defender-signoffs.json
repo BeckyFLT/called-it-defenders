@@ -39,5 +39,69 @@
     "note": "Resignation of Violet Bonetta; elected Labour in Honiton St Michael's at the 2023 East Devon District Council election, later sat as an Independent before resigning. Defence credited to the party as elected, per convention (defections ignored). Cross-checked against DC candidacies for the 2023 ballot.",
     "decidedAt": "2026-08-17",
     "defection": true
+  },
+  {
+    "ballotPaperId": "local.peterborough.fletton-woodston.by.2026-02-12",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "correction": true,
+    "source": "https://www.andrewteale.me.uk/leap/by/2026-02-12/",
+    "note": "2026 audit correction (was Green): death of Nick Thulbourn, elected Labour & Co-op 2023. LEAP: RUK gain from Lab.",
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.nuneaton-and-bedworth.camp-hill.by.2026-06-25",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "correction": true,
+    "source": "https://www.andrewteale.me.uk/leap/by/2026-06-25/",
+    "note": "2026 audit correction (was Reform UK): resignation of Sarnjit (Sharon) Dhillon, elected Labour 2024. LEAP: RUK gain from Lab.",
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.peterborough.fletton-woodston.by.2026-07-16",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "correction": true,
+    "source": "https://www.andrewteale.me.uk/leap/by/2026-07-16/",
+    "note": "2026 audit correction (was Green): vacancy of Daisy Blakemore-Creedon, elected Labour 2024. LEAP: Green gain from Lab.",
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.bolton.rumworth.by.2026-07-30",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "correction": true,
+    "source": "https://www.andrewteale.me.uk/leap/by/2026-07-30/",
+    "note": "2026 audit correction (was Green): vacancy of Abdul Aziz Atcha, elected Labour 2023. LEAP: Ind gain from Lab.",
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.sheffield.southey.by.2026-08-27",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "correction": true,
+    "defection": true,
+    "source": "https://www.thestar.co.uk/news/politics/sheffield-southey-by-election-8782078",
+    "note": "2026 audit correction (was Reform UK): resignation of Gareth Slater, elected Labour 2024, left the party and sat as Independent \u2014 defection case.",
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.manchester.burnage.by.2026-09-10",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "correction": true,
+    "source": "https://www.manchester.gov.uk/the-council-and-democracy/elections-and-voting/elections/notice-of-election-burnage",
+    "note": "2026 audit correction (was Green): Bev Craig, elected Labour 2024, resigned on election as Greater Manchester Mayor (July 2026).",
+    "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.brighton-and-hove.queens-park.by.2026-09-24",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "correction": true,
+    "source": "https://www.brighton-hove.gov.uk/council-and-democracy/voting-and-elections/queens-park-election-thursday-24-september-2026",
+    "note": "2026 audit correction (was Green): resignation of Milla Gauge, elected Labour May 2024. ElectCllrsUK: LAB defence.",
+    "decidedAt": "2026-08-17"
   }
 ]
