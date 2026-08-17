@@ -82,6 +82,13 @@ elected under at the original election.
    claim, while the party totals still count the defence correctly.
    Mention any defection cases explicitly in your final message.
 
+   **Corrections:** entries normally never touch a ballot whose defending
+   party is already set. If research shows an EXISTING value is wrong
+   (e.g. it was auto-filled from the wrong year's winner in a thirds
+   ward), add `"correction": true` to the entry — the pipeline will
+   overwrite the stored value and log an override for the audit trail.
+   Use sparingly and only with a named vacating councillor as evidence.
+
    Validate the file parses as JSON before committing.
 
 7. Commit with message `Weekly defender sign-offs: {today's date}` and
