@@ -37,6 +37,7 @@
     "partyName": "Labour Party",
     "source": "https://honiton.nub.news/news/local-news/another-by-election-to-be-held-after-east-devon-district-councillor-resigns",
     "note": "Resignation of Violet Bonetta; elected Labour in Honiton St Michael's at the 2023 East Devon District Council election, later sat as an Independent before resigning. Defence credited to the party as elected, per convention (defections ignored). Cross-checked against DC candidacies for the 2023 ballot.",
-    "decidedAt": "2026-08-17"
+    "decidedAt": "2026-08-17",
+    "defection": true
   }
 ]
