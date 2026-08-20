@@ -1,0 +1,68 @@
+{{short description|English local election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+The '''1999 Tunbridge Wells Borough Council election''' took place on 6 May 1999 to elect members of [[Tunbridge Wells (borough)|Tunbridge Wells]] [[Borough status in the United Kingdom|Borough]] Council in [[Kent]], [[England]]. One third of the council was up for election and the [[Conservative Party (UK)|Conservative party]] stayed in overall control of the council.<ref name=hold>{{cite news| url = https://news.bbc.co.uk/hi/english/static/vote_99/locals_99/html/constituency/271.stm | title = Tunbridge Wells | access-date = 2010-11-21 | work = [[BBC News Online]]}}</ref>
+
+After the election, the composition of the council was
+*[[Conservative Party (UK)|Conservative]] 28
+*[[Liberal Democrats (UK)|Liberal Democrat]] 12
+*[[Labour Party (UK)|Labour]] 7
+*[[Independent (politician)|Independent]] 1<ref name=britain>{{cite news | title = Britain votes: Local Council Election Results | newspaper = [[The Independent]] | page = 12 | date = 1999-05-07}}</ref>
+
+==Results==
+{{Election Summary Begin|title = Tunbridge Wells local election result 1999<ref name=round>{{cite news | title = Local Councils: Results round-up | newspaper = [[The Times]] | page = 4 | date = 1999-05-07}}</ref>}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 7
+  |gain       = 
+  |loss       = 
+  |net        = +1
+  |seats %    = 43.8
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 6
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 37.5
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 3
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 18.8
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = -1
+  |seats %    = 0
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Kent elections}}
+{{United Kingdom local elections, 1999}}
+
+[[Category:1999 English local elections]]
+[[Category:Tunbridge Wells Borough Council elections|1999]]
+[[Category:1990s in Kent]]

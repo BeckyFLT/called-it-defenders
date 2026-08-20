@@ -1,0 +1,1009 @@
+{{Short description|UK local government election}}
+{{more citations needed|date=November 2021}}
+{{Use British English|date=November 2021}}
+{{Use dmy dates|date=November 2021}}
+{{Infobox election
+| election_name = 2019 Tunbridge Wells Borough Council election
+| country = Kent
+| type = parliamentary
+| previous_election = 2018 Tunbridge Wells Borough Council election
+| previous_year = 2018
+| election_date = {{Start date|2019|5|2|df=y}}
+| next_election = 2021 Tunbridge Wells Borough Council election
+| next_year = 2021
+| seats_for_election = 16 out of 48 seats to [[Tunbridge Wells Borough Council]]
+| majority_seats = 25
+| seats1 = 5
+| seats_after1 = '''28'''
+| party1 = Conservative Party (UK)
+| popular_vote1 = 7,582
+| percentage1 = 29.1%
+| seats2 = 5
+| seats_after2 = '''9'''
+| party2 = Liberal Democrats (UK)
+| popular_vote2 = 7,309
+| percentage2 = 28.1%
+| seats3 = 5
+| seats_after3 = '''6'''
+| party3 = Tunbridge Wells Alliance
+| popular_vote3 = 4,008
+| percentage3 = 15.4%
+| seats4 = 2
+| seats_after4 = '''4'''
+| party4 = Labour Party (UK)
+| popular_vote4 = 3,387
+| percentage4 = 13.0%
+| seats5 = 1
+| seats_after5 = '''1'''
+| party5 = Independent politician
+| popular_vote5 = 1,114
+| percentage5 = 4.3%
+}}
+[[File:Tunbridge Wells UK ward map 2019.svg|thumb|Map of the results]]
+The '''2019 Tunbridge Wells Borough Council election''' took place on 2 May 2019 to elect one third of [[Tunbridge Wells Borough Council]] in England.<ref name="Tunbridge Wells Borough Council">{{Cite web|url=https://democracy.tunbridgewells.gov.uk/meetings/mgElectionResults.aspx?ID=13&V=1&RPID=9783495 |title=Borough Election, May 2019 - Thursday, 2nd May, 2019 |access-date=3 May 2019 |work=Tunbridge Wells Borough Council}}</ref><ref name="BBC">{{Cite web|url=https://www.bbc.co.uk/news/topics/c7ry2pm3072t |title=Tunbridge Wells Borough Council |access-date=3 May 2019 |work=BBC}}</ref> The Conservatives retained control of the council, but with a reduced majority.
+
+==Results summary==
+
+{{Election summary partial council net begin|title = 2019 Tunbridge Wells Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 5
+  |net           = {{decrease}} 13
+  |seats %       = 27.8
+  |other seats   = 23
+  |total seats   = '''28'''
+  |total seats % = 60.4
+  |votes         = 7,582
+  |votes %       = 29.1
+  |plus/minus    = {{decrease}}13.7
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 5
+  |net           = {{increase}} 5
+  |seats %       = 27.8
+  |other seats   = 4
+  |total seats   = '''9'''
+  |total seats % = 18.8
+  |votes         = 7,309
+  |votes %       = 28.1
+  |plus/minus    = {{increase}}5.0
+}}
+{{Election summary partial council net party|
+  |party         = Tunbridge Wells Alliance
+  |seats         = 5
+  |net           = {{increase}} 5
+  |seats %       = 27.8
+  |other seats   = 1
+  |total seats   = '''6'''
+  |total seats % = 12.5
+  |votes         = 4,008
+  |votes %       = 15.4
+  |plus/minus    = {{increase}}4.7
+}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 2
+  |net           = {{increase}} 2
+  |seats %       = 10.5
+  |other seats   = 2
+  |total seats   = '''4'''
+  |total seats % = 8.4
+  |votes         = 3,387
+  |votes %       = 13.0
+  |plus/minus    = {{decrease}}8.5
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 1
+  |net           = {{increase}} 1
+  |seats %       = 5.6
+  |other seats   = 0
+  |total seats   = '''1'''
+  |total seats % = 2.1
+  |votes         = 1,114
+  |votes %       = 4.3
+  |plus/minus    = ''N/A''
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,290
+  |votes %       = 5.0
+  |plus/minus    = {{increase}}4.5
+}}
+{{Election summary partial council net party|
+  |party         = Women's Equality Party
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 670
+  |votes %       = 2.6
+  |plus/minus    = {{increase}}1.4
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 663
+  |votes %       = 2.5
+  |plus/minus    = {{increase}}2.3
+}}
+{{Election box end}}
+
+==Ward results==
+===Benenden and Cranbrook===
+{{Election box begin |title=Benenden and Cranbrook}}
+{{Election box winning candidate with party link|
+  |party      = Tunbridge Wells Alliance
+  |candidate  = Nancy Warne
+  |votes      = 771
+  |percentage = 43
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sally-Ann Marks
+  |votes      = 706
+  |percentage = 39
+  |change     = -11
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Wendy Fitzsimmons
+  |votes      = 214
+  |percentage = 12
+  |change     = -12
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Anne Musker
+  |votes      = 109
+  |percentage = 6
+  |change     = -3
+}}
+{{Election box majority
+   |votes      = 65
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,879
+   |percentage = 36
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Tunbridge Wells Alliance
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Culverden===
+{{Election box begin |title=Culverden}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Rands
+  |votes      = 723
+  |percentage = 32
+  |change     = +17
+}}
+{{Election box candidate with party link|
+  |party      = Women's Equality Party
+  |candidate  = Elizabeth Orr
+  |votes      = 570
+  |percentage = 25
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nasir Jamil
+  |votes      = 560
+  |percentage = 25
+  |change     = -24
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Adams
+  |votes      = 237
+  |percentage = 11
+  |change     = -4
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Paul Standing
+  |votes      = 155
+  |percentage = 7
+  |change     = -4
+}}
+{{Election box majority
+   |votes      = 153
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,262
+   |percentage = 39
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Frittenden and Sissinghurst===
+{{Election box begin |title=Frittenden and Sissinghurst}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Fairweather
+  |votes      = 347
+  |percentage = 46
+  |change     = ±0
+}}
+{{Election box candidate with party link|
+  |party      = Tunbridge Wells Alliance
+  |candidate  = John Smith
+  |votes      = 321
+  |percentage = 43
+  |change     = +14
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Brian Guinnessy
+  |votes      = 80
+  |percentage = 11
+  |change     = +2
+}}
+{{Election box majority
+   |votes      = 26
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 751
+   |percentage = 45
+   |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Goudhurst and Lamberhurst===
+{{Election box begin |title=Goudhurst and Lamberhurst}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Linda Hall
+  |votes      = 505
+  |percentage = 39
+  |change     = -25
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = David Knight
+  |votes      = 487
+  |percentage = 38
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jeremy Stirling
+  |votes      = 184
+  |percentage = 14
+  |change     = +3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Simon Fowler
+  |votes      = 122
+  |percentage = 9
+  |change     = -3
+}}
+{{Election box majority
+   |votes      = 18
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,312
+   |percentage = 38
+   |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Hawkhurst and Sandhurst===
+{{Election box begin |title=Hawkhurst and Sandhurst}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Godfrey Bland*
+  |votes      = 797
+  |percentage = 55
+  |change     = -5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Helena Waters
+  |votes      = 545
+  |percentage = 37
+  |change     = +26
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ana-Mari Draper
+  |votes      = 137
+  |percentage = 8
+  |change     = -3
+}}
+{{Election box majority
+   |votes      = 252
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,515
+   |percentage = 32
+   |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Paddock Wood East===
+{{Election box begin |title=Paddock Wood East}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Rodney Atkins
+  |votes      = 416
+  |percentage = 43
+  |change     = ''N/A''
+}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sarah Hamilton*
+  |votes      = 329
+  |percentage = 34
+  |change     = -20
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = William Hills
+  |votes      = 324
+  |percentage = 34
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Christopher Camp
+  |votes      = 222
+  |percentage = 23
+  |change     = -31
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Derek Boyle
+  |votes      = 126
+  |percentage = 13
+  |change     = +1
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Josephine Wilby
+  |votes      = 93
+  |percentage = 10
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Brice
+  |votes      = 84
+  |percentage = 9
+  |change     = +1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Robert Seggie
+  |votes      = 84
+  |percentage = 9
+  |change     = -3
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Amanda Wells
+  |votes      = 82
+  |percentage = 8
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Huebscher
+  |votes      = 53
+  |percentage = 5
+  |change     = -3
+}}
+{{Election box majority
+   |votes      = 5
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 969
+   |percentage = 31.5
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Independent (politician)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Paddock Wood West===
+{{Election box begin |title=Paddock Wood West}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Matthew Bailey
+  |votes      = 289
+  |percentage = 31
+  |change     = -20
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Raymond Moon
+  |votes      = 289
+  |percentage = 31
+  |change     = +10
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Tracey Goacher
+  |votes      = 120
+  |percentage = 13
+  |change     = -8
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Trevor Bisdee
+  |votes      = 119
+  |percentage = 13
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Cole
+  |votes      = 108
+  |percentage = 12
+  |change     = +5
+}}
+{{Election box majority
+   |votes      = 0
+   |percentage = 0
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 941
+   |percentage = 33
+   |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Pantiles and St. Mark's===
+{{Election box begin |title=Pantiles and St. Mark's}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Hickey
+  |votes      = 1,346
+  |percentage = 60
+  |change     = +47
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lawrence Heasman*
+  |votes      = 554
+  |percentage = 25
+  |change     = -32
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = John Hurst
+  |votes      = 152
+  |percentage = 7
+  |change     = -3
+}}
+{{Election box candidate with party link|
+  |party      = Women's Equality Party
+  |candidate  = Céline Thomas
+  |votes      = 100
+  |percentage = 4
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patricia Fowlie
+  |votes      = 93
+  |percentage = 4
+  |change     = -8
+}}
+{{Election box majority
+   |votes      = 792
+   |percentage = 35
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,279
+   |percentage = 45
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Park===
+{{Election box begin |title=Park}}
+{{Election box winning candidate with party link|
+  |party      = Tunbridge Wells Alliance
+  |candidate  = Christian Attwood
+  |votes      = 1,125
+  |percentage = 50
+  |change     = ''N/A''
+}}
+{{Election box winning candidate with party link|
+  |party      = Tunbridge Wells Alliance
+  |candidate  = Rebecca Bruneau
+  |votes      = 1,088
+  |percentage = 48
+  |change     = N/A
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tracy Moore*
+  |votes      = 539
+  |percentage = 24
+  |change     = -30
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rachel Sadler
+  |votes      = 486
+  |percentage = 21
+  |change     = +3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gillian Douglass
+  |votes      = 482
+  |percentage = 21
+  |change     = +3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Victoria White
+  |votes      = 437
+  |percentage = 19
+  |change     = -35
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Linda Jagger
+  |votes      = 211
+  |percentage = 9
+  |change     = -7
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Victor Webb
+  |votes      = 211
+  |percentage = 9
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Michael Jerrom
+  |votes      = 128
+  |percentage = 6
+  |change     = -6
+}}
+{{Election box majority
+   |votes      = 549
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,271
+   |percentage = 40.7
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner     = Tunbridge Wells Alliance
+ |loser      = Conservative Party (UK)
+ |swing      = 
+}}
+{{Election box gain with party link|
+ |winner     = Tunbridge Wells Alliance
+ |loser      = Conservative Party (UK)
+ |swing      = 
+}}
+{{Election box end}}
+
+===Pembury===
+{{Election box begin |title=Pembury}}
+{{Election box winning candidate with party link|
+  |party      = Tunbridge Wells Alliance
+  |candidate  = David Hayward
+  |votes      = 784
+  |percentage = 44
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Susan Nuttall*
+  |votes      = 484
+  |percentage = 27
+  |change     = -25
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Colin Sefton
+  |votes      = 165
+  |percentage = 9
+  |change     = -2
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Richard Bayles
+  |votes      = 125
+  |percentage = 7
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Joel Turner
+  |votes      = 114
+  |percentage = 6
+  |change     = -18
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joel Turner
+  |votes      = 90
+  |percentage = 5
+  |change     = -9
+}}
+{{Election box majority
+   |votes      = 300
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,767
+   |percentage = 40
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Tunbridge Wells Alliance
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Rusthall===
+{{Election box begin |title=Rusthall}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Funnell
+  |votes      = 547
+  |percentage = 41
+  |change     = +28
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bjorn Simpole
+  |votes      = 346
+  |percentage = 26
+  |change     = +4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Pate
+  |votes      = 283
+  |percentage = 21
+  |change     = -12
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Alun Elder-Brown
+  |votes      = 144
+  |percentage = 11
+  |change     = -6
+}}
+{{Election box majority
+   |votes      = 153
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,329
+   |percentage = 37
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Sherwood===
+{{Election box begin |title=Sherwood}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Hugo Pound
+  |votes      = 517
+  |percentage = 34
+  |change     = +15
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Samantha White
+  |votes      = 506
+  |percentage = 33
+  |change     = -16
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alan Bullion
+  |votes      = 268
+  |percentage = 18
+  |change     = +9
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Christopher Hoare
+  |votes      = 233
+  |percentage = 15
+  |change     = -8
+}}
+{{Election box majority
+   |votes      = 11
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,541
+   |percentage = 29
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Labour Party (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Southborough and High Brooms===
+{{Election box begin |title=Southborough and High Brooms}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Luke Everitt
+  |votes      = 845
+  |percentage = 50
+  |change     = +14
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alexis Bird
+  |votes      = 352
+  |percentage = 21
+  |change     = +11
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mark Puller
+  |votes      = 309
+  |percentage = 18
+  |change     = -20
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Christine Marshall
+  |votes      = 195
+  |percentage = 11
+  |change     = -5
+}}
+{{Election box majority
+   |votes      = 493
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,714
+   |percentage = 32
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Labour Party (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Southborough North===
+{{Election box begin |title=Southborough North}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Trevor Poile
+  |votes      = 691
+  |percentage = 53
+  |change     = +38
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Elliott*
+  |votes      = 414
+  |percentage = 31
+  |change     = -27
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nicholas Blackwell
+  |votes      = 135
+  |percentage = 10
+  |change     = -6
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Stephen Lukacs
+  |votes      = 76
+  |percentage = 6
+  |change     = -5
+}}
+{{Election box majority
+   |votes      = 277
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,322
+   |percentage = 42
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Liberal Democrats (UK)
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Speldhurst and Bidborough===
+{{Election box begin |title=Speldhurst and Bidborough}}
+{{Election box winning candidate with party link|
+  |party      = Tunbridge Wells Alliance
+  |candidate  = Lucinda Willis
+  |votes      = 1,007
+  |percentage = 51
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Jukes*
+  |votes      = 613
+  |percentage = 31
+  |change     = -33
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Iola Palmer-Stirling
+  |votes      = 351
+  |percentage = 12
+  |change     = -2
+}}
+{{Election box majority
+   |votes      = 394
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,990
+   |percentage = 43
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner = Tunbridge Wells Alliance
+ |loser = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===St. John's===
+{{Election box begin |title=St. John's}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Marguerita Morton
+  |votes      = 1,165
+  |percentage = 59
+  |change     = +34
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Oakford*
+  |votes      = 347
+  |percentage = 18
+  |change     = -23
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Benjamin Phillips
+  |votes      = 174
+  |percentage = 9
+  |change     = -1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Louise Reid
+  |votes      = 154
+  |percentage = 8
+  |change     = -6
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Robert Horan
+  |votes      = 125
+  |percentage = 6
+  |change     = -5
+}}
+{{Election box majority
+   |votes      = 818
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,981
+   |percentage = 39
+   |change     = 
+}}
+{{Election box gain with party link|
+ |winner     = Liberal Democrats (UK)
+ |loser      = Conservative Party (UK)
+ |swing      = 
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{Kent elections}}
+
+[[Category:2019 English local elections|Tunbridge]]
+[[Category:Tunbridge Wells Borough Council elections]]

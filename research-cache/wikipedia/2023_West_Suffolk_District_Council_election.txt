@@ -41,7 +41,7 @@
 | seat_change2      = {{increase}} 12
 | popular_vote2     = 16,523
 | percentage2       = 30.4%
-| swing2            = {{increase}} 12.4%
+| swing2            = {{increase}} 12.1%
 <!-- Party 3 -->
 | image3            = [[File:No image wide.svg|95x50px|Blank]]
 | leader3           = 
@@ -69,7 +69,7 @@
 | seat_change4      = {{increase}} 2
 | popular_vote4     = 4,307
 | percentage4       = 7.9%
-| swing4            = {{increase}} 1.4%
+| swing4            = {{increase}} 1.8%
 <!-- Party 5 -->
 | image5            = [[File:No image wide.svg|95x50px|Blank]]
 | leader5           = 
@@ -870,6 +870,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 }}
  {{Election box end}}
 
+The by-election followed the resignation of Conservative councillor Jo Rayner.<ref>{{cite news |title=Council by-election results |url=https://urban75.net/forums/threads/council-by-election-results.376617/ |work=urban75 forums |date=3 April 2026 |access-date=14 August 2026}}</ref>
+
 ===Haverhill West===
 
 {{Election box begin | title=Haverhill West (2 seats)}}
@@ -1088,14 +1090,14 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |party      = Conservative Party (UK)
    |candidate  = Bobby Bennett
    |votes      = 216
-   |percentage = 31.1
+   |percentage = 24.0
    |change     = +3.3
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Hilary Appleton
    |votes      = 167
-   |percentage =11.6
+   |percentage =18.6
    |change     = –2.5
 }}
 {{Election box majority
@@ -1213,14 +1215,14 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |party      = Independent politician
    |candidate  = Richard Alecock*
    |votes      = 362
-   |percentage =68.4
+   |percentage =82.1
    |change     = +2.1
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Russell Leaman
    |votes      = 79
-   |percentage = 31.6
+   |percentage = 17.9
    |change     = –2.1
 }}
 {{Election box majority
@@ -1250,21 +1252,21 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |party      = Independent politician
    |candidate  = Ian Shipp*
    |votes      = 382
-   |percentage =61.0
+   |percentage =64.5
    |change     = –1.3
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Melanie Thielker
    |votes      = 114
-   |percentage = 30.5
+   |percentage = 19.3
    |change     = +2.5
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Patrick Finn
    |votes      = 96
-   |percentage =8.5
+   |percentage =16.2
    |change     = –1.2
 }}
 {{Election box majority
@@ -1389,7 +1391,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Birgitte Mager*
-   |votes      = 781
+   |votes      = 782
    |percentage = 44.7
    |change     = +17.2
 }}
@@ -1446,42 +1448,42 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |party      = Labour Party (UK)
    |candidate  = Sue Perry
    |votes      = 358
-   |percentage =35.8
+   |percentage =34.7
    |change     = +13.6
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = [[Rachel Hood]]*
    |votes      = 317
-   |percentage = 30.5
+   |percentage = 30.7
    |change     = –7.1
 }}
  {{Election box candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Jonny Edge
    |votes      = 309
-   |percentage =29.8
+   |percentage =29.9
    |change     = +17.6
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Robert Nobbs*
    |votes      = 306
-   |percentage =29.5
+   |percentage =29.6
    |change     = –6.4
 }}
  {{Election box candidate with party link
    |party      = West Suffolk Independents
    |candidate  = Jonathan Richer
    |votes      = 292
-   |percentage =28.1
+   |percentage =28.3
    |change     = +0.4
 }}
  {{Election box candidate with party link
    |party      = Independent politician
    |candidate  = Tom Kerby
    |votes      = 245
-   |percentage =23.6
+   |percentage =23.7
    |change     = ''N/A''
 }}
 {{Election box turnout
@@ -2149,7 +2151,11 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 }}
  {{Election box end}}
 
-==By-elections==
+==Changes 2023–2027==
+
+* July 2025: Labour councillor Susan Perry resigned from Newmarket East, resulting in a by-election.<ref>{{cite web |title=Notice of vacancy: Newmarket East ward |url=https://www.newmarket.gov.uk/wp-content/uploads/2025/07/Notice-of-Councillor-Vacancy.pdf |website=Newmarket Town Council |date=1 July 2025 |access-date=14 August 2026}}</ref>
+* 2026: Conservative councillor Jo Rayner resigned from Abbeygate, resulting in a by-election.<ref>{{cite news |title=Council by-election results |url=https://urban75.net/forums/threads/council-by-election-results.376617/ |work=urban75 forums |date=3 April 2026 |access-date=14 August 2026}}</ref>
+* June 2026: Conservative councillor Margaret Marks resigned from Haverhill West, resulting in a by-election scheduled for 10 September 2026.<ref>{{cite news |title=Margaret Marks Steps Down, Triggering Haverhill West Ward Vacancy |url=https://boringnews.co.uk/haverhill/margaret-marks-steps-down-triggering-haverhill-west-ward-vacancy/ |work=boringnews |date=18 June 2026 |access-date=14 August 2026}}</ref>
 
 ===Newmarket East===
 
@@ -2209,6 +2215,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 }}
  {{Election box end}}
 
+The by-election followed the resignation of Labour councillor Susan Perry.<ref>{{cite web |title=Notice of vacancy: Newmarket East ward |url=https://www.newmarket.gov.uk/wp-content/uploads/2025/07/Notice-of-Councillor-Vacancy.pdf |website=Newmarket Town Council |date=1 July 2025 |access-date=14 August 2026}}</ref>
+
 ===Abbeygate===
 
 {{Election box begin | title=Abbeygate by-election: 7 May 2026<ref>{{Cite web|url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Abbeygate-District-ward.pdf |title=Declaration of result of poll |date=7 May 2026 |access-date=10 May 2026 |publisher=[[West Suffolk District Council]]}}</ref>}}
@@ -2234,7 +2242,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = –21.4
 }}
  {{Election box candidate with party link
-   |party      = Independent
+   |party      = Independent politician
    |candidate  = Paul Hopfensperger
    |votes      = 240
    |percentage = 13.0
@@ -2276,12 +2284,18 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Haverhill West===
 
-{{Election box begin|title=Haverhill West by-election, 10th September 2026<ref>https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Notice-of-Election-WSC-Haverhill-West-10-September-2026.pdf</ref>}}
+{{Election box begin | title=Haverhill West by-election: 10 September 2026<ref>{{cite web |title=Notice of election: Haverhill West ward |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Notice-of-Election-WSC-Haverhill-West-10-September-2026.pdf |website=West Suffolk Council |access-date=14 August 2026}}</ref>}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Graham Cone|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Quinn Cox|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Green Party of England and Wales|candidate=Clare Higson|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=James William Porter|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Heike Sowa|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}
  {{Election box end}}
+
+The by-election was called following the resignation of Conservative councillor Margaret Marks.<ref>{{cite news |title=Margaret Marks Steps Down, Triggering Haverhill West Ward Vacancy |url=https://boringnews.co.uk/haverhill/margaret-marks-steps-down-triggering-haverhill-west-ward-vacancy/ |work=boringnews |date=18 June 2026 |access-date=14 August 2026}}</ref>
 
 ==References==
 {{notelist}}
