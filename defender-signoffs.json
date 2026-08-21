@@ -212,5 +212,13 @@
     "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
     "correction": true,
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.west-suffolk.haverhill-west.by.2026-09-10",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_West_Suffolk_District_Council_election",
+    "note": "Resignation of Margaret Marks (June 2026); elected Conservative in Haverhill West at the 2023 West Suffolk District Council election.",
+    "decidedAt": "2026-08-21"
   }
 ]
