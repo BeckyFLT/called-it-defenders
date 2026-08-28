@@ -162,6 +162,7 @@ The council published detailed results for each ward and reported borough-wide t
 {{Election summary partial council net begin|title = 2026 Tunbridge Wells Borough Council election}}
 {{Election summary partial council net party|
   |party         = Liberal Democrats (UK, 2025)
+|candidates=15
   |seats         = 11
   |net           = {{increase}} 3
   |seats %       = 73.3
@@ -174,6 +175,7 @@ The council published detailed results for each ward and reported borough-wide t
 }}
 {{Election summary partial council net party|
   |party         = Conservative Party (UK)
+|candidates=15
   |seats         = 2
   |net           = {{decrease}} 1
   |seats %       = 13.3
@@ -186,6 +188,7 @@ The council published detailed results for each ward and reported borough-wide t
 }}
 {{Election summary partial council net party|
   |party         = Tunbridge Wells Alliance
+|candidates=3
   |seats         = 1
   |net           = {{steady}}
   |seats %       = 6.7
@@ -198,6 +201,7 @@ The council published detailed results for each ward and reported borough-wide t
 }}
 {{Election summary partial council net party|
   |party         = Labour Party (UK)
+|candidates=8
   |seats         = 0
   |net           = {{decrease}} 2
   |seats %       = 0.0
@@ -210,6 +214,7 @@ The council published detailed results for each ward and reported borough-wide t
 }}
 {{Election summary partial council net party|
   |party         = Independents for Tunbridge Wells
+|candidates=1
   |seats         = 1
   |net           = {{steady}}
   |seats %       = 6.7
@@ -221,19 +226,8 @@ The council published detailed results for each ward and reported borough-wide t
   |plus/minus    = ''N/A''
 }}
 {{Election summary partial council net party|
-  |party         = Independent politician
-  |seats         = 0
-  |net           = {{steady}}
-  |seats %       = 0.0
-  |other seats   = 0
-  |total seats   = '''0'''
-  |total seats % = 0.0
-  |votes         = 27
-  |votes %       = 0.1
-  |plus/minus    = ''N/A''
-}}
-{{Election summary partial council net party|
   |party         = Reform UK
+|candidates=15
   |seats         = 0
   |net           = {{steady}}
   |seats %       = 0.0
@@ -246,6 +240,7 @@ The council published detailed results for each ward and reported borough-wide t
 }}
 {{Election summary partial council net party|
   |party         = Green Party of England and Wales
+|candidates=14
   |seats         = 0
   |net           = {{steady}}
   |seats %       = 0.0
@@ -258,6 +253,7 @@ The council published detailed results for each ward and reported borough-wide t
 }}
 {{Election summary partial council net party|
   |party         = English Democrats
+|candidates=1
   |seats         = 0
   |net           = {{steady}}
   |seats %       = 0.0
@@ -265,6 +261,19 @@ The council published detailed results for each ward and reported borough-wide t
   |total seats   = '''0'''
   |total seats % = 0.0
   |votes         = 62
+  |votes %       = 0.1
+  |plus/minus    = ''N/A''
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+|candidates=1
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 27
   |votes %       = 0.1
   |plus/minus    = ''N/A''
 }}
@@ -1155,6 +1164,10 @@ The Southborough & Bidborough ward returned two councillors because a second sea
 
 ===Cranbrook, Sissinghurst & Frittenden by-election===
 {{Election box begin|title=Cranbrook, Sissinghurst & Frittenden by-election, 23 September 2026}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Max Chesters|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Nicholas Lees|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=David Somers|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Harry Wormington|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}} 

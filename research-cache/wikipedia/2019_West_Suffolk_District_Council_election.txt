@@ -193,7 +193,7 @@ The [[Conservative Party (UK)|Conservative Party]] won 36 of the 64 seats, givin
   |plus/minus    =''N/A''
 }}
 |-
-{{Election box end}}
+{{Local election summary end}}
 
 ==Ward results==
 
@@ -2216,8 +2216,6 @@ See the by-election entry below for sourcing. -->
 
 ==Changes 2019–2023==
 
-===Affiliation and leadership changes===
-
 * Moreton Hall councillor Frank Warby, elected as an independent in 2019, had joined the Conservative group by June 2020, when he resigned from the council and the party amid a dispute over Facebook posts he had shared.<ref>{{cite news |title=Investigation dropped after West Suffolk councillor resigns amid racism allegations |url=https://www.eadt.co.uk/news/21401555.investigation-dropped-west-suffolk-councillor-resigns-amid-racism-allegations/ |publisher=East Anglian Daily Times |first=Jason |last=Noble |date=16 June 2020 |access-date=24 July 2026}}</ref>
 * Exning councillor Simon Cole, elected as a Conservative in 2019, was sitting with the West Suffolk Independents group by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
 * Kentford and Moulton councillor Roger Dicker, elected for the West Suffolk Independents in 2019, was sitting as a non-grouped independent by July 2022.<ref>{{cite web |title=Your Councillors |url=https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |publisher=[[West Suffolk District Council]] |archive-url=https://web.archive.org/web/20220701103447/https://democracy.westsuffolk.gov.uk/mgMemberIndex.aspx?FN=WARD |archive-date=1 July 2022 |url-status=dead |access-date=24 July 2026}}</ref>
@@ -2229,6 +2227,8 @@ See the by-election entry below for sourcing. -->
 ===By-elections===
 
 ====Newmarket North====
+
+A by-election was held in Newmarket North on 30 January 2020, following the resignation of Conservative councillor Robin Millar after his election as MP for [[Aberconwy (UK Parliament constituency)|Aberconwy]] at the [[2019 United Kingdom general election|2019 general election]].<ref>{{cite news |title=By-elections will be held in Suffolk in early 2020 |url=https://www.eadt.co.uk/news/21407868.by-elections-will-held-suffolk-early-2020/ |publisher=East Anglian Daily Times |date=20 December 2019 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Newmarket set to go the polls again in fourth election in the space of a year |url=https://www.suffolknews.co.uk/newmarket/news/newmarket-set-to-go-the-polls-again-in-fourth-election-in-the-space-of-a-year-9094344/ |publisher=Suffolk News |first=Dan |last=Barker |date=20 December 2019 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Newmarket North: 30 January 2020<ref name="WS bye election Jan 2020">{{cite web |title=Election of a District Councillor for Newmarket North |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Declaration-of-results-Newmarket-North-200130.pdf |website=westsuffolk.gov.uk |publisher=West Suffolk District Council |archive-url=https://web.archive.org/web/20220302093151/https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Declaration-of-results-Newmarket-North-200130.pdf |archive-date=2 March 2022 |url-status=dead |access-date=2 March 2022}}</ref>}}
 {{Election box winning candidate with party link
@@ -2293,9 +2293,9 @@ See the by-election entry below for sourcing. -->
 }}
  {{Election box end}}
 
-A by-election was held in Newmarket North on 30 January 2020, following the resignation of Conservative councillor Robin Millar after his election as MP for [[Aberconwy (UK Parliament constituency)|Aberconwy]] at the [[2019 United Kingdom general election|2019 general election]].<ref>{{cite news |title=By-elections will be held in Suffolk in early 2020 |url=https://www.eadt.co.uk/news/21407868.by-elections-will-held-suffolk-early-2020/ |publisher=East Anglian Daily Times |date=20 December 2019 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Newmarket set to go the polls again in fourth election in the space of a year |url=https://www.suffolknews.co.uk/newmarket/news/newmarket-set-to-go-the-polls-again-in-fourth-election-in-the-space-of-a-year-9094344/ |publisher=Suffolk News |first=Dan |last=Barker |date=20 December 2019 |access-date=24 July 2026}}</ref>
-
 ====Abbeygate====
+
+A by-election was held in Abbeygate on 6 May 2021, following the resignation of Green councillor Lisa Ingwall King due to the long-term effects of COVID-19.<ref>{{cite news |title=Bury St Edmunds councillor Lisa Ingwall King resigns after suffering from debilitating effects of long Covid |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/councillor-resigns-after-suffering-from-debilitating-effects-9181809/ |publisher=Suffolk News |date=16 March 2021 |access-date=24 July 2026}}</ref><ref>{{cite news |title='I had to prioritise my health' – councillor stands down due to long Covid |url=https://www.eadt.co.uk/news/21282588.i-prioritise-health---councillor-stands-due-long-covid/ |publisher=East Anglian Daily Times |date=22 March 2021 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Abbeygate: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021Abbeygate.pdf |title=Declaration of Result - Abbeygate |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2339,9 +2339,9 @@ A by-election was held in Newmarket North on 30 January 2020, following the resi
 }}
  {{Election box end}}
 
-A by-election was held in Abbeygate on 6 May 2021, following the resignation of Green councillor Lisa Ingwall King due to the long-term effects of COVID-19.<ref>{{cite news |title=Bury St Edmunds councillor Lisa Ingwall King resigns after suffering from debilitating effects of long Covid |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/councillor-resigns-after-suffering-from-debilitating-effects-9181809/ |publisher=Suffolk News |date=16 March 2021 |access-date=24 July 2026}}</ref><ref>{{cite news |title='I had to prioritise my health' – councillor stands down due to long Covid |url=https://www.eadt.co.uk/news/21282588.i-prioritise-health---councillor-stands-due-long-covid/ |publisher=East Anglian Daily Times |date=22 March 2021 |access-date=24 July 2026}}</ref>
-
 ====Clare, Hundon and Kedington====
+
+A by-election was held in Clare, Hundon and Kedington on 6 May 2021, following the death of independent councillor Jim Meikle on 22 February 2021.<ref>{{cite news |title=Tributes paid to independent West Suffolk councillor Jim Meikle |url=https://www.eadt.co.uk/news/local-council/21283604.tributes-paid-independent-west-suffolk-councillor-jim-meikle/ |publisher=East Anglian Daily Times |first=Paul |last=Geater |date=27 February 2021 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Late councillor for Clare, Hundon and Kedington Jim Meikle was 'a man of ideas' who had 'endless time for all that he met' |url=https://www.suffolknews.co.uk/haverhill/news/school-pioneer-jim-was-one-of-the-good-guys-9196622/ |publisher=Suffolk News |date=26 April 2021 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Clare, Hundon and Kedington: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021ClareHundonandKedington.pdf |title=Declaration of Result - Clare, Hundon and Kedington |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2378,9 +2378,9 @@ A by-election was held in Abbeygate on 6 May 2021, following the resignation of 
 }}
  {{Election box end}}
 
-A by-election was held in Clare, Hundon and Kedington on 6 May 2021, following the death of independent councillor Jim Meikle on 22 February 2021.<ref>{{cite news |title=Tributes paid to independent West Suffolk councillor Jim Meikle |url=https://www.eadt.co.uk/news/local-council/21283604.tributes-paid-independent-west-suffolk-councillor-jim-meikle/ |publisher=East Anglian Daily Times |first=Paul |last=Geater |date=27 February 2021 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Late councillor for Clare, Hundon and Kedington Jim Meikle was 'a man of ideas' who had 'endless time for all that he met' |url=https://www.suffolknews.co.uk/haverhill/news/school-pioneer-jim-was-one-of-the-good-guys-9196622/ |publisher=Suffolk News |date=26 April 2021 |access-date=24 July 2026}}</ref>
-
 ====Lakenheath====
+
+A by-election was held in Lakenheath on 6 May 2021, following the death of independent councillor David Gathercole on 22 August 2020.<ref>{{cite news |title=Tributes paid to 'awe-inspiring' cowboy councillor |url=https://www.eadt.co.uk/news/21397443.tributes-paid-awe-inspiring-cowboy-councillor/ |publisher=East Anglian Daily Times |first=Oliver |last=Sullivan |date=11 September 2020 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Lakenheath: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofresults6May2021Lakenheath.pdf |title=Declaration of Result - Lakenheath |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2431,9 +2431,9 @@ A by-election was held in Clare, Hundon and Kedington on 6 May 2021, following t
 }}
  {{Election box end}}
 
-A by-election was held in Lakenheath on 6 May 2021, following the death of independent councillor David Gathercole on 22 August 2020.<ref>{{cite news |title=Tributes paid to 'awe-inspiring' cowboy councillor |url=https://www.eadt.co.uk/news/21397443.tributes-paid-awe-inspiring-cowboy-councillor/ |publisher=East Anglian Daily Times |first=Oliver |last=Sullivan |date=11 September 2020 |access-date=24 July 2026}}</ref>
-
 ====Moreton Hall====
+
+A by-election was held in Moreton Hall on 6 May 2021, following the resignation of Conservative councillor Frank Warby on 15 June 2020.<ref>{{cite news |title=Investigation dropped after West Suffolk councillor resigns amid racism allegations |url=https://www.eadt.co.uk/news/21401555.investigation-dropped-west-suffolk-councillor-resigns-amid-racism-allegations/ |publisher=East Anglian Daily Times |first=Jason |last=Noble |date=16 June 2020 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Councillor suspended by Conservative group after concerns about Facebook posts |url=https://www.eadt.co.uk/news/21401563.councillor-suspended-conservative-group-concerns-facebook-posts/ |publisher=East Anglian Daily Times |date=13 June 2020 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Moreton Hall: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021MoretonHall.pdf |title=Declaration of Result - Moreton Hall |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2477,9 +2477,9 @@ A by-election was held in Lakenheath on 6 May 2021, following the death of indep
 }}
  {{Election box end}}
 
-A by-election was held in Moreton Hall on 6 May 2021, following the resignation of Conservative councillor Frank Warby on 15 June 2020.<ref>{{cite news |title=Investigation dropped after West Suffolk councillor resigns amid racism allegations |url=https://www.eadt.co.uk/news/21401555.investigation-dropped-west-suffolk-councillor-resigns-amid-racism-allegations/ |publisher=East Anglian Daily Times |first=Jason |last=Noble |date=16 June 2020 |access-date=24 July 2026}}</ref><ref>{{cite news |title=Councillor suspended by Conservative group after concerns about Facebook posts |url=https://www.eadt.co.uk/news/21401563.councillor-suspended-conservative-group-concerns-facebook-posts/ |publisher=East Anglian Daily Times |date=13 June 2020 |access-date=24 July 2026}}</ref>
-
 ====Southgate====
+
+A by-election was held in Southgate on 6 May 2021, following the resignation of councillor Ann Williamson.<ref>{{cite news |title=Six seats up for grabs in council by-election |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/six-seats-up-for-grabs-in-council-by-election-9195004/ |publisher=Suffolk News |first=Jason |last=Noble |date=9 April 2021 |access-date=24 July 2026}}</ref><ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-20230504-Southgate.pdf |title=Declaration of Result - Southgate |publisher=[[West Suffolk District Council]] |date=5 May 2023 |access-date=4 August 2026}}</ref>
 
 {{Election box begin | title=Southgate: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofResults6May2021Southgate.pdf |title=Declaration of Result - Southgate |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2530,9 +2530,9 @@ A by-election was held in Moreton Hall on 6 May 2021, following the resignation 
 }}
  {{Election box end}}
 
-A by-election was held in Southgate on 6 May 2021, following the resignation of councillor Ann Williamson.<ref>{{cite news |title=Six seats up for grabs in council by-election |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/six-seats-up-for-grabs-in-council-by-election-9195004/ |publisher=Suffolk News |first=Jason |last=Noble |date=9 April 2021 |access-date=24 July 2026}}</ref><ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-20230504-Southgate.pdf |title=Declaration of Result - Southgate |publisher=[[West Suffolk District Council]] |date=5 May 2023 |access-date=4 August 2026}}</ref>
-
 ====Whepstead and Wickhambrook====
+
+A by-election was held in Whepstead and Wickhambrook on 6 May 2021, following the resignation of Conservative councillor Mary Evans.<ref>{{cite news |title=Deputy leader to step away from councils |url=https://www.suffolknews.co.uk/sudbury/news/deputy-leader-to-step-away-from-councils-9143684/ |publisher=Suffolk News |first=Steve |last=Barton |date=3 December 2020 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Whepstead and Wickhambrook: 6 May 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/WSCDeclarationofresults6May2021WhepsteadandWickhambrook.pdf |title=Declaration of Result - Whepstead and Wickhambrook |publisher=[[West Suffolk District Council]] |date=6 May 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2576,9 +2576,9 @@ A by-election was held in Southgate on 6 May 2021, following the resignation of 
 }}
  {{Election box end}}
 
-A by-election was held in Whepstead and Wickhambrook on 6 May 2021, following the resignation of Conservative councillor Mary Evans.<ref>{{cite news |title=Deputy leader to step away from councils |url=https://www.suffolknews.co.uk/sudbury/news/deputy-leader-to-step-away-from-councils-9143684/ |publisher=Suffolk News |first=Steve |last=Barton |date=3 December 2020 |access-date=24 July 2026}}</ref>
-
 ====The Rows====
+
+A by-election was held in The Rows on 30 September 2021, following the death of independent councillor John Smith.<ref>{{cite news |title=Newmarket town council still predominantly independent but Conservatives make gains in the region |url=https://www.suffolknews.co.uk/newmarket/news/by-elections-see-conservative-gains-9218872/ |publisher=Suffolk News |first=Craig |last=Bradshaw |date=1 October 2021 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=The Rows: 30 September 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-The-Rows-210930.pdf |title=Declaration of Result - The Rows |publisher=[[West Suffolk District Council]] |date=30 September 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2622,9 +2622,9 @@ A by-election was held in Whepstead and Wickhambrook on 6 May 2021, following th
 }}
  {{Election box end}}
 
-A by-election was held in The Rows on 30 September 2021, following the death of independent councillor John Smith.<ref>{{cite news |title=Newmarket town council still predominantly independent but Conservatives make gains in the region |url=https://www.suffolknews.co.uk/newmarket/news/by-elections-see-conservative-gains-9218872/ |publisher=Suffolk News |first=Craig |last=Bradshaw |date=1 October 2021 |access-date=24 July 2026}}</ref>
-
 ====Horringer====
+
+A by-election was held in Horringer on 25 November 2021, following the resignation of Conservative councillor Terry Clements, who had served on the council for more than 38 years.<ref>{{cite news |title='When they stop listening, stop talking' – Councillor resigns in passionate speech |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/councillor-announces-resignation-from-west-suffolk-council-9219243/ |publisher=Suffolk News |first=Kevin |last=Hurst |date=5 October 2021 |access-date=24 July 2026}}</ref>
 
 {{Election box begin | title=Horringer: 25 November 2021<ref>{{cite web |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/results/WSC-elections/upload/Declaration-of-results-Horringer-211125.pdf |title=Declaration of Result - Horringer |publisher=[[West Suffolk District Council]] |date=25 November 2021 |access-date=24 July 2026}}</ref>}}
 {{Election box winning candidate with party link
@@ -2667,8 +2667,6 @@ A by-election was held in The Rows on 30 September 2021, following the death of 
    |swing      =
 }}
  {{Election box end}}
-
-A by-election was held in Horringer on 25 November 2021, following the resignation of Conservative councillor Terry Clements, who had served on the council for more than 38 years.<ref>{{cite news |title='When they stop listening, stop talking' – Councillor resigns in passionate speech |url=https://www.suffolknews.co.uk/bury-st-edmunds/news/councillor-announces-resignation-from-west-suffolk-council-9219243/ |publisher=Suffolk News |first=Kevin |last=Hurst |date=5 October 2021 |access-date=24 July 2026}}</ref>
 
 ==Notes==
 {{notelist}}
