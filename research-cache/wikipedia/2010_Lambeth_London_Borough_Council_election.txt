@@ -1,0 +1,2518 @@
+{{Short description|none}}
+{{Use dmy dates|date=June 2025}}
+{{Use British English|date=November 2013}}
+{{Infobox election
+| election_name = 2010 Lambeth Council election
+| country = 
+| flag_year = 
+| type = parliamentary
+| ongoing = no
+| party_colour = Labour Party (UK)
+| previous_election = 2006 Lambeth Council election
+| previous_year = 2006
+| next_election = 2014 Lambeth Council election
+| next_year = 2014
+| seats_for_election = All council seats
+| election_date = 6 May 2010
+| turnout = <!--      Labour     -->
+| image1 = [[File:Official portrait of Mr Steve Reed crop 2.jpg|120x160px]]
+| leader1 = [[Steve Reed (politician)|Steve Reed]]
+| leader_since1 = September 2002
+| party1 = Labour Party (UK)
+| leaders_seat1 = [[Brixton Hill (ward)|Brixton Hill]]
+| last_election1 = 39 seats, 39.7%
+| seats1 = '''44'''
+| seat_change1 = {{increase}}'''5'''
+| popular_vote1 = '''53,925'''
+| percentage1 = '''41.8%'''
+| swing1 = {{increase}}'''2.1%'''
+
+<!--      Liberal Democrats      -->| image2 = <div style="width:120px;"><span style="line-height:120px; vertical-align:center; text-align:center; color:{{party color|Liberal Democrats (UK)}}; font-size:38px;"> '''Lib'''</span></div>
+| leader2 = Ashley Lumsden
+| leader_since2 = May 2006
+| party2 = Liberal Democrats (UK)
+| leaders_seat2 = [[Streatham Hill (ward)|Streatham Hill]]
+| last_election2 = 17 seats, 29.1%
+| seats2 = 15
+| seat_change2 = {{decrease}}2
+| popular_vote2 = 36,458
+| percentage2 = 28.3%
+| swing2 = {{decrease}}0.8%
+
+<!--      Conservative      -->| image4 = <div style="width:120px;"><span style="line-height:120px; vertical-align:center; text-align:center; color:{{party color|Conservative Party (UK)}}; font-size:38px;"> '''Con'''</span></div>
+| leader4 = John Whelan
+| leader_since4 = 1998
+| party4 = Conservative Party (UK)
+| leaders_seat4 = [[Thurlow Park (ward)|Thurlow Park]]
+| last_election4 = 6 seats, 19.2%
+| seats4 = 4
+| seat_change4 = {{decrease}}2
+| popular_vote4 = 24,487
+| percentage4 = 19.0%
+| swing4 = {{decrease}}0.2%
+
+<!--      Green      -->| leader5 = Becca Thackray
+| leader_since5 = 4 May 2006
+| party5 = Green Party of England and Wales
+| leaders_seat5 = [[Herne Hill (ward)|Herne Hill]]<br />''(retiring)''
+| last_election5 = 1 seats, 9.7%
+| seats5 = 0
+| seat_change5 = {{decrease}}1
+| popular_vote5 = 17,560
+| percentage5 = 10.1%
+| swing5 = {{increase}}0.4%
+| map_image = Lambeth London UK local election 2010 map.svg
+| map_size = 300px
+| map_caption = Map of the results of the 2010 Lambeth council election. [[Conservative Party (UK)|Conservatives]] in blue, [[Labour Party (UK)|Labour]] in red and [[Liberal Democrats (UK)|Liberal Democrats]] in yellow.
+| title = Leader of largest party
+| posttitle = Subsequent leader of largest party
+| before_election = [[Steve Reed (politician)|Steve Reed]]
+| before_party = Labour Party (UK)
+| after_election = [[Steve Reed (politician)|Steve Reed]]
+| after_party = Labour Party (UK)
+| image5 = [[File:Becca Thackray (Lambeth councillor).jpg|120x160px]]
+| flag_image = Coat of Arms of the London Borough of Lambeth.svg
+}}
+
+'''Elections to [[Lambeth London Borough Council]]''' were held on 6 May 2010.<ref>{{Cite web|url=http://www.andrewteale.me.uk/leap/results/2010/26/|title=Local Elections Archive Project - 2010 - Lambeth|website=www.andrewteale.me.uk}}</ref> All 63 seats were up for election. Turnout was 58%.<ref>[http://moderngov.lambeth.gov.uk/mgElectionResults.aspx?ID=7&RPID=24063206 "Local Elections - Thursday 6 May 2010"]. Lambeth Council. Retrieved 31 March 2014.
+</ref> The Labour Party retained control of the council, increasing its majority. The elections took place on the same day as [[2010 United Kingdom local elections|other local elections]] and the [[2010 United Kingdom general election|United Kingdom general election]].
+
+== Results ==
+{{Election summary begin|title = Lambeth Council election result 2010<ref>{{Cite web|url= http://www.lambeth.gov.uk/Elections2010/|title= Elections 2010|access-date= 9 May 2010|date= 7 May 2010|publisher= Lambeth Council|archive-url= https://web.archive.org/web/20100509025050/http://www.lambeth.gov.uk/Elections2010/|archive-date= 9 May 2010|url-status= dead|df= dmy-all}}</ref>}}
+{{Election summary party
+  |party      = Labour Party (UK)
+  |seats      = 44
+  |government = yes
+  |gain       = 6
+  |loss       = 1
+  |net        = +5
+  |seats %    = 69.8
+  |votes %    = 41.8
+  |votes      = 53,925
+  |plus/minus = +6.4
+}}
+{{Election summary party
+  |party      = Liberal Democrats (UK)
+  |seats      = 15
+  |gain       = 0
+  |loss       = 2
+  |net        = −2
+  |seats %    = 23.8
+  |votes %    = 28.3
+  |votes      = 36,458
+  |plus/minus = +1.2
+}}
+{{Election summary party
+  |party      = Conservative Party (UK)
+  |seats      = 4
+  |gain       = 2
+  |loss       = 4
+  |net        = −2
+  |seats %    = 6.3
+  |votes %    = 19.0
+  |votes      = 24,487
+  |plus/minus = +1.7
+}}
+{{Election summary party
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        = −1
+  |seats %    = 0.0
+  |votes %    = 10.1
+  |votes      = 13,036
+  |plus/minus = -5.9
+}}
+{{Election summary party
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.3
+  |votes      = 393
+  |plus/minus = −0.5
+}}
+{{Election summary party
+  |party      = English Democrats Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.2
+  |votes      = 272
+  |plus/minus = ±0.0
+}}
+{{Election summary party
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 178
+  |plus/minus = -0.1
+}}
+{{Election summary party
+  |party      = Christian Peoples Alliance
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 169
+  |plus/minus = ''New''
+}}
+{{Election summary party
+  |party      = Socialist Party of Great Britain
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 130
+  |plus/minus = ±0.0
+}}
+{{s-end}}
+
+==Ward results==
+'''*''' - Existing Councillor seeking re-election.
+
+===Bishop's===
+{{Election box begin | title=Bishop's (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Diana Braithwaite *
+  |votes      = 1,676
+  |percentage = 41.6
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Peter Truesdale *
+  |votes      = 1,641 	
+  |percentage = 40.7
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gavin Dodsworth *
+  |votes      = 1,483
+  |percentage = 36.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jennifer Moseley
+  |votes      = 1,307
+  |percentage = 32.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Craig
+  |votes      = 1,256
+  |percentage = 31.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jack Sutcliffe
+  |votes      = 1,067
+  |percentage = 26.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Edward Blain
+  |votes      = 751
+  |percentage = 18.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Edward Jones
+  |votes      = 667
+  |percentage = 16.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Rickard Jonsson
+  |votes      = 649
+  |percentage = 16.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Colin Kavanagh
+  |votes      = 339
+  |percentage = 8.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = James Wallace
+  |votes      = 288
+  |percentage = 7.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Jonathan Stone-Fewings
+  |votes      = 197
+  |percentage = 4.9
+  |change     =
+}}
+{{Election box total
+  |votes      = 4,029
+  |percentage = 52.8
+  |change     =
+}}
+{{Election box hold with party link
+  |winner     = Liberal Democrats (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Liberal Democrats (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Liberal Democrats (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Brixton Hill===
+{{Election box begin | title=Brixton Hill (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Alexander Holland
+  |votes      = 2,805
+  |percentage = 42.0
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = [[Steve Reed (politician)|Steve Reed]] *
+  |votes      = 2,699
+  |percentage = 40.4
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = [[Florence Eshalomi|Florence Nosegbe]] *
+  |votes      = 2,648
+  |percentage = 39.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Kate Horstead
+  |votes      = 2,100
+  |percentage = 31.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Krystal Johnson
+  |votes      = 1,873
+  |percentage = 28.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Mead
+  |votes      = 1,560
+  |percentage = 23.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Thomas Law
+  |votes      = 1,108
+  |percentage = 16.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Elkin Atwell
+  |votes      = 1,023
+  |percentage = 15.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Timothy Briggs
+  |votes      = 873
+  |percentage = 13.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Phillipa Marlowe-Hunt
+  |votes      = 850
+  |percentage = 12.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Victoria Edwards *
+  |votes      = 768
+  |percentage = 11.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Diana Thompson
+  |votes      = 688
+  |percentage = 10.3
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,684
+  |percentage = 59.0
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |loser = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Clapham Common===
+{{Election box begin | title=Clapham Common (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Christine Barratt
+  |votes      = 2,176
+  |percentage = 35.8
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Shirley Cosgrave
+  |votes      = 2,084
+  |percentage = 34.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Julia Memery
+  |votes      = 1,940
+  |percentage = 31.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Lloyd Milton
+  |votes      = 1,849
+  |percentage = 30.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Ruth Ling *
+  |votes      = 1,715
+  |percentage = 28.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Linda Bray
+  |votes      = 1,637
+  |percentage = 26.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Simon Cordon
+  |votes      = 1,606
+  |percentage = 26.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Julian Heather
+  |votes      = 1,579
+  |percentage = 26.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Iain Simpson
+  |votes      = 1,408
+  |percentage = 23.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Anne Base
+  |votes      = 502
+  |percentage = 8.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Jamie Hamilton
+  |votes      = 445
+  |percentage = 7.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Anne Kenner
+  |votes      = 270
+  |percentage = 4.4
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,078
+  |percentage = 61.1
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box gain with party link
+ |winner     = Conservative Party (UK)
+ |loser      = Labour Party (UK)
+ |swing      =
+}}
+{{Election box gain with party link
+ |winner     = Conservative Party (UK)
+ |loser      = Liberal Democrats (UK)
+ |swing      =
+}}
+{{Election box end}}
+
+===Clapham Town===
+{{Election box begin | title=Clapham Town (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Helen O'Malley *
+  |votes      = 2,670
+  |percentage = 42.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Nigel Haselden *
+  |votes      = 2,654
+  |percentage = 42.0
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Christopher Wellbelove *
+  |votes      = 2,405
+  |percentage = 38.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Bernard Gentry
+  |votes      = 2,028
+  |percentage = 32.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Matthew Jupp
+  |votes      = 1,972
+  |percentage = 31.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Nicholas Maund
+  |votes      = 1,803
+  |percentage = 28.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Vivienne Baines
+  |votes      = 1,092
+  |percentage = 17.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Charlotte Parry
+  |votes      = 1,052
+  |percentage = 16.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Malcolm Baines
+  |votes      = 974
+  |percentage = 15.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Marion Prideaux
+  |votes      = 497
+  |percentage = 7.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Roger Baker
+  |votes      = 406
+  |percentage = 6.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Darren Raven
+  |votes      = 225
+  |percentage = 3.6
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,317
+  |percentage = 59.2
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Coldharbour===
+{{Election box begin | title=Coldharbour (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Rachel Heywood *
+  |votes      = 3,983
+  |percentage = 64.4
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Donatus Anyanwu *
+  |votes      = 3,819
+  |percentage = 61.7
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Matthew Parr
+  |votes      = 3,681
+  |percentage = 59.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rachel Lester
+  |votes      = 1,091
+  |percentage = 17.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Hilary Lavender
+  |votes      = 1,081
+  |percentage = 17.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Angela Meader
+  |votes      = 808
+  |percentage = 13.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Geoffrey Burgess
+  |votes      = 611
+  |percentage = 9.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Thomas Baker
+  |votes      = 581
+  |percentage = 9.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Olivier Bertin
+  |votes      = 573
+  |percentage = 9.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Alexander James
+  |votes      = 511
+  |percentage = 8.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Yvonne Stewart-Williams
+  |votes      = 458
+  |percentage = 7.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Graham Pycock
+  |votes      = 430
+  |percentage = 7.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Christian Peoples Alliance
+  |candidate  = David Williams
+  |votes      = 169
+  |percentage = 2.7
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,185
+  |percentage = 53.3
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Ferndale===
+{{Election box begin | title=Ferndale (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Paul McGlone *
+  |votes      = 2,761
+  |percentage = 46.2
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Sally Prentice *
+  |votes      = 2,703
+  |percentage = 45.2
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Neil Sabharwal *
+  |votes      = 2,377
+  |percentage = 39.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ernest Baidoo-Mitchell
+  |votes      = 1,383
+  |percentage = 23.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Roy Jenkins
+  |votes      = 1,367
+  |percentage = 22.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Geoffrey Bowring
+  |votes      = 1,313
+  |percentage = 22.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Isabella Ginnett
+  |votes      = 1,199
+  |percentage = 20.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Lee Roberts
+  |votes      = 1,053
+  |percentage = 17.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Moore
+  |votes      = 1,052
+  |percentage = 17.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Tamsyn East
+  |votes      = 632
+  |percentage = 10.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Daniel Bracken
+  |votes      = 613
+  |percentage = 10.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = James Montgomery
+  |votes      = 525
+  |percentage = 8.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Socialist Party of Great Britain
+  |candidate  = Daniel Lambert
+  |votes      = 82
+  |percentage = 1.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Socialist Party of Great Britain
+  |candidate  = John Lee
+  |votes      = 48
+  |percentage = 0.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Socialist Party of Great Britain
+  |candidate  = Jacqueline Shodeke
+  |votes      = 45
+  |percentage = 0.8
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,976
+  |percentage = 51.8
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Gipsy Hill===
+{{Election box begin | title=Gipsy Hill (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Matthew Bennett
+  |votes      = 2,670
+  |percentage = 45.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Niranjan Francis
+  |votes      = 2,597
+  |percentage = 44.1
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jennifer Brathwaite
+  |votes      = 2,588
+  |percentage = 43.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Gibson *
+  |votes      = 1,654
+  |percentage = 28.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Suzanne Poole *
+  |votes      = 1,611
+  |percentage = 27.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Carl Belgrove
+  |votes      = 1,585
+  |percentage = 26.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Yvonne aan de Wiel
+  |votes      = 1,055
+  |percentage = 17.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Wendy Horler
+  |votes      = 1,016
+  |percentage = 17.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Danielle Lowson
+  |votes      = 852
+  |percentage = 14.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = David Sinclair
+  |votes      = 462
+  |percentage = 7.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Geoff Dennis
+  |votes      = 347
+  |percentage = 5.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Anthony Shuster
+  |votes      = 332
+  |percentage = 5.6
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,891
+  |percentage = 60.4
+  |change     =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Conservative Party (UK)
+ |swing      =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Conservative Party (UK)
+ |swing      =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Conservative Party (UK)
+ |swing      =
+}}
+{{Election box end}}
+
+===Herne Hill===
+{{Election box begin | title=Herne Hill (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = [[Jim Dickson (politician)|Jim Dickson]] *
+  |votes      = 3,170
+  |percentage = 46.0
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Carol Boucher
+  |votes      = 3,057
+  |percentage = 44.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Leanne Targett-Parker
+  |votes      = 2,685
+  |percentage = 38.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Louise Jordan
+  |votes      = 1,651
+  |percentage = 23.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = George Graham
+  |votes      = 1,599
+  |percentage = 23.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = William Hare
+  |votes      = 1,478
+  |percentage = 21.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Hoenle
+  |votes      = 1,147
+  |percentage = 16.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gail Price
+  |votes      = 1,127
+  |percentage = 16.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Hamish Badenoch
+  |votes      = 1,047
+  |percentage = 15.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Anna Box
+  |votes      = 1,021
+  |percentage = 14.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jonathan Price
+  |votes      = 904
+  |percentage = 13.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Bettie Morton
+  |votes      = 862
+  |percentage = 12.5
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,895
+  |percentage = 63.5
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Green Party of England and Wales
+ |swing      =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Knight's Hill===
+{{Election box begin | title=Knight's Hill (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jackie Meldrum *
+  |votes      = 3,039
+  |percentage = 52.2
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jane Pickard
+  |votes      = 2,900
+  |percentage = 49.8
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Michael Smith
+  |votes      = 2,768
+  |percentage = 47.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Timothy Barnsley
+  |votes      = 1,480
+  |percentage = 25.4
+  |change     =
+}}
+
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Malgorzata Baker
+  |votes      = 1,430	
+  |percentage = 24.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Fitzgerald
+  |votes      = 1,415
+  |percentage = 24.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Betty Evans-Jacas
+  |votes      = 942
+  |percentage = 16.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Nicholas Rogers
+  |votes      = 926
+  |percentage = 15.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Luke Tryl
+  |votes      = 809
+  |percentage = 13.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Kirsty Neal
+  |votes      = 420
+  |percentage = 7.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Alexis Fidgett
+  |votes      = 378
+  |percentage = 6.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Nicholas Giannissis
+  |votes      = 357
+  |percentage = 6.1
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,821
+  |percentage = 58.7
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Larkhall===
+{{Election box begin | title=Larkhall (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Peter Robbins *
+  |votes      = 2,674
+  |percentage = 44.7
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = [[Neeraj Patil]] *
+  |votes      = 2,464
+  |percentage = 41.2
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Christiana Valcarcel *
+  |votes      = 2,344
+  |percentage = 39.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jessica David
+  |votes      = 1,538
+  |percentage = 25.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alistair Mills
+  |votes      = 1,330
+  |percentage = 22.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Harris
+  |votes      = 1,294
+  |percentage = 21.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Sebastian Lowe
+  |votes      = 1,292
+  |percentage = 21.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Alison Trelawny
+  |votes      = 1,206
+  |percentage = 20.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Clive Parry
+  |votes      = 1,158
+  |percentage = 19.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Jeffrey Dalton
+  |votes      = 674
+  |percentage = 11.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = William Webb
+  |votes      = 673
+  |percentage = 11.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Sam Trice
+  |votes      = 409
+  |percentage = 6.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Socialist Party of Great Britain
+  |candidate  = Oliver Bond
+  |votes      = 48
+  |percentage = 0.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Socialist Party of Great Britain
+  |candidate  = Stanley Parker
+  |votes      = 46
+  |percentage = 0.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Socialist Party of Great Britain
+  |candidate  = [[Adam Buick]]
+  |votes      = 45
+  |percentage = 0.8
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,987
+  |percentage = 50.5
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Oval===
+{{Election box begin | title=Oval (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Angela Edbrooke
+  |votes      = 2,274
+  |percentage = 37.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jack Hopkins
+  |votes      = 2,246
+  |percentage = 36.8
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ishbel Brown
+  |votes      = 2,175
+  |percentage = 35.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Claudette Hewitt
+  |votes      = 2,068
+  |percentage = 33.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Sawdon *
+  |votes      = 2,020
+  |percentage = 33.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Karim Palant
+  |votes      = 1,987
+  |percentage = 32.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Oliver Campbell
+  |votes      = 1,080
+  |percentage = 17.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate = [[Nick Timothy]]
+  |votes      = 951
+  |percentage = 15.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Michele Imperi
+  |votes      = 857
+  |percentage = 14.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Charles Boxer
+  |votes      = 668
+  |percentage = 11.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Samuel Low
+  |votes      = 422
+  |percentage = 6.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = James Staunton
+  |votes      = 332
+  |percentage = 5.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = English Democrats Party
+  |candidate  = Michael Perry
+  |votes      = 77
+  |percentage = 1.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = English Democrats Party
+  |candidate  = Jose Navarro
+  |votes      = 64
+  |percentage = 1.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = English Democrats Party
+  |candidate  = Issam Ebarek-Rmiki
+  |votes      = 56
+  |percentage = 0.9
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,097
+  |percentage = 55.9
+  |change     =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Liberal Democrats (UK)
+ |swing      =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Liberal Democrats (UK)
+ |swing      =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Prince's===
+{{Election box begin | title=Prince's (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Mark Harrison
+  |votes      = 2,847
+  |percentage = 45.7
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Lorna Campbell *
+  |votes      = 2,804
+  |percentage = 45.0
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Stephen Morgan *
+  |votes      = 2,653
+  |percentage = 42.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gloria Gomez Canal
+  |votes      = 1,371
+  |percentage = 22.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sandra Lawman
+  |votes      = 1,343
+  |percentage = 21.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Munro
+  |votes      = 1,246
+  |percentage = 20.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = James Bellis
+  |votes      = 1,161
+  |percentage = 18.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Poole-Wilson
+  |votes      = 1,083
+  |percentage = 17.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Rajgopaul-Hicklin
+  |votes      = 1,051
+  |percentage = 16.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Emily Butterworth
+  |votes      = 644
+  |percentage = 10.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Joseph Healy
+  |votes      = 381
+  |percentage = 6.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Marcus Letts
+  |votes      = 337
+  |percentage = 5.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = English Democrats Party
+  |candidate  = John Dodds
+  |votes      = 135
+  |percentage = 2.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = English Democrats Party
+  |candidate  = Alfredo Cordal
+  |votes      = 106
+  |percentage = 1.7
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,231
+  |percentage = 57.8
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===St Leonard's===
+{{Election box begin | title=St Leonard's (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Clive Bennett *
+  |votes      = 2,582
+  |percentage = 44.2
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Brian Palmer *
+  |votes      = 2,197
+  |percentage = 37.6
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Roger Giess *
+  |votes      = 2,031
+  |percentage = 34.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Catherine Harvey
+  |votes      = 1,948
+  |percentage = 33.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Henry Fergusson
+  |votes      = 1,904
+  |percentage = 32.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Richard Payne
+  |votes      = 1,689
+  |percentage = 28.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Benjamin Everitt
+  |votes      = 1,099
+  |percentage = 18.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Wendy Newall
+  |votes      = 977
+  |percentage = 16.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Alastair Hamilton
+  |votes      = 948
+  |percentage = 16.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Rebecca Findlay
+  |votes      = 603
+  |percentage = 10.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Ahmed Ibrahim
+  |votes      = 328
+  |percentage = 5.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Michael Mullins
+  |votes      = 288
+  |percentage = 4.9
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,840
+  |percentage = 55.8
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Stockwell===
+{{Election box begin | title=Stockwell (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Peter Bowyer *
+  |votes      = 2,701
+  |percentage = 48.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Alex Bigham
+  |votes      = 2,551
+  |percentage = 45.6
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Imogen Walker *
+  |votes      = 2,470
+  |percentage = 44.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Fernanda Correia-Sefzick
+  |votes      = 1,768
+  |percentage = 31.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = [[Anthony Bottrall]]
+  |votes      = 1,765
+  |percentage = 31.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Felix Greaves
+  |votes      = 1,407
+  |percentage = 25.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Sarah Barr
+  |votes      = 944
+  |percentage = 16.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Larissa Dudley
+  |votes      = 755
+  |percentage = 13.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Robert McMillan
+  |votes      = 712
+  |percentage = 12.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Teresa Delaney
+  |votes      = 432
+  |percentage = 7.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Rebecca Gibbs
+  |votes      = 358
+  |percentage = 6.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Robert Foxcroft
+  |votes      = 313
+  |percentage = 5.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = English Democrats Party
+  |candidate  = Janus Polenceus
+  |votes      = 60
+  |percentage = 1.1
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,593
+  |percentage = 54.7
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Streatham Hill===
+{{Election box begin | title=Streatham Hill (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jeremy Clyne *
+  |votes      = 2,448
+  |percentage = 39.5
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ashley Lumsden *
+  |votes      = 2,426
+  |percentage = 39.1
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Carita Ogden
+  |votes      = 2,198
+  |percentage = 35.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = [[Anne Marie Waters]]
+  |votes      = 2,001
+  |percentage = 32.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Clarence Thompson
+  |votes      = 1,957
+  |percentage = 31.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jack Holborn
+  |votes      = 1,948
+  |percentage = 31.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Elaine Bailey
+  |votes      = 1,001
+  |percentage = 16.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Phillip Henwood
+  |votes      = 857
+  |percentage = 13.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Younghusband
+  |votes      = 796
+  |percentage = 12.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Catherine Potter
+  |votes      = 566
+  |percentage = 9.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Martin Wright
+  |votes      = 535
+  |percentage = 8.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Shelagh Webb
+  |votes      = 458
+  |percentage = 7.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = June Fewtrell *
+  |votes      = 393
+  |percentage = 6.3
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,197
+  |percentage = 58.3
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Streatham South===
+{{Election box begin | title=Streatham South (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Mark Bennett *
+  |votes      = 2,882
+  |percentage = 48.9
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Dave Malley *
+  |votes      = 2,882
+  |percentage = 48.9
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = John Kazantzis *
+  |votes      = 2,733
+  |percentage = 46.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Ahmad Ali
+  |votes      = 1,720
+  |percentage = 29.2
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Karen Davies-Morfey
+  |votes      = 1,696
+  |percentage = 28.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Michael Morfey
+  |votes      = 1,569
+  |percentage = 26.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Helen Smith
+  |votes      = 942
+  |percentage = 16.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = David McInnes
+  |votes      = 849
+  |percentage = 14.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Williams
+  |votes      = 817
+  |percentage = 13.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Elizabeth Davidson
+  |votes      = 256
+  |percentage = 4.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Yolanda Dolling
+  |votes      = 251
+  |percentage = 4.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Emma Hinkson
+  |votes      = 245
+  |percentage = 4.2
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,889
+  |percentage = 59.2
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Streatham Wells===
+{{Election box begin | title=Streatham Wells (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Judith Best
+  |votes      = 2,478
+  |percentage = 42.4
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alexander Davies
+  |votes      = 2,412
+  |percentage = 41.3
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Daphne Marchant *
+  |votes      = 2,316
+  |percentage = 39.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Malcolm Clark
+  |votes      = 2,064
+  |percentage = 35.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Laura Webster
+  |votes      = 2,054
+  |percentage = 35.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Clair Wilcox
+  |votes      = 1,874
+  |percentage = 32.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Stanley Davies
+  |votes      = 853
+  |percentage = 14.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Lisabeth Liell
+  |votes      = 766
+  |percentage = 13.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Teresa Tunstall
+  |votes      = 764
+  |percentage = 13.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Matthew Carter
+  |votes      = 385
+  |percentage = 6.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Rachel Braverman
+  |votes      = 371
+  |percentage = 6.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Magda Devas
+  |votes      = 344
+  |percentage = 5.9
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,842
+  |percentage = 56.1
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Thornton===
+{{Election box begin | title=Thornton (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Diana Morris *
+  |votes      = 2,614
+  |percentage = 43.9
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Lib Peck *
+  |votes      = 2,609
+  |percentage = 43.8
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Edward Davie
+  |votes      = 2,399
+  |percentage = 40.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Pindar
+  |votes      = 1,705
+  |percentage = 28.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Christopher Keating
+  |votes      = 1,670
+  |percentage = 28.1
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Waterman
+  |votes      = 1,383
+  |percentage = 23.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Melanie Ball
+  |votes      = 1,188
+  |percentage = 20.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Simon Hemsley
+  |votes      = 1,104
+  |percentage = 18.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Vernon de Maynard
+  |votes      = 1,004
+  |percentage = 16.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Adrian Audsley
+  |votes      = 504
+  |percentage = 8.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Charles Gay
+  |votes      = 373
+  |percentage = 6.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Helen Kersley
+  |votes      = 311
+  |percentage = 5.2
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,953
+  |percentage = 62.7
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Thurlow Park===
+{{Election box begin | title=Thurlow Park (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = John Whelan *
+  |votes      = 2,452
+  |percentage = 38.4
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Ann Kingsbury
+  |votes      = 2,035
+  |percentage = 31.9
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Clare Whelan *
+  |votes      = 2,023
+  |percentage = 31.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Robert Holden
+  |votes      = 1,945
+  |percentage = 30.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Irene Kimm *
+  |votes      = 1,906
+  |percentage = 29.9
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Brian Cowie
+  |votes      = 1,888
+  |percentage = 29.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Richard Bramwell
+  |votes      = 1,516
+  |percentage = 23.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Dominic Carman
+  |votes      = 1,447
+  |percentage = 22.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Thurburn
+  |votes      = 1,447
+  |percentage = 22.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = William Collins
+  |votes      = 781
+  |percentage = 12.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Samarajit Roy
+  |votes      = 609
+  |percentage = 9.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Dale Mathers
+  |votes      = 595
+  |percentage = 9.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = United Kingdom Independence Party
+  |candidate  = Robin Lambert
+  |votes      = 178
+  |percentage = 2.8
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,385
+  |percentage = 65.1
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box gain with party link
+ |winner     = Labour Party (UK)
+ |loser      = Conservative Party (UK)
+ |swing      =
+}}
+{{Election box hold with party link
+ |winner = Conservative Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Tulse Hill===
+{{Election box begin | title=Tulse Hill (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Marcia Cameron *
+  |votes      = 3,232
+  |percentage = 49.5
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Adedamola Aminu *
+  |votes      = 3,186
+  |percentage = 48.8
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Toren Smith *
+  |votes      = 3,160
+  |percentage = 48.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Oliver Clifford-Mobley
+  |votes      = 1,764
+  |percentage = 27.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Nicholas Wright
+  |votes      = 1,748
+  |percentage = 26.8
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lule Tekeste
+  |votes      = 1,668
+  |percentage = 25.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Bernard Atwell
+  |votes      = 759
+  |percentage = 11.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Kate Whitehead
+  |votes      = 698
+  |percentage = 10.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Jane Hersey
+  |votes      = 656
+  |percentage = 10.0
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Hugh Bennett
+  |votes      = 608
+  |percentage = 9.3
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Joanna Hindley
+  |votes      = 556
+  |percentage = 8.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Gail Thompson
+  |votes      = 503
+  |percentage = 7.7
+  |change     =
+}}
+{{Election box total
+  |votes      = 6,532
+  |percentage = 58.6
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+===Vassall===
+{{Election box begin | title=Vassall (3 councillors)}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Kingsley Abrams *
+  |votes      = 2,533
+  |percentage = 44.5
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Adrian Garden
+  |votes      = 2,308
+  |percentage = 40.6
+  |change     =
+}}
+{{Election box winning candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Steve Bradley *
+  |votes      = 2,193
+  |percentage = 38.6
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Tracy Ritson
+  |votes      = 2,146
+  |percentage = 37.7
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Faye Gray
+  |votes      = 1,793
+  |percentage = 31.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Matthew Hanney
+  |votes      = 1,617
+  |percentage = 28.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Stuart Barr
+  |votes      = 706
+  |percentage = 12.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Hayes
+  |votes      = 593
+  |percentage = 10.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Alexandra Olive
+  |votes      = 542
+  |percentage = 9.5
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Carolena Ludwig
+  |votes      = 525
+  |percentage = 9.2
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Stephen Hall
+  |votes      = 477
+  |percentage = 8.4
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Peter Cutler
+  |votes      = 476
+  |percentage = 8.4
+  |change     =
+}}
+{{Election box total
+  |votes      = 5,686
+  |percentage = 55.7
+  |change     =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing  =
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing  =
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{London elections}}
+{{Greater London elections}}
+{{United Kingdom local elections, 2010}}
+{{Authority control}}
+
+[[Category:Council elections in the London Borough of Lambeth|2010]]
+[[Category:2010 London Borough council elections|Lambeth]]
+[[Category:21st century in the London Borough of Lambeth]]

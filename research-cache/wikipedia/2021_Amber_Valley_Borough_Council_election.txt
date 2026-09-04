@@ -1,0 +1,698 @@
+{{Short description|2021 UK local government election}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| election_name = 2021 Amber Valley Borough Council Election
+| country = Derbyshire
+| type = parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = 2019 Amber Valley Borough Council election
+| previous_year = 2019
+| next_election = 2022 Amber Valley Borough Council election
+| next_year = 2022
+| seats_for_election = 16 of 45 seats for [[Amber Valley]] Borough Council
+| majority_seats = 23
+| election_date = 6 May 2021
+| party1 = Conservative Party (UK)
+| last_election1 = 19
+| seats1 = '''13'''
+| seat_change1 = {{increase}} 9
+| seats_after1 = '''28'''
+| popular_vote1 = '''14,684'''
+| percentage1 = '''53.6%'''
+
+<!--      Conservatives  -->| party2 = Labour Party (UK)
+| last_election2 = '''25'''
+| seats2 = 3
+| seat_change2 = {{decrease}} 9
+| seats_after2 = 16
+| popular_vote2 = 9,728
+| percentage2 = 35.5%
+
+<!--    Liberal Democrats -->| party3 = Green Party of England and Wales
+| last_election3 = 1
+| seats3 = 0
+| seat_change3 = {{steady}}
+| seats_after3 = 1
+| popular_vote3 = 2,077
+| percentage3 = 7.6%
+
+<!-- Map -->| map_image = Amber Valley UK local election 2021 map.svg
+| map_size = 275px
+| map_caption = Results of the 2021 Amber Valley Borough Council election by ward
+}}
+
+The 2021 elections to [[Amber Valley|Amber Valley Borough Council]] were held on Wednesday 5th May 2021, 16 seats in the council were up for election. The Conservative Party retook control of the council from The Labour Party after losing control in 2019. These seats were due to have been contested in 2020, but the elections were delayed by a year due to the COVID-19 pandemic along with [[2021 United Kingdom local elections|other elections]].
+
+==Results summary==
+
+{{Election summary partial council net begin|title = 2021 Amber Valley Borough Council election<ref>{{Cite web|url=https://www.ambervalley.gov.uk/councillors-and-elections/elections/local-elections/borough-election-results/6-may-2021/ |title=2021 local election results |access-date=1 June 2022 |work=Amber Valley Borough Council}}</ref><ref>{{Cite web|title=AMBER VALLEY BOROUGH COUNCIL BOROUGH COUNCIL ELECTIONS – 6 MAY 2021|url=https://info.ambervalley.gov.uk/docarc/docviewer.aspx?docguid=1f1b664f57c4423d8a38d37ef481bb28|url-status=live|access-date=May 22, 2021|website=info.ambervalley.gov.uk|archive-url=https://web.archive.org/web/20210518223957/https://info.ambervalley.gov.uk/docarc/docviewer.aspx?docguid=1f1b664f57c4423d8a38d37ef481bb28 |archive-date=2021-05-18 }}</ref>}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 13
+  |net           = {{increase}} 9
+  |seats %       = 81.3
+  |other seats   = 15
+  |total seats   = '''28'''
+  |total seats % = 62.2
+  |votes         = 14,684
+  |votes %       = 53.6
+  |plus/minus    = +18.7
+}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 3
+  |net           = {{decrease}} 9
+  |seats %       = 18.8
+  |other seats   = 13
+  |total seats   = '''16'''
+  |total seats % = 35.6
+  |votes         = 9,728
+  |votes %       = 35.5
+  |plus/minus    = -5.1
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 1
+  |total seats   = '''1'''
+  |total seats % = 2.2
+  |votes         = 2,077
+  |votes %       = 7.6
+  |plus/minus    = +3.0
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 901
+  |votes %       = 3.3
+  |plus/minus    = +0.8
+}}
+{{Election summary partial council net party|
+  |party         = National Front (UK)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 18
+  |votes %       = 0.1
+  |plus/minus    = ±0.0
+}}
+{{Election box end}}
+
+==Council composition==
+'''Following''' the last election in 2019, the composition of the council was:
+{| style="width:100%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:red; width:55.56%;" | '''25'''
+| style="background:#0087DC; width:42.22%;" | '''19'''
+| style="background:#6AB023; width:2.22%;" | '''1'''
+|-
+| <span style="color:red;">'''Labour'''</span>
+| <span style="color:#0087DC;">'''Conservative'''</span>
+| <span style="color:#6AB023;">'''Grn'''</span>
+|}
+
+'''After''' the election, the composition of the council was:
+{| style="width:100%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:#0087DC; width:62.22%;" | '''28'''
+| style="background:red; width:35.56%;" | '''16'''
+| style="background:#6AB023; width:2.22%;" | '''1'''
+|-
+| <span style="color:#0087DC;">'''Conservative'''</span>
+| <span style="color:red;">'''Labour'''</span>
+| <span style="color:#6AB023;">'''Grn'''</span>
+|}
+
+<span style="color:#6AB023;">'''Grn'''</span> - Green
+
+==Ward results==
+Incumbent councillors are denoted by an asterisk (*)
+
+===Alfreton===
+{{Election box begin |title=Alfreton}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Christian Dale
+   |votes      = 912
+   |percentage = 47.4
+   |change     = +27.9
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Marlene Bennett*|votes=805|percentage=41.9|change=-11.3}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Leo Francis Swarvett|votes=121|percentage=6.3|change=+3.4}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Paul Robin Gibbons|votes=85|percentage=4.4|change=-0.5}}
+{{Election box majority|votes=107|percentage=5.5|change=}}
+{{Election box turnout|votes=1,923|percentage=29|change=+3.0}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Belper Central===
+{{Election box begin |title= Belper Central}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = John Nelson
+   |votes      = 870
+   |percentage = 42.6
+   |change     = +8.2
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Maurice Richard Neville*|votes=807|percentage=39.6|change=-2.1}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Steve Kennedy|votes=284|percentage=13.9|change=+5.6}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Paul Clarence Beardmore|votes=80|percentage=3.9|change=}}
+{{Election box majority|votes=63|percentage=3.0|change=}}
+{{Election box turnout|votes=2,041|percentage=46|change=+5.0}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Belper North===
+{{Election box begin |title=Belper North}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Ben Rupert Edward Bellamy*
+   |votes      = 914
+   |percentage = 46.8
+   |change     = +9.0
+}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Mark Edward Robertson|votes=741|percentage=38.0|change=+5.1}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=James Major John Brooks|votes=237|percentage=12.1|change=-5.4}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Richard Alan Salmon|votes=61|percentage=3.1|change=+1.1}}
+{{Election box majority|votes=173|percentage=8.8|change=+3.9}}
+{{Election box turnout|votes=1,953|percentage=50|change=+1.0}}
+{{Election box hold with party link
+   |winner    = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+=== Codnor and Waingroves===
+{{Election box begin |title= Codnor and Waingroves}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Lorna Dorothy Tassi
+   |votes      = 697
+   |percentage = 49.5
+   |change     = +23.9
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Chris Emmas-Williams*
+   |votes      = 628
+   |percentage = 44.6
+   |change     = -8.8
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Jackie Blackett
+   |votes      = 58
+   |percentage =4.1 
+   |change     = +1.3
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jeremy Quentin Miles
+   |votes      = 26
+   |percentage =1.8 
+   |change     = +0.2
+}}
+{{Election box majority
+   |votes      = 69
+   |percentage =4.9
+   |change     =
+}}
+{{Election box turnout
+   |votes      = 1,409
+   |percentage = 35
+   |change     =
+}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Heage and Ambergate===
+{{Election box begin |title=Heage and Ambergate}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Tony Harper
+   |votes      = 927
+   |percentage = 51.6
+   |change     = +4.9
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Colin Bailey|votes=651|percentage=36.2|change=+0.1}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=David Martin Hatchett|votes=183|percentage=10.2|change=+5.9}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Jan Thompson|votes=35|percentage=2.0|change=-0.2}}
+{{Election box majority|votes=276|percentage=15.4|change=+4.8}}
+{{Election box turnout|votes=1,796|percentage=45|change=+3.0}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Heanor and Loscoe===
+{{Election box begin |title=Heanor and Loscoe}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Dale Christopher Wright
+   |votes      = 848
+   |percentage = 63.4
+   |change     = +37.5
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Kieran James Denbygh Hill*
+   |votes      = 361
+   |percentage = 27.0
+   |change     = -13.1
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Hilary Ann Fender
+   |votes      = 77
+   |percentage =5.7 
+   |change     = +2.6
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Steve Radford
+   |votes      = 52
+   |percentage =3.9 
+   |change     = +1.2
+}}
+{{Election box majority
+   |votes      = 487
+   |percentage =36.4
+   |change     =
+}}
+{{Election box turnout
+   |votes      = 1,338
+   |percentage = 33
+   |change     =
+}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Heanor East===
+{{Election box begin |title=Heanor East}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Mark Anthony Burrell
+   |votes      = 958
+   |percentage = 63.4
+   |change     = +33.1
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Janet Irene Ward
+   |votes      = 409
+   |percentage = 27.1
+   |change     = -11.1
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Cathie Hallsworth
+   |votes      = 107
+   |percentage = 7.1
+   |change     = +3.6
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jerry Marler
+   |votes      = 37
+   |percentage =2.4 
+   |change     = -0.6
+}}
+{{Election box majority
+   |votes      = 549
+   |percentage =36.3
+   |change     =
+}}
+{{Election box turnout
+   |votes      = 1,511
+   |percentage = 33
+   |change     =
+}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Heanor West===
+{{Election box begin |title=Heanor West}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jackie Stones
+   |votes      = 849
+   |percentage = 53.9
+   |change     = +25.5
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Celia Mary Cox
+   |votes      = 565
+   |percentage = 35.9
+   |change     = -6.3
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Tina Pritchard
+   |votes      = 100
+   |percentage = 6.3
+   |change     = +3.6
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Barbara Woodcock Radford
+   |votes      = 61
+   |percentage =3.9 
+   |change     = +0.9
+}}
+{{Election box majority
+   |votes      = 284
+   |percentage =18.0
+   |change     =
+}}
+{{Election box turnout
+   |votes      = 1,575
+   |percentage = 32
+   |change     =
+}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser =Labour Party (UK)
+|swing     =
+}}
+{{Election box end}}
+
+===Ironville and Riddings===
+{{Election box begin |title=Ironville and Riddings}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jack Watson Brown*
+   |votes      = 938
+   |percentage = 56.6
+   |change     = +15.9
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Paul Christopher Wardle
+   |votes      = 594
+   |percentage = 35.8
+   |change     = -4.0
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Rachael Mary Hatchett
+   |votes      = 84
+   |percentage =5.1 
+   |change     = +2.7
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Kate Mary Kift
+   |votes      = 41
+   |percentage = 2.5
+   |change     = +0.6
+}}
+{{Election box majority
+   |votes      = 344
+   |percentage =20.8
+   |change     =+19.9
+}}
+{{Election box turnout
+   |votes      = 1,657
+   |percentage = 35
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Kilburn, Denby and Holbrook===
+{{Election box begin |title=Kilburn, Denby and Holbrook}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Alexander Hillier
+   |votes      = 1,468
+   |percentage = 56.8
+   |change     = +9.3
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Keith Lisle Venables|votes=713|percentage=27.6|change=-2.6}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Matt McGuinness|votes=265|percentage=10.2|change=+5.7}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Chris Gent|votes=140|percentage=5.4|change=+1.5}}
+{{Election box majority|votes=755|percentage=29.2|change=+11.9}}
+{{Election box turnout|votes=2,586|percentage=41|change=+2.0}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Langley Mill and Aldercar===
+{{Election box begin |title=Langley Mill and Aldercar}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Sam Goodrum
+   |votes      = 763
+   |percentage = 63.3
+   |change     = +30.8
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Steven Bower
+   |votes      = 358
+   |percentage = 29.7
+   |change     = -13.8
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Julie Christine Wozniczka
+   |votes      = 51
+   |percentage =4.2 
+   |change     = +2.9
+}}
+{{Election box candidate with party link|
+   |party      = National Front (UK)
+   |candidate  = Timothy Knowles
+   |votes      = 18
+   |percentage = 1.5 
+   |change     = +0.2
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Joanna Karpasea
+   |votes      = 15
+   |percentage = 1.3 
+   |change     = 0.0
+}}
+{{Election box majority
+   |votes      = 405
+   |percentage = 33.6
+   |change     =
+}}
+{{Election box turnout
+   |votes      = 1,205
+   |percentage = 28
+   |change     =
+}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser =Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Ripley===
+{{Election box begin |title=Ripley}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Matt Murray
+   |votes      = 1,472
+   |percentage = 58.2
+   |change     = +19.2
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Tony Holmes*|votes=863|percentage=34.1|change=-6.0}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Jamie Alexander Walls|votes=125|percentage=5.0|change=+2.5}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Richard William Smeeton|votes=68|percentage=2.7|change=+0.7}}
+{{Election box majority|votes=609|percentage=24.1|change=}}
+{{Election box turnout|votes=2,528|percentage=35|change=+3.0}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser =Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Ripley and Marehay===
+{{Election box begin |title=Ripley and Marehay}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Trevor Spencer
+   |votes      = 900
+   |percentage = 56.5
+   |change     = +19.9
+}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Mick Wilson*|votes=568|percentage=35.7|change=-6.2}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Michael Peter Bedford|votes=80|percentage=5.0|change=+2.0}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Paul Arthur Gillians|votes=45|percentage=2.8|change=+1.2}}
+{{Election box majority|votes=332|percentage=20.8|change=}}
+{{Election box turnout|votes=1,593|percentage=36|change=+2.0}}
+{{Election box gain with party link
+   |winner    = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Shipley Park, Horsley and Horsley Woodhouse===
+{{Election box begin |title= Shipley Park, Horsley and Horsley Woodhouse}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Alexander George Stevenson*
+   |votes      = 1,409
+   |percentage = 67.3
+   |change     = +15.7
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Amina Sabeah Deen Burslem
+   |votes      = 392
+   |percentage = 18.7
+   |change     = -3.4
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Lian Pizzey
+   |votes      = 220
+   |percentage = 10.5
+   |change     = +6.8
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Adrian James Miller
+   |votes      = 72
+   |percentage =3.5 
+   |change     = +0.4
+}}
+{{Election box majority
+   |votes      = 1,017
+   |percentage =48.6
+   |change     =+19.1
+}}
+{{Election box turnout
+   |votes      = 2,093
+   |percentage = 41
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Conservative Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+===Somercotes===
+{{Election box begin |title= Somercotes (2 seats)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = John McCabe
+   |votes      = 590
+   |percentage = 47.4
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Katie Louise Simpson
+   |votes      = 510
+   |percentage = 41.0
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Price
+   |votes      = 492
+   |percentage = 39.5
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Philip Sanders Rose
+   |votes      = 440
+   |percentage = 35.3
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Steve Elliott
+   |votes      = 85
+   |percentage = 6.8
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Paul Slater
+   |votes      = 54
+   |percentage = 4.3
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Kate Smith
+   |votes      = 29
+   |percentage = 2.3
+   |change     = 
+}} 
+{{Election box turnout
+   |votes      = 
+   |percentage = 27
+   |change     =
+}}
+{{Election box hold with party link
+   |winner    = Labour Party (UK)
+   |swing     =
+}}
+{{Election box hold with party link
+   |winner    = Labour Party (UK)
+   |swing     =
+}}
+{{Election box end}}
+
+Only one seat was due to be up for election during this cycle, but a second seat (due up in 2022) was contested due to the death of the sitting councillor<ref>{{Cite web|title=NOTICE OF ELECTION. AMBER VALLEY BOROUGH COUNCIL ELECTION OF BOROUGH COUNCILLORS|url=https://info.ambervalley.gov.uk/docarc/docviewer.aspx?docguid=b08ca576b9f045a085eea3e699955ff1|url-status=live|access-date=May 22, 2021|website=info.ambervalley.gov.uk|archive-url=https://web.archive.org/web/20210518222958/https://info.ambervalley.gov.uk/docarc/docviewer.aspx?docguid=b08ca576b9f045a085eea3e699955ff1 |archive-date=2021-05-18 }}</ref>
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2021}}
+{{Derbyshire elections}}
+
+[[Category:2021 English local elections|Amber Valley]]
+[[Category:Amber Valley Borough Council elections|2021]]
+[[Category:2020s in Derbyshire]]

@@ -1,0 +1,392 @@
+{{Infobox election
+| election_date = {{Start date|1994|05|05|df=yes}}
+| election_name = 1994 Lambeth London Borough Council election
+| country = London
+| type = parliamentary
+| previous_election = 1990 Lambeth London Borough Council election
+| previous_year = 1990
+| next_election = 1998 Lambeth London Borough Council election
+| next_year = 1998
+| seats_for_election = All 64 council seats up for election <br/> to [[Lambeth London Borough Council]]
+| majority_seats = 33
+| registered = 174,828<ref name="Turnout">{{cite web|url=https://londondatastore-upload.s3.amazonaws.com/docs/LBCE_1994-5-5.pdf|archive-url=https://web.archive.org/web/20150402092139/https://londondatastore-upload.s3.amazonaws.com/docs/LBCE_1994-5-5.pdf|url-status=dead|archive-date=2 April 2015|title=London Borough Council Elections - 5 May 1994 - Ward Voting Statistics|access-date=29 May 2024|publisher=London Research Centre|website=London Datastore|first1=Michael|last1=Minors|first2=Dennis|last2=Grenham|page=210}}</ref>
+| turnout = 75,189, 43.01% ({{decrease}} 2.88)<ref name="Turnout"/>
+| party1 = Labour Party (UK)
+| leader1 = Stephen P. Whaley
+| leaders_seat1 = [[Herne Hill (ward)|Herne Hill]] (lost){{refn|group=n|swapped to contest the Gipsy Hill ward but lost that election}}
+| leader_since1 = 1993
+| last_election1 = 40 seats, 48.30%
+| seats_before1 = 36{{refn|group=n|9 members had the whip withdrawn but still vote with the group<ref name="byElection">{{cite web|url=https://londondatastore-upload.s3.amazonaws.com/docs/LBCBE_1990-5_TO_1994-5.pdf|archive-url=https://web.archive.org/web/20150402131308/https://londondatastore-upload.s3.amazonaws.com/docs/LBCBE_1990-5_TO_1994-5.pdf|url-status=dead|archive-date=2 April 2015|title=London Borough Council By-elections - May 1990 to May 1994|publisher=London Research Centre|website=London Datastore|first1=Michael|last1=Minors|first2=Dennis|last2=Grenham |first3=Lovedeep|last3=Vaid|pages=53-56}}</ref>}}
+| seats1 = 24
+| seat_change1 = {{decrease}} 12
+| leader2 = ''Unknown''
+| party2 = Liberal Democrats (UK)
+| leader_since2 = ''Unknown''
+| leaders_seat2 = ''Unknown''
+| last_election2 = 4 seats, 11.36%
+| seats_before2 = 9
+| seats2 = 24
+| seat_change2 = {{increase}} 15
+| title = Council control
+| before_election = 
+| before_party = No Overall Control
+| posttitle = Council control after election
+| after_election = 
+| after_party = No Overall Control
+| party4 = Conservative Party (UK)
+| leader4 = ''Unknown''
+| leader_since4 = ''Unknown''
+| leaders_seat4 = ''Unknown''
+| last_election4 = 20 seats, 35.72%
+| seats_before4 = 17{{refn|group=n|in February 1994, there were 18 Conservative councillors at the election but the conservative candidate that held the seat stood as an independent at the election<ref name="byElection"/>}}
+| seats4 = 16
+| seat_change4 = {{decrease}} 1
+| party5 = Independent politician
+| last_election5 = 0 seats, 0.05%
+| seats_before5 = 1
+| seats5 = 0
+| seat_change5 = {{decrease}} 1
+| image1 = [[File:No image wide.svg|115x50px|Blank]]
+| image2 = [[File:No image wide.svg|115x50px|Blank]]
+| leader5 = ''N/A''
+| leader_since5 = ''N/A''
+| leaders_seat5 = ''N/A''
+| swing1 = {{decrease}} 11.93
+| popular_vote1 = 72,736
+| percentage1 = 36.37%
+| popular_vote2 = 67,009
+| percentage2 = 33.51%
+| swing2 = {{increase}} 22.15
+| popular_vote4 = 52,689
+| percentage4 = 26.35%
+| swing4 = {{decrease}} 9.37
+| popular_vote5 = 430
+| percentage5 = 0.21%
+| swing5 = {{increase}} 0.16
+| flag_image = Coat of Arms of the London Borough of Lambeth.svg
+}}
+
+{{Short description|none}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+
+'''Elections to [[Lambeth London Borough Council]]''' were held in May 1994. Turnout was 43.01%.
+
+==Election result==
+{{Election Summary Begin|title = Lambeth local election result 1994<ref name="electionResults">{{cite web|url=https://londondatastore-upload.s3.amazonaws.com/docs/LBCE_1994-5-5.pdf|archive-url=https://web.archive.org/web/20150402092139/https://londondatastore-upload.s3.amazonaws.com/docs/LBCE_1994-5-5.pdf|url-status=dead|archive-date=2 April 2015|title=London Borough Council Elections - 5 May 1994|access-date=28 May 2024|publisher=London Research Centre|website=London Datastore|first1=Michael|last1=Minors|first2=Dennis|last2=Grenham|pages=120-123, 210-211}}</ref><ref name="electionsCentre">{{cite web|url=https://www.electionscentre.co.uk/wp-content/uploads/2015/06/Lambeth-1964-2010.pdf|title=London Borough of Lambeth Election Results 1964-2010|access-date=28 May 2024|publisher=[[Plymouth University]]|website=Elections Centre|first1=Colin|last1=Rallings|first2=Michael|last2=Thrasher|pages=9-11}}</ref>}}
+{{Election Summary Party|party      = Labour Party (UK)
+  |seats      = 24
+  |gain       =4
+  |loss       =16
+  |net        = {{decrease}} 12
+  |seats %    = 37.50
+  |votes %    = 36.37
+  |votes      =72,736 
+  |plus/minus ={{decrease}} 11.93 
+}}
+{{Election Summary Party|party      = Liberal Democrats (UK)
+  |seats      = 24
+  |gain       = 15 
+  |loss       = 0
+  |net        = {{increase}} 15
+  |seats %    = 37.50
+  |votes %    = 33.51
+  |votes      = 67,009 
+  |plus/minus = {{increase}} 22.15 
+}}
+{{Election Summary Party|party      = Conservative Party (UK)
+  |seats      = 16
+  |gain       = 4
+  |loss       = 5
+  |net        = {{decrease}} 1
+  |seats %    = 25.00
+  |votes %    = 26.35
+  |votes      = 52,689 
+  |plus/minus = {{decrease}} 9.37
+}}
+{{Election Summary Party|party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats %    = 0.00
+  |votes %    = 1.62
+  |votes      = 3,243 
+  |plus/minus = {{decrease}} 2.52 
+}}
+{{Election summary party
+  |colour     = grey
+  |other      = Independent Democrat
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        = {{decrease}} 1
+  |seats %    = 0.00
+  |votes %    = 1.44
+  |plus/minus = ''New''
+  |votes      = 2,882
+}}
+{{Election summary party
+  |party      = Militant Labour
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats %    = 0.00
+  |votes      = 957
+  |votes %    = 0.48
+  |plus/minus = ''New''
+}}
+{{Election summary party
+  |party      = Independent politician
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        = {{decrease}} 1
+  |seats %    = 0.00
+  |votes      = 430
+  |votes %    = 0.21
+  |plus/minus = {{increase}} 0.16
+}}
+{{Election summary party
+  |party      = Communist Party of Britain
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats %    = 0.00
+  |votes      = 47
+  |votes %    = 0.02
+  |plus/minus = {{decrease}} 0.09
+}}
+{{Election summary total
+  |seats      = 64
+  |votes      = 199,993
+}}
+
+==Ward results==
+(*) - Indicates an incumbent candidate
+
+(†) - Indicates an incumbent candidate standing in a different ward
+
+=== Angell ===
+{{Election box begin | title= [[Angell (Lambeth ward)|Angell]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=[[Cathy Ashley|Catherine Ashley]]{{superscript|†}}{{refn|group=n|Ashley was a sitting councillor representing the [[Bishop's (ward)|Bishop's ward]]}}|votes=1,188|percentage=44.79|change={{decrease}}11.88}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Charles Fairbank|votes=1,079|percentage=|change=}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Stephen Cooley|votes=1,075|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Raymond Woolford*{{refn|group=n|Woodford was originally elected as a Liberal Democrat to replace Cllr Tuite after his resignation in 1993. However he had the lib dem whip removed prior to the election<ref name="byElection"/>}}|votes=673|percentage=22.88|change=''New''}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Angela Butler|votes=528|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Thomas Butler|votes=506|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Sandra Lawman|votes=506|percentage=18.98|change=''New''}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Smarajit Roy|votes=461|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Marcus Czarnecki|votes=449|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Susan Black|votes=192|percentage=7.72|change={{decrease}} 7.60}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Sheila Angel|votes=165|percentage=5.63|change={{decrease}}12.38}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Hector Helden|votes=136|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Barbara Winbourne|votes=118|percentage=|change=}}
+{{Election box registered electors|reg. electors=7,381|change={{decrease}} 274}}{{Election box turnout|votes=2,666|percentage=36.12|change={{increase}} 1.07}}{{Election box rejected|votes=6|percentage=0.23|change={{increase}} 0.04}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box gain no swing|colour={{party color|Labour Party (UK)}}|winner=[[Labour Party (UK)|Labour]]|loser=Independent Democrat}}{{Election box end}}
+
+=== Bishop's ===
+{{Election box begin | title= [[Bishop's (ward)|Bishop's]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Sally Prentice*{{refn|group=n|Prentice replaced Cllr Nicholas after his death in 1993<ref name="byElection"/>}}|votes=1,787|percentage=56.94|change={{increase}}44.57}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Peter Truesdale|votes=1,599|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Gilbert Williams|votes=1,573|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Pauline Anderson|votes=1,027|percentage=33.79|change={{decrease}}22.34}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Marilyn Evers*|votes=961|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Amelia Brett|votes=956|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Charles Holt|votes=144|percentage=4.76|change={{decrease}}17.83}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=William Kendall|votes=144|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Peter Wilde|votes=127|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Linda Stacey|votes=84|percentage=2.89|change=''New''}}{{Election box candidate with party link|party=Communist Party of Britain|candidate=Martin Marriott|votes=47|percentage=1.62|change=''New''}}
+{{Election box registered electors|reg. electors=7,189|change={{decrease}} 351}}{{Election box turnout|votes=3,097|percentage=43.08|change={{increase}} 2.18}}{{Election box rejected|votes=2|percentage=0.06|change={{decrease}} 0.07}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+=== Clapham Park ===
+{{Election box begin | title= [[Clapham Park (ward)|Clapham Park]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Ruth Ling|votes=1,435|percentage=38.54|change={{increase}} 2.94}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Jonathan Roberts|votes=1,394|percentage=|change=}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Shelagh Webb|votes=1,357|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Rodney Parker*|votes=1,351|percentage=37.24|change={{decrease}} 6.24}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Amrita Parker*|votes=1,348|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Rodney Shakespeare*|votes=1,346|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Yvonne-Michelle James|votes=938|percentage=24.23|change={{increase}}16.45}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Joyce Young|votes=860|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Colin Kolb|votes=834|percentage=|change=}}
+{{Election box registered electors|reg. electors=8,920|change={{increase}} 112}}{{Election box turnout|votes=3,972|percentage=44.53|change={{decrease}} 3.19}}{{Election box rejected|votes=2|percentage=0.05|change={{decrease}} 0.16}}{{Election box gain with party link no swing|winner=Labour Party (UK)|loser=Conservative Party (UK)}}{{Election box gain with party link no swing|winner=Labour Party (UK)|loser=Conservative Party (UK)}}{{Election box gain with party link no swing|winner=Labour Party (UK)|loser=Conservative Party (UK)}}{{Election box end}}
+
+=== Clapham Town ===
+{{Election box begin | title= [[Clapham Town (ward)|Clapham Town]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Joseph Callinan*|votes=1,327|percentage=36.87|change={{decrease}} 8.44}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Bernard Gentry|votes=1,314|percentage=36.06|change={{decrease}} 0.40}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=[[Michael English (politician)|Michael English]]*|votes=1,251|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Desmond Hall*|votes=1,240|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Andrew Hayes|votes=1,222|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Swannick|votes=1,198|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jason Canty|votes=967|percentage=27.08|change={{increase}}19.66}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Maria Gardner-Brown|votes=938|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=James Manning|votes=900|percentage=|change=}}
+{{Election box registered electors|reg. electors=8,185|change={{increase}} 361}}{{Election box turnout|votes=3,763|percentage=45.97|change={{decrease}} 3.17}}{{Election box rejected|votes=5|percentage=0.13|change={{decrease}} 0.05}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Ferndale ===
+{{Election box begin 
+   | title= [[Ferndale (Lambeth ward)|Ferndale]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>
+}}
+{{Election box winning candidate with party link
+   | party      = Labour Party (UK)
+   | candidate  = Denis Cooper-King*
+   | votes      = 1,453
+   | percentage = 51.29
+   | change     = {{decrease}} 8.66
+}}
+{{Election box winning candidate with party link
+   | party      = Labour Party (UK)
+   | candidate  = John Harrison{{superscript|†}}{{refn|group=n|Harrison was a sitting councillor representing the [[St Martin's (Lambeth ward)|St Martin's ward]]}}
+   | votes      = 1,432
+   | percentage = 
+   | change     = 
+}}
+{{Election box winning candidate with party link
+   | party      = Labour Party (UK)
+   | candidate  = Timothy Murnaghan
+   | votes      = 1,407
+   | percentage = 
+   | change     = 
+}}
+{{Election box candidate with party link
+   | party      = Liberal Democrats (UK)
+   | candidate  = Lindsay Avebury
+   | votes      = 743
+   | percentage = 23.66
+   | change     = {{decrease}}13.49
+}}
+{{Election box candidate with party link
+   | party      = Liberal Democrats (UK)
+   | candidate  = Pavel Pinkava
+   | votes      = 625
+   | percentage = 
+   | change     = 
+}}
+{{Election box candidate with party link
+   | party      = Liberal Democrats (UK)
+   | candidate  = John Siraut
+   | votes      = 612
+   | percentage = 
+   | change     = 
+}}
+{{Election box candidate with party link
+   | party      = Conservative Party (UK)
+   | candidate  = Alison Davis
+   | votes      = 353
+   | percentage = 10.97
+   | change     = {{decrease}} 6.76
+}}
+{{Election box candidate with party link
+   | party      = Green Party of England and Wales
+   | candidate  = Penelope Shepherd
+   | votes      = 300
+   | percentage = 10.75
+   | change     = {{decrease}} 1.41
+}}
+{{Election box candidate with party link
+   | party      = Conservative Party (UK)
+   | candidate  = Marc Longe
+   | votes      = 288
+   | percentage = 
+   | change     = 
+}}
+{{Election box candidate with party link
+   | party      = Conservative Party (UK)
+   | candidate  = James Pollard
+   | votes      = 277
+   | percentage = 
+   | change     = 
+}}
+{{Election box candidate
+   | colour     = grey
+   | party      = Independent Democrat
+   | candidate  = Mary Clark
+   | votes      = 134
+   | percentage = 3.33
+   | change     = ''New''
+}}
+{{Election box candidate
+   | colour     = grey
+   | party      = Independent Democrat
+   | candidate  = Lesley Peters
+   | votes      = 83
+   | percentage = 
+   | change     = 
+}}
+{{Election box candidate
+   | colour     = grey
+   | party      = Independent Democrat
+   | candidate  = Phyllis Nono
+   | votes      = 61
+   | percentage = 
+   | change     = 
+}}
+{{Election box registered electors
+   | reg. electors = 8,633
+   | change        = {{decrease}} 153
+}}
+{{Election box turnout
+   | votes         = 2,858
+   | percentage    = 33.11
+   | change        = {{decrease}} 5.45
+}}
+{{Election box rejected
+   | votes         = 6
+   | percentage    = 0.21
+   | change        = {{decrease}} 0.06
+}}
+{{Election box hold with party link no swing
+   | winner        = Labour Party (UK)
+}}
+{{Election box hold with party link no swing
+   | winner        = Labour Party (UK)
+}}
+{{Election box hold with party link no swing
+   | winner        = Labour Party (UK)
+}}
+{{Election box end}}
+
+=== Gipsy Hill ===
+{{Election box begin | title= [[Gipsy Hill (ward)|Gipsy Hill]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Janet Grigg|votes=1,551|percentage=41.48|change={{increase}} 3.04}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=David Green|votes=1,540|percentage=|change=}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=[[Charles Elphicke]]|votes=1,510|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Stephen Whaley{{superscript|†}}{{refn|group=n|Whaley was a sitting councillor representing the [[Herne Hill (ward)|Herne Hill ward]]}}|votes=1,287|percentage=34.45|change={{decrease}} 8.03}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Marion Schumann{{superscript|†}}{{refn|group=n|Schumann was a sitting councillor representing the [[Tulse Hill (ward)|Tulse Hill ward]]}}|votes=1,268|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Peter Mountford-Smith{{superscript|†}}{{refn|group=n|Mountford-Smith was a sitting Councillor representing the [[Vassall (ward)|Vassall ward]]}}|votes=1,266|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Margaret Pickstone|votes=666|percentage=17.55|change={{increase}} 8.27}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=John Medway|votes=648|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Andrew McClorry|votes=632|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=John Parham|votes=241|percentage=6.52|change={{decrease}} 3.28}}
+{{Election box registered electors|reg. electors=8,696|change={{decrease}} 203}}{{Election box turnout|votes=3,857|percentage=44.35|change={{decrease}} 6.67}}{{Election box rejected|votes=1|percentage=0.03|change={{decrease}} 0.15}}{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+=== Herne Hill ===
+{{Election box begin | title= [[Herne Hill (ward)|Herne Hill]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=James Dickinson*|votes=1,649|percentage=43.73|change={{decrease}} 1.77}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Andrew Roe|votes=1,534|percentage=|change=}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Peter O'Connell|votes=1,500|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Russel A'Court|votes=1,227|percentage=33.00|change={{increase}} 0.93}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Laurence Smith|votes=1,156|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Graham Pycock|votes=1,150|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Andrew Gifford|votes=466|percentage=12.24|change={{increase}} 3.70}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Emma Hewett|votes=465|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Andrew Truslove|votes=381|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Simon Grant|votes=333|percentage=9.33|change={{decrease}} 4.56}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Thomas Lackey|votes=61|percentage=1.71|change=''New''}}
+{{Election box registered electors|reg. electors=7,692|change={{decrease}} 222}}{{Election box turnout|votes=3,573|percentage=46.45|change={{decrease}} 1.84}}{{Election box rejected|votes=7|percentage=0.20|change={{decrease}} 0.10}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Knight's Hill ===
+{{Election box begin | title= [[Knight's Hill (ward)|Knight's Hill]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Peter Evans*|votes=1,554|percentage=44.73|change={{increase}} 3.53}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Hugh Chambers{{superscript|†}}{{refn|group=n|Chambers was a sitting councillor representing the [[Streatham Wells (ward)|Streatham Wells ward]]}}|votes=1,547|percentage=|change=}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Jonathan Driver|votes=1,516|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=William Hynes|votes=1,222|percentage=33.28|change={{decrease}} 4.08}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Lloyd Leon|votes=1,136|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=John Ohen|votes=1,078|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Helen Kemp|votes=800|percentage=22.00|change={{increase}}12.76}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Malcolm Baines|votes=783|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Manjula Roy|votes=687|percentage=|change=}}
+{{Election box registered electors|reg. electors=9,157|change={{increase}} 46}}{{Election box turnout|votes=3,865|percentage=42.21|change={{decrease}} 7.15}}{{Election box rejected|votes=6|percentage=0.16|change={{increase}} 0.05}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Larkhall ===
+{{Election box begin | title= [[Larkhall (Lambeth ward)|Larkhall]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Margaret Jones|votes=1,277|percentage=45.88|change={{decrease}}11.88}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Elizabeth Tapsell*|votes=1,136|change=|percentage=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Maurice Cronly|votes=1,121|percentage=42.68|change={{increase}}34.31}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Joan Twelves*|votes=1,115|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Patrick Mitchell|votes=1,088|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Roger Stewart|votes=1.074|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Innes Fleming|votes=261|percentage=9.52|change={{decrease}}12.53}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Tanya Galbraith|votes=236|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Pattman|votes=234|percentage=|change=}}{{Election box candidate |colour=grey|party=Independent Democrat|candidate=Jean Slatter|votes=52|percentage=1.91|change=''New''}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Helen Thompson|votes=48|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Mae Roxburgh|votes=46|percentage=|change=}}
+{{Election box registered electors|reg. electors=8,198|change={{increase}} 830}}{{Election box turnout|votes=2,880|percentage=35.13|change={{decrease}} 4.38}}{{Election box rejected|votes=7|percentage=0.24|change={{decrease}} 0.04}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+=== Oval ===
+{{Election box begin | title= [[Oval (ward)|Oval]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Marietta Crichton Stuart*{{refn|group=n|Chrichton Stuart replaced Cllr Singh after his resignation in 1993<ref name="byElection"/>}}|votes=1,896|percentage=47.76|change={{increase}}40.28}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Adrian Mayer|votes=1,693|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Andrew Sawdon|votes=1,590|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Colin Adkins|votes=1,064|percentage=28.44|change={{decrease}}18.74}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Rupert Bawden|votes=1,054|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Ambrose Hogan|votes=967|percentage=|change=}}{{Election box candidate with party link|party=Militant Labour|candidate=Steven Nally|votes=310|percentage=8.58|change=''New''}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Andrew Selous|votes=279|percentage=7.30|change={{decrease}}16.42}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Harriet Selous|votes=260|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Andrew Dunnett|votes=254|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Martin Wilks|votes=236|percentage=6.53|change={{decrease}} 5.19}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Ray Close|votes=50|percentage=1.38|change=''New''}}
+{{Election box registered electors|reg. electors=7,979|change={{decrease}} 224}}{{Election box turnout|votes=3,596|percentage=45.07|change={{increase}} 3.99}}{{Election box rejected|votes=4|percentage=0.11|change={{decrease}} 0.04}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+=== Prince's ===
+{{Election box begin | title= [[Prince's (ward)|Prince's]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Michael Tuffrey*|votes=1,782|percentage=62.23|change={{increase}}17.33}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Roger Liddle*|votes=1,736|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Keith Fitchett|votes=1,663|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Peter Garvey|votes=835|percentage=28.83|change={{decrease}} 3.73}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Michael Leyland|votes=794|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Raymond Chant|votes=770|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Paul Giles|votes=204|percentage=7.10|change={{decrease}} 6.47}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Jeremy Galbraith|votes=193|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Elizabeth Gibson|votes=193|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Anita Coleman|votes=51|percentage=1.83|change=''New''}}
+{{Election box registered electors|reg. electors=6,139|change={{decrease}} 130}}{{Election box turnout|votes=2,952|percentage=48.09|change={{decrease}} 3.99}}{{Election box rejected|votes=4|percentage=0.14|change={{decrease}} 0.01}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+=== St Leonard's ===
+{{Election box begin | title= [[St Leonard's (ward)|St Leonard's]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=David Griffiths*|votes=1,448|percentage=43.79|change={{decrease}} 5.17}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Hugh Jones*|votes=1,378|percentage=|change=}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Nicholas McKay|votes=1,339|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Robert Doyle|votes=1,142|percentage=34.10|change={{increase}}25.86}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Jeremy Halley|votes=1,079|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Rajnikant Patel|votes=1,022|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Nicoal Billington|votes=741|percentage=22.11|change={{decrease}}11.00}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Peter Simpson|votes=700|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Mohammed Abu-Bakr|votes=663|percentage=|change=}}
+{{Election box registered electors|reg. electors=7,934|change={{increase}} 54}}{{Election box turnout|votes=3,502|percentage=44.13|change={{decrease}} 0.98}}{{Election box rejected|votes=10|percentage=0.29|change={{increase}} 0.09}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== St Martin's ===
+{{Election box begin | title= [[St Martin's (Lambeth ward)|St Martin's]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Thomas Franklin|votes=1,221|percentage=37.96|change={{decrease}} 5.34}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Anthony Green*{{refn|group=n|Green replaced Cllr Smith after her resignation in 1991<ref name="byElection"/>}}|votes=1,179|percentage=37.05|change={{decrease}} 0.55}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Toren Smith|votes=1,168|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Richard Coombs|votes=1,143|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Donatus Anyanwu|votes=1,133|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Peter Cannon|votes=1,117|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Vivienne Baines|votes=545|percentage=16.62|change={{increase}} 7.04}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=John Waite|votes=504|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Henry Ward|votes=494|percentage=|change=}}{{Election box candidate with party link|party=Independent politician|candidate=David Gardiner|votes=162|percentage=5.23|change=''New''}}{{Election box candidate with party link|party=Independent politician|candidate=Irene Hawkins|votes=97|percentage=3.14|change=''New''}}
+{{Election box registered electors|reg. electors=7,459|change={{decrease}} 587}}{{Election box turnout|votes=3,232|percentage=43.33|change={{decrease}} 2.01}}{{Election box rejected|votes=2|percentage=0.06|change={{decrease}} 0.14}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Stockwell ===
+{{Election box begin | title= [[Stockwell (ward)|Stockwell]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Christopher Barker|votes=1,560|percentage=48.24|change={{increase}}40.25}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Alan Bevan|votes=1,495|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Anthony Bottrall|votes=1,457|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Simon Adams*{{refn|group=n|Adams replaced Cllr Mallett after his resignation in 1992<ref name="byElection"/>}}|votes=1,041|percentage=32.23|change={{decrease}}20.55}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Janet Crook{{superscript|†}}{{refn|group=n|Crook was a sitting councillor representing the [[Oval (ward)|Oval ward]]}}|votes=1,008|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=John McCay*|votes=967|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Keith Best|votes=492|percentage=14.05|change={{decrease}}13.92}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Syed Kamall|votes=424|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Richard Patient|votes=399|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Peter Crush|votes=123|percentage=3.94|change={{decrease}} 8.02}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Mercy Afari|votes=48|percentage=1.54|change=''New''}}
+{{Election box registered electors|reg. electors=7,249|change={{increase}} 45}}{{Election box turnout|votes=3,287|percentage=45.34|change={{increase}} 1.52}}{{Election box rejected|votes=4|percentage=0.12|change={{decrease}} 0.01}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+=== Streatham Hill ===
+{{Election box begin | title= [[Streatham Hill (ward)|Streatham Hill]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=John Badescu*{{refn|group=n|Badescu replaced Cllr Hutchens after her resignation in 1993<ref name="byElection"/>}}|votes=2,087|percentage=54.44|change={{increase}}41.55}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Jeremy Coninx*{{refn|group=n|Coninx replaced Cllr Sharvill after his resignation in 1992<ref name="byElection"/>}}|votes=2,079|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=David Trott|votes=1,964|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Patrick Byrne|votes=792|percentage=20.30|change={{decrease}}12.97}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Clare Moore|votes=790|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Bloomfield|votes=763|percentage=19.61|change={{decrease}}23.22}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Kenneth Graham|votes=726|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Steven Stanbury|votes=718|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Amanda Waring|votes=703|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Andrew Keen|votes=212|percentage=5.65|change={{decrease}} 5.36}}
+{{Election box registered electors|reg. electors=8,968|change={{decrease}} 79}}{{Election box turnout|votes=3,973|percentage=44.30|change={{decrease}} 5.78}}{{Election box rejected|votes=5|percentage=0.13|change={{decrease}} 0.05}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+=== Streatham South ===
+{{Election box begin | title= [[Streatham South (ward)|Streatham South]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Simon Hooberman*|votes=1,834|percentage=48.83|change={{increase}} 0.52}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Edward Castle*|votes=1,822|percentage=|change=}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Anthony Bays*|votes=1,810|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Andrew Hill|votes=1,330|percentage=34.17|change={{decrease}} 1.45}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Amanda Morgan|votes=1,251|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Michael Correa|votes=1,244|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Valerie Collins|votes=687|percentage=16.99|change={{increase}} 8.42}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Paul James|votes=608|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Irene Yarwood|votes=608|percentage=|change=}}
+{{Election box registered electors|reg. electors=8,127|change={{decrease}} 53}}{{Election box turnout|votes=4,039|percentage=49.70|change={{decrease}} 1.59}}{{Election box rejected|votes=5|percentage=0.12|change={{decrease}} 0.09}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Streatham Wells ===
+{{Election box begin | title= [[Streatham Wells (ward)|Streatham Wells]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Julian Heather*|votes=1,972|percentage=46.05|change={{increase}}14.69}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Daphne Hayes-Mojon|votes=1,877|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Michael Young|votes=1,842|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Robert Greenwood*|votes=1,214|percentage=28.60|change={{decrease}} 3.45}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Richard Hope|votes=1,171|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Gianfranco Letizia|votes=1,149|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Robert Hill|votes=836|percentage=19.54|change={{decrease}} 8.96}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Shirley Hill|votes=826|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Esme Hilliard|votes=752|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Richard Coles|votes=239|percentage=5.80|change={{decrease}} 2.29}}
+{{Election box registered electors|reg. electors=9,619|change={{increase}} 28}}{{Election box turnout|votes=4,319|percentage=44.90|change={{decrease}} 4.94}}{{Election box rejected|votes=10|percentage=0.23|change={{increase}} 0.17}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Liberal Democrats (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Conservative Party (UK)}}{{Election box end}}
+
+=== Thornton ===
+{{Election box begin | title= [[Thornton (ward)|Thornton]] (2)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Maltby Pindar|votes=1,244|percentage=39.26|change={{increase}}33.40}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=David Warner|votes=1,204|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Rudolph Daley*|votes=1,065|percentage=33.26|change={{decrease}} 9.14}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Ty Goddard|votes=1,009|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Roger Bennett|votes=718|percentage=22.00|change={{decrease}}21.62}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Oliver Lodge|votes=653|percentage=|change=}}{{Election box candidate with party link|party=Independent politician|candidate=Ronald Bird*|votes=171|percentage=5.48|change=''New''}}
+{{Election box registered electors|reg. electors=5,886|change={{increase}} 140}}{{Election box turnout|votes=3,202|percentage=54.40|change={{decrease}} 0.93}}{{Election box rejected|votes=8|percentage=0.25|change={{increase}} 0.09}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Independent politician}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+=== Thurlow ===
+{{Election box begin | title= [[Thurlow Park (ward)|Thurlow Park]] (2)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Clare Whelan*|votes=1,402|percentage=55.72|change={{increase}} 2.44}}{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=John Whelan*|votes=1,364|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Maureen Mele|votes=593|percentage=23.73|change={{increase}}13.30}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Andrew Thurburn|votes=585|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Ian Darby|votes=524|percentage=20.55|change={{decrease}} 7.07}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Noshirwan Patel|votes=496|percentage=|change=}}
+{{Election box registered electors|reg. electors=5,375|change={{decrease}} 98}}{{Election box turnout|votes=2,662|percentage=49.53|change={{decrease}} 4.35}}{{Election box rejected|votes=5|percentage=0.19|change={{increase}} 0.09}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box hold with party link no swing|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Town Hall ===
+{{Election box begin | title= [[Town Hall (Lambeth ward)|Town Hall]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Geraldine Curtis|votes=1,647|percentage=47.45|change={{decrease}} 2.49}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Geoffrey Wilkinson*|votes=1,637|percentage=|change=}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Christopher Cattermole*{{refn|group=n|Cattermole replaced Cllr Sorabji after his resignation in 1991<ref name="byElection"/>}}|votes=1,623|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Egbert Christie|votes=736|percentage=21.03|change={{decrease}} 7.29}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Baron|votes=735|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Elsie Binder|votes=706|percentage=18.18|change={{increase}}11.60}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Roger Barnes|votes=705|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Duncan Brack|votes=596|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Henry Young|votes=580|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Rogert Baker|votes=460|percentage=13.34|change={{decrease}} 1.82}}
+{{Election box registered electors|reg. electors=9,053|change={{increase}} 60}}{{Election box turnout|votes=3,531|percentage=39.00|change={{decrease}} 6.19}}{{Election box rejected|votes=3|percentage=0.08|change={{decrease}} 0.17}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Tulse Hill ===
+{{Election box begin | title= [[Tulse Hill (ward)|Tulse Hill]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Daniel Hughes|votes=1,651|percentage=45.02|change={{decrease}} 8.27}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=David Salisbury-Jones|votes=1,525|percentage=|change=}}{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Pauline Watson{{superscript|†}}{{refn|group=n|Watson was a sitting councillor representing the [[Vassall (ward)|Vassall ward]]}}|votes=1,486|percentage=|change=}}{{Election box candidate with party link|party=Militant Labour|candidate=Anne Hollifield|votes=647|percentage=18.74|change=''New''}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Lucy Gilbert|votes=513|percentage=14.28|change={{increase}} 5.42}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Laura Morland|votes=485|percentage=|change=}}{{Election box candidate with party link|party=Liberal Democrats (UK)|candidate=Timothy Evans|votes=481|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Paulka Watson|votes=393|percentage=9.59|change={{decrease}} 6.62}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Anthony Jones|votes=390|percentage=10.14|change={{decrease}} 5.16}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Deborah Green|votes=347|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Charles Lidell-Grainger|votes=313|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=William Collins|votes=268|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Catherine Valentine|votes=77|percentage=2.23|change=''New''}}
+{{Election box registered electors|reg. electors=8,091|change={{increase}} 290}}{{Election box turnout|votes=3,140|percentage=38.81|change={{decrease}} 3.68}}{{Election box rejected|votes=10|percentage=0.32|change={{increase}} 0.14}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box hold with party link no swing|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Vassall ===
+{{Election box begin | title= [[Vassall (ward)|Vassall]] (3)<ref name="electionResults"/><ref name="electionsCentre"/>}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=John Denny|votes=1,375|percentage=43.27|change={{increase}}37.64}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Geoffrey Bowring|votes=1,359|percentage=|change=}}{{Election box winning candidate with party link|party=Liberal Democrats (UK)|candidate=Brian Jennings|votes=1,303|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Benn Eshun|votes=1,195|percentage=36.13|change={{decrease}}21.00}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Stephen Glazier|votes=1,113|percentage=|change=}}{{Election box candidate with party link|party=Labour Party (UK)|candidate=Alexander McKenna|votes=1,065|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Judith Pattman|votes=274|percentage=8.61|change={{decrease}}16.27}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Anthony Shakespeare|votes=271|percentage=|change=}}{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Henrietta Royle|votes=259|percentage=|change=}}{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Tean Mitchell|votes=246|percentage=7.91|change={{decrease}} 4.45}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=Stephen Chamberlain|votes=144|percentage=4.08|change=''New''}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=James Diaper|votes=124|percentage=|change=}}{{Election box candidate|colour=grey|party=Independent Democrat|candidate=George Anagnos|votes=112|percentage=|change=}}
+{{Election box registered electors|reg. electors=8,898|change={{decrease}} 313}}{{Election box turnout|votes=3,223|percentage=36.22|change={{decrease}} 2.60}}{{Election box rejected|votes=2|percentage=0.06|change={{steady}}}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box gain with party link no swing|winner=Liberal Democrats (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+{{reflist}}
+
+{{London elections}}
+{{Greater London elections}}
+{{United Kingdom local elections, 1994}}
+
+{{DEFAULTSORT:Lambeth Council Election, 1994}}
+[[Category:Council elections in the London Borough of Lambeth|1994]]
+[[Category:1994 London Borough council elections]]
+[[Category:20th century in the London Borough of Lambeth]]

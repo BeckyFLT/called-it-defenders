@@ -1,0 +1,94 @@
+{{short description|none}}
+{{Use dmy dates|date=April 2022}}
+'''Elections to [[Lambeth London Borough Council]]''' were held in May 1974.  The whole council was up for election. Turnout was 28.3%. This election was the last one that had [[aldermen]] as well as [[councillors]]. Labour got all 10 aldermen.
+
+==Election result==
+{{Election summary begin|title = Lambeth local election result 1974<ref>{{cite book | last1=Rallings | first1=Colin | author-link=Colin Rallings | first2=Michael | last2=Thrasher| author-link2=Michael Thrasher|  title=Local Elections in Britain: A Statistical Digest|publisher=Local Government Chronicle Elections Centre|year=1993|location=Plymouth}}</ref>}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = '''56'''
+  |gain       =
+  |loss       =
+  |net        = 
+  |seats %    = '''80.0'''
+  |votes %    = '''51.3'''
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 14
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    = 20.0
+  |votes %    = 37.8
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Liberal Party (UK)
+  |seats      = 0
+  |gain       = 
+  |loss       =
+  |net        = 
+  |seats %    = 0.0
+  |votes %    = 8.2
+  |votes      = 
+  |plus/minus = 
+}}
+|}
+
+==Ward results==
+{{Election box begin | title= Angell (3)}}
+{{Election box end}}
+{{Election box begin | title= Bishop's (3)}}
+{{Election box end}}
+{{Election box begin | title= Clapham Park (3)}}
+{{Election box end}}
+{{Election box begin | title= Clapham Town (3)}}
+{{Election box end}}
+{{Election box begin | title= Ferndale (3)}}
+{{Election box end}}
+{{Election box begin | title= Herne Hill (3)}}
+{{Election box end}}
+{{Election box begin | title= Knight's Hill (3)}}
+{{Election box end}}
+{{Election box begin | title= Larkhall (3)}}
+{{Election box end}}
+{{Election box begin | title= Leigham (3)}}
+{{Election box end}}
+{{Election box begin | title= Oval (3)}}
+{{Election box end}}
+{{Election box begin | title= Prince's (3)}}
+{{Election box end}}
+{{Election box begin | title= St Leonard's (3)}}
+{{Election box end}}
+{{Election box begin | title= Stockwell (3)}}
+{{Election box end}}
+{{Election box begin | title= Streatham South (3)}}
+{{Election box end}}
+{{Election box begin | title= Streatham Wells (3)}}
+{{Election box end}}
+{{Election box begin | title= Thornton (3)}}
+{{Election box end}}
+{{Election box begin | title= Thurlow Park (3)}}
+{{Election box end}}
+{{Election box begin | title= Town Hall (3)}}
+{{Election box end}}
+{{Election box begin | title= Tulse Hill (3)}}
+{{Election box end}}
+{{Election box begin | title= Vassall (3)}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{London elections}}
+{{Greater London elections}}
+{{United Kingdom local elections, 1974}}
+
+{{DEFAULTSORT:Lambeth Council Election, 1974}}
+[[Category:Council elections in the London Borough of Lambeth|1974]]
+[[Category:1974 London Borough council elections]]
+[[Category:20th century in the London Borough of Lambeth]]

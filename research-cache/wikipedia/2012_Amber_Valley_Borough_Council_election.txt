@@ -1,0 +1,831 @@
+{{Short description|UK local government election}}
+{{Use dmy dates|date=May 2023}}
+{{Use British English|date=November 2013}}
+{{Multiple issues|
+{{cleanup|reason=empty cells in tables (rows/columns should either be filled or removed)|date=January 2013}}
+{{more citations needed|date=January 2013}}
+}}
+[[File:Amber Valley wards 2012.svg|thumb|right|300px|2012 local election results in Amber Valley]]
+'''Elections to [[Amber Valley]] Borough Council''' in [[Derbyshire|Derbyshire, England]] took place on Thursday 3 May 2012. One third of the council was up for election and the [[Conservative Party (UK)|Conservative Party]] held overall control of the council. Overall turnout in this election was 33.28 per cent.
+
+After the election, the composition of the council was:
+* [[Conservative Party (UK)|Conservative]] 24
+* [[Labour Party (UK)|Labour]] 21
+
+==Election result==
+{{Election summary begin|title = Amber Valley election result 2012}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 10
+  |gain       = 6
+  |loss       = 0
+  |net        = +6
+  |seats %    = 62.5
+  |votes %    = 50.4
+  |votes      = 12,068
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 6
+  |gain       = 0
+  |loss       = 4
+  |net        = -4
+  |seats %    = 37.5
+  |votes %    = 36.4
+  |votes      = 8,704
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 4.8
+  |votes      = 1,153
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = British National Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 2
+  |net        = -2
+  |seats %    = 0
+  |votes %    = 4.1
+  |votes      = 990
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 1.6
+  |votes      = 386
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 1.4
+  |votes      = 328
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 0.9
+  |votes      = 210
+  |plus/minus =
+}}
+{{Election summary party|
+  |party      = National Front (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 0.4
+  |votes      = 99
+  |plus/minus =
+}}
+{{Election box end}}
+
+===Ward results===
+{{Election box begin | title=Alfreton}}
+
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Marlene Bennett
+  |votes      =  1202
+  |percentage = 69.2
+  |change     = 20.8
+}}{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kat Moss
+  |votes      = 447
+  |percentage = 25.73
+  |change     = -14.41
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Peter Jelf
+  |votes      = 75
+  |percentage = 4.32
+  |change     = -10.39
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 755
+ |percentage  = 43.47
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1737 of 6307
+  |percentage = 27.54%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Belper Central}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Nelson
+  |votes      = 627
+  |percentage = 42.19
+  |change     = -18.73
+}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Ben Bellamy
+  |votes      =  450
+  |percentage = 30.28
+  |change     = 10.57
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales 
+  |candidate  = Dave Wells
+  |votes      = 328
+  |percentage = 22.07
+  |change     = 2.16
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Jane Benson
+  |votes      = 71
+  |percentage = 4.78
+  |change     = 0.05
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 177
+ |percentage  = 11.91
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1486 of 4357
+  |percentage = 34.11%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Belper North}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Alan Cox
+  |votes      = 647
+  |percentage = 44.1
+  |change     = -6.96
+}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Erik Johnsen
+  |votes      = 584
+  |percentage = 39.81
+  |change     = 21.71
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Jeremy Benson
+  |votes      = 226
+  |percentage = 15.41
+  |change     = -2.26
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 63
+ |percentage  = 4.29
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1467 of 4068
+  |percentage = 36.06%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Codnor and Waingroves}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Christopher Emmas-Williams
+  |votes      = 825
+  |percentage = 57.94
+  |change     = 17.73
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Phillips-Forsyth
+  |votes      = 339
+  |percentage = 23.81
+  |change     = -17.66
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party 
+  |candidate  = Ann Fox
+  |votes      = 198
+  |percentage = 13.9
+  |change     = 13.9
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Emma Roper
+  |votes      = 59
+  |percentage = 4.14
+  |change     = -16.57
+}}
+
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 486
+ |percentage  = 34.13
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1424 of 3945
+  |percentage = 36.1%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Heage and Ambergate}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Angela Ward
+  |votes      = 668
+  |percentage = 42.44
+  |change     = -28.35
+}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  David Farrelly
+  |votes      = 634
+  |percentage = 40.28
+  |change     = 8.35
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician) 
+  |candidate  = Jack Evans
+  |votes      = 210
+  |percentage = 13.34
+  |change     = 13.34
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Rodney Tomkins
+  |votes      = 57
+  |percentage = 3.62
+  |change     = 3.62
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 34
+ |percentage  = 2.16
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1574 of 4100
+  |percentage = 38.39%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Heanor and Loscoe}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Alan Longdon
+  |votes      = 783
+  |percentage = 56.82
+  |change     = 21.45
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ella McManus
+  |votes      = 350
+  |percentage = 25.4
+  |change     = -3.92
+}}
+{{Election box candidate with party link|
+  |party      = British National Party
+  |candidate  = Ken Cooper
+  |votes      = 245
+  |percentage = 17.78
+  |change     = -17.51
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 433
+ |percentage  = 31.42
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1385 of 4137
+  |percentage = 33.48%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Heanor East}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Phil Hill
+  |votes      =  744
+  |percentage = 52.37
+  |change     = 21.18
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Gary Wells
+  |votes      = 391
+  |percentage = 26.15
+  |change     = -6.72
+}}
+{{Election box candidate with party link|
+  |party      = British National Party 
+  |candidate  = Cliff Roper
+  |votes      = 384
+  |percentage = 19
+  |change     = -17.46
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Keith Falconbridge
+  |votes      = 69
+  |percentage = 4.62
+  |change     = 0.05
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 351
+ |percentage  = 26.22
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1495 of 4606
+  |percentage = 32.46%
+  |change     =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = British National Party
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Heanor West}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Bob Janes
+  |votes      = 838
+  |percentage = 56.2
+  |change     = 25.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Iliffe
+  |votes      = 381
+  |percentage = 25.55
+  |change     = 3.56
+}}
+{{Election box candidate with party link|
+  |party      = British National Party 
+  |candidate  = Adrian Hickman
+  |votes      = 272
+  |percentage = 18.24
+  |change     = -21.16
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 457
+ |percentage  = 30.65
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1500 of 4774
+  |percentage = 31.42%
+  |change     =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = British National Party
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ironville and Riddings}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Roy Walker
+  |votes      = 705
+  |percentage = 47
+  |change     = 5.59
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jack Brown
+  |votes      = 688
+  |percentage = 45.87
+  |change     = -22.59
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Ollie Smith
+  |votes      = 97
+  |percentage = 6.47
+  |change     = 6.47
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 17
+ |percentage  = 1.13
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1500 of 4675
+  |percentage = 32.09%
+  |change     =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Kilburn, Denby and Holbrook}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Charles Bull
+  |votes      = 1071
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK) 
+  |candidate  = Kevin Buttery
+  |votes      = 1066
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK) 
+  |candidate  = John Banks
+  |votes      = 871
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Matthew Cruckshank
+  |votes      = 811
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Margaret Tomkins
+  |votes      = 215
+  |percentage =
+  |change     =
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 195
+ |percentage  =
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 2192 of 6226
+  |percentage = 35.21%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Langley Mill & Aldercar}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Brian Gration
+  |votes      = 688
+  |percentage = 60.51
+  |change     = 18.23
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Terry Thorpe
+  |votes      = 354
+  |percentage = 31.13
+  |change     = -13.34
+}}
+{{Election box candidate with party link|
+  |party      = National Front (UK)
+  |candidate  = Timothy Knowles
+  |votes      = 99
+  |percentage = 8.7
+  |change     = -12.8
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 334
+ |percentage  = 29.38
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1137 of 4104
+  |percentage = 27.70
+  |change     =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ripley}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Tony Holmes
+  |votes      = 1409
+  |percentage = 57.79
+  |change     = 27.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Bowley
+  |votes      = 905
+  |percentage = 37.12
+  |change     = -22.81
+}}
+
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Paul Gibbons
+  |votes      = 106
+  |percentage = 4.35
+  |change     = -5.5
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 504
+ |percentage  = 20.67
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 2438 of 7060
+  |percentage = 34.73
+  |change     =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ripley & Marehay}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Mick Wilson
+  |votes      = 891
+  |percentage = 51
+  |change     = 22.28
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ron Ashton
+  |votes      = 638
+  |percentage = 36.52
+  |change     = -22.81
+}}
+{{Election box candidate with party link|
+  |party      = British National Party 
+  |candidate  = Alan Edwards
+  |votes      = 130
+  |percentage = 7.44
+  |change     = -21.02
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Michael Bedford
+  |votes      = 76
+  |percentage = 4.35
+  |change     = 4.35
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 253
+ |percentage  = 14.48
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1747 of 4670
+  |percentage = 37.41
+  |change     =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Shipley Park, Horsley and Horsley Woodhouse}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  =  Alex Stevenson
+  |votes      = 971
+  |percentage = 57.87
+  |change     = 7.13
+}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  Stephen Holden
+  |votes      = 587
+  |percentage = 34.98
+  |change     = 0.11
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Kate Smith
+  |votes      = 104
+  |percentage = 6.2
+  |change     = 6.2
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 404
+ |percentage  = 22.88
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1678 of 4621
+  |percentage = 36.71%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Somercotes}}
+{{Election box candidate with party link|
+  |party      =  Labour Party (UK)
+  |candidate  =  John McCabe
+  |votes      = 857
+  |percentage = 64.19
+  |change     = 17.36
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  =  Ian Smith
+  |votes      = 226
+  |percentage = 16.93
+  |change     = -11.59
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party 
+  |candidate  = Paul Bailey
+  |votes      = 188
+  |percentage = 14.08
+  |change     = 14.08
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK) 
+  |candidate  = Joel Hunt
+  |votes      = 57
+  |percentage = 4.2
+  |change     = -12
+}}
+{{Election box rejected
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority|
+ |votes       = 631
+ |percentage  = 47.26
+ |change      =
+}}
+{{Election box turnout|
+  |votes      = 1335 of 4754
+  |percentage = 28.08%
+  |change     =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+* [https://webarchive.nationalarchives.gov.uk/ukgwa/20120829130937mp_/http://www.ambervalley.gov.uk/council%2Dand%2Ddemocracy/councillors%2C%2Ddemocracy%2Dand%2Delections/elections/local%2Delections/election%2Dresults%2D3%2Dmay%2D2012.aspx]
+
+{{Derbyshire elections}}
+{{United Kingdom local elections, 2012}}
+
+[[Category:2012 English local elections|Amber Valley]]
+[[Category:Amber Valley Borough Council elections|2012]]
+[[Category:2010s in Derbyshire|Amber Valley Borough Council election, 2012]]

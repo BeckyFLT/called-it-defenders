@@ -1,0 +1,45 @@
+{{Short description|1999 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+The '''1999 Amber Valley Borough Council election''' took place on 6 May 1999 to elect members of [[Amber Valley]] [[Borough status in the United Kingdom|Borough]] Council in [[Derbyshire]], [[England]]. One third of the council was up for election and the [[Labour Party (UK)|Labour Party]] stayed in overall control of the council.<ref name="hold">{{cite news|url=https://news.bbc.co.uk/hi/english/static/vote_99/locals_99/html/constituency/4.stm|title=Amber Valley|publisher=[[BBC News Online]]|access-date=15 May 2011}}</ref>
+
+After the election, the composition of the council was
+*[[Labour Party (UK)|Labour]] 32
+*[[Conservative Party (UK)|Conservative]] 11<ref name="britain">{{cite news|title=How Britain voted: Council Election Results|date=8 May 1999|work=[[The Independent]]|page=12}}</ref>
+
+==Election result==
+
+{{Election Summary Begin|title = Amber Valley local election result 1999<ref name="nations">{{cite news|title=How the nations voted|date=8 May 1999|work=[[The Times]]|page=48}}</ref>}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 8
+  |gain       =
+  |loss       =
+  |net        = -3
+  |seats %    = 53.3
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 7
+  |gain       = 
+  |loss       =
+  |net        = +3
+  |seats %    = 46.7
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Derbyshire elections}}
+{{United Kingdom local elections, 1999}}
+
+[[Category:Amber Valley Borough Council elections|1999]]
+[[Category:1999 English local elections]]
+[[Category:1990s in Derbyshire]]

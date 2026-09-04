@@ -1,0 +1,492 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2013}}
+{{Use British English|date=December 2013}}
+{{Infobox election
+| election_name = 2002 Lambeth Council election
+| country = 
+| type = parliamentary
+| ongoing = no
+| party_colour = Labour Party (UK)
+| previous_election = 1998 Lambeth Council election
+| previous_year = 1998
+| next_election = 2006 Lambeth Council election
+| next_year = 2006
+| seats_for_election = All 63 council seats
+| election_date = 2 May 2002
+| turnout = <!--      Liberal Democrats      -->
+| image1 = <div style="width:120px;"><span style="line-height:160px; vertical-align:center; text-align:center; color:{{party color|Liberal Democrats (UK)}}; font-size:38px;"> '''Lib'''</span></div>
+| leader1 = Peter Truesdale
+| leader_since1 = 1998
+| party1 = Liberal Democrats (UK)
+| leaders_seat1 = [[Bishop's (ward)|Bishop's]]
+| last_election1 = 
+| seats1 = 28
+| seat_change1 = {{increase}}10
+| popular_vote1 = 18,647
+| percentage1 = 33.3%
+| swing1 = <!--      Labour     -->
+| image2 = <div style="width:120px;"><span style="line-height:160px; vertical-align:center; text-align:center; color:{{party color|Labour Party (UK)}}; font-size:38px;"> '''Lab'''</span></div>
+| leader2 = Tom Franklin
+| leader_since2 = May 2000
+| party2 = Labour Party (UK)
+| leaders_seat2 = [[Tulse Hill (ward)|Tulse Hill]]
+| last_election2 = 
+| seats2 = 28
+| seat_change2 = {{decrease}}13
+| popular_vote2 = '''20,503'''
+| percentage2 = '''36.6%'''
+| swing2 = <!--      Conservative      -->
+| image3 = <div style="width:120px;"><span style="line-height:160px; vertical-align:center; text-align:center; color:{{party color|Conservative Party (UK)}}; font-size:38px;"> '''Con'''</span></div>
+| leader3 = John Whelan
+| leader_since3 = 1998
+| party3 = Conservative Party (UK)
+| leaders_seat3 = [[Thurlow Park (ward)|Thurlow Park]]
+| last_election3 = 
+| seats3 = 7
+| seat_change3 = {{increase}}2
+| popular_vote3 = 9,080
+| percentage3 = 16.2%
+| swing3 = 
+| map_image = Lambeth London UK local election 2002 map.svg
+| map_size = 300px
+| map_caption = Map of the results of the 2002 Lambeth council election. [[Conservative Party (UK)|Conservatives]] in blue, [[Labour Party (UK)|Labour]] in red and [[Liberal Democrats (UK)|Liberal Democrats]] in yellow.
+| title = Leader of Largest Party
+| posttitle = Subsequent Leader of Largest Party
+| before_election = Tom Franklin
+| before_party = Labour Party (UK)
+| after_election = Peter Truesdale
+| after_party = Liberal Democrats (UK)
+| flag_image = Coat of Arms of the London Borough of Lambeth.svg
+}}
+
+'''Elections to [[Lambeth London Borough Council]]''' were held on 2 May 2002. The whole council was up for election with boundary changes reducing the number of councillors by one since the last election in [[1998 Lambeth Council election|1998]].<ref name=lose>{{cite news| url = https://news.bbc.co.uk/hi/english/static/vote2002/local_elections/82.stm | title = Lambeth | access-date = 2009-08-15 | work = [[BBC News Online]]}}</ref> [[Labour Party (UK)|Labour]] despite having the largest number of votes with 36.6% of the vote, it still lost 13 seats, while the [[Liberal Democrats (UK)|Liberal Democrats]] and the [[Conservative Party (UK)|Conservative Party]] gained seats, resulting in [[Labour Party (UK)|Labour]] losing control of the Council and no party having a majority.<ref name=lose/>
+
+Following the election, the Liberal Democrats and Conservatives formed a coalition to run the council with Cllr Peter Truesdale, Liberal Democrat, as Leader and Cllr John Whelan, Conservative, as Deputy Leader.
+
+==Election result==
+{{Election Summary Begin|title = Lambeth local election result 2002}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 28
+  |gain       =
+  |loss       =
+  |net        = -13
+  |seats %    = 44.4
+  |votes %    = '''36.6'''
+  |votes      = '''20,503''' 
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 28
+  |gain       =
+  |loss       =
+  |net        = +10
+  |seats %    = 44.4
+  |votes %    = 33.3
+  |votes      = 18,647 
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 7
+  |gain       =
+  |loss       =
+  |net        = +2
+  |seats %    = 11.1
+  |votes %    = 16.2
+  |votes      = 9,080 
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = ±0
+  |seats %    = 0.0
+  |votes %    = 11.5
+  |votes      = 6,426 
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = Socialist Alliance (England)
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = ±0
+  |seats %    = 0.0
+  |votes %    = 2.1
+  |votes      = 1,178 
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = ±0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 60 
+  |plus/minus =
+}}
+{{Election Summary Party|
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = ±0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 53
+  |plus/minus =
+}}
+|}
+
+==Ward results==
+===Bishop's===
+{{Election box begin | title=Bishop's (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Peter Truesdale|votes=1,123|percentage=20.9|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Charlotte Parry|votes=1,039|percentage=19.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Clive Parry|votes=994|percentage=18.5|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Lorna Campbell|votes=622|percentage=11.6|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Madge McGhie|votes=506|percentage=9.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Lee Seaman|votes=488|percentage=9.1|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Simon Williams|votes=166|percentage=3.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Audrey Blaine|votes=125|percentage=2.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Caroline King|votes=121|percentage=2.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Judith Pattman|votes=106|percentage=2.0|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Veronica Planton|votes=80|percentage=1.5|change=}}
+{{Election box turnout||votes=5,370|percentage=27.3|change=}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}
+{{Election box end}}
+
+===Brixton Hill===
+{{Election box begin | title=Brixton Hill (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Nick Cattermole|votes=1,067|percentage=17.7|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Steve Reed (politician)|Steve Reed]]|votes=1,017|percentage=16.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Lydia Serwaa|votes=1,015|percentage=16.9|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Debbie Dixon|votes=459|percentage=7.6|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Wayne Greening|votes=393|percentage=6.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Elsie Binder|votes=377|percentage=6.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Alexandra Colling|votes=312|percentage=5.2|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Martin Morris|votes=312|percentage=5.2|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Julie Hall|votes=292|percentage=4.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Patrick Butler|votes=272|percentage=4.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Matthew Bartlett|votes=251|percentage=4.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Roland Gilbert|votes=249|percentage=4.1|change=}}
+{{Election box turnout||votes=6,106|percentage=21.8|change=}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}
+{{Election box end}}
+
+===Clapham Common===
+{{Election box begin | title=Clapham Common (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Ruth Ling|votes=972|percentage=12.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Angela Meander|votes=964|percentage=12.2|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Darren Sanders|votes=917|percentage=11.6|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Andy Harrop|votes=863|percentage=10.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Roland Doven|votes=856|percentage=10.8|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Matthew Bryant|votes=839|percentage=10.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Joanna Barker|votes=748|percentage=9.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Anthony Bays|votes=744|percentage=9.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gareth Williams|votes=739|percentage=9.3|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=[[Timothy Beaumont]]|votes=274|percentage=3.5|change=}}
+{{Election box turnout||votes=7,916|percentage=30.1|change=}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}
+{{Election box end}}
+
+===Clapham Town===
+{{Election box begin | title=Clapham Town (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Helen O'Malley|votes=1,179|percentage=15.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Jonathan Myerson]]|votes=1,160|percentage=15.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Bernard Gentry|votes=1,074|percentage=13.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew Hollingsworth|votes=983|percentage=12.8|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Koysor Syed|votes=968|percentage=12.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Edward Heckels|votes=958|percentage=12.4|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Helen Belcher|votes=397|percentage=5.2|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Albere Hanna|votes=382|percentage=5.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Robert Banks|votes=332|percentage=4.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Robert Blackie|votes=259|percentage=3.4|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=James Martin|votes=13|percentage=0.2|change=}}
+{{Election box turnout||votes=7,705|percentage=27.5|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box end}}
+
+===Coldharbour===
+{{Election box begin | title=Coldharbour (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Donatus Anyanwu|votes=989|percentage=21.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Sharon Erdman|votes=949|percentage=20.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Sharon Ward|votes=899|percentage=19.2|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=William Collins|votes=241|percentage=5.1|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Paul Martin|votes=219|percentage=4.7|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Mohammed Sajid|votes=217|percentage=4.6|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Lindsay Avebury|votes=215|percentage=4.6|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Vivienne Baines|votes=203|percentage=4.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Malcolm Baines|votes=181|percentage=3.9|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Theresa Bennett|votes=152|percentage=3.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Nicholas Brown|votes=122|percentage=2.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Glyn Chambers|votes=108|percentage=1.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=[[John Lamont]]|votes=105|percentage=1.8|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Robin Gibson|votes=47|percentage=1.0|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Gary Bruton|votes=43|percentage=0.9|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Darren Iliffe|votes=40|percentage=0.9|change=}}
+{{Election box turnout||votes=4,680|percentage=17.1|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Ferndale===
+{{Election box begin | title=Ferndale (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Imran Hussain|votes=1,031|percentage=21.5|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Paul McGlone|votes=1,021|percentage=21.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Sally Prentice|votes=977|percentage=20.4|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Catherine Cumberbatch-Barnett|votes=340|percentage=7.1|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Patrick Mitchell|votes=314|percentage=6.6|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Jeffrey Dalton|votes=300|percentage=6.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Steven Rhodes|votes=300|percentage=6.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Helen Gentry|votes=171|percentage=3.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Forsdyke|votes=170|percentage=3.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Verity Forsdyke|votes=167|percentage=3.5|change=}}
+{{Election box turnout||votes=4,791|percentage=17.6|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Gipsy Hill===
+{{Election box begin | title=Gipsy Hill (3)}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Janet Grigg|votes=1,579|percentage=18.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Russell A'Court|votes=1,571|percentage=17.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gareth Compton|votes=1,509|percentage=17.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=David Green|votes=1,034|percentage=11.8|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Marcia Cameron|votes=1,001|percentage=11.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=John Muir|votes=899|percentage=10.2|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Jessica Cahill|votes=251|percentage=2.9|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=[[David Boyle (author)|David Boyle]]|votes=237|percentage=2.7|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=David Goodman|votes=182|percentage=2.1|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Peta Cubberley|votes=180|percentage=2.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Kathleen Manuell|votes=178|percentage=2.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Joel Robinson|votes=165|percentage=1.9|change=}}
+{{Election box turnout||votes=8,786|percentage=32.3|change=}}
+{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box end}}
+
+===Herne Hill===
+{{Election box begin | title=Herne Hill (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Jim Dickson (politician)|Jim Dickson]]|votes=1,164|percentage=18.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Kirsty McHugh|votes=1,160|percentage=18.0|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Peter O'Connell|votes=898|percentage=14.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Timothy Summers|votes=609|percentage=9.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Monica Armitage-Smith|votes=511|percentage=7.9|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=[[Julia Goldsworthy]]|votes=486|percentage=7.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Anthony Jones|votes=415|percentage=6.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=James Ford|votes=407|percentage=6.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Edna Richards|votes=397|percentage=6.2|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=James Lundie|votes=389|percentage=6.0|change=}}
+{{Election box turnout||votes=6,436|percentage=21.5|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Knight's Hill===
+{{Election box begin | title=Knight's Hill (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Geraldine Evans|votes=1,331|percentage=17.2|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Robert McConnell|votes=1,263|percentage=16.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Jeremy Baker|votes=1,260|percentage=16.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Tony Grayling|votes=949|percentage=12.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Bill Watling|votes=926|percentage=11.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Robert Hill|votes=908|percentage=11.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Martin Ball|votes=258|percentage=3.3|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Graham Jones|votes=251|percentage=3.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Jessica Lee|votes=250|percentage=3.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Christine Hemmise|votes=245|percentage=3.2|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Leslie Watson|votes=113|percentage=1.5|change=}}
+{{Election box turnout||votes=7,754|percentage=27.4|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===Larkhall===
+{{Election box begin | title=Larkhall (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Kevin Craig|votes=1,307|percentage=19.7|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Joanna Clason|votes=1,256|percentage=18.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Gary Follis|votes=1,190|percentage=17.9|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Monique Blythe|votes=664|percentage=10.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Rosario Munday|votes=631|percentage=9.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Scott McAusland|votes=610|percentage=9.2|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Sally Zlotowitz|votes=260|percentage=3.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Charles Crawford|votes=203|percentage=3.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Charles Pender|votes=200|percentage=3.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=William Trelawny|votes=196|percentage=3.0|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Tina Humphries|votes=127|percentage=1.9|change=}}
+{{Election box turnout||votes=6,644|percentage=22.2|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Oval===
+{{Election box begin | title=Oval (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=[[Marietta Crichton-Stuart]]|votes=1,297|percentage=20.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Geoffrey Bowring|votes=1,178|percentage=18.4|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Andrew Sawdon|votes=1,151|percentage=18.0|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Giacomo Benedetto]]|votes=645|percentage=10.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Patrick Diamond]]|votes=590|percentage=9.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Neil Goulbourne|votes=576|percentage=9.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Brian Heatley|votes=255|percentage=4.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Christopher Sinclair|votes=201|percentage=3.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Arthur Hardman|votes=197|percentage=3.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Penelope Sinclair|votes=184|percentage=2.9|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Andrew Jackson|votes=116|percentage=1.8|change=}}
+{{Election box turnout||votes=6,390|percentage=24.2|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===Prince's===
+{{Election box begin | title=Princes's (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Keith Fitchett|votes=1,444|percentage=16.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Charles Anglin|votes=1,404|percentage=15.8|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Dinti Wakefield|votes=1,402|percentage=15.8|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Stephen Morgan|votes=1,236|percentage=13.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Peter Bowyer|votes=1,185|percentage=13.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Samuel Townend|votes=1,183|percentage=13.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew Hayes|votes=264|percentage=3.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=James Wallace|votes=260|percentage=2.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Simon Allison|votes=250|percentage=2.8|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Kiloran Heckels|votes=242|percentage=2.7|change=}}
+{{Election box turnout||votes=8,870|percentage=34.0|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===St Leonard's===
+{{Election box begin | title=St Leonard's (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Clive Bennett *|votes=1,517|percentage=19.4|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Roger Giess *|votes=1,422|percentage=18.2|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Brian Palmer *|votes=1,419|percentage=18.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Denese Clarke|votes=841|percentage=10.8|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Matthew Salter|votes=813|percentage=10.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Brian Whitington|votes=706|percentage=9.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Anne Kenner|votes=290|percentage=3.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Alastair Hamilton|votes=284|percentage=3.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Nicholas Wailes|votes=280|percentage=3.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Philip Murley|votes=250|percentage=3.6|change=}}
+{{Election box turnout||votes=7,822|percentage=27.0|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===Stockwell===
+{{Election box begin | title=Stockwell (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=[[Anthony Bottrall]]|votes=1,549|percentage=20.6|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Marcus Mayers|votes=1,280|percentage=17.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Gabriel Fernandes|votes=1,219|percentage=16.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Michael English (politician)|Michael English]]|votes=991|percentage=13.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Esther Green|votes=931|percentage=12.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Toaha Qureshi|votes=882|percentage=11.7|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Peter Crush|votes=260|percentage=3.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Judith Collier|votes=167|percentage=2.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=John Midgley|votes=125|percentage=1.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Laura Midgley|votes=124|percentage=1.6|change=}}
+{{Election box turnout||votes=7,528|percentage=29.3|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===Streatham Hill===
+{{Election box begin | title=Streatham Hill (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=June Fewtrell|votes=1,272|percentage=19.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Jeremy Clyne|votes=1,158|percentage=17.6|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Ashley Lumsden|votes=1,120|percentage=17.0|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Alex Ekumah|votes=632|percentage=9.6|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Mohammed Abu-Bakr|votes=631|percentage=9.6|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Daniel Lawuyi|votes=561|percentage=8.5|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Martin Wright|votes=378|percentage=5.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Stanley Davies|votes=287|percentage=4.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Susan Ellis|votes=284|percentage=4.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Peter Younghusband|votes=264|percentage=4.0|change=}}
+{{Election box turnout||votes=6,587|percentage=24.0|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===Streatham South===
+{{Election box begin | title=Streatham South (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Dave Malley|votes=1,188|percentage=14.7|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=John Kazantzis|votes=1,123|percentage=13.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Tim Sargeant|votes=1,093|percentage=13.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Wendy Golding|votes=1,027|percentage=12.7|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Robert Williams|votes=943|percentage=11.7|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Graham Lee|votes=931|percentage=11.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Habib Choudhury|votes=538|percentage=6.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Stephen McMenamin|votes=517|percentage=6.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael Winch|votes=507|percentage=6.3|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Michael O'Gara|votes=208|percentage=2.6|change=}}
+{{Election box turnout||votes=8,075|percentage=30.6|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Streatham Wells===
+{{Election box begin | title=Streatham Wells (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Julian Heather|votes=1,440|percentage=21.4|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Sheila Clarke|votes=1,418|percentage=21.1|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Daphne Hayes-Mojon|votes=1,383|percentage=20.6|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Pius Badejo|votes=555|percentage=8.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=David Walker|votes=528|percentage=7.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Mikis Euripides|votes=501|percentage=7.5|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Sheila Freeman|votes=279|percentage=4.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Amanda Hodgkinson|votes=217|percentage=3.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Lisabeth Liell|votes=211|percentage=3.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Neil Salt|votes=186|percentage=2.8|change=}}
+{{Election box turnout||votes=6,718|percentage=24.9|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box end}}
+
+===Thornton===
+{{Election box begin | title=Thornton (3)}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Pindar|votes=1,291|percentage=16.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Stephen Dering|votes=1,191|percentage=15.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Lib Peck]]|votes=1,142|percentage=14.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Veronica Ijeoma|votes=1,137|percentage=14.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Yemi Adisa-Adesina|votes=1,080|percentage=13.7|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Joe Moll|votes=1,057|percentage=13.4|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=David Ince|votes=277|percentage=3.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Joy Jackson|votes=268|percentage=3.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Roger Bennett|votes=257|percentage=3.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Barbara Winbourne|votes=197|percentage=2.5|change=}}
+{{Election box turnout||votes=7,897|percentage=31.8|change=}}
+{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Liberal Democrats (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Thurlow Park===
+{{Election box begin | title=Thurlow Park (3)}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Clare Whelan|votes=1,484|percentage=19.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=John Whelan|votes=1,437|percentage=19.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Irene Kimm|votes=1,308|percentage=17.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Judith Brodie|votes=684|percentage=9.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=David Rodgers|votes=583|percentage=7.7|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Alan Wilmot|votes=551|percentage=7.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Alan Beadnall|votes=466|percentage=6.2|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Andrew Thurburn|votes=336|percentage=4.5|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Jeremy Hicks|votes=329|percentage=4.4|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Duncan Brack|votes=319|percentage=4.2|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Robin Lambert|votes=53|percentage=0.7|change=}}
+{{Election box turnout||votes=7,550|percentage=29.6|change=}}
+{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box new boundary win|winner=Conservative Party (UK)}}{{Election box end}}
+
+===Tulse Hill===
+{{Election box begin | title=Tulse Hill (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Jackie Meldrum|votes=1,219|percentage=21.0|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Tom Franklin|votes=1,078|percentage=18.6|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Toren Smith|votes=1,017|percentage=17.6|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=John Yates|votes=440|percentage=7.6|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Ann Savage|votes=334|percentage=5.8|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Keith Hatch|votes=333|percentage=5.8|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Roger O'Brien|votes=290|percentage=5.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Karl Davies|votes=285|percentage=4.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Claire Baker|votes=225|percentage=3.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David Owens|votes=215|percentage=3.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Dan Tweyman|votes=184|percentage=3.2|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Gregory Tucker|votes=171|percentage=3.0|change=}}
+{{Election box turnout||votes=5,791|percentage=21.2|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+===Vassall===
+{{Election box begin | title=Vassall (3)}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Liz Atkinson|votes=1,056|percentage=16.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Alex McKenna|votes=943|percentage=15.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=[[Dan Sabbagh|Daniel Sabbagh]]|votes=895|percentage=14.3|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Tom Cornwall|votes=851|percentage=13.6|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Antonia Ewetuga|votes=846|percentage=13.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Rene Kinzett|votes=744|percentage=11.9|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Keith Sperry|votes=257|percentage=4.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Nicholas Gibbon|votes=188|percentage=3.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Antony Shakespeare|votes=181|percentage=2.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Laurence King|votes=165|percentage=2.6|change=}}
+{{Election box candidate with party link||party=Socialist Alliance (England)|candidate=Brenda Downes|votes=127|percentage=2.0|change=}}
+{{Election box turnout||votes=6,253|percentage=23.3|change=}}
+{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box new boundary win|winner=Labour Party (UK)}}{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{London elections}}
+{{Greater London elections}}
+{{United Kingdom local elections, 2002}}
+
+{{DEFAULTSORT:Lambeth Council Election, 2002}}
+[[Category:Council elections in the London Borough of Lambeth|2002]]
+[[Category:2002 London Borough council elections]]
+[[Category:21st century in the London Borough of Lambeth]]

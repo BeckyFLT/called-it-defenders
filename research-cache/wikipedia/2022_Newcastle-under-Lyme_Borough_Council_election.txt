@@ -1,0 +1,1838 @@
+{{Short description|2022 UK local government election}}
+{{Infobox election
+| election_name     = 2022 Newcastle-under-Lyme Borough Council election
+| country           = Staffordshire
+| type              = parliamentary
+| previous_election = 2018 Newcastle-under-Lyme Borough Council election
+| previous_year     = 2018
+| outgoing_members  = 
+| election_date     = {{Start date|2022|5|6|df=y}}
+| elected_members   = 
+| next_election     = 2026 Newcastle-under-Lyme Borough Council election
+| next_year         = 2026
+| seats_for_election= All 44 seats to [[Newcastle-under-Lyme Borough Council]]
+| majority_seats    = 23
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = Simon Tagg
+| party1            = Conservative Party (UK)
+| last_election1    = 18 seats, 42.7%
+| seats_before1     = 23
+| seats1            = '''25'''
+| seats_after1      = 
+| seat_change1      = {{increase}} 7
+| popular_vote1     = 30,830
+| percentage1       = 49.5%
+| swing1            = {{increase}} 6.8%
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = Mike Stubbs
+| party2            = Labour Party (UK)
+| last_election2    = 20 seats, 39.7%
+| seats_before2     = 18
+| seats2            = 19
+| seats_after2      = 
+| seat_change2      = {{decrease}} 1
+| popular_vote2     = 29,108
+| percentage2       = 46.8%
+| swing2            = {{increase}} 7.1%
+<!-- Party 4 -->
+| image4            = [[File:No image wide.svg|95x50px|Blank]]
+| leader4           = Marion Reddish
+| party4            = Liberal Democrats (UK)
+| last_election4    = 3 seats, 5.5%
+| seats_before4     = 2
+| seats4            = 0
+| seats_after4      = 
+| seat_change4      = {{decrease}} 3
+| popular_vote4     = 1,694
+| percentage4       = 2.7%
+| swing4            = {{decrease}} 2.8%
+<!-- Party 5 -->
+| image5            = [[File:No image wide.svg|95x50px|Blank]]
+| leader5           = 
+| party5            = Independent politician
+| last_election5    = 3 seats, 9.1%
+| seats_before5     = 1
+| seats5            = 0
+| seats_after5      = 
+| seat_change5      = {{decrease}} 3
+| popular_vote5     = 326
+| percentage5       = 0.5%
+| swing5            = {{decrease}} 8.6%
+| map_image         = File:Newcastle-under-Lyme UK local election 2022 map.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Results by ward
+| title = [[Leader of the council|Leader]]
+| posttitle = Leader after election
+| before_election = Simon Tagg
+| before_party = Conservative Party (UK)
+| after_election = Simon Tagg
+| after_party = Conservative Party (UK)
+}}
+
+The '''2022 Newcastle-under-Lyme Borough Council election''' took place on 5 May 2022 to elect members of [[Newcastle-under-Lyme Borough Council]] in England.<ref name="Newcastle-under-Lyme 1">{{Cite web|url=https://www.newcastle-staffs.gov.uk/elections-registration-1/local-government-elections-2022 |title=Local government elections 2022|access-date=4 May 2022 |work=Newcastle-under-Lyme Borough Council}}</ref> It was held on the same day as other [[2022 United Kingdom local elections|local elections]].
+
+Elections in [[2018 Newcastle-under-Lyme Borough Council election|2018]] left the council in no overall control, but the [[Conservative Party (UK)|Conservatives]] were defending a majority on the council after taking control through defections in 2021.<ref name="Newcastle-under-Lyme 2">{{Cite news|url=https://www.stokesentinel.co.uk/news/stoke-on-trent-news/tories-take-overall-control-newcastle-6145008 |title=Tories take overall control of Newcastle Borough Council for first time in decades|access-date=4 May 2022 |work=Stoke Sentinel|date=2 November 2021 |last1=Corrigan |first1=Phil }}</ref><ref>{{cite web |title=Your councillors by party |url=https://moderngov.newcastle-staffs.gov.uk/mgMemberIndex.aspx?FN=PARTY&VW=LIST&PIC=0 |website=Newcastle under Lyme Borough Council |access-date=28 December 2023 |archive-url=https://web.archive.org/web/20220330044840/https://moderngov.newcastle-staffs.gov.uk/mgMemberIndex.aspx?FN=PARTY&VW=LIST&PIC=0 |archive-date=30 March 2022}}</ref>
+
+The election saw the Conservatives retain their majority.<ref>{{cite news |last1=Corrigan |first1=Phil |title=Newcastle Borough Council local elections live 2022: Tories win majority |url=https://www.stokesentinel.co.uk/news/stoke-on-trent-news/newcastle-borough-council-local-elections-7043261 |access-date=28 December 2023 |work=Stoke-on-Trent Live |date=6 May 2022}}</ref>
+
+==Summary==
+
+===Election result===
+
+{{Local election summary begin|title=2022 Newcastle-under-Lyme Borough Council election}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =44
+  |seats         ='''25'''
+  |gain          =9
+  |loss          =2
+  |net           ={{increase}} 7
+  |votes %       =49.5
+  |seats %       =56.8
+  |votes         =30,830
+  |plus/minus    =+6.8
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =44
+  |seats         ='''19'''
+  |gain          =2
+  |loss          =3
+  |net           ={{decrease}} 1
+  |votes %       =46.8
+  |seats %       =43.2
+  |votes         =29,108
+  |plus/minus    =+7.1
+}}
+{{Local election summary party
+  |party         =Liberal Democrats (UK)
+  |candidates    =6
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =3
+  |net           ={{decrease}} 3
+  |votes %       =2.7
+  |seats %       =0.0
+  |votes         =1,694
+  |plus/minus    =–2.8
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =2
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =3
+  |net           ={{decrease}} 3
+  |votes %       =0.5
+  |seats %       =0.0
+  |votes         =326
+  |plus/minus    =–8.6
+}}
+{{Local election summary party
+  |party         =Green Party of England and Wales
+  |candidates    =1
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =0.3
+  |seats %       =0.0
+  |votes         =190
+  |plus/minus    =–1.1
+}}
+{{Local election summary party
+  |party         =Trade Unionist and Socialist Coalition
+  |candidates    =1
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =0.2
+  |seats %       =0.0
+  |votes         =104
+  |plus/minus    =''N/A''
+}}
+{{Election box end}}
+
+==Results by ward==
+===Audley===
+{{Election box begin | title=Audley (3)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sue Moffat*
+   |votes      = 1120
+   |percentage = 52.8
+   |change     = +16.3
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Ian Wilkes*
+   |votes      = 883
+   |percentage = 41.6
+   |change     = +7.1
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Nick Crisp
+   |votes      = 855
+   |percentage = 40.3
+   |change     = +16.7
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jeff Love
+   |votes      = 845
+   |percentage = 39.8
+   |change     = +8.0
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Malcolm Nicholls
+   |votes      = 814
+   |percentage = 38.3
+   |change     = +12.7
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Sally Rudd
+   |votes      = 805
+   |percentage = 37.9
+   |change     = +15.6
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Andrew Wemyss
+   |votes      = 291
+   |percentage = 13.7
+   |change     = +4.4
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Eric Durber
+   |votes      = 199
+   |percentage = 9.4
+   |change     = +1.2
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 42
+  |percentage = 1.9
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,123
+  |percentage = 33.5
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 6468
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Independent (politician)
+   |swing = 
+}}
+ {{Election box end}}
+Ian Wilkes was elected in 2018 as a Liberal Democrat.
+
+===Bradwell===
+{{Election box begin | title=Bradwell (3)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Andrew Fox-Hewitt*
+   |votes      = 1006
+   |percentage = 51.2
+   |change     = +5.6
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Lesley Richards
+   |votes      = 926
+   |percentage = 47.2
+   |change     = +5.3
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Annabel Lawley*
+   |votes      = 922
+   |percentage = 47.0
+   |change     = -3.3
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jade Hammersley
+   |votes      = 812
+   |percentage = 41.4
+   |change     = -4.0
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Ben Simpson
+   |votes      = 791
+   |percentage = 40.3
+   |change     = -3.8
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jude Powell
+   |votes      = 789
+   |percentage = 40.2
+   |change     = -1.7
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Jessica Mellor
+   |votes      = 190
+   |percentage = 9.7
+   |change     = +2.2
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 24
+  |percentage = 1.2
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,963
+  |percentage = 31.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 6403
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Clayton===
+{{Election box begin | title=Clayton (1)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Sweeney*
+   |votes      = 402
+   |percentage = 51.0
+   |change     = +3.0
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Elizabeth Shenton
+   |votes      = 386
+   |percentage = 49.0
+   |change     = +6.1
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 12
+  |percentage = 1.5
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 788
+  |percentage = 36.2
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 2209
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Crackley and Red Street===
+{{Election box begin | title=Crackley & Red Street (2)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Joel Edgington-Plunkett
+   |votes      = 549
+   |percentage = 45.4
+   |change     = -3.9
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Lilian Barker
+   |votes      = 471
+   |percentage = 39.0
+   |change     = -2.5
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Claire Radford
+   |votes      = 470
+   |percentage = 38.9
+   |change     = -3.9
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Kevin Robinson
+   |votes      = 411
+   |percentage = 34.0
+   |change     = -5.1
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Aidan Jenkins
+   |votes      = 249
+   |percentage = 20.6
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Kay Mitchell
+   |votes      = 184
+   |percentage = 15.2
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 20
+  |percentage = 1.6
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,208
+  |percentage = 28.2
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4348
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Cross Heath===
+{{Election box begin | title=Cross Heath (2)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Gillian Williams*
+   |votes      = 683
+   |percentage = 60.3
+   |change     = -0.9
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = John Williams*
+   |votes      = 633
+   |percentage = 55.9
+   |change     = -4.6
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Thomas Molloy
+   |votes      = 365
+   |percentage = 32.2
+   |change     = +5.6
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = John Heesom
+   |votes      = 338
+   |percentage = 29.9
+   |change     = +8.5
+}}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Will Wood
+   |votes      = 132
+   |percentage = 11.7
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 14
+  |percentage = 1.2
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,132
+  |percentage = 28.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4055
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Holditch and Chesterton===
+{{Election box begin | title=Holditch & Chesterton (2)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = David Grocott*
+   |votes      = 621
+   |percentage = 66.0
+   |change     = +9.0
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sue Beeston
+   |votes      = 532
+   |percentage = 56.5
+   |change     = +3.3
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Ken Owen*
+   |votes      = 314
+   |percentage = 33.4
+   |change     = +14.7
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Adam Bagguley
+   |votes      = 274
+   |percentage = 29.1
+   |change     = +12.4
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 22
+  |percentage = 2.3
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 941
+  |percentage = 24.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4017
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+Ken Owen was elected at a 2019 by-election as an Independent.
+
+===Keele===
+{{Election box begin | title=Keele (1)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Dave Jones
+   |votes      = 332
+   |percentage = 68.6
+   |change     = +9.7
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = James Borg
+   |votes      = 81
+   |percentage = 16.7
+   |change     = -3.1
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Arjun Patel
+   |votes      = 71
+   |percentage = 14.7
+   |change     = -1.1
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 4
+  |percentage = 0.8
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 484
+  |percentage = 36.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 1345
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Kidsgrove and Ravenscliffe===
+{{Election box begin | title=Kidsgrove & Ravenscliffe (3)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gill Burnett*
+   |votes      = 1,090
+   |percentage = 56.4
+   |change     = +17.4
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Craig Skelding
+   |votes      = 1,012
+   |percentage = 52.4
+   |change     = +19.0
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Simon Jones
+   |votes      = 961
+   |percentage = 49.7
+   |change     = +29.5
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Silvia Burgess*
+   |votes      = 801
+   |percentage = 41.4
+   |change     = +7.2
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Robert Moss
+   |votes      = 734
+   |percentage = 38.0
+   |change     = +4.9
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sarah Pickup
+   |votes      = 711
+   |percentage = 36.8
+   |change     = +4.6
+}}
+{{Election box candidate with party link|
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Becky Carter
+   |votes      = 104
+   |percentage = 5.4
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 45
+  |percentage = 2.3
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,933
+  |percentage = 29.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 6727
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Knutton===
+{{Election box begin | title=Knutton (1)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Steph Talbot
+   |votes      = 239
+   |percentage = 47.9
+   |change     = -26.8
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Derrick Huckfield*
+   |votes      = 172
+   |percentage = 34.5
+   |change     = +9.2
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Beckie Currie
+   |votes      = 88
+   |percentage = 17.6
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 2
+  |percentage = 0.4
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 499
+  |percentage = 25.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 2002
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+Derrick Huckfield had been elected in a by-election.
+
+===Loggerheads===
+{{Election box begin | title=Loggerheads (2)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Northcott*
+   |votes      = 744
+   |percentage = 62.4
+   |change     = -15.2
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Barry Panter*
+   |votes      = 704
+   |percentage = 59.1
+   |change     = -0.6
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sylvia Butler
+   |votes      = 396
+   |percentage = 33.2
+   |change     = +15.0
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Helen Stuart
+   |votes      = 395
+   |percentage = 33.1
+   |change     = +18.1
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 38
+  |percentage = 3.1
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,192
+  |percentage = 34.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 3619
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Madeley and Betley===
+{{Election box begin | title=Madeley & Betley (2)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Simon White*
+   |votes      = 1,087
+   |percentage = 68.0
+   |change     = +11.0
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gary White*
+   |votes      = 1,072
+   |percentage = 67.0
+   |change     = +15.7
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Christopher Cooper
+   |votes      = 505
+   |percentage = 31.6
+   |change     = +16.3
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Thomas Wilson
+   |votes      = 482
+   |percentage = 30.1
+   |change     = +17.9
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 44
+  |percentage = 2.7
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,599
+  |percentage = 38.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4278
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Independent (politician)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Independent (politician)
+   |swing = 
+}}
+ {{Election box end}}
+Simon White and Gary White were elected in 2018 as Independents.
+
+===Maer and Whitmore===
+{{Election box begin | title=Maer & Whitmore (1)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Amy Bryan
+   |votes      = 573
+   |percentage = 72.3
+   |change     = -17.4
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Dave Lee
+   |votes      = 219
+   |percentage = 27.7
+   |change     = +17.4
+}}
+{{Election box majority
+  |votes      =
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 15
+  |percentage = 1.9
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 792
+  |percentage = 37.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 2183
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===May Bank===
+{{Election box begin | title=May Bank (3)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = John Tagg*
+   |votes      = 1,081
+   |percentage = 50.3
+   |change     = -6.5
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Trevor Johnson*
+   |votes      = 1,055
+   |percentage = 49.1
+   |change     = -7.1
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = David Hutchison
+   |votes      = 1,047
+   |percentage = 48.7
+   |change     = -6.9
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Steve Stoddart
+   |votes      = 1,033
+   |percentage = 48.1
+   |change     = +14.8
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Joan Winfield
+   |votes      = 1,012
+   |percentage = 47.1
+   |change     = +14.3
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Nicholas Butler
+   |votes      = 1,008
+   |percentage = 46.9
+   |change     = +17.0
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 75
+  |percentage = 3.4
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,149
+  |percentage = 34.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 6458
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Newchapel and Mow Cop===
+{{Election box begin | title=Newchapel & Mow Cop (2)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jill Waring*
+   |votes      = 771
+   |percentage = 59.8
+   |change     = +16.8
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Waring*
+   |votes      = 713
+   |percentage = 55.3
+   |change     = +16.2
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Claire Vodrey
+   |votes      = 511
+   |percentage = 39.6
+   |change     = +7.3
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jason Owen
+   |votes      = 491
+   |percentage = 38.1
+   |change     = +6.4
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 28
+  |percentage = 2.1
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,290
+  |percentage = 29.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4493
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Silverdale===
+{{Election box begin | title=Silverdale (2)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jacqueline Brown
+   |votes      = 539
+   |percentage = 41.7
+   |change     = -7.4
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Rupert Adcock
+   |votes      = 481
+   |percentage = 37.2
+   |change     = -6.3
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Peter Radford
+   |votes      = 429
+   |percentage = 33.2
+   |change     = -14.2
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gregory Ellis
+   |votes      = 377
+   |percentage = 29.2
+   |change     = -1.1
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Tom Currie
+   |votes      = 344
+   |percentage = 26.6
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Izaak Johnson
+   |votes      = 144
+   |percentage = 11.1
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 8
+  |percentage = 0.6
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,293
+  |percentage = 32.2
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4045
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Talke and Butt Lane===
+{{Election box begin | title=Talke & Butt Lane (3)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sylvia Dymond*
+   |votes      = 1096
+   |percentage = 55.7
+   |change     = -0.4
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = David Allport
+   |votes      = 1012
+   |percentage = 51.4
+   |change     = -8.2
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Michael Stubbs*
+   |votes      = 952
+   |percentage = 48.4
+   |change     = -0.3
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Keri Walters
+   |votes      = 870
+   |percentage = 44.2
+   |change     = +23.2
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Amy Wood
+   |votes      = 843
+   |percentage = 42.9
+   |change     = +22.4
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Sharon Battiste
+   |votes      = 794
+   |percentage = 40.4
+   |change     = +20.1
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 57
+  |percentage = 2.8
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,967
+  |percentage = 29.9
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 6773
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Thistleberry===
+{{Election box begin | title=Thistleberry (2)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Bettley-Smith
+   |votes      = 485
+   |percentage = 34.9
+   |change     = +3.9
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Joan Whieldon
+   |votes      = 479
+   |percentage = 34.5
+   |change     = +8.1
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = William Jones
+   |votes      = 399
+   |percentage = 28.7
+   |change     = -19.9
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Hilary Jones
+   |votes      = 365
+   |percentage = 26.3
+   |change     = -15.7
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Benjamin Upson
+   |votes      = 330
+   |percentage = 23.8
+   |change     = +0.6
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Roger Wilkes
+   |votes      = 276
+   |percentage = 19.9
+   |change     = +1.4
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Graham Eagles
+   |votes      = 238
+   |percentage = 17.1
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 14
+  |percentage = 1.0
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,388
+  |percentage = 36.8
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 3805
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = 
+}}
+{{Election box gain with party link|
+   |winner = Conservative Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Town===
+{{Election box begin | title=Town (2)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Wendy Brockie
+   |votes      = 665
+   |percentage = 64.0
+   |change     = +8.8
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Ruth Wright*
+   |votes      = 644
+   |percentage = 62.0
+   |change     = +6.4
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Conna Eynon
+   |votes      = 309
+   |percentage = 29.7
+   |change     = +8.8
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Daniel Hill
+   |votes      = 303
+   |percentage = 29.2
+   |change     = +10.7
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 22
+  |percentage = 2.1
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,039
+  |percentage = 27.2
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 3907
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Westbury Park and Northwood===
+{{Election box begin | title=Westbury Park & Northwood (2)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Parker*
+   |votes      = 783
+   |percentage = 59.8
+   |change     = -5.3
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Fear*
+   |votes      = 775
+   |percentage = 59.2
+   |change     = -3.4
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Lawrence Wayte
+   |votes      = 489
+   |percentage = 37.3
+   |change     = +3.8
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Leigh Hughes
+   |votes      = 474
+   |percentage = 36.2
+   |change     = +5.8
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 36
+  |percentage = 2.7
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,310
+  |percentage = 34.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 3908
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Westlands===
+{{Election box begin | title=Westlands (3)}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Simon Tagg*
+   |votes      = 1344
+   |percentage = 58.6
+   |change     = -6.4
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Mark Holland*
+   |votes      = 1226
+   |percentage = 53.4
+   |change     = -8.0
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Gill Heesom*
+   |votes      = 1221
+   |percentage = 53.2
+   |change     = -8.7
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Robert Hagan
+   |votes      = 804
+   |percentage = 35.0
+   |change     = +10.3
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Peter Lawrence
+   |votes      = 746
+   |percentage = 32.5
+   |change     = +8.8
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Paul Horton
+   |votes      = 702
+   |percentage = 30.6
+   |change     = +9.7
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Robin Studd
+   |votes      = 359
+   |percentage = 15.6
+   |change     = +5.5
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 51
+  |percentage = 2.2
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,295
+  |percentage = 36.6
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 6416
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+===Wolstanton===
+{{Election box begin | title=Wolstanton (2)}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Phil Reece
+   |votes      = 774
+   |percentage = 57.2
+   |change     = +12.5
+}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Richard Gorton
+   |votes      = 740
+   |percentage = 54.7
+   |change     = +14.5
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Julie Cooper*
+   |votes      = 556
+   |percentage = 41.1
+   |change     = -4.0
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Simon Poole
+   |votes      = 521
+   |percentage = 38.5
+   |change     = -5.1
+}}
+{{Election box majority
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 36
+  |percentage = 2.6
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,352
+  |percentage = 30.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4577
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Conservative Party (UK)
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = 
+}}
+ {{Election box end}}
+
+==Changes 2022–2026==
+
+* Sue Beeston, elected as a Labour councillor, left the party in November 2023 to sit as an independent. She subsequently joined the Conservative Group.<ref>{{cite news |last1=Boothroyd |first1=David |title=Scottish Labour steels seat |url=https://www.localcouncils.co.uk/2023/11/scottish-labour-steels-seat/ |access-date=28 December 2023 |work=Local Councils |publisher=Thorncliffe |date=17 November 2023}}</ref>
+* In late March 2026, Reform UK councillor Lynn Dean had the whip suspended after the anti-racism campaign group Hope Not Hate uncovered posts on an undisclosed social media account containing racist comments about Black people and Muslims; Dean said she had already decided to leave the party. She resigned as councillor for Knutton on 1 April 2026, weeks before she would have faced re-election, remaining a Staffordshire county councillor for May Bank and Wolstanton. The Knutton seat was left vacant until the 2026 borough election.<ref>{{cite news |last=Corrigan |first=Philip |title=Suspended Reform UK councillor resigns from Newcastle Borough Council |url=https://uk.news.yahoo.com/suspended-reform-uk-councillor-resigns-072456202.html |work=Yahoo News UK |date=1 April 2026 |access-date=3 September 2026}}</ref>
+
+===By-elections===
+
+====Audley====
+
+The by-election in the Audley ward was held following the resignation of Labour councillor Sue Moffatt.<ref name="doubleResignation">{{Cite web | url = https://www.stokesentinel.co.uk/news/stoke-on-trent-news/double-resignation-rocks-labour-councillors-8628281 | title = Double resignation rocks Labour as councillors quit | last = Price | first = Richard | date = 27 July 2023 | website = Stoke-on-Trent Live | publisher = Reach plc | access-date = 20 November 2024}}</ref>
+
+{{Election box begin | title=Audley, 7 September 2023<ref name="nulbc189">{{cite web |date=7 September 2023 |title=By-election results declared |url=https://www.newcastle-staffs.gov.uk/news/article/189/by-election-results-declared |website=Newcastle-under-Lyme Borough Council |access-date=20 November 2024}}</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Rebekah Sioban Lewis
+   |votes      = 732
+   |percentage = 46.1
+   |change     = -2.7
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Sally Jane Rudd
+   |votes      = 438
+   |percentage = 27.6
+   |change     = -10.9
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Andrew Robert Wemyss
+   |votes      = 355
+   |percentage = 22.4
+   |change     = +9.7
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Duran Benjamin O'Dwyer
+   |votes      = 63
+   |percentage = 4.0
+   |change     = +4.0
+}}
+{{Election box majority
+  |votes      = 294
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 
+  |percentage = 24.8
+  |change     = -8.7
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |loser = 
+   |swing = +8.2
+}}
+ {{Election box end}}
+
+====Knutton====
+
+The by-election in Knutton was held following the resignation of Labour councillor Steph Talbot.<ref name="doubleResignation" />
+
+{{Election box begin | title=Knutton, 7 September 2023<ref name="nulbc189" />}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Robert Ian Moss
+   |votes      = 153
+   |percentage = 49.0
+   |change     = -1.1
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Derrick Huckfield
+   |votes      = 99
+   |percentage = 31.7
+   |change     = +2.7
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Aidan Mark Jenkins
+   |votes      = 60
+   |percentage = 19.2
+   |change     = ''N/A''
+}}
+{{Election box majority
+  |votes      = 54
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 
+  |percentage = 15.9
+  |change     = -9.1
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |loser = 
+   |swing = -1.6
+}}
+ {{Election box end}}
+
+====Madeley and Betley====
+
+The by-election to fill two seats in Madeley and Betley was held following the resignation of Conservative councillors Gary and Simon White,<ref name="candidatesSelected">{{Cite web | url = https://www.bbc.co.uk/news/articles/cw55g5d1ekwo | title = Candidates selected for by-election | last = Sutton | first = Jonathan | date = 9 June 2024 | website = BBC News | access-date = 20 November 2024}}</ref> and polled on the same day as the [[2024 United Kingdom general election|UK parliamentary General Election in 2024]].
+
+{{Election box begin | title=Madeley and Betley (2 seats), 4 July 2024<ref name="nulbc272">{{cite web |date=8 July 2024 |title=Double win for Conservatives in Borough Council by-elections |url=https://www.newcastle-staffs.gov.uk/news/article/272/double-win-for-conservatives-in-borough-council-by-elections |website=Newcastle-under-Lyme Borough Council |access-date=20 November 2024}}</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Mandy Berrisford
+   |votes      = 1,164
+   |percentage = 
+   |change     = 
+}}
+{{Election box winning candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jill Whitmore
+   |votes      = 1,084
+   |percentage = 
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Tanya Morgan
+   |votes      = 1,066
+   |percentage = 
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Tony Kearon
+   |votes      = 856
+   |percentage = 
+   |change     = 
+}}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Claire Annette Radford
+   |votes      = 736
+   |percentage = 
+   |change     = 
+}}
+{{Election box turnout
+  |votes      = 
+  |percentage = 71.5
+  |change     = +38.0
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |loser = 
+   |swing = 
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |loser = 
+   |swing = 
+}}
+ {{Election box end}}
+
+====Town====
+
+The by-election in the Town ward was held following the resignation of Labour councillor Wendy Brockie.<ref name="campaignerWins">{{Cite web | url = https://www.stokesentinel.co.uk/news/stoke-on-trent-news/walleys-quarry-campaigner-wins-council-9889553 | title = Walleys Quarry campaigner wins council by-election for Labour | last = Corrigan | first = Philip | date = 24 January 2025 | website = Stoke-on-Trent Live | publisher = Reach plc | access-date = 7 February 2025}}</ref>
+
+{{Election box begin | title=Town, 23 January 2025<ref name="nulbc347">{{cite web |date=23 January 2025 |title=Town ward by-election result |url=https://www.newcastle-staffs.gov.uk/news/article/347/town-ward-by-election-result |website=Newcastle-under-Lyme Borough Council |access-date=7 February 2025}}</ref>}}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sheelagh Eileen Casey-Hulme
+   |votes      = 309
+   |percentage = 39.9
+   |change     = −28.4
+}}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Elliott Albert Lancaster
+   |votes      = 226
+   |percentage = 29.2
+   |change     = −2.5
+}}
+{{Election box candidate with party link|
+   |party      = Reform UK
+   |candidate  = Neill Antony Walker
+   |votes      = 168
+   |percentage = 21.7
+   |change     = +21.7
+}}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Nigel Jones
+   |votes      = 71
+   |percentage = 9.2
+   |change     = +9.2
+}}
+{{Election box majority
+  |votes      = 83
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 
+  |percentage = 18.7
+  |change     = −8.5
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |loser = 
+   |swing = −25.9
+}}
+ {{Election box end}}
+
+====Knutton====
+
+The by-election in Knutton was held following the resignation of Labour councillor Robert Moss on 10 March 2025.<ref>{{cite web |title=Notice of Casual Vacancy: Knutton ward |url=https://www.newcastle-staffs.gov.uk/downloads/file/3010/notice-of-casual-vacancy |publisher=Newcastle-under-Lyme Borough Council |date=11 March 2025 |access-date=3 September 2026}}</ref>
+
+{{Election box begin | title=Knutton by-election: 1 May 2025<ref name="nulKnuttonMay25">{{cite web |title=Declaration of Result of Poll: Knutton ward |url=https://www.newcastle-staffs.gov.uk/downloads/file/3155/declaration-of-result-knutton |publisher=Newcastle-under-Lyme Borough Council |date=2 May 2025 |access-date=3 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Lynn Dean
+   |votes      = 281
+   |percentage = 59.9
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Bayley Dickin
+   |votes      = 123
+   |percentage = 26.2
+   |change     = –21.7
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Finn Swain
+   |votes      = 65
+   |percentage = 13.9
+   |change     = –20.6
+}}
+{{Election box majority
+   |votes      = 158
+   |percentage = 33.7
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 473
+   |percentage = 23.8
+   |change     = –1.2
+ }}
+{{Election box registered electors
+   |reg. electors = 1,991
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+====Loggerheads====
+
+The by-election in Loggerheads was held following the death of Conservative councillor Barry Panter on 15 February 2025.<ref>{{cite web |title=Notice of Casual Vacancy: Loggerheads ward |url=https://www.newcastle-staffs.gov.uk/downloads/file/3012/notice-of-casual-vacancy |publisher=Newcastle-under-Lyme Borough Council |date=21 March 2025 |access-date=3 September 2026}}</ref>
+
+{{Election box begin | title=Loggerheads by-election: 1 May 2025<ref>{{cite web |title=Declaration of Result of Poll: Loggerheads ward |url=https://www.newcastle-staffs.gov.uk/downloads/file/3154/declaration-of-result-loggerheads |publisher=Newcastle-under-Lyme Borough Council |date=2 May 2025 |access-date=3 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Turnock
+   |votes      = 932
+   |percentage = 70.5
+   |change     = +5.2
+}}
+ {{Election box candidate with party link
+   |party      = Labour Co-operative
+   |candidate  = Jeff Love
+   |votes      = 390
+   |percentage = 29.5
+   |change     = –5.2
+}}
+{{Election box majority
+   |votes      = 542
+   |percentage = 41.0
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 1,414
+   |percentage = 37.3
+   |change     = +3.3
+ }}
+{{Election box registered electors
+   |reg. electors = 3,795
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = {{increase}}5.2
+}}
+ {{Election box end}}
+
+==References==
+{{reflist}}
+
+{{2022 United Kingdom local elections}}
+{{Staffordshire elections}}
+
+[[Category:Newcastle-under-Lyme Borough Council elections]]
+[[Category:2022 English local elections|Newcastle-under-Lyme]]
+[[Category:2020s in Staffordshire]]

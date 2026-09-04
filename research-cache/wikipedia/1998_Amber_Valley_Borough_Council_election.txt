@@ -1,0 +1,45 @@
+{{Short description|1998 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+The '''1998 Amber Valley Borough Council election''' took place on 7 May 1998 to elect members of [[Amber Valley]] [[Borough status in the United Kingdom|Borough]] Council in [[Derbyshire]], [[England]]. One third of the council was up for election and the [[Labour Party (UK)|Labour]] party kept overall control of the council.<ref name=policy>{{cite news | title = Policy and politics: Local Elections: Analysis: Council poll results | publisher = [[The Guardian]] | page = 16 | date = 1998-05-09 }}</ref>
+
+After the election, the composition of the council was
+*[[Labour Party (UK)|Labour]] 37
+*[[Conservative Party (UK)|Conservative]] 6<ref name=policy/>
+
+==Election result==
+
+{{Election Summary Begin|title = Amber Valley local election result 1998<ref name=local>{{cite news | title = Local Elections results | work = [[The Times]] | page = 46 | date = 1998-05-09 }}</ref>}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 11
+  |gain       =
+  |loss       =
+  |net        = -1
+  |seats %    = 78.6
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 3
+  |gain       = 
+  |loss       =
+  |net        = +1
+  |seats %    = 21.4
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Derbyshire elections}}
+{{United Kingdom local elections, 1998}}
+
+[[Category:Amber Valley Borough Council elections|1998]]
+[[Category:1998 English local elections]]
+[[Category:1990s in Derbyshire]]
