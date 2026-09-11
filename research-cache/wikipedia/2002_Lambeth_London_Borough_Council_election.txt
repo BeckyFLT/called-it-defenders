@@ -1,5 +1,5 @@
 {{Short description|none}}
-{{Use dmy dates|date=December 2013}}
+{{Use dmy dates|date=September 2026}}
 {{Use British English|date=December 2013}}
 {{Infobox election
 | election_name = 2002 Lambeth Council election
@@ -59,13 +59,13 @@
 | flag_image = Coat of Arms of the London Borough of Lambeth.svg
 }}
 
-'''Elections to [[Lambeth London Borough Council]]''' were held on 2 May 2002. The whole council was up for election with boundary changes reducing the number of councillors by one since the last election in [[1998 Lambeth Council election|1998]].<ref name=lose>{{cite news| url = https://news.bbc.co.uk/hi/english/static/vote2002/local_elections/82.stm | title = Lambeth | access-date = 2009-08-15 | work = [[BBC News Online]]}}</ref> [[Labour Party (UK)|Labour]] despite having the largest number of votes with 36.6% of the vote, it still lost 13 seats, while the [[Liberal Democrats (UK)|Liberal Democrats]] and the [[Conservative Party (UK)|Conservative Party]] gained seats, resulting in [[Labour Party (UK)|Labour]] losing control of the Council and no party having a majority.<ref name=lose/>
+'''Elections to [[Lambeth London Borough Council]]''' were held on 2 May 2002. The whole council was up for election with boundary changes reducing the number of councillors by one since the last election in [[1998 Lambeth Council election|1998]].<ref name=lose>{{cite news| url = https://news.bbc.co.uk/hi/english/static/vote2002/local_elections/82.stm | title = Lambeth | access-date = 2009-08-15 | publisher = BBC News}}</ref> [[Labour Party (UK)|Labour]] despite having the largest number of votes with 36.6% of the vote, it still lost 13 seats, while the [[Liberal Democrats (UK)|Liberal Democrats]] and the [[Conservative Party (UK)|Conservative Party]] gained seats, resulting in [[Labour Party (UK)|Labour]] losing control of the council and no party having a majority.<ref name=lose/>
 
 Following the election, the Liberal Democrats and Conservatives formed a coalition to run the council with Cllr Peter Truesdale, Liberal Democrat, as Leader and Cllr John Whelan, Conservative, as Deputy Leader.
 
 ==Election result==
-{{Election Summary Begin|title = Lambeth local election result 2002}}
-{{Election Summary Party|
+{{Election summary begin|title = Lambeth local election result 2002}}
+{{Election summary party|
   |party      = Labour Party (UK)
   |seats      = 28
   |gain       =
@@ -76,7 +76,7 @@ Following the election, the Liberal Democrats and Conservatives formed a coaliti
   |votes      = '''20,503''' 
   |plus/minus =
 }}
-{{Election Summary Party|
+{{Election summary party|
   |party      = Liberal Democrats (UK)
   |seats      = 28
   |gain       =
@@ -87,7 +87,7 @@ Following the election, the Liberal Democrats and Conservatives formed a coaliti
   |votes      = 18,647 
   |plus/minus =
 }}
-{{Election Summary Party|
+{{Election summary party|
   |party      = Conservative Party (UK)
   |seats      = 7
   |gain       =
@@ -98,7 +98,7 @@ Following the election, the Liberal Democrats and Conservatives formed a coaliti
   |votes      = 9,080 
   |plus/minus =
 }}
-{{Election Summary Party|
+{{Election summary party|
   |party      = Green Party of England and Wales
   |seats      = 0
   |gain       = 
@@ -109,7 +109,7 @@ Following the election, the Liberal Democrats and Conservatives formed a coaliti
   |votes      = 6,426 
   |plus/minus =
 }}
-{{Election Summary Party|
+{{Election summary party|
   |party      = Socialist Alliance (England)
   |seats      = 0
   |gain       = 
@@ -120,7 +120,7 @@ Following the election, the Liberal Democrats and Conservatives formed a coaliti
   |votes      = 1,178 
   |plus/minus =
 }}
-{{Election Summary Party|
+{{Election summary party|
   |party      = Independent (politician)
   |seats      = 0
   |gain       = 
@@ -131,7 +131,7 @@ Following the election, the Liberal Democrats and Conservatives formed a coaliti
   |votes      = 60 
   |plus/minus =
 }}
-{{Election Summary Party|
+{{Election summary party|
   |party      = United Kingdom Independence Party
   |seats      = 0
   |gain       = 

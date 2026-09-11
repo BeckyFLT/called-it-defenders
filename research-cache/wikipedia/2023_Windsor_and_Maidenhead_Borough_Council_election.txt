@@ -1703,7 +1703,8 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
  {{Election box end}}
 
 ===Bray, 24 September 2026===
-{{Election box begin|title=Bray by-election, 24 September 2026<ref>https://www.rbwm.gov.uk/sites/default/files/2026-08/elections_noe_bray_by-election_20260924.pdf {{Bare URL PDF|date=September 2026}}</ref>}}
+{{Election box begin|title=Bray by-election, 24 September 2026<ref>{{Cite web | url=https://www.rbwm.gov.uk/sites/default/files/2026-08/elections_noe_bray_by-election_20260924.pdf | title=Election of councillor For the Area of Bray borough ward | website=www.rbwm.gov.uk}}</ref>
+}}
 {{Election box candidate with party link|party=The Borough First|candidate=John Baldwin|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Joanna Korczak|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Reform UK|candidate=William Sennett|votes=|percentage=|change=}}

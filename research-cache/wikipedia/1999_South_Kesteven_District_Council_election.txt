@@ -1,0 +1,213 @@
+{{Short description|1999 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+The '''1999 South Kesteven District Council election''' took place on 6 May 1999 to elect members of [[South Kesteven]] [[Non-metropolitan district|District]] Council in [[Lincolnshire]], [[England]]. The whole council was up for election with boundary changes since the [[1995 South Kesteven District Council election|last election in 1995]].<ref name="britain">{{cite news|title=How Britain voted: Council Election Results|date=8 May 1999|work=[[The Independent]]|publisher=[[NewsBank]]}}</ref> The council stayed under [[no overall control]].<ref name="nations">{{cite news|title=How the nations voted|date=8 May 1999|work=[[The Times]]|publisher=[[NewsBank]]|page=48}}</ref>
+
+==Election result==
+
+{{Election Summary Begin|title = South Kesteven local election result 1999<ref name=nations/>}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 29
+  |gain       = 
+  |loss       = 
+  |net        = +13
+  |seats %    = 50.0
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 13
+  |gain       = 
+  |loss       = 
+  |net        = -4
+  |seats %    = 22.4
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 12
+  |gain       = 
+  |loss       = 
+  |net        = -3
+  |seats %    = 20.7
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 3
+  |gain       = 
+  |loss       = 
+  |net        = -4
+  |seats %    = 5.2
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary|
+  |party      = Others
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = +1
+  |seats %    = 1.7
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Liberal Party (UK, 1989)
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = -2
+  |seats %    = 0
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==By-elections between 1999 and 2003==
+===Harrowby===
+
+{{Election box begin | title=Harrowby by-election 24 August 2000<ref name="harrowby">{{cite web|url=http://gwydir.demon.co.uk/byelections/le0008.htm#2403|title=Local Authority Byelection Results - August 2000|publisher=Local Authority Byelection Results|access-date=5 May 2015|archive-url=https://web.archive.org/web/20140810103844/http://gwydir.demon.co.uk/byelections/le0008.htm#2403|archive-date=10 August 2014|url-status=dead}}</ref>}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = 
+ |votes      = 222
+ |percentage = 24.7
+ |change     = +7.4
+}}
+{{Election box candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = 
+ |votes      = 221
+ |percentage = 24.6
+ |change     = -3.3
+}}
+{{Election box candidate with party link|
+ |party      = Independent Labour
+ |candidate  = 
+ |votes      = 213
+ |percentage = 23.7
+ |change     = -1.5
+}}
+{{Election box candidate with party link|
+ |party      = Liberal Democrats (UK)
+ |candidate  = 
+ |votes      = 181
+ |percentage = 20.1
+ |change     = +20.1
+}}
+{{Election box candidate with party link|
+ |party      = Independent (politician)
+ |candidate  = 
+ |votes      = 62
+ |percentage = 6.9
+ |change     = -22.7
+}}
+{{Election box majority|
+ |votes      = 1
+ |percentage = 0.1
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 899
+ |percentage = 19.7
+ |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===All Saints===
+
+{{Election box begin | title=All Saints by-election 7 June 2001<ref name="saints">{{cite web|url=http://gwydir.demon.co.uk/byelections/le0106.htm#0799|title=Local Authority Byelection Results - June 2001|publisher=Local Authority Byelection Results|access-date=5 May 2015|archive-url=https://web.archive.org/web/20150711034717/http://gwydir.demon.co.uk/byelections/le0106.htm#0799|archive-date=11 July 2015|url-status=dead}}</ref>}}
+{{Election box candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = 
+ |votes      = 1,013
+ |percentage = 54.8
+ |change     = +5.8
+}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = 
+ |votes      = 837
+ |percentage = 45.2
+ |change     = -5.8
+}}
+{{Election box majority|
+ |votes      = 176
+ |percentage = 9.4
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 1,850
+ |percentage = 
+ |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===St Mary's===
+
+{{Election box begin | title=St Mary's by-election 7 June 2001<ref name=saints/>}}
+{{Election box candidate with party link|
+ |party      = Conservative Party (UK)
+ |candidate  = 
+ |votes      = 952
+ |percentage = 45.6
+ |change     = -21.7
+}}
+{{Election box candidate with party link|
+ |party      = Labour Party (UK)
+ |candidate  = 
+ |votes      = 638
+ |percentage = 30.6
+ |change     = -2.2
+}}
+{{Election box candidate with party link|
+ |party      = Liberal Democrats (UK)
+ |candidate  = 
+ |votes      = 498
+ |percentage = 23.9
+ |change     = +23.9
+}}
+{{Election box majority|
+ |votes      = 314
+ |percentage = 15.0
+ |change     = 
+}}
+{{Election box turnout|
+ |votes      = 2,088
+ |percentage = 
+ |change     = 
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Lincolnshire elections}}
+{{United Kingdom local elections, 1999}}
+
+[[Category:South Kesteven District Council elections]]
+[[Category:1999 English local elections]]

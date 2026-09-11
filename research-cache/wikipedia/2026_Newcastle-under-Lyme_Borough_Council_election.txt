@@ -17,7 +17,7 @@
 | turnout = 
 <!-- Party 1 -->
 | image1 = {{eppt|Reform UK|}}
-| leader1 = [[Jonathan Gullis]]<ref>{{cite web |last=Price |first=Richard |date=14 May 2026 |title=Ex-Tory MP named council's new Reform group leader |url=https://www.bbc.co.uk/news/articles/ce8p74n52ypo |website=BBC News |location=West Midlands |access-date=14 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260807105300/https://www.bbc.co.uk/news/articles/ce8p74n52ypo |archive-date=7 August 2026}}</ref>
+| leader1 = [[Jonathan Gullis]]
 | party1 = Reform UK
 | leader_since1 = 
 | last_election1 = ''Did not stand''
@@ -90,13 +90,13 @@
 | posttitle = Leader after election
 | before_election = Simon Tagg
 | before_party = Conservative Party (UK)
-| after_election = TBD
+| after_election = [[Jonathan Gullis]]
 | after_party = Reform UK
 }}
 
 The '''2026 Newcastle-under-Lyme Borough Council election''' was held on Thursday 7 May 2026 to elect all 44 councillors who serve on [[Newcastle-under-Lyme Borough Council]]. It was held [[2026 United Kingdom local elections|alongside council elections across England]].
 
-[[Reform UK]] won 27 seats, an overall majority, gaining control of the council from the [[Conservative Party (UK)|Conservative Party]]. The Conservatives won 15 seats and [[Labour Party (UK)|Labour]] won 2 seats.<ref>{{cite news |last1=Price |first1=Richard |last2=Aitken |first2=Jennie |title=Reform gains control of Newcastle-under-Lyme in historic night for party |url=https://www.bbc.com/news/articles/cwy2e2w7y46o |access-date=8 May 2026 |publisher=BBC News |date=8 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260807114400/https://www.bbc.com/news/articles/cwy2e2w7y46o |archive-date=7 August 2026}}</ref>
+Prior to the election, the council was under [[Conservative Party (UK)|Conservative]] majority control. [[Reform UK]], which had held no seats on the council immediately before the election, won 27 seats, giving them an overall majority. The Conservatives won 15 seats and [[Labour Party (UK)|Labour]] won 2 seats.<ref>{{cite news |last1=Price |first1=Richard |last2=Aitken |first2=Jennie |title=Reform gains control of Newcastle-under-Lyme in historic night for party |url=https://www.bbc.com/news/articles/cwy2e2w7y46o |access-date=8 May 2026 |publisher=BBC News |date=8 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260807114400/https://www.bbc.com/news/articles/cwy2e2w7y46o |archive-date=7 August 2026}}</ref> Reform chose [[Jonathan Gullis]] to be its new group leader after the election.<ref>{{cite web |last=Price |first=Richard |date=14 May 2026 |title=Ex-Tory MP named council's new Reform group leader |url=https://www.bbc.co.uk/news/articles/ce8p74n52ypo |website=BBC News |location=West Midlands |access-date=14 May 2026 |url-status=live |archive-url=https://web.archive.org/web/20260807105300/https://www.bbc.co.uk/news/articles/ce8p74n52ypo |archive-date=7 August 2026}}</ref> He was formally appointed as the new leader of the council at the subsequent annual council meeting on 20 May 2026.<ref>{{cite web |title=Council minutes, 20 May 2026 |url=https://moderngov.newcastle-staffs.gov.uk/ieListDocuments.aspx?CId=152&MId=3873 |website=Newcastle under Lyme Borough Council |access-date=6 September 2026}}</ref>
 
 == Background ==
 Simon Tagg had served as Leader of Newcastle-under-Lyme Borough Council since December 2017. In the [[2025 Staffordshire County Council election]], Newcastle-under-Lyme experienced a significant political shift towards [[Reform UK|Reform]],<ref>{{Cite web |last=Andrews |first=Rob |date=2025-05-02 |title=Live: Reform UK win eight out of nine council seats across Newcastle |url=https://www.stokesentinel.co.uk/news/stoke-on-trent-news/live-updates-keele-nine-seats-10149986 |access-date=2025-11-13 |website=Stoke on Trent Live |language=en |url-status=live |archive-url=https://web.archive.org/web/20260807114400/https://www.stokesentinel.co.uk/news/stoke-on-trent-news/live-updates-keele-nine-seats-10149986 |archive-date=7 August 2026}}</ref> which secured eight of the nine available seats in the area and 44.7% of the total vote. [[Labour Party (UK)|Labour]] failed to win any seats, while the [[Conservative Party (UK)|Conservatives]] retained only one.
@@ -1887,6 +1887,8 @@ Neill Walker was the Reform UK candidate for the [[Newcastle-under-Lyme (constit
 A by-election was called for the Town ward following the resignation of Reform UK councillor Christine Duffy, whose resignation letter was dated 20 August 2026 and received by the council on 21 August 2026. The ward's other councillor, Sheelagh Casey-Hulme, was unaffected.<ref>{{cite web |title=Borough Council by-election to be held |url=https://www.newcastle-staffs.gov.uk/news/article/572/borough-council-by-election-to-be-held |publisher=Newcastle-under-Lyme Borough Council |date=21 August 2026 |access-date=3 September 2026}}</ref> A date for the by-election had not yet been confirmed as of early September 2026.<ref>{{cite web |title=Current vacancies and by-elections |url=https://www.newcastle-staffs.gov.uk/elections-registration-1/current-vacancies-elections/4 |publisher=Newcastle-under-Lyme Borough Council |access-date=3 September 2026}}</ref>
 
 {{Election box begin|title=Town by-election}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Andrew Fox-Hewitt|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Adam Griffiths|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}
