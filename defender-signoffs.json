@@ -212,5 +212,21 @@
     "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
     "correction": true,
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.lambeth.myatts-fields.by.2026-10-08",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "source": "https://en.wikipedia.org/wiki/2026_Lambeth_London_Borough_Council_election",
+    "note": "Death of Cllr Annie Gallop; elected Labour Co-operative in Myatt's Fields at the 7 May 2026 Lambeth election (Wikipedia election results, corroborated by Lambeth Council's by-election notice)",
+    "decidedAt": "2026-09-18"
+  },
+  {
+    "ballotPaperId": "local.newcastle-under-lyme.town.by.2026-10-08",
+    "partyId": "PP7931",
+    "partyName": "Reform UK",
+    "source": "https://en.wikipedia.org/wiki/2026_Newcastle-under-Lyme_Borough_Council_election",
+    "note": "Resignation of Cllr Christine Duffy (letter dated 20 August 2026); elected Reform UK in Town ward at the 7 May 2026 Newcastle-under-Lyme election (Wikipedia election results and post-election changes section)",
+    "decidedAt": "2026-09-18"
   }
 ]
