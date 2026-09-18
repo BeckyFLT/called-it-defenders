@@ -1,0 +1,1561 @@
+{{Short description|1978 UK local government election}}
+{{Use dmy dates|date=November 2019}}
+{{Use British English|date=July 2026}}
+Elections to [[Leeds City Council]] were held on 4 May 1978, with one third of the council up for election, as well as an extra vacancy in [[Wetherby]]. Prior to the election, the ''[[Hunslet]] East and West'' incumbent, Dennis Peddar, had defected from the [[Liberal Party (UK)|Liberals]] to [[Independent (politician)|Independent]], and fought this election as such.
+
+The election seen a returning swing to [[Labour Party (UK)|Labour]], although gains and losses were spread fairly equitably, with Labour narrowly gaining from the [[Conservative Party (UK)|Conservatives]] in [[Wortley, Leeds|Wortley]] and comfortably from the Independent in ''Hunslet East and West'', but losing ''[[Burmantofts]] and [[Richmond Hill, Leeds|Richmond Hill]]'' to the Liberals. The Conservative gain from the Liberals in [[Pudsey]] South left the two parties' totals unchanged. This resulted in the Conservatives retaining control of the council, with an unaltered majority of four.<ref name="results">{{cite news |title=District results: Leeds |work=[[The Yorkshire Post]] |date=5 May 1978 }}</ref>
+
+==Election result==
+{{Election summary begin|title = Leeds local election result 1978}}
+{{Election summary party
+  |party      = Conservative Party (UK)
+  |seats      = 15
+  |gain       = 1
+  |loss       = 1
+  |net        = 0
+  |seats %    = 45.4
+  |votes %    = 43.8
+  |votes      = 86,707
+  |plus/minus = -4.3%
+}}
+{{Election summary party
+  |party      = Labour Party (UK)
+  |seats      = 15
+  |gain       = 2
+  |loss       = 1
+  |net        = 1
+  |seats %    = 45.4
+  |votes %    = 40.5
+  |votes      = 80,070
+  |plus/minus = +6.6%
+}}
+{{Election summary party
+  |party      = Liberal Party (UK)
+  |seats      = 3
+  |gain       = 1
+  |loss       = 1
+  |net        = 0
+  |seats %    = 9.1
+  |votes %    = 12.2
+  |votes      = 24,057
+  |plus/minus = -3.2%
+}}
+{{Election summary party
+  |party      = Ecology Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.2
+  |votes      = 2,422
+  |plus/minus = +1.1%
+}}
+{{Election summary party
+  |party      = National Front (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.1
+  |votes      = 2,185
+  |plus/minus = +0.2%
+}}
+{{Election summary party
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        = -1
+  |seats %    = 0.0
+  |votes %    = 0.7
+  |votes      = 1,425
+  |plus/minus = +0.6%
+}}
+{{Election summary party
+  |party      = Communist Party of Great Britain
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.5
+  |votes      = 913
+  |plus/minus = +0.1%
+}}
+{{Election box end}}
+
+This result has the following consequences for the total number of seats on the council after the elections:
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+| 50
+| 50
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 38
+| 39
+|-
+! style="background-color: {{party color|Liberal Party (UK)}}; width: 3px;" |
+| Liberals
+| 7
+| 7
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent
+| 1
+| 0
+|-
+! colspan=2| Total
+! style="text-align: center"| 96
+! colspan=3| 96
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|4|border=darkgray}}
+! {{Color box|#FFBF00|4|border=darkgray}}
+|}
+
+==Ward results==
+{{Election box begin | title=[[Aireborough]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = W. Hudson
+  |votes      = 5,202
+  |percentage = 56.6
+  |change     = +0.2
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = M. Dunn
+  |votes      = 2,429
+  |percentage = 26.4
+  |change     = -0.4
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = J. Brown
+  |votes      = 1,556
+  |percentage = 16.9
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 2,773
+  |percentage = 30.2
+  |change     = +0.6
+}}
+{{Election box turnout
+  |votes      = 9,187
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = +0.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Armley]] and Castleton<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = M. Meadowcroft
+  |votes      = 3,007
+  |percentage = 45.0
+  |change     = +4.5
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = C. Buttery
+  |votes      = 2,122
+  |percentage = 31.8
+  |change     = -1.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = C. Mathers
+  |votes      = 1,339
+  |percentage = 20.0
+  |change     = -1.6
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = M. Spink
+  |votes      = 87
+  |percentage = 1.3
+  |change     = +0.5
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = J. Garrett
+  |votes      = 74
+  |percentage = 1.1
+  |change     = +1.1
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = J. Hodgson
+  |votes      = 54
+  |percentage = 0.8
+  |change     = -0.2
+}}
+{{Election box majority
+  |votes      = 885
+  |percentage = 13.2
+  |change     = +5.8
+}}
+{{Election box turnout
+  |votes      = 6,683
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Liberal Party (UK)
+  |swing      = +2.9
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Beeston, Leeds|Beeston]] and [[Holbeck]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = A. Beevers
+  |votes      = 4,409
+  |percentage = 61.7
+  |change     = +11.6
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = E. Lucas
+  |votes      = 2,574
+  |percentage = 36.0
+  |change     = -3.3
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = E. Thomas
+  |votes      = 161
+  |percentage = 2.3
+  |change     = +2.3
+}}
+{{Election box majority
+  |votes      = 1,835
+  |percentage = 25.7
+  |change     = +14.8
+}}
+{{Election box turnout
+  |votes      = 7,144
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +7.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Bramley, Leeds|Bramley]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = E. Atkinson
+  |votes      = 2,764
+  |percentage = 53.9
+  |change     = +2.6
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = W. Broadbent
+  |votes      = 1,339
+  |percentage = 26.1
+  |change     = -9.2
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = D. Selby
+  |votes      = 910
+  |percentage = 17.8
+  |change     = +4.5
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = S. Smith
+  |votes      = 60
+  |percentage = 1.2
+  |change     = +1.2
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = J. Light
+  |votes      = 52
+  |percentage = 1.0
+  |change     = +1.0
+}}
+{{Election box majority
+  |votes      = 1,425
+  |percentage = 27.8
+  |change     = +11.8
+}}
+{{Election box turnout
+  |votes      = 5,125
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +5.9
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Burley, Leeds|Burley]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = L. Cohen
+  |votes      = 1,811
+  |percentage = 54.2
+  |change     = +14.5
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = A. Sexton
+  |votes      = 1,307
+  |percentage = 39.1
+  |change     = -12.5
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party 
+  |candidate  = K. Baxter
+  |votes      = 133
+  |percentage = 4.0
+  |change     = +4.0
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = B. Jackson
+  |votes      = 57
+  |percentage = 1.7
+  |change     = -0.8
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = C. Whitehead
+  |votes      = 36
+  |percentage = 1.1
+  |change     = -0.2
+}}
+{{Election box majority
+  |votes      = 504
+  |percentage = 15.1
+  |change     = +3.2
+}}
+{{Election box turnout
+  |votes      = 3,344
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +13.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Burmantofts]] and [[Richmond Hill, Leeds|Richmond Hill]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = M. Clay
+  |votes      = 3,901
+  |percentage = 50.5
+  |change     = +16.1
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = [[Michael McGowan (politician)|Michael McGowan]]
+  |votes      = 2,729
+  |percentage = 35.3
+  |change     = -4.0
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = R. Simpson
+  |votes      = 897
+  |percentage = 11.6
+  |change     = -7.5
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = S. Rigby
+  |votes      = 119
+  |percentage = 1.5
+  |change     = -1.1
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = M. Monkman
+  |votes      = 84
+  |percentage = 1.1
+  |change     = -0.5
+}}
+{{Election box majority
+  |votes      = 1,172
+  |percentage = 15.2
+  |change     = +10.2
+}}
+{{Election box turnout
+  |votes      = 7,730
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link
+  |winner     = Liberal Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      = +10.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Chapel Allerton]] and Scott Hall<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = P. Sparling
+  |votes      = 4,039
+  |percentage = 51.6
+  |change     = -11.5
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = J. Kerwin-Davey
+  |votes      = 2,984
+  |percentage = 38.1
+  |change     = +10.3
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = D. Thorpe
+  |votes      = 495
+  |percentage = 6.3
+  |change     = -2.8
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = P. Jackson
+  |votes      = 148
+  |percentage = 1.9
+  |change     = +1.9
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = L. Willoughby
+  |votes      = 108
+  |percentage = 1.4
+  |change     = +1.4
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = T. Bernstein
+  |votes      = 54
+  |percentage = 0.7
+  |change     = +0.7
+}}
+{{Election box majority
+  |votes      = 1,055
+  |percentage = 13.5
+  |change     = -21.8
+}}
+{{Election box turnout
+  |votes      = 7,828
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -10.9
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Leeds city centre|City]] and [[Woodhouse, Leeds|Woodhouse]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = W. Merritt
+  |votes      = 2,644
+  |percentage = 64.3
+  |change     = +12.1
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = C. Hudson
+  |votes      = 1,093
+  |percentage = 26.6
+  |change     = -2.7
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = A. Ali
+  |votes      = 177
+  |percentage = 4.3
+  |change     = -10.4
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = J. Rodgers
+  |votes      = 130
+  |percentage = 3.2
+  |change     = -0.7
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = A. Rhodes
+  |votes      = 69
+  |percentage = 1.7
+  |change     = +1.7
+}}
+{{Election box majority
+  |votes      = 1,551
+  |percentage = 37.7
+  |change     = +14.8
+}}
+{{Election box turnout
+  |votes      = 4,113
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +7.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Cookridge]] and [[Weetwood]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Ralph David Hall
+  |votes      = 6,201
+  |percentage = 64.5
+  |change     = -8.3
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = John Illingworth
+  |votes      = 2,091
+  |percentage = 21.7
+  |change     = +3.3
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = David Gazey
+  |votes      = 1,132
+  |percentage = 11.8
+  |change     = +2.9
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = P. Lewenz
+  |votes      = 197
+  |percentage = 2.0
+  |change     = +2.0
+}}
+{{Election box majority
+  |votes      = 4,110
+  |percentage = 42.7
+  |change     = -11.6
+}}
+{{Election box turnout
+  |votes      = 9,621
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -5.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Garforth]] North and [[Barwick-in-Elmet|Barwick]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = B. Rowley
+  |votes      = 4,487
+  |percentage = 60.5
+  |change     = -4.0
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = H. Martin
+  |votes      = 2,451
+  |percentage = 33.0
+  |change     = +1.3
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = D. Corry
+  |votes      = 483
+  |percentage = 6.5
+  |change     = +6.5
+}}
+{{Election box majority
+  |votes      = 2,036
+  |percentage = 27.5
+  |change     = -5.3
+}}
+{{Election box turnout
+  |votes      = 7,421
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -2.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Gipton]] and [[Whinmoor]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = R. Dixon
+  |votes      = 4,265
+  |percentage = 62.3
+  |change     = +12.4
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = W. Buckland
+  |votes      = 2,363
+  |percentage = 34.5
+  |change     = -11.2
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = B. Spink
+  |votes      = 137
+  |percentage = 2.0
+  |change     = -2.4
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = G. Thompson
+  |votes      = 82
+  |percentage = 1.2
+  |change     = +1.2
+}}
+{{Election box majority
+  |votes      = 1,902
+  |percentage = 27.8
+  |change     = +23.6
+}}
+{{Election box turnout
+  |votes      = 6,847
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +11.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Temple Newsam (ward)#Councillors since 1973|Halton]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = M. Dodgson
+  |votes      = 4,034
+  |percentage = 70.1
+  |change     = -1.2
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = D. Brown
+  |votes      = 1,586
+  |percentage = 27.6
+  |change     = +1.5
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = C. Dewar
+  |votes      = 134
+  |percentage = 2.3
+  |change     = -0.3
+}}
+{{Election box majority
+  |votes      = 2,448
+  |percentage = 42.5
+  |change     = -2.8
+}}
+{{Election box turnout
+  |votes      = 5,754
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -1.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Harehills]] and [[Roundhay]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = P. Crotty
+  |votes      = 4,139
+  |percentage = 54.6
+  |change     = -14.4
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = M. Lyons
+  |votes      = 2,821
+  |percentage = 37.2
+  |change     = +10.5
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = H. Bevans
+  |votes      = 396
+  |percentage = 5.2
+  |change     = +5.2
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party 
+  |candidate  = A. Andrew
+  |votes      = 118
+  |percentage = 1.6
+  |change     = +1.6
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = C. Dewar
+  |votes      = 105
+  |percentage = 1.4
+  |change     = -2.9
+}}
+{{Election box majority
+  |votes      = 1,318
+  |percentage = 17.4
+  |change     = -24.9
+}}
+{{Election box turnout
+  |votes      = 7,579
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -12.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Headingley]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = E. Clark
+  |votes      = 2,240
+  |percentage = 45.1
+  |change     = -11.3
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = E. Whelan
+  |votes      = 1,645
+  |percentage = 33.1
+  |change     = +6.9
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = D. Rolfe
+  |votes      = 692
+  |percentage = 13.9
+  |change     = +0.7
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = B. Cooper
+  |votes      = 210
+  |percentage = 4.2
+  |change     = -0.1
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = K. Rushworth
+  |votes      = 185
+  |percentage = 3.7
+  |change     = +3.7
+}}
+{{Election box majority
+  |votes      = 595
+  |percentage = 12.0
+  |change     = -18.2
+}}
+{{Election box turnout
+  |votes      = 4,972
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -9.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Horsforth (ward)|Horsforth]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = M. Crossfield
+  |votes      = 3,413
+  |percentage = 44.1
+  |change     = +11.8
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = B. Pickard
+  |votes      = 3,201
+  |percentage = 41.4
+  |change     = -9.0
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = T. Watson
+  |votes      = 864
+  |percentage = 11.2
+  |change     = -2.6
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = D. Darnborough
+  |votes      = 262
+  |percentage = 3.4
+  |change     = +3.4
+}}
+{{Election box majority
+  |votes      = 212
+  |percentage = 2.7
+  |change     = -15.3
+}}
+{{Election box turnout
+  |votes      = 7,740
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Liberal Party (UK)
+  |swing      = +10.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Hunslet]] East and West<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = G. Driver
+  |votes      = 3,035
+  |percentage = 49.9
+  |change     = +6.9
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = D. Pedder
+  |votes      = 1,425
+  |percentage = 23.4
+  |change     = +23.4
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = J. Finnigan
+  |votes      = 795
+  |percentage = 13.1
+  |change     = -31.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = R. Tetley
+  |votes      = 670
+  |percentage = 11.0
+  |change     = +2.4
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = N. Griffiths
+  |votes      = 462
+  |percentage = 2.7
+  |change     = -0.6
+}}
+{{Election box majority
+  |votes      = 1,610
+  |percentage = 26.4
+  |change     = +24.9
+}}
+{{Election box turnout
+  |votes      = 6,087
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link
+  |winner     = Labour Party (UK)
+  |loser      = Independent (politician)
+  |swing      = -8.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Kippax, West Yorkshire|Kippax]] and [[Swillington]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = K. Smith
+  |votes      = 3,219
+  |percentage = 59.0
+  |change     = +5.4
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = B. King
+  |votes      = 2,234
+  |percentage = 41.0
+  |change     = -0.8
+}}
+{{Election box majority
+  |votes      = 985
+  |percentage = 18.0
+  |change     = +6.2
+}}
+{{Election box turnout
+  |votes      = 5,453
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +3.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Kirkstall (ward)|Kirkstall]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Elizabeth Nash
+  |votes      = 3,373
+  |percentage = 56.8
+  |change     = +6.0
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = T. Battersby
+  |votes      = 2,327
+  |percentage = 39.2
+  |change     = -5.1
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = Laurence Keates
+  |votes      = 239
+  |percentage = 4.0
+  |change     = +4.0
+}}
+{{Election box majority
+  |votes      = 1,046
+  |percentage = 17.6
+  |change     = +11.1
+}}
+{{Election box turnout
+  |votes      = 5,939
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +5.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Middleton, Leeds|Middleton]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = J. Taylor
+  |votes      = 3,156
+  |percentage = 77.4
+  |change     = +17.6
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = N. Landers
+  |votes      = 789
+  |percentage = 19.3
+  |change     = -6.0
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = R. Ward
+  |votes      = 82
+  |percentage = 2.0
+  |change     = -0.4
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = R. Buck
+  |votes      = 52
+  |percentage = 1.3
+  |change     = +1.3
+}}
+{{Election box majority
+  |votes      = 2,367
+  |percentage = 58.0
+  |change     = +23.6
+}}
+{{Election box turnout
+  |votes      = 4,079
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +11.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Moortown, Leeds|Moortown]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = A. Redmond
+  |votes      = 2,926
+  |percentage = 62.9
+  |change     = -2.6
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = I. Levy
+  |votes      = 1,567
+  |percentage = 33.7
+  |change     = +11.5
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = S. Waldenberg
+  |votes      = 160
+  |percentage = 3.4
+  |change     = -0.3
+}}
+{{Election box majority
+  |votes      = 1,359
+  |percentage = 29.2
+  |change     = -14.1
+}}
+{{Election box turnout
+  |votes      = 4,653
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -7.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Morley, West Yorkshire|Morley]] North<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = B. Barker
+  |votes      = 3,209
+  |percentage = 50.7
+  |change     = +0.1
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = B. North
+  |votes      = 3,119
+  |percentage = 49.3
+  |change     = +21.3
+}}
+{{Election box majority
+  |votes      = 90
+  |percentage = 1.4
+  |change     = -21.3
+}}
+{{Election box turnout
+  |votes      = 6,328
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -10.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Morley South<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = B. Haydn
+  |votes      = 3,310
+  |percentage = 62.3
+  |change     = +12.4
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = C. Rover
+  |votes      = 1,999
+  |percentage = 37.7
+  |change     = -12.4
+}}
+{{Election box majority
+  |votes      = 1,311
+  |percentage = 24.7
+  |change     = +24.5
+}}
+{{Election box turnout
+  |votes      = 5,309
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +12.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Osmondthorpe]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = D. Gabb
+  |votes      = 2,399
+  |percentage = 66.7
+  |change     = +11.7
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = D. Zucker
+  |votes      = 1,087
+  |percentage = 30.2
+  |change     = -5.1
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = L. Fella
+  |votes      = 113
+  |percentage = 3.1
+  |change     = -2.1
+}}
+{{Election box majority
+  |votes      = 1,312
+  |percentage = 36.5
+  |change     = +16.9
+}}
+{{Election box turnout
+  |votes      = 3,599
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +8.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Otley]] and [[Wharfedale]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = F. Atkinson
+  |votes      = 3,937
+  |percentage = 50.1
+  |change     = +5.6
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = J. Spencer
+  |votes      = 2,910
+  |percentage = 37.0
+  |change     = -7.1
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = I. Swain
+  |votes      = 960
+  |percentage = 12.2
+  |change     = +1.4
+}}
+{{Election box candidate with party link
+  |party      = Communist Party of Great Britain
+  |candidate  = A. Oddy
+  |votes      = 54
+  |percentage = 0.7
+  |change     = +0.0
+}}
+{{Election box majority
+  |votes      = 1,027
+  |percentage = 13.1
+  |change     = +12.8
+}}
+{{Election box turnout
+  |votes      = 7,861
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = +6.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Pudsey]] North<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = A. Carter
+  |votes      = 3,724
+  |percentage = 59.2
+  |change     = +13.7
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = P. Burrill
+  |votes      = 1,756
+  |percentage = 27.9
+  |change     = +4.9
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = S. Hollingworth
+  |votes      = 812
+  |percentage = 12.9
+  |change     = -18.5
+}}
+{{Election box majority
+  |votes      = 1,968
+  |percentage = 31.3
+  |change     = +17.2
+}}
+{{Election box turnout
+  |votes      = 6,292
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = +4.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=Pudsey South<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = L. Fletcher
+  |votes      = 2,475
+  |percentage = 43.0
+  |change     = -2.3
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = G. Wilson
+  |votes      = 2,065
+  |percentage = 35.9
+  |change     = +5.3
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = W. Thurlow
+  |votes      = 1,211
+  |percentage = 21.1
+  |change     = -3.0
+}}
+{{Election box majority
+  |votes      = 410
+  |percentage = 7.1
+  |change     = -7.6
+}}
+{{Election box turnout
+  |votes      = 5,751
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link
+  |winner     = Conservative Party (UK)
+  |loser      = Liberal Party (UK)
+  |swing      = -3.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Rothwell, West Yorkshire|Rothwell]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = R. Lund
+  |votes      = 4,939
+  |percentage = 62.4
+  |change     = +18.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = R. Harvey
+  |votes      = 2,781
+  |percentage = 35.1
+  |change     = +6.5
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = J. Duckenfield
+  |votes      = 194
+  |percentage = 2.5
+  |change     = +2.5
+}}
+{{Election box majority
+  |votes      = 2,158
+  |percentage = 27.3
+  |change     = +11.8
+}}
+{{Election box turnout
+  |votes      = 7,914
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Seacroft]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = I. Adams
+  |votes      = 3,303
+  |percentage = 70.4
+  |change     = +12.7
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = D. Townsley
+  |votes      = 1,256
+  |percentage = 26.8
+  |change     = -10.4
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = C. Cannon
+  |votes      = 135
+  |percentage = 2.9
+  |change     = -0.4
+}}
+{{Election box majority
+  |votes      = 2,047
+  |percentage = 43.6
+  |change     = +23.1
+}}
+{{Election box turnout
+  |votes      = 4,694
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +11.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Stanningley]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = A. Miller
+  |votes      = 2,699
+  |percentage = 60.2
+  |change     = +8.2
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = I. Benton
+  |votes      = 1,392
+  |percentage = 31.1
+  |change     = -4.0
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = F. Upton
+  |votes      = 316
+  |percentage = 7.0
+  |change     = -5.9
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = M. Gibson
+  |votes      = 76
+  |percentage = 1.7
+  |change     = +1.7
+}}
+{{Election box majority
+  |votes      = 1,307
+  |percentage = 29.1
+  |change     = +12.2
+}}
+{{Election box turnout
+  |votes      = 4,483
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Labour Party (UK)
+  |swing      = +6.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Talbot<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = I. Bellow
+  |votes      = 3,687
+  |percentage = 69.4
+  |change     = -2.4
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = B. Walker
+  |votes      = 1,061
+  |percentage = 20.0
+  |change     = +2.7
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = M. Phillips
+  |votes      = 320
+  |percentage = 6.0
+  |change     = -4.9
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party
+  |candidate  = S. Parkin
+  |votes      = 201
+  |percentage = 3.8
+  |change     = +3.8
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = L. Spink
+  |votes      = 46
+  |percentage = 0.9
+  |change     = +0.9
+}}
+{{Election box majority
+  |votes      = 2,626
+  |percentage = 49.4
+  |change     = -5.0
+}}
+{{Election box turnout
+  |votes      = 5,315
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -4.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Wetherby]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = D. Hudson
+  |votes      = 5,419
+  |percentage = 71.5
+  |change     = -3.2
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = J. Grange
+  |votes      = 5,311
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = J. Taylor
+  |votes      = 963
+  |percentage = 12.7
+  |change     = -1.3
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = M. Moynihan
+  |votes      = 808
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = J. Scott
+  |votes      = 641
+  |percentage = 8.5
+  |change     = -2.8
+}}
+{{Election box candidate with party link
+  |party      = Ecology Party 
+  |candidate  = M. Sellers
+  |votes      = 555
+  |percentage = 7.3
+  |change     = +7.3
+}}
+{{Election box majority
+  |votes      = 4,456
+  |percentage = 58.8
+  |change     = -1.8
+}}
+{{Election box turnout
+  |votes      = 7,578
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      = -0.9
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Wortley, Leeds|Wortley]]<ref name="results" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = P. Fathers
+  |votes      = 2,385
+  |percentage = 44.5
+  |change     = +3.8
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = F. Stubley
+  |votes      = 2,340
+  |percentage = 43.7
+  |change     = -3.5
+}}
+{{Election box candidate with party link
+  |party      = Liberal Party (UK)
+  |candidate  = W. Moss
+  |votes      = 519
+  |percentage = 9.7
+  |change     = -2.4
+}}
+{{Election box candidate with party link
+  |party      = National Front (UK)
+  |candidate  = A. Smith
+  |votes      = 112
+  |percentage = 2.1
+  |change     = +2.1
+}}
+{{Election box majority
+  |votes      = 45
+  |percentage = 0.8
+  |change     = -5.7
+}}
+{{Election box turnout
+  |votes      = 5,356
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = +3.6
+}}
+{{Election box end}}
+
+==References==
+{{reflist|1}}
+
+{{United Kingdom local elections, 1978 |state=expanded}}
+{{Leeds Council elections}}
+
+[[Category:1978 English local elections|Leeds]]
+[[Category:Leeds City Council elections|1978]]
+[[Category:1970s in Leeds]]

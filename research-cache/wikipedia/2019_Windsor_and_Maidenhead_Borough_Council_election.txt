@@ -266,530 +266,1553 @@ After the election, the composition of the council became:
 {{Election box end}}
 
 ==Ward results==
-
-{{Election box begin |title=Ascot and Sunninghill}}
+===Ascot and Sunninghill===
+{{Election box begin |title=Ascot and Sunninghill (3 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Ascot and Sunninghill |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/ascot-and-sunninghill |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=David Hilton
-  | votes=1446 |percentage= 55.5| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = David Hilton
+  |votes      = 1,446
+  |percentage = 55.5
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate= Julian Sharpe
-  | votes=1372 |percentage= 52.6| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Julian Sharpe
+  |votes      = 1,372
+  |percentage = 52.6
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=John Story
-  | votes= 1355 |percentage= 52.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = John Story
+  |votes      = 1,355
+  |percentage = 52.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Tamasin Barnbrook 
-  | votes=594 |percentage= 22.8| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Tamasin Barnbrook
+  |votes      = 594
+  |percentage = 22.8
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Independent (politician) | candidate=Adam Jezard
-  | votes=549 |percentage= 21.1| change= }}
+  |party      = Independent (politician)
+  |candidate  = Adam Jezard
+  |votes      = 549
+  |percentage = 21.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Aaron Chahal
-  | votes=486 |percentage= 18.6| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Aaron Chahal
+  |votes      = 486
+  |percentage = 18.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Jonathan Pope 
-  | votes=450 |percentage= 17.3| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jonathan Pope
+  |votes      = 450
+  |percentage = 17.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate=Spike Humphrey
-  | votes=372 |percentage= 14.3| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Spike Humphrey
+  |votes      = 372
+  |percentage = 14.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate=Ian Steers
-  | votes=321 |percentage= 12.3| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Ian Steers
+  |votes      = 321
+  |percentage = 12.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate=Margery Thorogood
-  | votes=228 |percentage= 8.7| change= }}
-{{Election box turnout | percentage = 31.61|votes=2,606|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Margery Thorogood
+  |votes      = 228
+  |percentage = 8.7
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 761
+  |percentage = 29.2
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,634
+  |percentage = 31.61
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 28
+  |percentage = 1.1
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 8,332<ref name="LEH2019">{{cite book |last1=Rallings |first1=Colin |last2=Thrasher |first2=Michael |title=Local Elections Handbook 2019 |publisher=The Elections Centre, University of Plymouth |url=https://www.electionscentre.co.uk/wp-content/uploads/2021/02/LEH2019-complete.pdf |access-date=17 September 2026}}</ref>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Belmont}}
+
+===Belmont===
+{{Election box begin |title=Belmont (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Belmont |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/belmont |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Simon Bond
-  | votes= 959 |percentage= 43.4| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Simon Bond
+  |votes      = 959
+  |percentage = 43.4
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate=John Baldwin
-  | votes= 838 |percentage= 37.9| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Baldwin
+  |votes      = 838
+  |percentage = 37.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Richard Hemmings
-  | votes= 649 |percentage= 29.4| change= }}
+  |party      = The Borough First
+  |candidate  = Richard Hemmings
+  |votes      = 649
+  |percentage = 29.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Philip Love
-  | votes= 627 |percentage= 28.4| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Philip Love
+  |votes      = 627
+  |percentage = 28.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Marion Mills
-  | votes= 589 |percentage= 26.6| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Marion Mills
+  |votes      = 589
+  |percentage = 26.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Patricia Lattimer
-  | votes= 265 |percentage= 12.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Patricia Lattimer
+  |votes      = 265
+  |percentage = 12.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Ian Smith
-  | votes= 216 |percentage= 9.8| change= }}
-{{Election box turnout | percentage = 43.1|votes=2,211|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Ian Smith
+  |votes      = 216
+  |percentage = 9.8
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 189
+  |percentage = 8.5
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,219
+  |percentage = 43.14
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 8
+  |percentage = 0.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,143<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Bisham & Cookham}}
+
+===Bisham and Cookham===
+{{Election box begin |title=Bisham and Cookham (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Bisham and Cookham |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/bisham-and-cookham |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Mandy Brar
-  | votes= 1321 |percentage= 56.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mandy Brar
+  |votes      = 1,321
+  |percentage = 56.1
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate= Gerry Clark
-  | votes= 963 |percentage= 40.9| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Gerry Clark
+  |votes      = 963
+  |percentage = 40.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Mark Howard
-  | votes= 952 |percentage= 40.5| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mark Howard
+  |votes      = 952
+  |percentage = 40.5
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Bill Perry
-  | votes= 885 |percentage= 37.6| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Bill Perry
+  |votes      = 885
+  |percentage = 37.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Green Party of England and Wales | candidate= Chris Moss
-  | votes= 272 |percentage= 11.6| change= }}
+  |party      = Green Party of England and Wales
+  |candidate  = Chris Moss
+  |votes      = 272
+  |percentage = 11.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Alexander McKendrick
-  | votes= 106 |percentage= 4.5| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Alexander McKendrick
+  |votes      = 106
+  |percentage = 4.5
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Geoff Cutting
-  | votes= 54 |percentage= 2.3| change= }}
-{{Election box turnout | percentage =45.42 |votes=2,353|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Geoff Cutting
+  |votes      = 54
+  |percentage = 2.3
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 11
+  |percentage = 0.5
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,373
+  |percentage = 45.42
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 20
+  |percentage = 0.8
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,224<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Boyn Hill}}
+
+===Boyn Hill===
+{{Election box begin |title=Boyn Hill (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Boyn Hill |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/boyn-hill |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Stuart Caroll
-  | votes= 1076 |percentage= 50.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Stuart Carroll
+  |votes      = 1,076
+  |percentage = 50.0
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate= Gurpreet Bhangra
-  | votes= 981|percentage= 45.6| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Gurpreet Bhangra
+  |votes      = 981
+  |percentage = 45.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Adam Bermange
-  | votes= 483 |percentage= 22.4| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Adam Bermange
+  |votes      = 483
+  |percentage = 22.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Oliver Baldwin
-  | votes= 473 |percentage= 22.0| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Oliver Baldwin
+  |votes      = 473
+  |percentage = 22.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Andrew Hill
-  | votes= 430 |percentage= 20.0| change= }}
+  |party      = The Borough First
+  |candidate  = Andrew Hill
+  |votes      = 430
+  |percentage = 20.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Nasreen Brittain
-  | votes= 353 |percentage= 16.4| change= }}
+  |party      = The Borough First
+  |candidate  = Nasreen Brittain
+  |votes      = 353
+  |percentage = 16.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Marios Alexandrou
-  | votes= 222 |percentage= 10.3| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Marios Alexandrou
+  |votes      = 222
+  |percentage = 10.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Graham Lee
-  | votes= 148 |percentage= 6.9| change= }}
-{{Election box turnout | percentage = 43.23 |votes=2,153|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Graham Lee
+  |votes      = 148
+  |percentage = 6.9
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 498
+  |percentage = 23.1
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,164
+  |percentage = 43.23
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 11
+  |percentage = 0.5
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,006<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Bray}}
+
+===Bray===
+{{Election box begin |title=Bray (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Bray |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/bray |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=David Coppinger
-  | votes= 1039 |percentage= 54.9| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = David Coppinger
+  |votes      = 1,039
+  |percentage = 54.9
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate= Leo Walters
-  | votes= 991 |percentage= 52.4| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Leo Walters
+  |votes      = 991
+  |percentage = 52.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Lee Page
-  | votes= 573 |percentage= 30.3| change= }}
+  |party      = The Borough First
+  |candidate  = Lee Page
+  |votes      = 573
+  |percentage = 30.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Sheila Adams
-  | votes= 368 |percentage= 19.5| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sheila Adams
+  |votes      = 368
+  |percentage = 19.5
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Robert Acker
-  | votes= 225 |percentage= 11.9| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robert Acker
+  |votes      = 225
+  |percentage = 11.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Peter Targett
-  | votes= 152 |percentage= 8.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Peter Targett
+  |votes      = 152
+  |percentage = 8.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Andrew Foakes
-  | votes= 149 |percentage= 7.9| change= }}
-{{Election box turnout | percentage = 33.85 |votes=1,892|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Andrew Foakes
+  |votes      = 149
+  |percentage = 7.9
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 418
+  |percentage = 22.1
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,901
+  |percentage = 33.85
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.5
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,616<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Clewer and Dedworth East}}
+
+===Clewer and Dedworth East===
+{{Election box begin |title=Clewer and Dedworth East (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Clewer and Dedworth East |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/clewer-and-dedworth-east |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=The Borough First | candidate=Helen Price
-  | votes= 762 |percentage= 42.4| change= }}
+  |party      = The Borough First
+  |candidate  = Helen Price
+  |votes      = 762
+  |percentage = 42.4
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=West Windsor Residents Association | candidate= Carole da Costa
-  | votes= 725 |percentage= 40.3| change= }}
+  |party      = West Windsor Residents Association
+  |candidate  = Carole da Costa
+  |votes      = 725
+  |percentage = 40.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Phillip Bicknell
-  | votes= 645 |percentage= 35.9| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Phillip Bicknell
+  |votes      = 645
+  |percentage = 35.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Michael Airey
-  | votes= 640 |percentage= 35.6| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Airey
+  |votes      = 640
+  |percentage = 35.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Mark Wilson
-  | votes= 216 |percentage= 12.0| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mark Wilson
+  |votes      = 216
+  |percentage = 12.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Laura Binnie
-  | votes= 210 |percentage= 11.7| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Laura Binnie
+  |votes      = 210
+  |percentage = 11.7
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Daniel Wall
-  | votes= 182 |percentage= 10.1| change= }}
-{{Election box turnout | percentage = 34.09 |votes=1,798|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Daniel Wall
+  |votes      = 182
+  |percentage = 10.1
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 80
+  |percentage = 4.4
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,805
+  |percentage = 34.09
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,295<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Clewer and Dedworth West}}
+
+===Clewer and Dedworth West===
+{{Election box begin |title=Clewer and Dedworth West (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Clewer and Dedworth West |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/clewer-and-dedworth-west |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=West Windsor Residents Association| candidate=Wiisdom Da Costa
-  | votes= 1067 |percentage= 51.2| change= }}
+  |party      = West Windsor Residents Association
+  |candidate  = Wisdom Da Costa
+  |votes      = 1,067
+  |percentage = 51.2
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=West Windsor Residents Association | candidate= Jon Davey
-  | votes= 941 |percentage= 45.2| change= }}
+  |party      = West Windsor Residents Association
+  |candidate  = Jon Davey
+  |votes      = 941
+  |percentage = 45.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Ed Wilson
-  | votes= 885 |percentage= 42.5| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Ed Wilson
+  |votes      = 885
+  |percentage = 42.5
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Malcolm Alexander
-  | votes= 811 |percentage= 39.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Malcolm Alexander
+  |votes      = 811
+  |percentage = 39.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Deborah Foster
-  | votes= 164 |percentage= 7.9| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Deborah Foster
+  |votes      = 164
+  |percentage = 7.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Joe Young
-  | votes= 150 |percentage= 7.2| change= }}
-{{Election box turnout | percentage = 38.38 |votes=2,082|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Joe Young
+  |votes      = 150
+  |percentage = 7.2
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 56
+  |percentage = 2.7
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,088
+  |percentage = 38.28
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 6
+  |percentage = 0.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,454<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Clewer East}}
+
+===Clewer East===
+{{Election box begin |title=Clewer East (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Clewer East |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/clewer-east |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Amy Tisi
-  | votes= 814 |percentage= 43.3| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Amy Tisi
+  |votes      = 814
+  |percentage = 43.3
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Karen Davies
-  | votes= 794 |percentage= 42.3| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Karen Davies
+  |votes      = 794
+  |percentage = 42.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Natasha Airey
-  | votes= 753 |percentage= 40.1| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Natasha Airey
+  |votes      = 753
+  |percentage = 40.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Dee Quick
-  | votes= 736 |percentage= 39.2| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Dee Quick
+  |votes      = 736
+  |percentage = 39.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Green Party of England and Wales | candidate= Fintan McKeown
-  | votes= 245 |percentage= 13.0| change= }}
+  |party      = Green Party of England and Wales
+  |candidate  = Fintan McKeown
+  |votes      = 245
+  |percentage = 13.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Patrick Green
-  | votes= 154 |percentage= 8.2| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Patrick Green
+  |votes      = 154
+  |percentage = 8.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Stephen McGowan
-  | votes= 121 |percentage= 6.4| change= }}
-{{Election box turnout | percentage = 37.02 |votes=1,878|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Stephen McGowan
+  |votes      = 121
+  |percentage = 6.4
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 41
+  |percentage = 2.2
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,892
+  |percentage = 37.02
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 14
+  |percentage = 0.7
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,111<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Cox Green}}
+
+===Cox Green===
+{{Election box begin |title=Cox Green (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Cox Green |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/cox-green |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Phil Hasler
-  | votes= 1223 |percentage= 52.1| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Phil Haseler
+  |votes      = 1,223
+  |percentage = 52.1
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate= Ross McWilliams
-  | votes= 1219 |percentage= 52.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Ross McWilliams
+  |votes      = 1,219
+  |percentage = 52.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Bruce Adams
-  | votes= 608 |percentage= 25.9| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Bruce Adams
+  |votes      = 608
+  |percentage = 25.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Bill Black
-  | votes= 536 |percentage= 22.8| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Bill Black
+  |votes      = 536
+  |percentage = 22.8
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= David Marks
-  | votes= 506 |percentage= 21.6| change= }}
+  |party      = The Borough First
+  |candidate  = David Marks
+  |votes      = 506
+  |percentage = 21.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Robert Horner
-  | votes= 174 |percentage= 7.4| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Robert Horner
+  |votes      = 174
+  |percentage = 7.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Colin Greenfield
-  | votes= 143 |percentage= 6.1| change= }}
-{{Election box turnout | percentage = 42.23 |votes=2,346|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Colin Greenfield
+  |votes      = 143
+  |percentage = 6.1
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 611
+  |percentage = 26.0
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,355
+  |percentage = 42.23
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,576<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Datchet, Horton and Wraysbury}}
+
+===Datchet, Horton and Wraysbury===
+{{Election box begin |title=Datchet, Horton and Wraysbury (3 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Datchet, Horton and Wraysbury |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/datchet-horton-and-wraysbury |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=David Cannon
-  | votes= 1117 |percentage= 46.4| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = David Cannon
+  |votes      = 1,117
+  |percentage = 46.4
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=National Flood Prevention Party | candidate= Ewan Larcome
-  | votes= 998 |percentage= 41.4| change= }}
+  |party      = National Flood Prevention Party
+  |candidate  = Ewan Larcombe
+  |votes      = 998
+  |percentage = 41.4
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Gary Muir
-  | votes= 903 |percentage= 37.5| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Gary Muir
+  |votes      = 903
+  |percentage = 37.5
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Margaret Lenton
-  | votes= 751 |percentage= 31.2| change= }}
+  |party      = The Borough First
+  |candidate  = Margaret Lenton
+  |votes      = 751
+  |percentage = 31.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate=Rushi Millns
-  | votes= 745 |percentage= 30.9| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Rushi Millns
+  |votes      = 745
+  |percentage = 30.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= David Buckley
-  | votes= 633 |percentage= 26.3| change= }}
+  |party      = The Borough First
+  |candidate  = David Buckley
+  |votes      = 633
+  |percentage = 26.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Linda O'Flynn
-  | votes= 288 |percentage= 12.0| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Linda O'Flynn
+  |votes      = 288
+  |percentage = 12.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Jennifer Ward
-  | votes= 271 |percentage= 11.3| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Jennifer Ward
+  |votes      = 271
+  |percentage = 11.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Mark Olney
-  | votes= 266 |percentage= 11.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Mark Olney
+  |votes      = 266
+  |percentage = 11.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Tim O'Flynn
-  | votes= 265 |percentage= 11.0| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Tim O'Flynn
+  |votes      = 265
+  |percentage = 11.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Gareth Jones
-  | votes= 218 |percentage= 9.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gareth Jones
+  |votes      = 218
+  |percentage = 9.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Peter Ward
-  | votes= 206 |percentage= 8.6| change= }}
-{{Election box turnout | percentage = 30.60 |votes=2,408|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Peter Ward
+  |votes      = 206
+  |percentage = 8.6
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 152
+  |percentage = 6.3
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,409
+  |percentage = 30.60
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 1
+  |percentage = 0.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 7,872<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Eton and Castle}}
+
+===Eton and Castle===
+{{Election box begin |title=Eton and Castle (3 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Eton and Castle |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/eton-and-castle |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Samantha Rayner
-  | votes= 1457 |percentage= 50.2| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Samantha Rayner
+  |votes      = 1,457
+  |percentage = 50.2
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK)  | candidate= John Bowden
-  | votes= 1319 |percentage= 45.5| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = John Bowden
+  |votes      = 1,319
+  |percentage = 45.5
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate= Shamsul Shelim
-  | votes= 1065 |percentage= 36.7| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Shamsul Shelim
+  |votes      = 1,065
+  |percentage = 36.7
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= George Fussey
-  | votes= 818 |percentage= 28.2| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = George Fussey
+  |votes      = 818
+  |percentage = 28.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Devon Davies
-  | votes= 738 |percentage= 25.4| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Devon Davies
+  |votes      = 738
+  |percentage = 25.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK)  | candidate= Julian Tisi
-  | votes= 645 |percentage= 22.2| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Julian Tisi
+  |votes      = 645
+  |percentage = 22.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Keith Owen
-  | votes= 609 |percentage= 21.0| change= }}
+  |party      = The Borough First
+  |candidate  = Keith Owen
+  |votes      = 609
+  |percentage = 21.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Peter Shearman
-  | votes= 398 |percentage= 13.7| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Peter Shearman
+  |votes      = 398
+  |percentage = 13.7
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Riccardo Ludovici
-  | votes= 372 |percentage= 12.8| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Riccardo Ludovici
+  |votes      = 372
+  |percentage = 12.8
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Angus Cameron
-  | votes= 370 |percentage= 12.8| change= }}
-{{Election box turnout | percentage = 34.87 |votes=2,900|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Angus Cameron
+  |votes      = 370
+  |percentage = 12.8
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 247
+  |percentage = 8.5
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,933
+  |percentage = 34.87
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 33
+  |percentage = 1.1
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 8,412<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Furze Platt}}
+
+===Furze Platt===
+{{Election box begin |title=Furze Platt (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Furze Platt |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/furze-platt |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Catherine del Campo
-  | votes= 1177 |percentage= 47.2| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Catherine del Campo
+  |votes      = 1,177
+  |percentage = 47.2
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate= [[Joshua Reynolds (politician)|Joshua Reynolds]]
-  | votes= 1019 |percentage= 40.9| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = [[Joshua Reynolds (politician)|Joshua Reynolds]]
+  |votes      = 1,019
+  |percentage = 40.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK)  | candidate= Derek Sharp
-  | votes= 632 |percentage= 25.4| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Derek Sharp
+  |votes      = 632
+  |percentage = 25.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Independent (politician)  | candidate= Hari Sharma
-  | votes= 570 |percentage= 22.9| change= }}
+  |party      = Independent (politician)
+  |candidate  = Hari Sharma
+  |votes      = 570
+  |percentage = 22.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK)  | candidate= Mohammed Ilyas
-  | votes= 543 |percentage= 21.8| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Mohammed Ilyas
+  |votes      = 543
+  |percentage = 21.8
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Tom Easten
-  | votes= 406 |percentage= 16.3| change= }}
+  |party      = The Borough First
+  |candidate  = Tom Easten
+  |votes      = 406
+  |percentage = 16.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Louise Clarke
-  | votes= 156 |percentage= 6.3| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Louise Clarke
+  |votes      = 156
+  |percentage = 6.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=UK Independence Party  | candidate= Edmund Holliday
-  | votes= 152 |percentage= 6.1| change= }}
+  |party      = UK Independence Party
+  |candidate  = Edmund Holliday
+  |votes      = 152
+  |percentage = 6.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Clive Lattimer
-  | votes= 102 |percentage= 4.1| change= }}
-{{Election box turnout | percentage = 44.23 |votes=2,492|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Clive Lattimer
+  |votes      = 102
+  |percentage = 4.1
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 387
+  |percentage = 15.5
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,495
+  |percentage = 44.23
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 3
+  |percentage = 0.1
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,641<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Hurley and Walthams}}
+
+===Hurley and Walthams===
+{{Election box begin |title=Hurley and Walthams (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Hurley and Walthams |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/hurley-and-walthams |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Maurine Hunt
-  | votes= 1033 |percentage= 64.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Maureen Hunt
+  |votes      = 1,033
+  |percentage = 64.0
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK)  | candidate= Andrew Johnson
-  | votes= 822 |percentage= 50.9| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Johnson
+  |votes      = 822
+  |percentage = 50.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=John Iles
-  | votes=325 |percentage= 20.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Iles
+  |votes      = 325
+  |percentage = 20.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Jenny Werner 
-  | votes=297 |percentage= 18.4| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jenny Werner
+  |votes      = 297
+  |percentage = 18.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Hasrat Ali
-  | votes= 273 |percentage= 16.9| change= }}
+  |party      = The Borough First
+  |candidate  = Hasrat Ali
+  |votes      = 273
+  |percentage = 16.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Patrick McDonald
-  | votes= 172 |percentage= 10.7| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Patrick McDonald
+  |votes      = 172
+  |percentage = 10.7
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Jessica Pocock
-  | votes= 109 |percentage= 6.7| change= }}
-{{Election box turnout | percentage = 34.08 |votes=1,615|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Jessica Pocock
+  |votes      = 109
+  |percentage = 6.7
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 497
+  |percentage = 30.8
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,615
+  |percentage = 34.08
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 0
+  |percentage = 0.0
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4,762<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Oldfield}}
+
+===Oldfield===
+{{Election box begin |title=Oldfield (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Oldfield |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/oldfield |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=The Borough First | candidate=Geoff Hill
-  | votes= 738 |percentage= 44.2| change= }}
+  |party      = The Borough First
+  |candidate  = Geoffrey Hill
+  |votes      = 738
+  |percentage = 44.2
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=The Borough First | candidate= Helen Taylor
-  | votes= 671 |percentage= 40.2| change= }}
+  |party      = The Borough First
+  |candidate  = Helen Taylor
+  |votes      = 671
+  |percentage = 40.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate=Derek Wilson
-  | votes=573 |percentage= 34.4| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Derek Wilson
+  |votes      = 573
+  |percentage = 34.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Joel Wheeler
-  | votes=507 |percentage= 30.4| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Joel Wheeler
+  |votes      = 507
+  |percentage = 30.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Anna Bermange
-  | votes= 223 |percentage= 13.4| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Anna Bermange
+  |votes      = 223
+  |percentage = 13.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Tony Baker
-  | votes= 200 |percentage= 12.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Tony Baker
+  |votes      = 200
+  |percentage = 12.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= George Shaw
-  | votes= 185 |percentage= 11.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = George Shaw
+  |votes      = 185
+  |percentage = 11.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Rory Nosworthy
-  | votes= 168 |percentage= 10.1| change= }}
-{{Election box turnout | percentage = 33.92 |votes=1,668|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Rory Nosworthy
+  |votes      = 168
+  |percentage = 10.1
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 98
+  |percentage = 5.9
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,674
+  |percentage = 33.92
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 6
+  |percentage = 0.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4,935<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Old Windsor}}
+
+===Old Windsor===
+{{Election box begin |title=Old Windsor (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Old Windsor |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/old-windsor |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Old Windsor Residents Association| candidate=Lynne Jones
-  | votes= 1619 |percentage= 73.8| change= }}
+  |party      = Old Windsor Residents Association
+  |candidate  = Lynne Jones
+  |votes      = 1,619
+  |percentage = 73.8
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Old Windsor Residents Association| candidate= Neil Knowles
-  | votes= 1408 |percentage= 64.2| change= }}
+  |party      = Old Windsor Residents Association
+  |candidate  = Neil Knowles
+  |votes      = 1,408
+  |percentage = 64.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate=Arlene Carson
-  | votes=544 |percentage= 24.8| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Arlene Carson
+  |votes      = 544
+  |percentage = 24.8
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Amit Verma
-  | votes=352 |percentage= 16.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Amit Verma
+  |votes      = 352
+  |percentage = 16.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Roy Reeves
-  | votes= 164 |percentage= 7.5| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Roy Reeves
+  |votes      = 164
+  |percentage = 7.5
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Yvonne Olney
-  | votes= 159 |percentage= 7.2| change= }}
-{{Election box turnout | percentage = 39.73 |votes=2,194|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Yvonne Olney
+  |votes      = 159
+  |percentage = 7.2
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 864
+  |percentage = 39.4
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,201
+  |percentage = 39.73
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.3
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,540<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Pinkneys Green}}
+
+===Pinkneys Green===
+{{Election box begin |title=Pinkneys Green (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Pinkneys Green |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/pinkneys-green |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate=Simon Werner
-  | votes= 1507 |percentage= 57.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Simon Werner
+  |votes      = 1,507
+  |percentage = 57.1
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Clive Baskerville
-  | votes= 1326 |percentage= 50.3| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Clive Baskerville
+  |votes      = 1,326
+  |percentage = 50.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate=Marius Gilmore
-  | votes=799 |percentage= 30.3| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Marius Gilmore
+  |votes      = 799
+  |percentage = 30.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Conservative Party (UK) | candidate= Richard Pope
-  | votes=693 |percentage= 26.3| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Pope
+  |votes      = 693
+  |percentage = 26.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Charles Hollingsworth
-  | votes= 491 |percentage= 18.6| change= }}
+  |party      = The Borough First
+  |candidate  = Charles Hollingsworth
+  |votes      = 491
+  |percentage = 18.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Jane Collisson
-  | votes= 131 |percentage= 5.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Jane Collisson
+  |votes      = 131
+  |percentage = 5.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Nigel Smith
-  | votes= 90 |percentage= 3.4| change= }}
-{{Election box turnout | percentage = 47.89 |votes=2,638|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Nigel Smith
+  |votes      = 90
+  |percentage = 3.4
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 527
+  |percentage = 20.0
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,652
+  |percentage = 47.89
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 14
+  |percentage = 0.5
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,537<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Riverside}}
+
+===Riverside===
+{{Election box begin |title=Riverside (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Riverside |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/riverside |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Simon Dudley
-  | votes= 851 |percentage= 37.2| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Simon Dudley
+  |votes      = 851
+  |percentage = 37.2
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK)  | candidate= Chris Targowski
-  | votes= 777 |percentage= 34.0| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Christopher Targowski
+  |votes      = 777
+  |percentage = 34.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Claire Stretton
-  | votes= 678 |percentage= 29.6| change= }}
+  |party      = The Borough First
+  |candidate  = Claire Stretton
+  |votes      = 678
+  |percentage = 29.6
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Mick Jarvis
-  | votes= 600 |percentage= 26.2| change= }}
+  |party      = The Borough First
+  |candidate  = Mick Jarvis
+  |votes      = 600
+  |percentage = 26.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Rob Castell
-  | votes= 476 |percentage= 20.8| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rob Castell
+  |votes      = 476
+  |percentage = 20.8
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Kashmir Singh
-  | votes= 450 |percentage= 19.7| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Kashmir Singh
+  |votes      = 450
+  |percentage = 19.7
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Green Party of England and Wales | candidate= Craig McDermott
-  | votes= 215 |percentage= 9.4| change= }}
+  |party      = Green Party of England and Wales
+  |candidate  = Craig McDermott
+  |votes      = 215
+  |percentage = 9.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Sharon Bunce
-  | votes= 182 |percentage= 8.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Sharon Bunce
+  |votes      = 182
+  |percentage = 8.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= David Knowles-Leak
-  | votes= 168 |percentage= 7.3| change= }}
-{{Election box turnout | percentage = 41.43 |votes=2,287|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = David Knowles-Leak
+  |votes      = 168
+  |percentage = 7.3
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 99
+  |percentage = 4.3
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 2,299
+  |percentage = 41.43
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 12
+  |percentage = 0.5
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 5,549<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=St Mary's}}
+
+===St Mary's===
+{{Election box begin |title=St Mary's (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: St Mary's |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/st-marys |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Donna Stimpson
-  | votes= 624 |percentage= 41.3| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Donna Stimson
+  |votes      = 624
+  |percentage = 41.3
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK)  | candidate= Gurch Singh
-  | votes= 604 |percentage= 39.9| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Gurch Singh
+  |votes      = 604
+  |percentage = 39.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Helen Craggs
-  | votes= 380 |percentage= 25.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Helen Craggs
+  |votes      = 380
+  |percentage = 25.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Andrew Hickley
-  | votes= 274 |percentage= 18.1| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Hickley
+  |votes      = 274
+  |percentage = 18.1
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Richard Wawman
-  | votes= 233 |percentage= 15.4| change= }}
+  |party      = The Borough First
+  |candidate  = Richard Wawman
+  |votes      = 233
+  |percentage = 15.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Derek Philip-Xu
-  | votes= 232 |percentage= 15.3| change= }}
+  |party      = The Borough First
+  |candidate  = Derek Philip-Xu
+  |votes      = 232
+  |percentage = 15.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Thomas Baker
-  | votes= 197 |percentage= 13.0| change= }}
+  |party      = Labour Party (UK)
+  |candidate  = Thomas Baker
+  |votes      = 197
+  |percentage = 13.0
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Green Party of England and Wales | candidate= John Barron
-  | votes= 186 |percentage= 12.3| change= }}
+  |party      = Green Party of England and Wales
+  |candidate  = John Barron
+  |votes      = 186
+  |percentage = 12.3
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Jacob Cotterill
-  | votes= 168 |percentage= 11.1| change= }}
-{{Election box turnout | percentage = 32.65 |votes=1,512|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Jacob Cotterill
+  |votes      = 168
+  |percentage = 11.1
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 224
+  |percentage = 14.8
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,524
+  |percentage = 32.65
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 12
+  |percentage = 0.8
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4,667<ref name="LEH2019"/>
+}}
 {{Election box end}}
 
-{{Election box begin |title=Sunningdale and Cheapside}}
+
+===Sunningdale and Cheapside===
+{{Election box begin |title=Sunningdale and Cheapside (2 seats)<ref>{{cite web |title=Borough elections results 2019 by ward: Sunningdale and Cheapside |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-elections-results-2019-ward/sunningdale-and-cheapside |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK) | candidate=Christine Bateson
-  | votes= 946 |percentage= 58.2| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Christine Bateson
+  |votes      = 946
+  |percentage = 58.2
+  |change     = 
+}}
 {{Election box winning candidate with party link
-  | party=Conservative Party (UK)  | candidate= Sayonara Luxton
-  | votes= 857 |percentage= 52.7| change= }}
+  |party      = Conservative Party (UK)
+  |candidate  = Sayonara Luxton
+  |votes      = 857
+  |percentage = 52.7
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=The Borough First | candidate= Valerie Pike
-  | votes= 572 |percentage= 35.2| change= }}
+  |party      = The Borough First
+  |candidate  = Valerie Pike
+  |votes      = 572
+  |percentage = 35.2
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Sonya Lippold
-  | votes= 283 |percentage= 17.4| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Sonya Lippold
+  |votes      = 283
+  |percentage = 17.4
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Liberal Democrats (UK) | candidate= Mariano Julia
-  | votes= 242 |percentage= 14.9| change= }}
+  |party      = Liberal Democrats (UK)
+  |candidate  = Mariano Julia
+  |votes      = 242
+  |percentage = 14.9
+  |change     = 
+}}
 {{Election box candidate with party link
-  | party=Labour Party (UK) | candidate= Alison Carpenter
-  | votes= 86 |percentage= 5.3| change= }}
-{{Election box turnout | percentage = 35.36 |votes=1,626|change=}}
+  |party      = Labour Party (UK)
+  |candidate  = Alison Carpenter
+  |votes      = 86
+  |percentage = 5.3
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 285
+  |percentage = 17.5
+  |change     = 
+}}
+{{Election box turnout
+  |votes      = 1,632
+  |percentage = 35.36
+  |change     = 
+}}
+{{Election box rejected
+  |votes      = 6
+  |percentage = 0.4
+  |change     = 
+}}
+{{Election box registered electors
+  |reg. electors = 4,616<ref name="LEH2019"/>
+}}
 {{Election box end}}
+
 <ref>{{Cite web|url=https://www3.rbwm.gov.uk/info/200394/election_results/1475/borough_elections_2019_-_by_ward|title=Borough elections 2019 - by ward|last=Maidenhead|first=The Royal Borough of Windsor and|website=www3.rbwm.gov.uk|language=en|access-date=2019-10-28|archive-date=4 June 2019|archive-url=https://web.archive.org/web/20190604011241/https://www3.rbwm.gov.uk/info/200394/election_results/1475/borough_elections_2019_-_by_ward|url-status=dead}}</ref>
+
+==Changes 2019–2023==
+*September 2019: Council leader Simon Dudley, Conservative councillor for Riverside, resigned from the council.<ref name="dudley-resign">{{cite news |last=Taylor |first=Will |title=Politicians react to Simon Dudley's shock resignation |url=https://www.maidenhead-advertiser.co.uk/news/maidenhead/150020/politicians-react-to-simon-dudley-s-shock-resignation.html |publisher=Maidenhead Advertiser |date=19 September 2019 |access-date=17 September 2026}}</ref>
+*June 2020: Gurch Singh, elected as a Conservative for St Mary's, joined the Liberal Democrat group.<ref>{{cite news |last=Roberts |first=George |title=Conservative councillor defects to Lib Dems amid suspension claims |url=https://www.maidenhead-advertiser.co.uk/news/maidenhead/159221/conservative-councillor-defects-to-lib-dems-amid-suspension-claims.html |publisher=Maidenhead Advertiser |date=17 June 2020 |access-date=17 September 2026}}</ref>
+*February 2022: Jon Davey, elected for the West Windsor Residents Association in Clewer and Dedworth West, left the association to sit as an independent.<ref>{{cite news |last=Bell |first=Kieran |title=Windsor councillor splits with residents' association to sit as independent |url=https://www.maidenhead-advertiser.co.uk/news/windsor/175061/windsor-councillor-splits-with-residents-association-to-sit-as-independent.html |publisher=Maidenhead Advertiser |date=23 February 2022 |access-date=17 September 2026}}</ref>
+*March 2023: John Baldwin, Liberal Democrat councillor for Belmont, stood down with immediate effect after a party disciplinary hearing;<ref>{{cite news |last=Williams |first=Adrian |title=Lib Dem councillor to stand down immediately after disciplinary hearing |url=https://www.maidenhead-advertiser.co.uk/news/maidenhead/184405/lib-dem-councillor-to-stand-down-immediately-after-disciplinary-hearing.html |publisher=Maidenhead Advertiser |date=27 March 2023 |access-date=17 September 2026}}</ref> as his term was due to end in May, the seat was left vacant.<ref>{{cite web |title=Gloucester right up to the middle |url=https://www.localcouncils.co.uk/2023/03/gloucester-right-up-to-the-middle/ |publisher=LocalCouncils.co.uk |date=31 March 2023 |access-date=17 September 2026}}</ref>
+
+===By-elections===
+
+====Riverside====
+
+The by-election was triggered by the resignation of Conservative council leader Simon Dudley, who said he wished to focus on national issues.<ref name="dudley-resign"/>
+
+{{Election box begin | title=Riverside by-election, 30 October 2019<ref>{{cite news |last=Bell |first=Kieran |title=Conservatives retain seat in Riverside by-election |url=https://www.maidenhead-advertiser.co.uk/news/maidenhead/151835/conservatives-retain-seat-in-riverside-by-election.html |publisher=Maidenhead Advertiser |date=31 October 2019 |access-date=17 September 2026}}</ref><ref>{{cite news |last=Taylor |first=Will |title=Riverside by-election: Meet the Candidates |url=https://www.maidenhead-advertiser.co.uk/news/maidenhead/151747/riverside-by-election-meet-the-candidates.html |publisher=Maidenhead Advertiser |date=25 October 2019 |access-date=17 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Greg Jones
+  |votes      = 794
+  |percentage = 41.1
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Kashmir Singh
+  |votes      = 566
+  |percentage = 29.3
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = The Borough First
+  |candidate  = Claire Stretton
+  |votes      = 428
+  |percentage = 22.1
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Sharon Bunce
+  |votes      = 70
+  |percentage = 3.6
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Green Party of England and Wales
+  |candidate  = Craig McDermott
+  |votes      = 60
+  |percentage = 3.1
+  |change     = 
+}}
+{{Election box candidate with party link
+  |party      = Women's Equality Party
+  |candidate  = Deborah Mason
+  |votes      = 16
+  |percentage = 0.8
+  |change     = 
+}}
+{{Election box majority
+  |votes      = 228
+  |percentage = 11.8
+  |change     = 
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |loser      = 
+  |swing      = 
+}}
+{{Election box end}}
 
 == References ==
 {{reflist}}

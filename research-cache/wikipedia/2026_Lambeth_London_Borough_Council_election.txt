@@ -941,8 +941,12 @@ Liam Daley was a councillor for [[Kennington (ward)|Kennington ward]], elected i
 === Myatt's Fields ===
 
 {{Election box begin|title=Myatt's Fields by-election: 8 October 2026<ref>https://www.lambeth.gov.uk/voting-elections/myatts-fields-election-thursday-8-october-2026</ref><br><small>Death of Annie Gallop (Labour Co-op)</small><ref>https://love.lambeth.gov.uk/lambeth-date-set-for-myatts-fields-by-election-following-death-of-local-councillor/</ref>}}
+{{Election box candidate with party link|party=Christian Peoples Alliance|candidate=Yemi Awolola|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Chris French|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Labour and Co-operative Party|candidate=Molly Hartill|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Hinsdon|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Socialist Party of Great Britain|candidate=Anya Krycek|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Mark McKee|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Green Party of England and Wales|candidate=Sonia Winifred|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}

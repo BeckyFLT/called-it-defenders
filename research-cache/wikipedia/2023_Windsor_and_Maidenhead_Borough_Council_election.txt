@@ -266,7 +266,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Ascot and Sunninghill===
 
-{{Election box begin | title=Ascot & Sunninghill (3 seats)}}
+{{Election box begin | title=Ascot & Sunninghill (3 seats)<ref>{{cite web |title=Borough: Ascot and Sunninghill results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-ascot-and-sunninghill-results-2023 |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Julian Sharpe*
@@ -324,8 +324,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = ''N/A''
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 14
+   |percentage = 0.5
    |change     = 
  }}
 {{Election box turnout
@@ -333,8 +333,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 30.35
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 13
+   |percentage = 0.5
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 8,563<ref name="LEH2023">{{cite book |last1=Rallings |first1=Colin |last2=Thrasher |first2=Michael |title=Local Elections Handbook 2023 |publisher=The Elections Centre |url=https://www.electionscentre.co.uk/wp-content/uploads/2024/01/LEH-2023-Complete.pdf |access-date=17 September 2026}}</ref>
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -355,7 +360,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Belmont===
 
-{{Election box begin | title=Belmont (2 seats)}}
+{{Election box begin | title=Belmont (2 seats)<ref>{{cite web |title=Borough: Belmont results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-belmont-election-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Simon Bond*
@@ -365,7 +370,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 }}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
-   |candidate  = Sian Martin
+   |candidate  = Siân Martin
    |votes      = 1,585
    |percentage = 68.6
    |change     = +30.7
@@ -392,8 +397,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = -1.4
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 1,083
+   |percentage = 46.9
    |change     = 
  }}
 {{Election box turnout
@@ -401,8 +406,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 42.90
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 15
+   |percentage = 0.6
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,419<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Liberal Democrats (UK)
@@ -418,7 +428,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Bisham and Cookham===
 
-{{Election box begin | title=Bisham & Cookham (2 seats)}}
+{{Election box begin | title=Bisham & Cookham (2 seats)<ref>{{cite web |title=Borough: Bisham and Cookham results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-bisham-and-cookham-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Mandy Brar*
@@ -462,8 +472,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = +0.2
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 1,361
+   |percentage = 52.5
    |change     = 
  }}
 {{Election box turnout
@@ -471,8 +481,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 49.77
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 0.3
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,220<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Liberal Democrats (UK)
@@ -488,7 +503,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Boyn Hill===
 
-{{Election box begin | title=Boyn Hill (2 seats)}}
+{{Election box begin | title=Boyn Hill (2 seats)<ref>{{cite web |title=Borough: Boyn Hill results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-boyn-hill-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Adam Bermange
@@ -532,8 +547,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = +0.4
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 747
+   |percentage = 33.0
    |change     = 
  }}
 {{Election box turnout
@@ -541,8 +556,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 44.26
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 9
+   |percentage = 0.4
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,140<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = Liberal Democrats (UK)
@@ -558,7 +578,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Bray===
 
-{{Election box begin | title=Bray (2 seats)}}
+{{Election box begin | title=Bray (2 seats)<ref>{{cite web |title=Borough: Bray results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-bray-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = The Borough First
    |candidate  = Suzanne Cross
@@ -609,8 +629,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = +0.9
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 20
+   |percentage = 1.0
    |change     = 
  }}
 {{Election box turnout
@@ -618,8 +638,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 35.47
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 4
+   |percentage = 0.2
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,585<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = The Borough First
@@ -635,7 +660,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Clewer and Dedworth East===
 
-{{Election box begin | title=Clewer & Dedworth East (2 seats)}}
+{{Election box begin | title=Clewer & Dedworth East (2 seats)<ref>{{cite web |title=Borough: Clewer and Dedworth East results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-clewer-and-dedworth-east-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = The Borough First
    |candidate  = Helen Price*
@@ -679,8 +704,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = ''N/A''
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 574
+   |percentage = 34.3
    |change     = 
  }}
 {{Election box turnout
@@ -688,8 +713,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 31.26
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 1
+   |percentage = 0.1
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,362<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = The Borough First
@@ -705,41 +735,41 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Clewer and Dedworth West===
 
-{{Election box begin | title=Clewer & Dedworth West (2 seats)}}
+{{Election box begin | title=Clewer & Dedworth West (2 seats)<ref>{{cite web |title=Borough: Clewer and Dedworth West results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-clewer-and-dedworth-west-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = West Windsor Residents Association
-   |candidate  = Wisdom da Costa*
+   |candidate  = Carole Da Costa*
    |votes      = 778
    |percentage = 39.8
-   |change     = -11.4
+   |change     = -5.4
 }}
  {{Election box winning candidate with party link
    |party      = West Windsor Residents Association
-   |candidate  = Carole da Costa*
+   |candidate  = Wisdom Da Costa*
    |votes      = 759
    |percentage = 38.8
-   |change     = -6.4
+   |change     = -12.4
 }}
  {{Election box candidate with party link
    |party      = Independent politician
    |candidate  = Edward Wilson
    |votes      = 649
    |percentage = 33.2
-   |change     = -9.3
+   |change     = ''N/A''
 }}
  {{Election box candidate with party link
    |party      = Independent politician
    |candidate  = Malcolm Alexander
    |votes      = 424
    |percentage = 21.7
-   |change     = -17.3
+   |change     = ''N/A''
 }}
  {{Election box candidate with party link
    |party      = Independent politician
    |candidate  = Jon Davey*
    |votes      = 418
    |percentage = 21.4
-   |change     = -23.8
+   |change     = ''N/A''
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
@@ -763,8 +793,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = +2.9
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 110
+   |percentage = 5.6
    |change     = 
  }}
 {{Election box turnout
@@ -772,8 +802,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 35.95
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 0.3
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,452<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = West Windsor Residents Association
@@ -789,7 +824,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Clewer East===
 
-{{Election box begin | title=Clewer East (2 seats)}}
+{{Election box begin | title=Clewer East (2 seats)<ref>{{cite web |title=Borough: Clewer East results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-clewer-east-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Karen Davies*
@@ -819,8 +854,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = -21.6
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 1,066
+   |percentage = 55.9
    |change     = 
  }}
 {{Election box turnout
@@ -828,8 +863,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 37.84
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 6
+   |percentage = 0.3
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,058<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Liberal Democrats (UK)
@@ -845,7 +885,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Cox Green===
 
-{{Election box begin | title=Cox Green (2 seats)}}
+{{Election box begin | title=Cox Green (2 seats)<ref>{{cite web |title=Borough: Cox Green results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-cox-green-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Chris Moriarty
@@ -896,8 +936,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = ''N/A''
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 919
+   |percentage = 38.0
    |change     = 
  }}
 {{Election box turnout
@@ -905,8 +945,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 44.11
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 4
+   |percentage = 0.2
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,489<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = Liberal Democrats (UK)
@@ -922,7 +967,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Datchet, Horton and Wraysbury===
 
-{{Election box begin | title=Datchet, Horton & Wraysbury (3 seats)}}
+{{Election box begin | title=Datchet, Horton & Wraysbury (3 seats)<ref>{{cite web |title=Borough: Datchet, Horton and Wraysbury results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-datchet-horton-and-wraysbury-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = National Flood Prevention Party
    |candidate  = Ewan Larcombe*
@@ -935,14 +980,14 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |candidate  = David Buckley
    |votes      = 1,071
    |percentage = 44.2
-   |change     = +13.0
+   |change     = +17.9
 }}
  {{Election box winning candidate with party link
    |party      = The Borough First
    |candidate  = Jodie Grove
    |votes      = 953
    |percentage = 39.3
-   |change     = +13.0
+   |change     = +8.1
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
@@ -967,17 +1012,17 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Peter Ward
+   |candidate  = Jenny Ward
    |votes      = 394
    |percentage = 16.3
-   |change     = +7.7
+   |change     = +5.0
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Jenny Ward
+   |candidate  = Peter Ward
    |votes      = 289
    |percentage = 11.9
-   |change     = +0.6
+   |change     = +3.3
 }}
  {{Election box candidate with party link
    |party      = Green Party of England and Wales
@@ -1001,8 +1046,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = -2.9
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 205
+   |percentage = 8.5
    |change     = 
  }}
 {{Election box turnout
@@ -1010,8 +1055,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 30.92
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 13
+   |percentage = 0.5
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 7,874<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = National Flood Prevention Party
@@ -1032,7 +1082,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Eton and Castle===
 
-{{Election box begin | title=Eton and Castle (3 seats)}}
+{{Election box begin | title=Eton and Castle (3 seats)<ref>{{cite web |title=Borough: Eton and Castle results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-eton-and-castle-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Julian Tisi
@@ -1104,8 +1154,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = -6.4
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 765
+   |percentage = 24.5
    |change     = 
  }}
 {{Election box turnout
@@ -1113,8 +1163,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 36.94
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 0.2
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 8,457<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = Liberal Democrats (UK)
@@ -1135,7 +1190,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Furze Platt===
 
-{{Election box begin | title=Furze Platt (2 seats)}}
+{{Election box begin | title=Furze Platt (2 seats)<ref>{{cite web |title=Borough: Furze Platt results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-furze-platt-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Catherine Del Campo*
@@ -1155,7 +1210,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |candidate  = Hari Sharma
    |votes      = 577
    |percentage = 24.5
-   |change     = +1.6
+   |change     = -0.9
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
@@ -1186,8 +1241,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = ''N/A''
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 880
+   |percentage = 37.3
    |change     = 
  }}
 {{Election box turnout
@@ -1195,8 +1250,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 41.90
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 0.2
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,637<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Liberal Democrats (UK)
@@ -1212,7 +1272,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Hurley and Walthams===
 
-{{Election box begin | title=Hurley & Walthams (2 seats)}}
+{{Election box begin | title=Hurley & Walthams (2 seats)<ref>{{cite web |title=Borough: Hurley and Walthams results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-hurley-and-walthams-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = George Blundell
@@ -1263,8 +1323,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = -2.3
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 101
+   |percentage = 6.2
    |change     = 
  }}
 {{Election box turnout
@@ -1272,8 +1332,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 34.06
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 0.4
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 4,780<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = Liberal Democrats (UK)
@@ -1289,7 +1354,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Oldfield===
 
-{{Election box begin | title=Oldfield (2 seats)}}
+{{Election box begin | title=Oldfield (2 seats)<ref>{{cite web |title=Borough: Oldfield results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-oldfield-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = The Borough First
    |candidate  = Helen Taylor*
@@ -1326,8 +1391,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = +4.0
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 261
+   |percentage = 13.6
    |change     = 
  }}
 {{Election box turnout
@@ -1335,8 +1400,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 36.21
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 9
+   |percentage = 0.5
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,314<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = The Borough First
@@ -1352,7 +1422,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Old Windsor===
 
-{{Election box begin | title=Old Windsor (2 seats)}}
+{{Election box begin | title=Old Windsor (2 seats)<ref>{{cite web |title=Borough: Old Windsor results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-old-windsor-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Old Windsor Residents Association
    |candidate  = Lynne Jones*
@@ -1373,7 +1443,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=1,795|percentage=32.08|change=}}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,595<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Old Windsor Residents Association
@@ -1389,7 +1459,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Pinkneys Green===
 
-{{Election box begin | title=Pinkneys Green (2 seats)}}
+{{Election box begin | title=Pinkneys Green (2 seats)<ref>{{cite web |title=Borough: Pinkneys Green results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-pinkneys-green-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
 |party=Liberal Democrats (UK)
 |candidate=Clive Baskerville*
@@ -1420,8 +1490,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 |votes= 162
 |percentage=6.8|change=+3.4}}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 1,464
+   |percentage = 61.2
    |change     = 
  }}
 {{Election box turnout
@@ -1429,8 +1499,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 43.62
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 11
+   |percentage = 0.5
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,513<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Liberal Democrats (UK)
@@ -1446,7 +1521,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===Riverside===
 
-{{Election box begin | title=Riverside (2 seats)}}
+{{Election box begin | title=Riverside (2 seats)<ref>{{cite web |title=Borough: Riverside results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-riverside-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Kashmir Singh
@@ -1490,8 +1565,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = ''N/A''
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 751
+   |percentage = 29.2
    |change     = 
  }}
 {{Election box turnout
@@ -1499,8 +1574,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 45.81
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 6
+   |percentage = 0.2
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,636<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = Liberal Democrats (UK)
@@ -1516,7 +1596,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
 
 ===St Mary's===
 
-{{Election box begin | title=St Mary's (2 seats)}}
+{{Election box begin | title=St Mary's (2 seats)<ref>{{cite web |title=Borough: St Mary's results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-st-marys-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = Jack Douglas
@@ -1529,7 +1609,7 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |candidate  = Gurch Singh*
    |votes      = 1,123
    |percentage = 61.7
-   |change     = +21.8
+   |change     = +43.6
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
@@ -1553,8 +1633,8 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |change     = +2.9
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 647
+   |percentage = 35.6
    |change     = 
  }}
 {{Election box turnout
@@ -1562,8 +1642,13 @@ The Statement of Persons Nominated, which details the candidates standing in eac
    |percentage = 35.10
    |change     = 
  }}
+{{Election box rejected
+   |votes      = 12
+   |percentage = 0.7
+   |change     = 
+ }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 5,216<ref name="LEH2023"/>
  }}
 {{Election box gain with party link
    |winner     = Liberal Democrats (UK)
@@ -1580,7 +1665,7 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
 
 ===Sunningdale and Cheapside===
 
-{{Election box begin | title=Sunningdale & Cheapside (2 seats)}}
+{{Election box begin | title=Sunningdale & Cheapside (2 seats)<ref>{{cite web |title=Borough: Sunningdale and Cheapside results 2023 |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/borough-election-results-2023/borough-sunningdale-and-cheapside-2023-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
  {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Sayonara Luxton*
@@ -1631,8 +1716,8 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
    |change     = +5.1
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 124
+   |percentage = 7.6
    |change     = 
  }}
 {{Election box turnout
@@ -1641,7 +1726,7 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
    |change     = 
  }}
 {{Election box registered electors
-   |reg. electors = 
+   |reg. electors = 4,677<ref name="LEH2023"/>
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1655,31 +1740,49 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
 }}
  {{Election box end}}
 
-==By-elections==
-===Ascot & Sunninghill, 17 October 2024===
-{{Election box begin | title=Ascot & Sunninghill}}
- {{Election box winning candidate with party link
+==Changes 2023–2027==
+*July 2024: Geoff Hill, elected for the Borough First Independents in Oldfield, resigned from the party.<ref name="tbfi-split">{{cite news |last=Nair |first=Anaka |title=Councillors resign from The Borough First Independents in split over 'values' |url=https://www.maidenhead-advertiser.co.uk/news/council-and-politics/199753/councillors-resign-from-the-borough-first-independents-in-split-over-values.html |publisher=Maidenhead Advertiser |date=15 January 2025 |access-date=17 September 2026}}</ref>
+*August 2024: Kashmir Singh, elected as a Liberal Democrat for Riverside, joined the Labour Party.<ref>{{cite news |last=Lee |first=David |title=Blow to Lib Dems as Riverside councillor defects to Labour |url=https://www.maidenhead-advertiser.co.uk/news/council-and-politics/197593/blow-to-lib-dems-as-riverside-councillor-defects-to-labour.html |publisher=Maidenhead Advertiser |date=6 August 2024 |access-date=17 September 2026}}</ref>
+*September 2024: Helen Taylor, elected for the Borough First Independents in Oldfield, resigned from the party.<ref name="tbfi-split"/>
+*October 2024: Kashmir Singh left Labour to sit as an independent.<ref>{{cite news |last=Lee |first=David |title=Riverside councillor leaves Labour just weeks after defection |url=https://www.maidenhead-advertiser.co.uk/news/maidenhead/198513/riverside-councillor-leaves-labour-just-weeks-after-defection.html |publisher=Maidenhead Advertiser |date=10 October 2024 |access-date=17 September 2026}}</ref>
+*January 2025: Helen Price (Clewer and Dedworth East), Suzanne Cross (Bray) and Jodie Grove (Datchet, Horton and Wraysbury), all elected for the Borough First Independents, left the party.<ref name="tbfi-split"/>
+*April 2025: David Buckley, elected for the Borough First Independents in Datchet, Horton and Wraysbury, joined [[Reform UK]].<ref>{{cite news |last=Nair |first=Anaka |title=Independent RBWM councillor defects to Reform UK |url=https://www.maidenhead-advertiser.co.uk/news/council-and-politics/200981/independent-rbwm-councillor-joins-reform-uk-as-windsor-branch-chair.html |publisher=Maidenhead Advertiser |date=17 April 2025 |access-date=17 September 2026}}</ref>
+*December 2025: Jack Douglas, Liberal Democrat councillor for St Mary's, was suspended by the Liberal Democrat group and sat as an independent; Geoff Hill then joined the Liberal Democrats, preserving the party's one-seat majority.<ref>{{cite news |last=Leech |first=Sam |title=Lib Dems retain Royal Borough control as independent councillor joins |url=https://www.maidenhead-advertiser.co.uk/news/council-and-politics/702443/lib-dems-retain-royal-borough-control-as-independent-councillor-joins.html |publisher=Maidenhead Advertiser |date=18 December 2025 |access-date=17 September 2026}}</ref>
+*January 2026: The West Windsor Residents Association was voluntarily deregistered as a political party on 26 January;<ref>{{cite web |title=West Windsor Residents Association [De-registered 26/01/26] |url=https://search.electoralcommission.org.uk/Registrations/PP14153 |publisher=[[Electoral Commission (United Kingdom)|Electoral Commission]] |access-date=17 September 2026}}</ref> its two councillors, Carole Da Costa and Wisdom Da Costa, remained on the council as independents.<ref>{{cite web |title=Going the extra Furlong |url=https://www.localcouncils.co.uk/2026/02/going-the-extra-furlong/ |publisher=LocalCouncils.co.uk |date=6 February 2026 |access-date=17 September 2026}}</ref>
+*February 2026: Jack Douglas joined the Borough First Independents.<ref>{{cite web |title=Putting Residents First: Cllr Jack Douglas Joins tBfI |url=https://www.theboroughfirst.org/putting-residents-first-cllr-jack-douglas-joins-the-borough-first-independents/ |publisher=The Borough First Independents |date=17 February 2026 |access-date=17 September 2026}}</ref>
+*May 2026: Carole Da Costa joined the Borough First Independents.<ref>{{cite web |title=Councillor Carole Da Costa Joins The Borough First Independents |url=https://www.theboroughfirst.org/councillor-carole-da-costa-joins-the-borough-first-independents/ |publisher=The Borough First Independents |date=31 May 2026 |access-date=17 September 2026}}</ref>
+*July 2026: Kashmir Singh, who had been with the Borough First Independents since May 2026, resigned from the group on 15 July.<ref>{{cite web |title=Announcement |url=https://www.theboroughfirst.org/announcement-2/ |publisher=The Borough First Independents |date=15 July 2026 |access-date=17 September 2026}}</ref>
+*September 2026: Suzanne Cross joined the Conservatives.<ref>{{cite news |last=Williams |first=Adrian |title=Bray councillor joins Conservatives but vows to maintain 'independence of mind' |url=https://www.maidenhead-advertiser.co.uk/news/council-and-politics/709099/bray-councillor-joins-conservatives-but-vows-to-remain-firmly-independent.html |publisher=Maidenhead Advertiser |date=4 September 2026 |access-date=17 September 2026}}</ref>
+
+===By-elections===
+
+====Ascot and Sunninghill====
+
+Conservative councillor John Story stood down with immediate effect for health reasons, triggering this by-election.<ref>{{cite news |last=Nair |first=Anaka |title=Ascot and Sunninghill by-election confirmed as councillor resigns for health reasons |url=https://www.windsorexpress.co.uk/news/council-and-politics/198170/ascot-and-sunninghill-by-election-confirmed-as-councillor-resigns-for-health-reasons.html |publisher=Windsor Express |date=17 September 2024 |access-date=17 September 2026}}</ref>
+
+{{Election box begin | title=Ascot and Sunninghill by-election, 17 October 2024<ref>{{cite web |title=Ascot and Sunninghill ward by election 17 October 2024 results |url=https://www.rbwm.gov.uk/council-and-democracy/elections-and-voting/election-results/elections-2024-results/ascot-and-sunninghill-ward-election-17-october-2024-results |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
+{{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Sally Coneron
-   |votes      = 1264
+   |votes      = 1,264
    |percentage = 58.5
    |change     = +18.4
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = George Jezard
    |votes      = 703
-   |percentage = 32.5
+   |percentage = 32.6
    |change     = +1.3
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = The Borough First
    |candidate  = Matt Newman
    |votes      = 118
    |percentage = 5.5
    |change     = ''New''
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Nigel Hayward
    |votes      = 74
@@ -1690,21 +1793,31 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
    |votes      = 561
    |percentage = 26.0
    |change     = 
- }}
+}}
 {{Election box turnout
-   |votes      = 2159
-   |percentage = 24.8
-   |change     = -5.6
- }}
+   |votes      = 2,162
+   |percentage = 24.79
+   |change     = –5.56
+}}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 0.1
+   |change     = 
+}}
+{{Election box registered electors
+   |reg. electors = 8,719
+}}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
    |swing      = +8.6
 }}
- {{Election box end}}
+{{Election box end}}
 
-===Bray, 24 September 2026===
-{{Election box begin|title=Bray by-election, 24 September 2026<ref>{{Cite web | url=https://www.rbwm.gov.uk/sites/default/files/2026-08/elections_noe_bray_by-election_20260924.pdf | title=Election of councillor For the Area of Bray borough ward | website=www.rbwm.gov.uk}}</ref>
-}}
+====Bray====
+
+The by-election was called following the death of Conservative councillor Leo Walters, who had represented Bray for more than 50 years.<ref>{{cite web |title=Royal Borough pays tribute to Cllr Leo Walters |url=https://www.rbwm.gov.uk/news/2026/royal-borough-pays-tribute-cllr-leo-walters |publisher=Royal Borough of Windsor and Maidenhead |date=10 August 2026 |access-date=17 September 2026}}</ref>
+
+{{Election box begin | title=Bray by-election, 24 September 2026<ref>{{cite web |title=Statement of persons nominated: Bray ward by-election |url=https://www.rbwm.gov.uk/sites/default/files/2026-08/elections_%20spon_bray_by-election_20260924.pdf |publisher=Royal Borough of Windsor and Maidenhead |access-date=17 September 2026}}</ref>}}
 {{Election box candidate with party link|party=The Borough First|candidate=John Baldwin|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Joanna Korczak|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Reform UK|candidate=William Sennett|votes=|percentage=|change=}}
@@ -1713,7 +1826,7 @@ Gurch Singh had been elected as a Conservative in 2019 but had defected to the L
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}
- {{Election box end}}
+{{Election box end}}
 
 ==References==
 {{notelist}}

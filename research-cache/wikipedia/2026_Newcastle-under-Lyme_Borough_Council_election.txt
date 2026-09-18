@@ -9,8 +9,8 @@
 | outgoing_members = 
 | election_date = {{Start date|2026|5|7|df=y}}
 | elected_members = 
-| next_election = 
-| next_year = 2027 ([[Upcoming structural changes to local government in England|TBD]])
+| next_election = 2027 Newcastle-under-Lyme Borough Council election
+| next_year = 2027 
 | seats_for_election = All 44 seats to [[Newcastle-under-Lyme Borough Council]]
 | majority_seats = 23
 | opinion_polls = 
@@ -1886,9 +1886,12 @@ Neill Walker was the Reform UK candidate for the [[Newcastle-under-Lyme (constit
 
 A by-election was called for the Town ward following the resignation of Reform UK councillor Christine Duffy, whose resignation letter was dated 20 August 2026 and received by the council on 21 August 2026. The ward's other councillor, Sheelagh Casey-Hulme, was unaffected.<ref>{{cite web |title=Borough Council by-election to be held |url=https://www.newcastle-staffs.gov.uk/news/article/572/borough-council-by-election-to-be-held |publisher=Newcastle-under-Lyme Borough Council |date=21 August 2026 |access-date=3 September 2026}}</ref> A date for the by-election had not yet been confirmed as of early September 2026.<ref>{{cite web |title=Current vacancies and by-elections |url=https://www.newcastle-staffs.gov.uk/elections-registration-1/current-vacancies-elections/4 |publisher=Newcastle-under-Lyme Borough Council |access-date=3 September 2026}}</ref>
 
-{{Election box begin|title=Town by-election}}
+{{Election box begin|title=Town by-election, 8 October 2026<ref>https://whocanivotefor.co.uk/elections/local.newcastle-under-lyme.town.by.2026-10-08/town/</ref>}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Conna Eynon|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Labour Party (UK)|candidate=Andrew Fox-Hewitt|votes=|percentage=|change=}}
 {{Election box candidate with party link|party=Reform UK|candidate=Adam Griffiths|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Morgan Inwood|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Mark Jones|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}

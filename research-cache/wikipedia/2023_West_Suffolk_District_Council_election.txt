@@ -8,8 +8,8 @@
 | outgoing_members  = 
 | election_date     = {{Start date|2023|5|4|df=y}}
 | elected_members   = 
-| next_election     = 
-| next_year         = 2027 ([[Upcoming structural changes to local government in England|TBD]])
+| next_election     = 2027 West Suffolk District Council election
+| next_year         = 2027 
 | seats_for_election= All 64 seats to [[West Suffolk District Council]]
 | majority_seats    = 33
 | opinion_polls     = 
@@ -110,7 +110,6 @@
 | after_election = Cliff Waterman<br>[[Labour Party (UK)|Labour]]
 | after_party = No overall control
 }}
-
 The '''2023 West Suffolk District Council election''' took place on 4 May 2023 to elect members of [[West Suffolk District Council]] in [[Suffolk]], [[England]].<ref>{{Cite web|url=https://www.westsuffolk.gov.uk/council/elections/vacancies-elections-results/elections/ |title=Current vacancies and elections |access-date=5 April 2023 |publisher=[[West Suffolk District Council]]}}</ref> This was on the same day as other [[2023 United Kingdom local elections|local elections]] in England.
 
 ==Summary==
@@ -2279,14 +2278,14 @@ The by-election followed the resignation of Conservative councillor Jo Rayner.<r
 
 The by-election was called following the resignation of Conservative councillor Margaret Marks.<ref name="marks-resign">{{cite news |last=Barton |first=Steve |title='I have suffered considerably from abuse' – councillor quits |url=https://www.suffolknews.co.uk/haverhill/news/i-have-suffered-considerably-from-abuse-councillor-quits-9470529/ |work=Suffolk News |date=19 June 2026 |access-date=29 August 2026 |archive-url=http://web.archive.org/web/20260629172940/https://www.suffolknews.co.uk/haverhill/news/i-have-suffered-considerably-from-abuse-councillor-quits-9470529/ |archive-date=29 June 2026 |url-status=live}}</ref>
 {{Election box begin | title=Haverhill West by-election: 10 September 2026<ref>{{cite web |title=Notice of election: Haverhill West ward |url=https://www.westsuffolk.gov.uk/Council/elections/vacancies-elections-results/elections/upload/Notice-of-Election-WSC-Haverhill-West-10-September-2026.pdf |website=West Suffolk Council |access-date=14 August 2026}}</ref>}}
-{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Graham Cone|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Labour Party (UK)|candidate=Quinn Cox|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Clare Higson|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=James Porter|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Reform UK|candidate=Heike Sowa|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Graham Cone|votes=530|percentage=51.3|change=+16.5}}
+{{Election box candidate with party link|party=Reform UK|candidate=Heike Sowa|votes=267|percentage=25.8|change=''N/A''}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Quinn Cox|votes=146|percentage=14.4|change=-23.4}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Clare Higson|votes=60|percentage=5.8|change=''N/A''}}
+{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=James Porter|votes=30|percentage=2.9|change=''N/A''}}
+{{Election box majority|votes=263|percentage=25.5|change=''N/A''}}
+{{Election box turnout|votes=1033|percentage=24.5|change=-1.2}}
+{{Election box hold with party link|winner=Conservative Party (UK)|loser=|swing=}}
  {{Election box end}}
 
 ==References==

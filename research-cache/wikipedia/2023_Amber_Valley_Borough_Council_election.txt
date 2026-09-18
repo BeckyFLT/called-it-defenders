@@ -933,13 +933,53 @@ The Codnor, Langley Mill & Aldercar by-election was triggered by the resignation
 ===Kilburn, Denby, Holbrook & Horsley===
 
 {{Election box begin|title=Kilburn, Denby, Holbrook & Horsley by-election, 8 October 2026<ref>https://www.localcouncils.co.uk/2026/08/wandsworth-stays-in-minority-control/</ref>}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Bess Saunders|votes=|percentage=|change=}}
+{{Election box candidate with party link
+ |party = Labour Party (UK)
+ |candidate = Andrew Bayton
+ |votes = 
+ |percentage = 
+ |change = 
+}}
+{{Election box candidate with party link
+ |party = Conservative Party (UK)
+ |candidate = Paul Moss
+ |votes = 
+ |percentage = 
+ |change = 
+}}
+{{Election box candidate with party link
+ |party = Restore Britain
+ |candidate = Edward Oakenfull
+ |votes =
+ |percentage = 
+ |change = 
+}}
+{{Election box candidate with party link
+ |party = Green Party of England and Wales
+ |candidate = Bess Saunders
+ |votes = 
+ |percentage = 
+ |change = 
+}}
+{{Election box candidate with party link
+ |party = Reform UK
+ |candidate = Juliette Stevens
+ |votes = 
+ |percentage = 
+ |change = 
+}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}
  {{Election box end}}
 
 The Kilburn, Denby, Holbrook & Horsley by-election was triggered by the resignation of Conservative councillor Julie Whitmore.
+
+==Changes of allegiance==
+*Amanda Paget, elected for the Green Party, moved to Conservative in March 2024, then moved again to Reform UK in April 2026.<ref>{{cite news |last1=Bisknell |first1=Eddie |title=Derbyshire Tory defects to Reform just months after election loss |url=https://www.derbytelegraph.co.uk/news/local-news/derbyshire-tory-defects-reform-just-10941705 |access-date=11 September 2026 |work=Derbyshire Live |date=29 April 2026}}</ref>
+*Steven Bower, elected for Labour, left the party to sit as an independent - announced May 2025.<ref>{{cite web |title=Post-election roundup |url=https://www.localcouncils.co.uk/2025/05/post-election-roundup-3/ |website=Local Councils |publisher=Thorncliffe |access-date=11 September 2026 |date=4 May 2025}}</ref>
+*Trevor Holmes, elected for Labour, left the party to sit as an independent - announced December 2025.<ref>{{cite web |title=Amber Valley |url=https://www.localcouncils.co.uk/councils/?council=amber_valley |website=Local Councils |publisher=Thorncliffe |access-date=6 January 2026 |archive-url=https://web.archive.org/web/20260106072901/https://www.localcouncils.co.uk/councils/?council=amber_valley |archive-date=6 January 2026}}</ref> Labour lost its majority on the council at this point.
+*Emma Monkman, elected for Labour, left the party to sit as an independent in May 2026.<ref>{{cite web |title=Grand post-election round-up |url=https://www.localcouncils.co.uk/2026/05/grand-post-election-round-up/ |website=Local Councils |publisher=Thorncliffe |access-date=11 September 2026 |date=15 May 2026}}</ref>
 
 == References ==
 {{reflist}}
