@@ -1,0 +1,118 @@
+{{Short description|2027 English local election}}
+{{Infobox election
+| election_name = 2027 Amber Valley Borough Council Election
+| country = Derbyshire
+| type = parliamentary
+| ongoing = yes
+| party_colour = yes
+| previous_election = 2023 Amber Valley Borough Council election
+| previous_year = 2023
+| next_election = 2031 Amber Valley Borough Council Election
+| next_year = 2031
+| seats_for_election = All 42 seats for [[Amber Valley]] Borough Council
+| majority_seats = 22
+| election_date = 6 May 2027
+<!--Labour-->| image1 = [[File:No image wide.svg|95x50px|Blank]]
+| leader1 = Chris Emmas-Williams
+| party1 = Labour Party (UK)
+| last_election1 = 26 seats,
+| seats_before1 = 19
+<!--Conservative-->| image2 = [[File:No image wide.svg|95x50px|Blank]]
+| leader2 = 
+| party2 = Conservative Party (UK)
+| last_election2 = 7 seats
+| seats_before2 = 7
+<!--Green-->| image3 = [[File:No image wide.svg|95x50px|Blank]]
+| leader3 = Gez Kinsella
+| party3 = Green Party of England and Wales
+| last_election3 = 6 seats
+| seats_before3 = 5
+<!--Independent-->| image4 = [[File:No image wide.svg|95x50px|Blank]]
+| leader4 = ''No Leader''
+| party4 = Independent politician
+| last_election4 = 2 seats
+| seats_before4 = 4
+| image5 = [[File:No image wide.svg|95x50px|Blank]]
+| leader5 = James Kerry
+| party5 = Reform UK
+| last_election5 = 0 seats
+| seats_before5 = 3
+| image6 = [[File:No image wide.svg|95x50px|Blank]]
+| leader6 = Ben Bellamy
+| party6 = Derbyshire Community Party
+| last_election6 = 0 seats
+| seats_before6 = 2
+| image7 = [[File:No image wide.svg|95x50px|Blank]]
+| leader7 = Kate Smith
+| party7 = Liberal Democrats (UK)
+| last_election7 = 1 seats
+| seats_before7 = 1
+| title = [[Leader of the council|Leader]]
+| posttitle = Leader after election
+| before_election = Chris Emmas-Williams
+| before_party = Labour Party (UK)
+| after_election = 
+| after_party = 
+| seats_needed1 = {{increase}} 3
+| seats_needed2 = {{increase}} 15
+| seats_needed3 = {{increase}} 17
+| seats_needed4 = {{increase}} 18
+| seats_needed5 = {{increase}} 19
+| seats_needed6 = {{increase}} 20
+| seats_needed7 = {{increase}} 21
+}}
+
+The '''2027 Amber Valley Borough Council election''' will be held on 6 May 2027<ref>{{Cite web |last=Amber Valley Borough Council |date=2025-09-05 |title=Elections |url=https://www.ambervalley.gov.uk/councillors-and-elections/elections/ |archive-url=https://web.archive.org/web/20260922155739/https://www.ambervalley.gov.uk/councillors-and-elections/elections/ |archive-date=2026-09-22 |access-date=2026-09-22 |website=www.ambervalley.gov.uk |language=en-GB}}</ref>, alongside [[2027 United Kingdom local elections|other local elections in the United Kingdom]], to elect all 42 councillors for [[Amber Valley Borough Council]].
+
+== Background ==
+The election was not scheduled to be held as Amber Valley, along with many other councils in England, were to be re-organised under the government's [[Local Government Reorganisation|Local Government Re-Organisation]] scheme.<ref>{{Cite web |title=Local government reorganisation: programme review and decisions withdrawal letter to council leaders |url=https://www.gov.uk/government/publications/local-government-reorganisation-programme-review-and-decisions-withdrawal-letter-to-council-leaders/local-government-reorganisation-programme-review-and-decisions-withdrawal-letter-to-council-leaders |access-date=2026-09-22 |website=GOV.UK |language=en}}</ref> Due to the pausing of the re-organisation on 7 September, the existing council boundaries will be used.
+
+[[Labour Party (UK)|Labour]] currently controls the council through a minority administration, lead by Chris Emmas-Williams. Labour won majority control in the 2023 elections<ref name=":1">{{Cite web |last=Council |first=Amber Valley Borough |date=2025-05-13 |title=4 May 2023 borough results |url=https://www.ambervalley.gov.uk/councillors-and-elections/elections/local-elections/borough-election-results/4-may-2023/ |access-date=2026-09-22 |website=www.ambervalley.gov.uk |publisher=Amber Valley Borough Council |language=en-GB}}</ref>, however defections have resulted in minority rule.
+
+Each of the 18 wards of the council elects either two or three councillors, depending on their relative populations.
+
+=== Previous Election Result ===
+{{Main|2023 Amber Valley Borough Council election}}
+The composition of the council after the 2023 election was:<ref name=":1" />
+{| class="wikitable"
+|+2023 Result
+!
+!Party
+!Seats Won
+!Net Gain/Loss
+|-
+|style="background: #e4003b;"|
+|[[Labour Party (UK)|Labour]]
+|26
+|{{increase}} 15
+|-
+|style="background: #0087DC;"|
+|[[Conservative Party (UK)|Conservative]]
+|7
+|{{decrease}} 21
+|-
+|style="background: #02A95B;"|
+|[[Green Party of England and Wales|Green]]
+|6
+|{{increase}} 3
+|-
+|style="background: #DCDCDC;"|
+|[[Independent politician|Independents]]
+|2
+|{{increase}} 2
+|-
+|style="background: #faa61a;"|
+|[[Liberal Democrats (UK)|Liberal Democrat]]
+|1
+|{{increase}} 1
+|-
+|style="background: #1EB8D0;"|
+|[[Reform UK]]
+|0
+|{{steady}} 0
+|}
+
+== References ==
+
+[[Category:2027 English local elections]]
+[[Category:Amber Valley Borough Council elections]]

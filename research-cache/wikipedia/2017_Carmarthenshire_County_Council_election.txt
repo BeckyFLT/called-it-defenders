@@ -1,0 +1,2479 @@
+{{Short description|Welsh local election}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| election_name = 2017 Carmarthenshire County Council election
+| next_election = 
+| flag_image = Arms of Carmarthenshire County Council.svg
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2012 Carmarthenshire County Council election]]
+| previous_year = [[2012 Carmarthenshire County Council election|2012]]
+| seats_before1 = 
+| seats1 = 36
+| next_year = [[2022 Carmarthenshire County Council election|2022]]
+| majority_seats = 37
+| election_date = 4 May 2017
+
+<!-- Plaid Cymru -->| image1 = File:Emlyn Dole.jpg
+| leader1 = Emlyn Dole
+| party1 = Plaid Cymru
+| leaders_seat1 = [[Llannon]]
+| last_election1 = '''28 seats, 37.8%'''
+| party3 = Independent politician
+| country = Wales
+| seat_change1 = {{increase}}8
+| popular_vote1 = '''31,215'''
+| percentage1 = '''38.5%'''
+| swing1 = {{increase}}'''2.5%'''
+| image2 = <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Labour Party (UK)}}; font-size:38px;"> '''Lab'''</span></div>
+| leader2 = Jeff Edmunds
+| party2 = Welsh Labour
+| leaders_seat2 = [[Bigyn (electoral ward)|Bigyn]]
+| last_election2 = 23 seats, 31.1%
+| seats_before2 = 
+| seats2 = 22
+| seat_change2 = {{decrease}}1
+| popular_vote2 = 24,358
+| percentage2 = 30.0%
+| swing2 = {{increase}}6.8%
+| image3 = <div style="width:115px;"><span style="line-height:150px; vertical-align:center; text-align:center; color:{{party color|Independent (politician)}}; font-size:38px;"> '''Ind'''</span></div>
+| leader3 = 
+| seats_for_election = All 74 seats to [[Carmarthenshire County Council]]
+| leaders_seat3 = 
+| leaders_seat4 = 
+| leader4 = 
+| seats3 = 16
+| seat_change3 = {{decrease}}7
+| popular_vote3 = 18,313
+| percentage3 = 12.6%
+| swing3 = {{decrease}}21.3%
+| image4 = 
+| image5 = 
+| leader5 = 
+| party4 = 
+| last_election4 = 
+| seats_before4 = 
+| seats4 = 
+| seat_change4 = 
+| popular_vote4 = 
+| percentage4 = 
+| swing4 = 
+| last_election3 = 23 seats, 29.7%
+| seats_before3 = 
+| party5 = 
+| leaders_seat5 = 
+| last_election5 = 
+| seats_before5 = 
+| seats5 = 
+| seat_change5 = 
+| popular_vote5 = 
+| percentage5 = 
+| swing5 = 
+| map_image = File:Carmarthenshire UK ward map 2017.svg
+| map_size = 
+| map_caption = Results of the 2017 Carmarthenshire County Council election
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[Plaid Cymru]] and [[independent politician|Independent]] coalition
+| before_party = 
+| after_election = [[Plaid Cymru]] and [[independent politician|Independent]] coalition
+| after_party = 
+}}
+The '''sixth election to [[Carmarthenshire County Council]]''' was held on 4 May 2017 as part of wider local elections across [[2017 Welsh local elections|Wales]]. The election was preceded by the [[2012 Carmarthenshire County Council election|2012 election]].<ref>{{cite web|title=Wales local council elections 2017: All you need to know|url=https://www.bbc.co.uk/news/uk-wales-politics-39453647|website=BBC News|access-date=4 April 2017|date=3 April 2017}}</ref> It was followed by the [[2022 Carmarthenshire County Council election|2022 election]]
+
+Plaid Cymru narrowly missed out in forming the first majority administration in Carmarthenshire Council's history, despite gaining eight seats in the election. The Labour Party maintained its position from the 2012-2017 term, with the Independents losing many seats in the rural areas of Carmarthenshire to Plaid Cymru. Four candidates (from the seventy four seats) were elected unopposed.
+
+A Plaid Cymru-Independent coalition was formed after the election, with Emlyn Dole remaining as the Leader of Council.<ref>{{cite web|title=Carmarthenshire Council will be run by a coalition of Plaid Cymru and independents|url=https://www.walesonline.co.uk/news/local-news/carmarthenshire-council-run-coalition-plaid-12994150|website=Wales Online|access-date=13 February 2019|date=5 May 2017}}</ref>
+
+{{TOC right}}
+
+==Results Overview== 
+No Overall Control Retained
+
+{{Election summary begin|title = Carmarthenshire County Council election result 2017}}
+{{Election summary party|
+  |party      = Plaid Cymru
+  |seats      = 36
+  |gain       = 11
+  |loss       = 3
+  |net        = +8
+  |seats %    = 48.6
+  |votes %    = '''38.5'''
+  |votes      = '''31,215'''
+  |plus/minus = '''+2.5'''
+}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 22
+  |gain       = 6
+  |loss       = 6
+  |net        = 0
+  |seats %    = 29.7
+  |votes %    = 30.0
+  |votes      = 24,358
+  |plus/minus = +6.8
+}}
+{{Election summary party|
+  |party      = Independent (politician) 
+  |seats      = 16
+  |gain       = 1
+  |loss       = 8
+  |net        = -7
+  |seats %    = 21.6
+  |votes %    = 12.6
+  |votes      = 18,313
+  |plus/minus = -21.3
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 5.4
+  |votes      = 4,342
+  |plus/minus = +2.5
+}}
+{{Election summary party|
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.6
+  |votes      = 1,296
+  |plus/minus = ''New''
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.0
+  |votes      = 842
+  |plus/minus = 0.0
+}}
+{{Election summary party|
+  |party      = Trade Unionist and Socialist Coalition
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.16
+  |votes      = 135
+  |plus/minus = +0.1
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.13
+  |votes      = 109
+  |plus/minus = +0.1
+}}
+|}
+
+==Ward results==
+===Abergwili (one seat)===
+{{Election box begin | title= [[Abergwili (electoral ward)|Abergwili]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Dorian Williams
+  |votes      = 622
+  |percentage = 60%
+  |change     = +17.9
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Lisa Fearn
+  |votes      = 448
+  |percentage = 40%
+  |change     = -17.9
+}}
+{{Election box majority|
+  |votes      = 214
+  |percentage = 19%
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1110
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Ammanford (one seat)===
+{{Election box begin | title= [[Ammanford (electoral ward)|Ammanford]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Deian Harries*
+  |votes      = 613
+  |percentage = 67%
+  |change     = +16
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paula Treharne
+  |votes      = 298
+  |percentage = 33%
+  |change     = -15
+}} 
+{{Election box majority|
+  |votes      = 315
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 911
+  |percentage = 34%
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Betws (one seat)===
+{{Election box begin | title=[[Betws, Carmarthenshire (electoral ward)|Betws]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Betsan Jones
+  |votes      = 402
+  |percentage = 51%
+  |change     = +20.4
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ryan Bartlett*
+  |votes      = 309
+  |percentage = 39.2%
+  |change     = -3.9
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Krishna Seunarine
+  |votes      = 77
+  |percentage = 9.7%
+  |change     = +9.7
+}} 
+{{Election box majority|
+  |votes      = 93
+  |percentage = 11.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 788
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bigyn (two seats)===
+{{Election box begin | title= [[Bigyn (electoral ward)|Bigyn]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jeff Edmunds*
+  |votes      = 610
+  |percentage = 19.8%
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Eryl Morgan*
+  |votes      = 575
+  |percentage = 18.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Terry Morris
+  |votes      = 428
+  |percentage = 13.9%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Nigel Bevan
+  |votes      = 414
+  |percentage = 13.4%
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Michael Burns
+  |votes      = 333
+  |percentage = 10.8%
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Kathryn Lodge
+  |votes      = 304
+  |percentage = 9.9%
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Thomas
+  |votes      = 236
+  |percentage = 7.7%
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Stephen Bowen
+  |votes      = 181
+  |percentage = 5.9%
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3081
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing    =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Burry Port (two seats)===
+{{Election box begin | title= [[Burry Port (electoral ward)|Burry Port]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John James*
+  |votes      = 825
+  |percentage = 
+  |change     = 
+}} 
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Amanda Fox
+  |votes      =  728
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Mike Theodoulu
+  |votes      = 548
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Lisa Mitchell
+  |votes      = 412
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Tomos Lloyd-Evans
+  |votes    =  237
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 44.5
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bynea (one seat)===
+{{Election box begin | title= [[Bynea (electoral ward)|Bynea]] 2017  }}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Deryk Cundy*
+  |votes      = 539
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Ian Wooldridge
+  |votes      = 373
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ceri Alan Morris
+  |votes      =  218
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Dai Hughes
+  |votes      = 49
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Town North (two seats)===
+{{Election box begin | title= [[Carmarthen Town North]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kenneth Lloyd
+  |votes      =  805
+  |percentage = 
+  |change     = 
+}} 
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Peter Hughes Griffiths*
+  |votes      = 765
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Gareth Jones*
+  |votes      = 581
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Les Clark
+  |votes      = 489
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage =
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Town South (two seats)===
+{{Election box begin | title= [[Carmarthen Town South]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Gareth John
+  |votes      = 551
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Alun Lenny*
+  |votes      = 493
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Charlie Evans
+  |votes      =  399
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Philip Grice
+ |votes      =  361
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Barry Williams
+  |votes      =  303
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Town West (two seats)===
+{{Election box begin | title= [[Carmarthen Town West]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Emlyn Schiavone
+  |votes      = 739
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Alan Speake*
+  |votes      = 661
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Arthur Davies
+  |votes      = 510
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Russell Sparks
+  |votes      =  454
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Matthew Thomas
+ |votes      =  255
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Julia Ault
+ |votes      =  238
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cenarth (one seat)===
+{{Election box begin | title= [[Cenarth (electoral ward)|Cenarth]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Hazel Evans*
+  |votes      = 712
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Philip Gibbons
+  |votes      = 115
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cilycwm (one seat)===
+Plaid Cymru had gained Cilycwm at a by-election following the death of the previous Independent member. However, the party did not field a candidate resulting in the seat being captured by an Independent, who had finished second at the by-election.
+{{Election box begin | title=[[Cilycwm (electoral ward)|Cilycwm]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Arwel Davies
+  |votes      = 307
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Maria Carroll
+  |votes      = 284
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Matthew Paul
+  |votes      = 191
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser      = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cynwyl Elfed (one seat)===
+{{Election box begin | title= [[Cynwyl Elfed (electoral ward)|Cynwyl Elfed]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Irfon Jones*
+  |votes      = 804
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Glyn Evans
+  |votes      = 584
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cynwyl Gaeo (one seat)===
+{{Election box begin | title= [[Cynwyl Elfed (electoral ward)|Cynwyl Elfed]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Eirwyn Williams*
+  |votes      = 434
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Steven Holmes
+  |votes      = 267
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Dafen (one seat)===
+{{Election box begin | title=[[Dafen (electoral ward)|Dafen]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Rob Evans'''
+  |votes      =508
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Tegwen Devichand*
+  |votes      = 452
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser      = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Elli (one seat)===
+{{Election box begin | title= [[Elli (electoral ward)|Elli]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = [[John Jenkins (Welsh politician)|John Jenkins]]*
+  |votes      = 442
+  |percentage = 41.4 
+  |change     = -11.3 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Darkin
+  |votes      = 273
+  |percentage = 25.6 
+  |change     = +5.5 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Siôn Davies
+  |votes      = 210
+  |percentage = 19.7 
+  |change     = +14.1 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Ruth Price 
+  |votes      = 142
+  |percentage = 13.3 
+  |change     = -8.0 
+}}
+{{Election box majority|
+  |votes      =169 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Felinfoel (one seat)===
+{{Election box begin | title= [[Felinfoel]] 2017}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Bill Thomas'''
+  |votes      = 269
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Hugh Richards*
+  |votes      = 185
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Julia Evans
+  |votes      = 94
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Garnant (one seat)===
+{{Election box begin | title= [[Garnant]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Madge*
+  |votes      = 494
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Nigel Jerrett
+  |votes      = 167
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Glanamman (one seat)===
+{{Election box begin | title= [[Glanamman (electoral ward)|Glanamman]] 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = David Jenkins*
+  |votes      = 413
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Emyr Jenkins
+  |votes      = 375
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Glanymor (two seats)===
+{{Election box begin | title=[[Glanymor]] 2017}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Louvain Roberts'''*
+  |votes      = 702
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''John Prosser'''
+  |votes      = 537
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Sean Rees
+  |votes      = 536
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Jones
+  |votes      = 333
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = George Herbert
+  |votes      = 328
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Alison Carter
+  |votes      = 280
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Chris Wilson
+  |votes      = 182
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Glyn (one seat)===
+{{Election box begin | title=Glyn 2017}}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Thomas James Jones*
+  |votes      = 323
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = John Williams
+  |votes      = 251
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stephen Donoghue
+  |votes      = 168
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = James Hogg
+  |votes      =98 
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Gorslas (two seats)===
+{{Election box begin | title=[[Gorslas]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Darren Price*
+  |votes      = 1,051
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Aled Owen
+  |votes      = 941
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Wynne Jones
+  |votes      = 431
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gary Jones
+  |votes      = 311
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Anthony Frost
+  |votes      = 283
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Brian Kirby
+  |votes      = 169
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+   |loser =Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Hendy (one seat)===
+{{Election box begin | title=[[Hendy]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Gareth Thomas*
+  |votes      = 432
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steve Lloyd-Janes
+  |votes      = 385
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Vanda Williams
+  |votes      = 158
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = David Erasmus
+  |votes      = 77
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Keith Perry
+  |votes      = 59
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Hengoed (two seats)===
+{{Election box begin | title=[[Hengoed (Carmarthenshire electoral ward)|Hengoed]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Penelope Edwards*
+  |votes      = 408
+  |percentage = 
+  |change     = 
+}} 
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Susan Phillips
+  |votes      = 394
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate minor party|
+  |party      = Independent
+  |candidate  = Siân Mair Caiach*
+  |votes      = 372
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = [[Keith Davies]]
+  |votes      = 322
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Martin Davies
+  |votes      = 315
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate minor party|
+  |party      = Independent
+  |candidate  = Clifford Jones
+  |votes      = 304
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kevin Flynn
+  |votes      = 230
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Blaenau Gwent People's Voice
+  |swing      = 
+}}{{Election box end}}
+
+===Kidwelly (one seat)===
+{{Election box begin | title=[[Kidwelly]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Sarah Gilasbey'''
+  |votes      = 623
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Philip Thompson
+  |votes      = 556
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Wales Green Party
+  |candidate  = David Edwards
+  |votes      = 109
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Laugharne Township (one seat)===
+{{Election box begin | title=[[Laugharne Township (electoral ward)|Laugharne Township]] 2017}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Jane Tremlett'''*
+  |votes      = 382
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Abi Thomas
+  |votes      = 300
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Don Avery
+  |votes      = 273
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steve Morris
+  |votes      = 134
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanboidy (one seat)===
+{{Election box begin | title= [[Llanboidy]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Dorian Phillips'''
+  |votes      = 504
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ellis Wyn Evans
+  |votes      = 259
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Lionel Phillips
+  |votes      = 142
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jean Myers
+  |votes      = 127
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanddarog (one seat)===
+{{Election box begin | title= [[Llanddarog]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = [[Ann Davies (politician)|Ann Davies]]
+  |votes      = unopposed
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandeilo (one seat)===
+{{Election box begin | title= [[Llandeilo (electoral ward)|Llandeilo]] 2017}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  ='''Edward Thomas'''*
+  |votes      = 798
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Lesley Prosser
+  |votes      = 268
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Keri Lewis
+  |votes      = 249
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Hayes
+  |votes      = 77
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandovery (one seat)===
+{{Election box begin | title=Llandovery 2017}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Handel Davies'''
+  |votes      = 583
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Long
+  |votes      = 240
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Julian Dutton
+  |votes      = 124
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Clifford Johnson
+  |votes      = 75
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru
+  |loser      = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandybie  (two seats)===
+{{Election box begin | title= [[Llandybie]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Anthony Davies*
+  |votes      =  744
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Dai Nicholas
+  |votes      = 725
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Anthony Wyn Jones*
+  |votes      = 500
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Karen Davies
+  |votes      = 451
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sandra Morgan
+  |votes      = 165
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Nigel Humphreys
+  |votes      =  128
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Pat Jenkins
+  |votes      = 108
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru 
+|loser = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanegwad (one seat)===
+{{Election box begin | title=Llanegwad 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Mansel Charles*
+  |votes      = 754
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Monica French
+  |votes      = 231
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = George Reid
+  |votes      = 169
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Carol Jones
+  |votes      =  70
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel Aberbythych (one seat)===
+{{Election box begin | title= Llanfihangel Aberbythych 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = [[Cefin Campbell]]*
+  |votes      = 635
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Richard Hart
+  |votes      =  121
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 514
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel-ar-Arth (one seat)===
+{{Election box begin | title=Llanfihangel-ar-Arth 2017  }}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Linda Evans'''*
+  |votes      = unopposed
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangadog (one seat)===
+{{Election box begin | title=  Llangadog 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Andrew James*
+  |votes      = 421
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Morgan
+  |votes      = 309
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Elizabeth Barlow
+  |votes      = 240
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Christopher Fischer
+  |votes      = 54
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 112
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangeler (one seat)===
+{{Election box begin | title= Llangeler 2017}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Ken Howell'''*
+  |votes      = 930 
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = John Wigley 
+  |votes      = 481
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 449
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangennech (two seats)===
+{{Election box begin | title=[[Llangennech]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Gary Jones'''
+  |votes      = 747
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Gwyneth Thomas'''*
+  |votes      = 731
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jacqueline Seward
+  |votes      = 675
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Ian Williams 
+  |votes      = 602
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Lockwood
+  |votes      = 335
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangunnor (one seat)===
+{{Election box begin | title= [[Llangunnor]] 2017}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Elwyn Williams'''*
+  |votes      = 587
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael Maynard
+  |votes      = 357
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = David Watson
+  |votes      = 181
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 220
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangyndeyrn (one seat)===
+{{Election box begin | title=[[Llangyndeyrn]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Tyssul Evans*
+  |votes      = 825
+  |percentage = 68%
+  |change     = -10.0
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sion Davies
+  |votes      = 393
+  |percentage = 32%
+  |change     = +32.0
+}}
+{{Election box majority|
+  |votes      = 432
+  |percentage = 35.6
+  |change     = -27.3
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llannon (two seats)===
+{{Election box begin | title=[[Llannon]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Emlyn Dole*
+  |votes      = 701
+  |percentage = 
+  |change     = 
+}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Dot Jones
+  |votes      = 585
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Margaret Thomas*
+  |votes      = 576
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Philip Williams
+  |votes      = 486
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Alun Owens
+  |votes      = 470
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Trade Unionist and Socialist Coalition
+  |candidate  = Rob Owen
+  |votes      = 135
+  |percentage = 
+  |change     = 
+}} 
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llansteffan (one seat)===
+{{Election box begin | title= Llansteffan 2017}}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Carys Jones
+  |votes      = 596
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Roger Van Praet
+  |votes      = 290
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Hywel Wyn Thomas
+  |votes      = 113
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru |loser = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanybydder (one seat)===
+{{Election box begin | title=Llanybydder 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Ieuan Wyn Davies*
+  |votes      = unopposed
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Lliedi (two seats)===
+{{Election box begin | title=[[Lliedi (electoral ward)|Lliedi]] 2017}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Rob James'''
+  |votes      = 890
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  ='''Shahana Najmi'''
+  |votes      = 629
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  =Stephen Davies
+  |votes      = 312
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Colin Jones
+  |votes      = 264
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Dyfrig Thomas
+  |votes      = 244
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stefan Ryszewski
+  |votes      = 191
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Bramwell Richards
+  |votes      =  184
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llwynhendy (two seats)===
+{{Election box begin | title= [[Llwynhendy]] 2017  }}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Fozia Akhtar'''
+  |votes      = 582
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Sharen Davies'''*
+  |votes      = 574
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician) 
+  |candidate  = Theresa Bowen*
+  |votes      = 275
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru 
+  |candidate  = Meilyr Hughes
+  |votes      = 154
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru 
+  |candidate  = Robert Davies
+  |votes      = 150
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician) 
+  |candidate  = Amy Evans
+  |votes      = 135
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Kenneth Rees
+  |votes      =  133
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ruth Elvins
+  |votes      = 119
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Manordeilo and Salem  (one seat)===
+{{Election box begin | title=Manordeilo and Salem 2017  }}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  =  '''Joseph Davies'''
+  |votes      =  479
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Rhys Thomas
+  |votes      = 460
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Catherine Nakilieny
+  |votes      = 50
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 19
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey (two seats)===
+{{Election box begin | title=[[Pembrey]] 2017}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Hugh Shepardson'''*
+  |votes      = 845
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Shirley Matthews'''*
+  |votes      =838
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Peter Anthony Freeman
+  |votes      = 491
+  |percentage = 
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bob Walpole
+  |votes      = 352
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pen-y-groes (one seat)===
+{{Election box begin | title= [[Pen-y-groes (electoral ward)|Pen-y-groes]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  =  '''Dai Thomas'''
+  |votes      =  582
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Blackwell
+  |votes      =  259
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Timothy Dean
+  |votes      = 150
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 323
+  |percentage = 
+  |change     = 
+}}
+{{Election box end}}
+
+===Pontamman (one seat)===
+{{Election box begin | title= [[Pontamman]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  =  Colin Evans*
+  |votes      =  675
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Trevor Smith
+  |votes      =  333
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Barry Wiltshire
+  |votes      = 60
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 342
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |change     = 
+  |swing    =
+}}
+{{Election box end}}
+
+===Pontyberem (one seat)===
+{{Election box begin | title=[[Pontyberem]] 2017  }}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Liam Bowen'''
+  |votes      =660
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  =  William Skinner
+  |votes      =  236
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Keith Evans
+  |votes      =  184
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 424
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Quarter Bach  (one seat)===
+{{Election box begin | title= Quarter Bach 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Glynog Davies*
+  |votes      =626
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Welsh Labour
+  |candidate  = Tom Addey
+  |votes      = 398
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 228
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Clears (one seat)===
+{{Election box begin | title=[[St Clears]] 2017}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Philip Hughes'''*
+  |votes      =  942
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = [[Rhodri Glyn Thomas]]
+  |votes      = 283
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 659
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ishmaels (one seat)===
+{{Election box begin | title= St Ishmaels 2017}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Mair Stephens'''*
+  |votes      = 539
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Meinir Wynn James
+  |votes      = 447
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Susan Webb
+  |votes      = 193
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Saron (two seats)===
+{{Election box begin | title= Saron 2017}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  =  '''Alun Davies'''*
+  |votes      =  810
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Carl Harris'''
+  |votes      =  679
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Peter Cooper*
+  |votes      = 588
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stephen Jeacock
+  |votes      = 439
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Jones
+  |votes      = 240
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nia Owen-Lloyd
+  |votes      = 181
+  |percentage = 
+  |change     = 
+}} 
+{{Election box gain with party link|
+  |winner     = Plaid Cymru     
+  |loser = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Swiss Valley (one seat)===
+{{Election box begin | title= Swiss Valley 2017 }}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Anthony Morgan'''*
+  |votes      = 498
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Harris
+  |votes      = 272
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Jordan Randall
+  |votes      = 76
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Betty Jones
+  |votes      = 99
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 226
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Trelech (one seat)===
+Plaid Cymru had won the seat from the Independents at a by-election.
+{{Election box begin | title=[[Trelech (electoral ward)|Trelech]] 2017 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Jean Lewis*
+  |votes      = unopposed
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+===Trimsaran (one seat)===
+{{Election box begin | title= [[Trimsaran]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = '''Kim Broom'''
+  |votes      = 225
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Naomi Wilmot
+  |votes      = 216
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Lisa Williams
+  |votes      = 187
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Neil Burman
+  |votes      = 61
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 9
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Plaid Cymru     
+  |loser      = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Tycroes (one seat)===
+{{Election box begin | title= [[Tycroes]] 2017 }}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Tina Higgins'''
+  |votes      = 534
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Mike Nicholas
+  |votes      = 388
+  |percentage = 
+  |change     = 
+}} 
+{{Election box majority|
+  |votes      = 146
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Tyisha (two seats)===
+{{Election box begin | title= [[Tyisha]] 2017}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Suzy Curry''' 
+  |votes      = 543
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = '''Andre McPherson'''
+  |votes      = 407
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party = Plaid Cymru
+  |candidate = Terry Davies
+  |votes = 362
+  |percentage = 
+  |change = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Jeff Owen*
+  |votes      = 288
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Roger Price
+  |votes      = 189
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser = Plaid Cymru
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Whitland (one seat)===
+{{Election box begin | title= Whitland 2017}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = '''Sue Allen'''*
+  |votes      = 554
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Natalie Jones
+  |votes      = 133
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Vivienne Morris
+  |votes      = 111
+  |percentage = 
+  |change     = 
+}} 
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Bryan Haddon
+  |votes      = 55
+  |percentage = 
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 411
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+==By-Elections 2017-2022==
+
+===Saron by-election 2018===
+A by-election was held in Saron on 19 July 2018 following the death of Plaid Cymru councillor Alun Davies.<ref>{{cite web|title=Notice of Poll|url=https://www.carmarthenshire.gov.wales/media/1214895/stpn-saron.pdf|access-date=19 July 2018|archive-url=https://web.archive.org/web/20180720140047/https://www.carmarthenshire.gov.wales/media/1214895/stpn-saron.pdf|archive-date=20 July 2018|url-status=dead}}</ref> The seat was won by Plaid Cymru candidate Karen Davies.
+{{Election box begin | title=Saron by-election 2018 }}
+{{Election box winning candidate with party link|
+  |party      = Plaid Cymru
+  |candidate  = Karen Davies
+  |votes      = 747 
+  |percentage = 65.2
+  |change     = 
+}} 
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Tom Fallows|votes=239|percentage=20.9|change=}} 
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Aled Crow|votes=146|percentage=12.7|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Caryl Tandy|votes=140|percentage=1.2|change=}}
+{{Election box majority||votes=508|percentage= 44.3|change=}}
+{{Election box turnout||votes=1,146|percentage=|change=}}
+{{Election box hold with party link|
+  |winner     = Plaid Cymru
+  |swing      = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Dyfed elections}}
+{{United Kingdom local elections, 2017}}
+
+[[Category:Carmarthenshire County Council elections|2017]]
+[[Category:2017 Welsh local elections]]
+[[Category:21st century in Carmarthenshire]]

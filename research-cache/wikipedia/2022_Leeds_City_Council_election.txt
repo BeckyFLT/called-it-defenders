@@ -345,7 +345,7 @@ The election result had the following consequences for the political composition
 ! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
 | Independent
 | 1{{efn|Former [[Labour Party (UK)|Labour]] councillor, Ronald Grahame ([[Burmantofts and Richmond Hill (ward)|Burmantofts and Richmond Hill]]), was charged with historic child sex offences in December 2020 and was "suspended from the Labour party pending the outcome of the case."<ref>{{cite web | title = Councillor Ronald Grahame | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=2285 | website = democracy.leeds.gov.uk | publisher = Leeds City Council | access-date = 26 November 2018}}</ref><ref>{{cite news |last1=Gildea |first1=Samantha |title=Leeds councillor charged with historic child sex offences |url=https://www.leeds-live.co.uk/news/leeds-news/leeds-councillor-charged-historic-child-19397897 |work=Leeds Live |publisher=[[Reach plc]] |date=4 December 2020}}</ref>}}
-| 2{{efn|[[Labour Party (UK)|Labour]] councillor Paul Drinkwater ([[Killingbeck and Seacroft (ward)|Killingbeck and Seacroft]]) resigned from the party on 10 May 2021. The [[Yorkshire Evening Post]] reported he cited "institutionalised bullying" in the ruling Labour council group and argued for a change to the council's decision-making structures. He did not seek re-election in 2022.<ref>{{cite web | title = Councillor Paul Drinkwater | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=7128 | website = democracy.leeds.gov.uk | publisher = Leeds City Council | access-date = 8 September 2021}}</ref><ref>Richard Beecham,'[https://www.yorkshireeveningpost.co.uk/news/politics/leeds-councillor-quits-labour-over-institutionalised-bullying-and-calls-for-committee-governance-system-3231510 Leeds councillor quits Labour over "institutionalised bullying", and calls for committee governance system]', ''Yorkshire Evening Post'' (10 May 2021).</ref>}}
+| 2{{efn|[[Labour Party (UK)|Labour]] councillor Paul Drinkwater ([[Killingbeck and Seacroft (ward)|Killingbeck and Seacroft]]) resigned from the party on 10 May 2021. The [[Yorkshire Evening Post]] reported he cited "institutionalised bullying" in the ruling Labour council group and argued for a change to the council's decision-making structures. He did not seek re-election in 2022.<ref>{{cite web | title = Councillor Paul Drinkwater | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=7128 | website = democracy.leeds.gov.uk | publisher = Leeds City Council | access-date = 8 September 2021 | archive-date = 8 September 2021 | archive-url = https://web.archive.org/web/20210908040011/https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=7128 | url-status = dead}}</ref><ref>Richard Beecham,'[https://www.yorkshireeveningpost.co.uk/news/politics/leeds-councillor-quits-labour-over-institutionalised-bullying-and-calls-for-committee-governance-system-3231510 Leeds councillor quits Labour over "institutionalised bullying", and calls for committee governance system]', ''Yorkshire Evening Post'' (10 May 2021).</ref>}}
 | 0
 |-
 ! style="background-color: {{party color|#FFFFFF}}; width: 3px;" |
@@ -394,7 +394,7 @@ The election result had the following consequences for the political composition
 | width="1" style="color:inherit;background:{{party color|Labour Party (UK)}}" |
 | Mahalia France-Mir ([[Labour Party (UK)|Labour]])
 |-
-| {{sortname|Paul|Drinkwater|nolink=1}}<ref>{{cite web | title = Councillor Paul Drinkwater | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=7128 | website = democracy.leeds.gov.uk | publisher = [[Leeds City Council]] | access-date = 13 May 2022}}</ref>
+| {{sortname|Paul|Drinkwater|nolink=1}}<ref>{{cite web | title = Councillor Paul Drinkwater | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=7128 | website = democracy.leeds.gov.uk | publisher = [[Leeds City Council]] | access-date = 13 May 2022 | archive-date = 8 May 2022 | archive-url = https://web.archive.org/web/20220508233713/https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=7128 | url-status = dead}}</ref>
 | [[Killingbeck and Seacroft (ward)|Killingbeck and Seacroft]]
 | [[2018 Leeds City Council election|2018]] <small>(as [[Labour Party (UK)|Labour]])</small>
 | width="1" style="color:inherit;background:{{party color|Independent (politician)}}" |
@@ -448,7 +448,7 @@ The election result had the following consequences for the political composition
 | width="1" style="color:inherit;background:{{party color|Social Democratic Party (UK, 1990–present)}}" |
 | Wayne Dixon ([[Social Democratic Party (UK, 1990-present)|SDP]])
 |-
-| {{sortname|Graham|Latty|nolink=1}}<ref>{{cite web | title = Councillor Graham Latty | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=204 | website = democracy.leeds.gov.uk | publisher = [[Leeds City Council]] | access-date = 13 May 2022}}</ref>
+| {{sortname|Graham|Latty|nolink=1}}<ref>{{cite web | title = Councillor Graham Latty | url = https://democracy.leeds.gov.uk/mgUserInfo.aspx?UID=204 | website = democracy.leeds.gov.uk | publisher = [[Leeds City Council]] | access-date = 13 May 2022}} {{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref>
 | [[Guiseley and Rawdon (ward)|Guiseley & Rawdon]]
 | [[2000 Leeds City Council election|2000]]
 | width="1" style="color:inherit;background:{{party color|Conservative Party (UK)}}" |

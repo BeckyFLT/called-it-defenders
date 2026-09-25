@@ -1,0 +1,973 @@
+{{Short description|Welsh local election}}
+{{Use dmy dates|date=April 2022}}
+
+{{Infobox election 
+  |election_name      = 1901 Carmarthenshire County Council election 
+  |country            = Wales 
+  |flag_image         =  
+  |type               = Parliamentary 
+  |ongoing            = no 
+  |party_colour       = yes 
+  |previous_election  =  [[1898 Carmarthenshire County Council election]] 
+  |previous_year      =  [[1898 Carmarthenshire County Council election|1898]] 
+  |next_election      = [[1904 Carmarthenshire County Council election]] 
+  |next_year          = [[1904 Carmarthenshire County Council election|1904]] 
+  |seats_for_election = All 68 seats to [[Carmarthenshire County Council]] 
+  |majority_seats     =35 
+  |election_date      = 
+  |1blank=Councillors 
+|2blank=Aldermen
+|3blank=Seats&nbsp;+/–
+  
+<!-- Liberal  --> 
+  |image1             =  
+  |leader1            =  
+  |party1             = [[Liberal Party (UK)|Liberal]]  
+  |leaders_seat1      =  
+  |last_election1     =  '''''51'''''/68
+  |seats_before1      = '''''53'''''/68
+  |seats1             = '''54'''/68
+  |seat_change1       =  
+  |popular_vote1      =  
+  |percentage1        =  
+  |1data1=39
+|2data1=15
+|3data1={{increase}}1
+
+<!--Conservative --> 
+  |image2             = 
+  |leader2            =  
+  |party2             = [[Conservative Party (UK)|Conservative]]  
+  |leaders_seat2      =  
+  |last_election2     =  15/68
+  |seats_before2      =  15/68
+  |seats2             =  12/68
+  |seat_change2       = 
+  |popular_vote2      = 
+  |percentage2        =  
+  |1data2=10
+|2data2=2
+|3data2={{decrease}}3
+
+<!-- Liberal Unionist --> 
+  |image3             = 
+  |leader3            = 
+  |party3             = Liberal Unionist 
+  |leaders_seat3      =  
+  |last_election3     =  1/68
+  |seats_before3      =  1/68
+  |seats3             = 1/68
+  |seat_change3       =  
+  |popular_vote3      = 
+  |percentage3        = 
+   |1data3=1
+|2data3=0
+|3data3={{decrease}}0
+  
+<!-- Independent--> 
+  |image4             =  
+  |leader4            =  
+  |party4             = [[Independent (politician)|Independent]] 
+  |leaders_seat4      =  
+  |last_election4     =  1/68
+  |seats_before4      = 1/68
+  |seats4             = 1/68
+  |seat_change4       =  
+  |popular_vote4      = 
+  |percentage4        =  
+   |1data4=1
+|2data4=0
+|3data4={{decrease}}o
+  
+  |title              = Council control 
+  |posttitle          = Council control after election 
+  |before_election    = 
+  |before_party       =   
+  |after_election     = Liberal 
+  |after_party        = [[Liberal Party (UK)|Liberal Party]] 
+}} 
+
+The '''fifth election to the Carmarthenshire County Council''' was held in March 1901.<ref name="W 15-3-01 CarmsRes">{{cite news|title=County Council Elections. Carmarthenshire.|url=http://newspapers.library.wales/view/4357238/4357245/62|accessdate=15 September 2015|agency=Welshman|date=15 March 1901|page=7}}</ref> It was preceded by the [[1898 Carmarthenshire County Council election|1898 election]] and followed by the [[1904 Carmarthenshire County Council election|1904 election]].
+
+{{TOC right}}
+
+==Overview of the result==
+
+The Liberals retained a strong majority. With a few exceptions, members were returned unopposed.<ref name="W 8-3-01 CarmsNoms">{{cite news|title=County Council Elections. Carmarthenshire.|url=http://newspapers.library.wales/view/4357229/4357234/23|accessdate=15 September 2015|agency=Welshman|date=8 March 1901|page=5}}</ref>
+
+==Candidates==
+
+Only six seats were contested. Eleven of those elected at the first election, and who had served continuously since then, sought re-election.
+
+None of the retiring aldermen sought election as candidates. There was also a vacancy following the death of W.O. Brigstocke, Blaenpant.<ref name="W 8-3-01 CarmsNoms" />
+
+==Outcome==
+
+An uneventful election saw little change in the political composition of the council. The Liberals gained two seats when their candidates were returned unopposed at Llangeler and in one of the Llanelli wards after Conservative councillors stood down. 
+
+At the annual meeting, the six retiring aldermen were supported by the majority of members but there was no unanimity on replacement for Henry Wilkins, who stood down, and W.O. Brigstocke, who had died in office. [[William Nathaniel Jones|W.N. Jones]] polled 26 votes, only three fewer than the eighth candidate, Augustus Brigstocke.<ref name="W 22-3-01 Carms AGM">{{cite news|title=Carmarthenshire County Council. Statutory Meeting.|url=http://newspapers.library.wales/view/4357247/4357250/13|accessdate=16 September 2015|newspaper=Welshman|date=22 March 1901|page=3}}</ref> However, all eight were Liberals, leaving the Conservatives with only two seats on the aldermanic bench.
+
+==Ward results==
+
+===Abergwili===
+{{Election box begin | title = Abergwili 1901}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''John Lloyd*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bettws===
+{{Election box begin | title = Bettws 1901}}
+{{Election box winning candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = [[William Nathaniel Jones]]*
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Liberal Party (UK)
+}}
+{{Election box end}}
+
+===Caio===
+{{Election box begin | title = Caio 1901 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''T. Francis Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1901 }}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = '''T.E. Brigstocke*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Upper Division) 1901 }}
+{{Election box winning candidate unopposed with party link
+   |party = Liberal Party (UK)
+   |candidate = Rev Andrew Fuller-Mills
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Western Ward (Lower Division) 1901 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''James John*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1901}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Professor D.E. Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cenarth===
+{{Election box begin | title = Cenarth 1901 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''David Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cilycwm===
+{{Election box begin | title = Cilycwm 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''James Rees*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Conwil===
+{{Election box begin | title = Conwil 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Jones*''' 
+   |votes =  unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Kidwelly===
+{{Election box begin | title = Kidwelly 1901 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Alfred Stephens*'''
+   |votes = 301
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = W. Young
+   |votes = 176
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 125
+  |percentage    = 
+  |change        =
+}}
+
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Laugharne===
+{{Election box begin | title = Laugharne 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John D. Morse*'''
+   |votes = 188
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Richard Evans
+   |votes = 103
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 85
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanarthney===
+{{Election box begin | title = Llanarthney 1901}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Henry Jones-Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanboidy===
+{{Election box begin | title = Llanboidy 1901 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''David Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandebie===
+{{Election box begin | title = Llandebie 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Rural===
+{{Election box begin | title = Llandilo Rural 1901 }}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = '''William Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Urban===
+{{Election box begin | title = Llandilo Urban 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''J.W. Gwynne Hughes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandovery===
+{{Election box begin | title = Llandovery 1901 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Walter Powell Jeffreys*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanedy===
+{{Election box begin | title = Llanedy 1898 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Ll. Thomas*'''
+   |votes = 240
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate =David White
+   |votes = 201
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 39
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanegwad===
+{{Election box begin | title = Llanegwad 1901}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Col. W. Gwynne Hughes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division.1===
+{{Election box begin | title = Llanelly Division.1 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Unionist Party (UK)
+   |candidate = '''J. Allen Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Unionist Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 2===
+{{Election box begin | title = Llanelly Division 2 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Joseph Mayberry*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 3===
+{{Election box begin | title = Llanelly Division.3 1901 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate = '''William David*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Party (UK)
+  |loser = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 4===
+{{Election box begin | title = Llanelly Division 4 1901 }}
+{{Election box winning candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = [[Thomas Johns (minister)|Rev Thomas Johns*]]
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Liberal Party (UK) 
+}}
+{{Election box end}}
+
+===Llanelly Division 5===
+{{Election box begin | title = Llanelly Division 5 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''D.C. Parry*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 6===
+{{Election box begin | title = Llanelly Division 6 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Phillips*'''
+   |votes = 279
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = Frank Vivian
+   |votes = 154
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 125
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 7===
+{{Election box begin | title = Llanelly Division 7 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 8===
+{{Election box begin | title = Llanelly Division 8 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Joseph Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Berwick===
+{{Election box begin | title = Llanelly Rural, Berwick 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Owen Bonville*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Hengoed===
+{{Election box begin | title = Llanelly Rural,  Hengoed 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David John*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Westfa and Glyn===
+{{Election box begin | title = Llanelly Rural,  Westfa and Glyn 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Gwilym Evans*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel Aberbythick===
+{{Election box begin | title = Llanfihangel Aberbythick 1901 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[Frederick Campbell, 3rd Earl Cawdor|Earl Cawdor]]* 
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Llanfihangel-ar-Arth===
+{{Election box begin | title = Llanfihangel-ar-Arth 1901 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''T. Barrett'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Party (UK)
+  |loser = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangadock===
+{{Election box begin | title = Llangadock 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangeler===
+{{Election box begin | title = Llangeler 1901}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Colonel W.P. Lewes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     =  Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangendeirne===
+{{Election box begin | title = Llangendeirne 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Jenkins*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangennech===
+{{Election box begin | title = Llangennech 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''J.B. Rees'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangunnor===
+{{Election box begin | title = Llangunnor 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate ='''C.E. Morris*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanon===
+{{Election box begin | title = Llanon 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Morgan Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llansawel===
+{{Election box begin | title = Llansawel 1901 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[Sir James Williams-Drummond, 4th Baronet|Sir J.H.W. Drummond, Bart.*]]
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Llanstephan===
+{{Election box begin | title = Llanstephan 1901 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''John Johns*'''
+   |votes = unopposed
+  |percentage=
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanybyther===
+Both candidates received the same number of votes so the contest was decided upon the toss of a coin.<ref name="W 15-3-01 CarmsRes" />
+{{Election box begin | title = Llanybyther 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal  Party (UK)
+   |candidate = '''John Rees*'''
+   |votes = 232
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = David Williams
+   |votes = 232
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 0
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal  Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Mothvey===
+{{Election box begin | title = Mothvey 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey North===
+{{Election box begin | title = Pembrey North 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev J.H. Rees*''' 
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey South===
+It was a reflection of the largely non-political character of the 1901 county election in Carmarthenshire (with the vast majority being elected unopposed) that the political affiliation of the two candidates for this ward was not recorded in the local press.<ref name="W 15-3-01 CarmsRes" />
+{{Election box begin | title = Pembrey South 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas F. Wilkins'''
+   |votes = 391
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = John G. Thomas
+   |votes = 148
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+|winner     = Liberal Party (UK)
+  |loser     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Quarter Bach===
+{{Election box begin | title = Quarter Bach 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Dr Howell Rees*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Rhydcymmerai===
+{{Election box begin | title = Rhydcymmerai 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Benjamin Evans*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Clears===
+{{Election box begin | title = St Clears 1901 }}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = '''Dr R.L. Thomas'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ishmael===
+{{Election box begin | title = St Ishmael 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Lloyd Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Trelech===
+{{Election box begin | title =Trelech 1901 }}
+{{Election box  winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = John Phillips*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link no swing|
+  |winner     = Liberal Party (UK)
+}}
+{{Election box end}}
+
+===Whitland===
+{{Election box begin | title =Whitland 1901 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev William Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==Election of Aldermen==
+
+In addition to the 51 councillors the council consisted of 17 county aldermen. Aldermen were elected by the council, and served a six-year term. Following the elections the following eight aldermen were elected (with the number of votes recorded in each case).<ref name="W 22-3-01 Carms AGM" />
+
+The following retiring aldermen were re-elected:
+
+*John Bevan, retiring alderman (48)
+*Joseph Joseph, retiring alderman (45)
+*[[Lewis Morris (1833–1907)|Sir Lewis Morris]], retiring alderman (44)
+*Daniel Stephens, retiring alderman (45)
+*H J Thomas, retiring alderman (48)
+*Thomas Watkins, retiring alderman (44)
+
+In addition, two new aldermen were elected:
+
+*Joseph Mayberry, elected member for Llanelli Ward 2 (34)
+*Augustus Brigstocke, from outside the Council (29)
+
+One retiring aldermen was not re-elected
+*Henry Wilkins, Llanelli
+
+==References==
+{{reflist}}
+
+{{Carmarthenshire elections}}
+{{United Kingdom local elections, 1901}}
+
+[[Category:Carmarthenshire County Council elections|1901]]
+[[Category:1901 Welsh local elections]]

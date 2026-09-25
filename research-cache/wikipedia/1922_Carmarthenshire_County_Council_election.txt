@@ -1,0 +1,1342 @@
+{{Short description|Welsh local election}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election 
+
+  |election_name      = 1922 Carmarthenshire County Council election 
+
+  |country            = Wales 
+
+  |flag_image         =  
+
+  |type               = Parliamentary 
+
+  |ongoing            = no 
+
+  |party_colour       = yes 
+
+  |previous_election  = [[1919 Carmarthenshire County Council election]] 
+
+  |previous_year      = [[1919 Carmarthenshire County Council election|1919]] 
+
+  |next_election      = [[1925 Carmarthenshire County Council election]] 
+
+  |next_year          = [[1925 Carmarthenshire County Council election|1925]] 
+
+  |seats_for_election = All 53 seats to [[Carmarthenshire County Council]] 
+
+  |majority_seats     =27 
+
+  |election_date      =  
+
+  
+
+<!-- Liberal  --> 
+
+  |image1             =  
+
+  |leader1            =  
+
+  |party1             = [[Liberal Party (UK)|Liberal]]  
+
+  |leaders_seat1      =  
+
+  |last_election1     =  
+
+  |seats_before1      =  
+
+  |seats1             = 0/53 
+
+  |seat_change1       =  
+
+  |popular_vote1      =  
+
+  |percentage1        =  
+
+  
+
+<!--Conservative --> 
+
+  |image2             = 
+
+  |leader2            =  
+
+  |party2             = Conservative Party (UK)
+
+  |leaders_seat2      =  
+
+  |last_election2     =  
+
+  |seats_before2      =  
+
+  |seats2             = 0/53 
+
+  |seat_change2       = 
+
+  |popular_vote2      = 
+
+  |percentage2        =  
+
+  
+
+<!--Labour --> 
+
+  |image3             = 
+
+  |leader3            =  
+
+  |party3           = Labour Party (UK) 
+
+  |leaders_seat3      =  
+
+  |last_election3     =  
+
+  |seats_before3      =  
+
+  |seats3             = 0/53 
+
+  |seat_change3       = 
+
+  |popular_vote3      = 
+
+  |percentage3        = 
+
+ 
+
+<!-- Independent--> 
+
+  |image4             =  
+
+  |leader4            =  
+
+  |party4             = Independent 
+
+  |leaders_seat4      =  
+
+  |last_election4     =  
+
+  |seats_before4      =  
+
+  |seats4             = 1/51 
+
+  |seat_change4       =  
+
+  |popular_vote4      = 
+
+  |percentage4        =  
+
+  
+
+<!-- Liberal Unionist --> 
+
+  |image5            = 
+
+  |leader5            = 
+
+  |party5           = Liberal Unionist 
+
+  |leaders_seat5      =  
+
+  |last_election5     =  
+
+  |seats_before5      =  
+
+  |seats5             = 0/51 
+
+  |seat_change5       =  
+
+  |popular_vote5      = 
+
+  |percentage5        =  
+
+ 
+
+ 
+
+  |title              = Council control 
+
+  |posttitle          = Council control after election 
+
+  |before_election    = 
+
+  |before_party       =   
+
+  |after_election     =  
+
+  |after_party        =  
+
+}} 
+
+An '''election''' to the '''Carmarthenshire County Council''' was held in March 1922.<ref name="CJ 12-3-22 CarmsRes">{{cite news|title= County Council Elections.|newspaper=Carmarthen Journal|date=11 March 1922}}</ref> It was preceded by the [[1919 Carmarthenshire County Council election|1919 election]] and followed by the [[1925 Carmarthenshire County Council election|1925 election]].
+
+{{TOC right}}
+
+==Overview of the result==
+
+The election saw a reduction in the number of candidates openly supporting the Liberal Party as an increasing number stood as Independents. Labour continued to gain some ground in the Llanelli and Ammanford districts.
+
+==Boundary changes==
+
+There were no boundary changes.
+
+==Unopposed returns==
+
+22 of the 53 divisions were uncontested, with the majority of the unopposed returns being in the rural parts of the county.
+
+==Contested elections==
+
+Contests in Llanelli town and in the surrounding areas saw a significant campaign by the Labour Party, but its success remained limited.<ref name="LM 9-3-22 Carms res">{{cite news|title=Labour fails to make headway|newspaper=Llanelly Mercury|date=9 March 1922}}</ref>
+
+==Retiring aldermen==
+
+The aldermen who retired at the election were
+
+
+==Ward results==
+
+===Abergwili===
+{{Election box begin | title = Abergwili 1922}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''William Williams'''
+   |votes =290
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = John Williams
+   |votes =265
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = David Williams
+   |votes =165
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Ammanford===
+{{Election box begin | title = Ammanford 1922}}
+{{Election box candidate with party link
+   |party = Labour Party (UK)
+   |candidate = '''David George*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bettws===
+{{Election box begin | title = Bettws 1922}}
+{{Election box candidate with party link
+   |party = Labour Party (UK)
+   |candidate = '''Tom Morris**''' 
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Caio===
+{{Election box begin | title = Caio 1922 }}
+{{Election box candidate with party link
+   |party =  
+   |candidate = '''Isaac Williams'''
+   |votes = 324
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  
+   |candidate = Mabel Davies*
+   |votes = 282
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''David Denzil Harries*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Party (UK)
+ |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Upper Division) 1922}}
+{{Election box candidate with party link
+   |party = Independent (politician)
+   |candidate = '''Lewis David Thomas'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box gain |
+  |winner     =Independent (politician)
+  |loser = Other parties
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Western Ward (Lower Division) 1922}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''H.S. Holmes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Price Williams'''
+   |votes = 583
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Independent (politician)
+   |candidate = Thomas Jenkins
+   |votes = 295
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cenarth===
+{{Election box begin | title = Cenarth 1919}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''D.C. Lloyd'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cilycwm===
+{{Election box begin | title = Cilycwm 1922 }}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK) 
+  |candidate = '''Ivor Elystan Campbell-Davys*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Conwil===
+{{Election box begin | title = Conwil 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''Thomas Phillips*''' 
+   |votes =  unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Kidwelly===
+{{Election box begin | title = Kidwelly 1922 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Alfred Stephens*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Laugharne===
+{{Election box begin | title = Laugharne 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''T.S.K. Morse'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanarthney===
+{{Election box begin | title = Llanarthney 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Stephens'''
+   |votes =unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanboidy===
+{{Election box begin | title = Llanboidy 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''William Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandebie===
+{{Election box begin | title = Llandebie 1922 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = '''D.B. Lewis'''
+   |votes = 955
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = D.W. Thomas
+   |votes = 870
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Rural===
+{{Election box begin | title = Llandilo Rural 1922 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate = '''L.N. Powell*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Urban===
+{{Election box begin | title = Llandilo Urban 1922 }}
+{{Election box winning candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = [[Walter Rice, 7th Baron Dynevor|Lord Dynevor*]]
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A'' 
+}}
+{{Election box hold with party link no swing|
+  |winner     = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Llandovery===
+{{Election box begin | title = Llandovery 1922 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate = '''Harry Vaughan Watkins*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandyssilio===
+{{Election box begin | title = Llandyssilio 1922 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate =
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanedy===
+{{Election box begin | title = Llanedy 1922}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = '''T.J. Parry-Jones*'''
+   |votes = 629
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = G. Evans
+   |votes = 520
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanegwad===
+{{Election box begin | title = Llanegwad 1922}}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate ='''William David Davies'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 1===
+{{Election box begin | title = Llanelly Division 1 1922 }}
+{{Election box candidate with party link|
+   |party = Independent (politician)
+   |candidate = '''Daniel Roberts'''
+   |votes = 676
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link|
+   |party = Independent (politician)
+   |candidate = Lady Howard*
+   |votes = 247
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 2===
+{{Election box begin | title = Llanelly Division 2 1922 }}
+{{Election box candidate with party link
+   |party =   Independent (politician)
+   |candidate = '''H. Hayton Williams'''
+   |votes = 478
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = William David*
+   |votes = 408
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser =Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 3===
+{{Election box begin | title = Llanelly Division 3 1922 }}
+{{Election box candidate with party link|
+   |party = Independent (politician)
+   |candidate = '''Joseph Roberts'''
+   |votes = 563
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = J.R. Jones*
+   |votes = 194
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 4===
+{{Election box begin | title = Llanelly Division 4 1922 }}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = '''John Thomas*'''
+   |votes = 669
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = D.T. Jones
+   |votes = 307
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 5===
+{{Election box begin | title = Llanelly Division 5 1922 }}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = '''Gwen Trubshaw'''
+   |votes = 438
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = T.D.J. Dolling
+   |votes = 206
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 6===
+{{Election box begin | title = Llanelly Division 6 1922 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate ='''Thomas Williams*'''
+   |votes = 500
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =   Independent (politician)
+   |candidate = T.P. Jones
+   |votes = 452
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 7===
+{{Election box begin | title = Llanelly Division 7 1922 }}
+{{Election box candidate with party link
+   |party =   Independent (politician)
+   |candidate = '''W. Powell Rees'''
+   |votes = 731
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = Hugh Jones*
+   |votes = 396
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =   Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 8===
+{{Election box begin | title = Llanelly Division 8 1922 }}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = '''William Davies'''
+   |votes = 512
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = H.W. Bowen*
+   |votes = 403
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     =   Independent (politician)
+  |loser =  Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Berwick===
+{{Election box begin | title = Llanelly Rural, Berwick 1922 }}
+{{Election box candidate with party link
+   |party =   Independent (politician)
+   |candidate = '''David Harry*'''
+   |votes = 659
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = William Morgan
+   |votes     = 313
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 346
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Hengoed===
+{{Election box begin | title = Llanelly Rural, Hengoed 1922 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = '''Joseph Howells'''
+   |votes = 499
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = David John*
+   |votes = 450
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+|loser =  Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Westfa and Glyn===
+{{Election box begin | title = Llanelly Rural, Westfa and Glyn 1922 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = '''William Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel Aberbythick===
+{{Election box begin | title = Llanfihangel Aberbythick 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''Thomas Thomas*'''
+   |votes = 359
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = William Harris
+   |votes = 319
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel-ar-Arth===
+{{Election box begin | title = Llanfihangel-ar-Arth 1922}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Thomas Rees Jones*'''
+   |votes =unopposed 
+  |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     =  Conservative Party (UK)
+   |swing      = 
+}}
+{{Election box end}}
+
+===Llangadock===
+{{Election box begin | title = Llangadock 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''Walter Tudor Lewis*'''
+  |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangeler===
+{{Election box begin | title = Llangeler 1922}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Henry Jones'''
+   |votes = 804
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = Robert G. Owen
+   |votes = 408
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 396
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangendeirne===
+{{Election box begin | title = Llangendeirne 1922}}
+{{Election box candidate with party link|
+   |party =  Liberal Party (UK)
+   |candidate = ''' R.H. Jones'''
+   |votes = 408
+|percentage = 
+   |change =  
+}}
+{{Election box candidate with party link|
+   |party =   Labour Party (UK)
+   |candidate = Thomas Jones
+   |votes = 377
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 31
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangennech===
+{{Election box begin | title = Llangennech 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''D.J. Jones*'''
+   |votes = 481
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = Philip Foster Owen
+   |votes = 327
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangunnor===
+{{Election box begin | title = Llangunnor 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''T. Howell Davies'''
+   |votes = 371
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate =John Richards*
+   |votes = 282
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanon===
+{{Election box begin | title = Llanon 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Greville*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llansawel===
+{{Election box begin | title = Llansawel 1922}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = '''Evan Harris'''
+   |votes = 277
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = Thomas Evans*
+   |votes = 145
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanstephan===
+{{Election box begin | title = Llanstephan 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''J.J. Bowen'''
+   |votes = 353
+  |percentage=
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = G. Barrett Evans*
+   |votes = 328
+  |percentage=
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanybyther===
+{{Election box begin | title = Llanybyther 1922 }}
+{{Election box candidate with party link
+   |party =  Liberal  Party (UK)
+   |candidate = '''John Edward Lloyd'''
+   |votes = 334
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Conservative  Party (UK)
+   |candidate = Lady Mansel
+   |votes = 240
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal  Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Mothvey===
+{{Election box begin | title = Mothvey 1922 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey North===
+{{Election box begin | title = Pembrey North 1922 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''William Rogers''' 
+   |votes = 520
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  
+   |candidate = E.T. Davies
+   |votes = 368
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 152
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey South===
+{{Election box begin | title = Pembrey South 1922}}
+{{Election box winning candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = [[John Henry Williams (Llanelli MP)|John Henry Williams]]
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Labour Party (UK)
+}}
+{{Election box end}}
+
+===Quarter Bach===
+{{Election box begin | title = Quarter Bach 1922 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = '''Griffith Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Rhydcymmerai===
+{{Election box begin | title = Rhydcymmerai 1922 }}
+{{Election box candidate with party link
+   |party =  
+   |candidate = '''Rees Llewellyn Evans'''
+   |votes = 333
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  
+   |candidate = David Samuel Jones
+   |votes = 158
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Clears===
+{{Election box begin | title = St Clears 1922 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''W.R. Rogers*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ishmael===
+{{Election box begin | title = St Ishmael 1922 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Jones*'''
+   |votes =unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Trelech===
+{{Election box begin | title =Trelech 1922}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Philip Phillips*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Whitland===
+{{Election box begin | title =Whitland 1922 }}
+{{Election box candidate with party link
+   |party =  
+   |candidate = '''R.L. Thomas'''
+   |votes = 391
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate =Thomas Phillips
+   |votes = 319
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 72
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = 
+ |swing      = 
+}}
+{{Election box end}}
+
+==Election of aldermen==
+
+In addition to the 53 councillors the council consisted of 17 county aldermen. Aldermen were elected by the council, and served a six-year term, and from the formation of the council aldermen had not been obliged to face an election before being re-appointed.
+
+Some Welsh councils, notably Glamorgan, had required aldermen to seek re-election and demands for a similar process in Carmarthenshire had been made from time to time. At a private meeting of the council held on 9 March it was resolved that, in future, retiring aldermen in Carmarthenshire would be required to seek re-election. It was, however, decided that this policy would not be immediately implemented as retiring aldermen had not been given sufficient notice.<ref name="W 17-3-22">{{cite news |title=Carmarthenshire County Council. Conservatives Alone Increase their Strength. |url=https://www.britishnewspaperarchive.co.uk/viewer/BL/0002971/19220317/002/0002?browse=False |access-date=12 June 2024 |newspaper=Welshman |date=17 March 1922 |page=2}}</ref> Only one of the retiring members, namely Tom Morris, the Labour member for Betws, has sought election (and had been returned unopposed).
+
+At the statutory meeting held on 16 March, a list on names selected by the western and eastern members respectively were submitted. L.D. Thomas, the Mayor of Carmarthen and a new member, protested against this approach but the majority of councillors overwhelmingly supported the nine nominations.<ref name="W 24-3-22">{{cite news |title=Carmarthenshire County Aldermen. Carmarthen Mayor’s Protest Against Caucus. |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0002971/19220324/008/0008 |access-date=12 June 2024|newspaper=Welshman  |date=24 March 1922 |page=8}}</ref>   
+
+Consequently, the following eight aldermen were elected (with the number of votes in each case).
+
+*Thomas Thomas, retiring alderman (45)
+*Tom Morris, retiring alderman (43)
+*H Jones-Thomas, retiring alderman (43)
+*W.J. Williams, retiring alderman (43)
+*Ben Evans, retiring alderman (42)
+*F.D.W. Williams-Drummond, retiring alderman (39)
+*H.E. Blagdon-Richards, retiring alderman (35)
+*John Lewis, retiring alderman
+
+==References==
+{{reflist}}
+
+{{Carmarthenshire elections}}
+{{United Kingdom local elections, 1922}}
+
+[[Category:Carmarthenshire County Council elections|1922]]
+[[Category:1922 Welsh local elections]]

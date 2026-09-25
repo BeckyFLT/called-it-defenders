@@ -1,0 +1,1076 @@
+{{Short description|Welsh local election}}
+{{Use dmy dates|date=April 2022}}
+
+{{Infobox election 
+  |election_name      = 1895 Carmarthenshire County Council election 
+  |country            = Wales 
+  |flag_image         =  
+  |type               = Parliamentary 
+  |ongoing            = no 
+  |party_colour       = yes 
+  |previous_election  =  [[1892 Carmarthenshire County Council election]] 
+  |previous_year      =  [[1892 Carmarthenshire County Council election|1892]] 
+  |next_election      = [[1898 Carmarthenshire County Council election]] 
+  |next_year          = [[1898 Carmarthenshire County Council election|1898]] 
+  |seats_for_election = All 68 seats to [[Carmarthenshire County Council]] 
+  |majority_seats     =35 
+  |election_date      = 
+  |1blank=Councillors 
+|2blank=Aldermen
+|3blank=Seats&nbsp;+/–
+  
+<!-- Liberal  --> 
+  |image1             =  
+  |leader1            =  
+  |party1             = [[Liberal Party (UK)|Liberal]]  
+  |leaders_seat1      =  
+  |last_election1     =  '''''55'''''/68
+  |seats_before1      = '''55'''/68
+  |seats1             = '''53'''/68
+  |seat_change1       =  
+  |popular_vote1      =  
+  |percentage1        =  
+  |1data1=38
+|2data1=15
+|3data1={{decrease}}2
+
+<!--Conservative --> 
+  |image2             = 
+  |leader2            =  
+  |party2             = [[Conservative Party (UK)|Conservative]]  
+  |leaders_seat2      =  
+  |last_election2     =  9/68
+  |seats_before2      =  9/68
+  |seats2             =  13/68
+  |seat_change2       = 
+  |popular_vote2      = 
+  |percentage2        =  
+  |1data2=11
+|2data2=2
+|3data2={{increase}}4
+
+<!-- Liberal Unionist --> 
+  |image3             = 
+  |leader3            = 
+  |party3             = Liberal Unionist 
+  |leaders_seat3      =  
+  |last_election3     =  1/68
+  |seats_before3      =  1/68
+  |seats3             = 1/68
+  |seat_change3       =  
+  |popular_vote3      = 
+  |percentage3        = 
+   |1data3=1
+|2data3=0
+|3data3={{decrease}}0
+  
+<!-- Independent--> 
+  |image4             =  
+  |leader4            =  
+  |party4             = [[Independent (politician)|Independent]] 
+  |leaders_seat4      =  
+  |last_election4     =  3/68
+  |seats_before4      = 3/68
+  |seats4             = 1/68
+  |seat_change4       =  
+  |popular_vote4      = 
+  |percentage4        =  
+   |1data4=1
+|2data4=0
+|3data4={{decrease}}2
+  
+  |title              = Council control 
+  |posttitle          = Council control after election 
+  |before_election    = 
+  |before_party       =   
+  |after_election     = Liberal 
+  |after_party        = [[Liberal Party (UK)|Liberal Party]] 
+}} 
+
+
+The '''third election to the Carmarthenshire County Council''' was held in March 1895.<ref name="W 8-3-95 CC res">{{cite news|title=County Council Elections. Carmarthenshire.|url=http://welshnewspapers.llgc.org.uk/en/page/view/4356597/ART29|accessdate=6 May 2015|newspaper=Welshman|date=8 March 1895}}</ref> It was preceded by the [[1892 Carmarthenshire County Council election|1892 election]] and followed by the [[1898 Carmarthenshire County Council election|1898 election]].
+
+{{TOC right}}
+
+==Overview of the result==
+
+The Liberals retained a strong majority.
+
+==Candidates==
+
+37 members were returned unopposed; the vast majority of whom were Liberals. This meant the Liberals were guaranteed a majority before a single vote was cast. 22 of those elected in 1889 sought re-election.
+
+None of the retiring aldermen sought election as councillors.
+
+==Outcome==
+
+With only 14 contests out of a possible 51, the election attracted relatively little interest. Much attention was focused on Kidwelly, where the sitting member, Daniel Stephens, was narrowly defeated by the Conservative candidate. The Conservatives also won another three seats.
+
+At Cenarth, the successful candidate was returned on the casting vote of the returning officer.
+
+The subsequent election of Stephens as an alderman reflected some divisions in the Liberal ranks when a proposal was made that only elected members should be elevated to the aldermanic bench.<ref name="Welshman AGM 22- 3-95 Carms" />
+
+==Ward results==
+
+===Abergwili===
+{{Election box begin | title = Abergwili 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party = Liberal Party (UK)
+   |candidate = John Lloyd*
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bettws===
+{{Election box begin | title = Bettws 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party = Liberal Party (UK)
+   |candidate = [[William Nathaniel Jones]]*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Caio===
+{{Election box begin | title = Caio 1895 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[James Hills-Johnes|Sir James Hills-Johnes]]*
+   |votes = 226
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = T. Francis Jones
+   |votes = 191
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 35
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = Thomas Jenkins*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Upper Division) 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party = Liberal Party (UK)
+   |candidate = John Thomas*
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Western Ward (Lower Division) 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party = Conservative Party (UK)
+   |candidate = James John
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = Professor D.E. Jones*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cenarth===
+{{Election box begin | title = Cenarth 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Jeremiah
+   |votes = 
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = Davies
+   |votes = 
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         =  
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cilycwm===
+{{Election box begin | title = Cilycwm 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = Rev Thomas Evans*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Conwil===
+{{Election box begin | title = Conwil 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Jones''' 
+   |votes = 265
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = David Evan Stephens 
+   |votes = 156
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         =  109
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Kidwelly===
+{{Election box begin | title = Kidwelly 1895 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Holmes Stead'''
+   |votes = 243
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Daniel Stephens*
+   |votes = 230
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         =  13
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Laugharne===
+{{Election box begin | title = Laugharne 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = John D. Morse*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanarthney===
+{{Election box begin | title = Llanarthney 1895 }}
+{{Election box winning candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Henry Jones-Davies*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanboidy===
+{{Election box begin | title = Llanboidy 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Evans*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandebie===
+{{Election box begin | title = Llandebie 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Henry Herbert*'''
+   |votes = 285
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = J. Price
+   |votes = 145
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         =  140
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Rural===
+{{Election box begin | title = Llandilo Rural 1895 }}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = '''William Jones*'''
+   |votes = 320
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = W. Jones
+   |votes = 254
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         =  66
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Urban===
+{{Election box begin | title = Llandilo Urban 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''J.W. Gwynne Hughes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandovery===
+{{Election box begin | title = Llandovery 1895 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Walter Powell Jeffreys*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanedy===
+{{Election box begin | title = Llanedy 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Ll. Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanegwad===
+{{Election box begin | title = Llanegwad 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate ='''H.J. Thomas*''' 
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 1===
+Wilson had been elected as an Independent in 1892, defeating Gwilym Evans
+{{Election box begin | title = Llanelly Division 1 1895 }}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = W.J. Wilson*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 2===
+{{Election box begin | title = Llanelly Division 2 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Joseph Mayberry*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 3===
+{{Election box begin | title = Llanelly Division 3 1895 }}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = '''Ernest Trubshaw*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 4===
+{{Election box begin | title = Llanelly Division 4 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev J. Evans'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 5===
+{{Election box begin | title = Llanelly Division 5 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = D.C. Parry*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 6===
+{{Election box begin | title = Llanelly Division 6 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Thomas Phillips*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 7===
+{{Election box begin | title = Llanelly Division 7 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Thomas Jones
+   |votes = 75
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = William David
+   |votes = 7
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 68
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 8===
+{{Election box begin | title = Llanelly Division 8 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Joseph Williams'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Berwick===
+{{Election box begin | title = Llanelly Rural, Berwick 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Owen Bonville*'''
+   |votes = 231
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = David Lewis
+   |votes = 156
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box new seat win|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Hengoed===
+{{Election box begin | title = Llanelly Rural,  Hengoed 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = David John*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box new seat win|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Westfa and Glyn===
+{{Election box begin | title = Llanelly Rural,  Westfa and Glyn 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Jenkins'''
+   |votes = 120
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = W.B. Jones
+   |votes = 52
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 68
+  |percentage    = 
+  |change        =
+}}
+{{Election box new seat win|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel Aberbythick===
+{{Election box begin | title = Llanfihangel Aberbythick 1895 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[Frederick Campbell, 3rd Earl Cawdor|Viscount Emlyn]]*
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Llanfihangel-ar-Arth===
+{{Election box begin | title = Llanfihangel-ar-Arth 1895 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''T.R. Jones'''
+   |votes = 186
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = T. Barrett
+   |votes = 173
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 13
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangadock===
+{{Election box begin | title = Llangadock 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Thomas Jenkins
+   |votes = 236
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = William Davies
+   |votes = 203
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 33 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangeler===
+{{Election box begin | title = Llangeler 1895 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Thomas Thomas*'''
+   |votes = 
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Daniel Lewis
+   |votes = 
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         =  
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangendeirne===
+{{Election box begin | title = Llangendeirne 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Harries*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangennech===
+{{Election box begin | title = Llangennech 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangunnor===
+{{Election box begin | title = Llangunnor 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate ='''C.E. Morris*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanon===
+{{Election box begin | title = Llanon 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev W.E. Evans*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llansawel===
+{{Election box begin | title = Llansawel 1895 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[Sir James Williams-Drummond, 4th Baronet|Sir J.H.W. Drummond, Bart.]]*
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     =Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Llanstephan===
+{{Election box begin | title = Llanstephan 1895 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = John Johns
+   |votes = unopposed
+  |percentage=
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Party (UK)
+ |loser = Liberal Unionist Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanybyther===
+{{Election box begin | title = Llanybyther 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal  Party (UK)
+   |candidate = '''John Rees'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal  Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Mothvey===
+{{Election box begin | title = Mothvey 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = J. Walter Jones*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey North===
+Buckley, the prospective Unionist candidate for West Carmarthenshire, had been returned as an Independent Liberal in 1892.
+{{Election box begin | title = Pembrey North 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Unionist Party (UK)
+   |candidate = '''W.J. Buckley*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Unionist Party (UK)
+  |loser = Independent Liberal
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey South===
+{{Election box begin | title = Pembrey South 1895 }}
+Marsh was returned as a Liberal in 1892
+{{Election box winning candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = W.S. Marsh*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Quarter Bach===
+{{Election box begin | title = Quarter Bach 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Dr Howell Rees*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Rhydcymmerai===
+{{Election box begin | title = Rhydcymmerai 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Davies''' 
+   |votes = 181
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = M.L.Price
+   |votes = 117
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 64
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Clears===
+{{Election box begin | title = St Clears 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ishmael===
+{{Election box begin | title = St Ishmael 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''J. Lloyd Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Trelech===
+{{Election box begin | title =Trelech 1895 }}
+{{Election box winning candidate unopposed with party link
+   |party =  Liberal Party (UK)
+   |candidate = John Phillips*
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Whitland===
+{{Election box begin | title =Whitland 1895 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev William Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box new seat win|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==Election of Aldermen==
+
+An unsuccessful attempt was made to select aldermen from among sitting members only.<ref name="Welshman AGM 22-
+3-95 Carms">{{cite news|title=Carmarthenshire County Council|url=https://www.britishnewspaperarchive.co.uk/viewer/BL/0002971/18950322/047/0003?browse=False#|accessdate=16 February 2023|newspaper=Welshman|date=22 March 1895|page=3}}</ref>
+
+The following retiring aldermen were re-elected:
+
+*Joseph Joseph, Liberal (retiring alderman)
+*W.R. Edwards, Carmarthen, Liberal  
+*W.O. Brigstocke JP, Liberal (retiring alderman)
+*Dr J.A. Jones, Llanelly, Liberal (retiring alderman)
+*Henry Wilkins, Liberal
+
+In addition, the following three new aldermen were elected:
+
+*John Bevan, Llansadwrn
+*Daniel Stephens, Liberal (defeated candidate at Kidwelly)
+*Thomas Watkins, Tycerrig, Llandovery, Conservative
+
+The following retiring aldermen were not re-elected
+*John James, Llandovery 
+*David Randell MP, Liberal 
+*H. Nevill, Llanelli, Conservative 
+*T. Williams, Llwynhendy, Liberal 
+*D. Richards, Ammanford, Liberal
+
+==References==
+{{reflist}}
+
+{{Carmarthenshire elections}}
+{{United Kingdom local elections, 1895}}
+
+[[Category:Carmarthenshire County Council elections|1895]]
+[[Category:1895 Welsh local elections]]

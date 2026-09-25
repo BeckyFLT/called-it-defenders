@@ -1163,13 +1163,13 @@ The Southborough & Bidborough ward returned two councillors because a second sea
 
 ===Cranbrook, Sissinghurst & Frittenden by-election===
 {{Election box begin|title=Cranbrook, Sissinghurst & Frittenden by-election, 23 September 2026}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Max Chesters|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Nicholas Lees|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Reform UK|candidate=David Somers|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Harry Wormington|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}} 
+{{Election box winning candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Harry Wormington|votes=697|percentage=37.4|change=+22.9}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Nicholas Lees|votes=590|percentage=31.6|change=-14.6}}
+{{Election box candidate with party link|party=Reform UK|candidate=David Somers|votes=392|percentage=21.0|change=-4.4}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Max Chesters|votes=186|percentage=10.0|change=-4.0}}
+{{Election box majority|votes=107|percentage=5.8|change=-15.0}}
+{{Election box turnout|votes=1865|percentage=32.0|change=-13.6}}
+{{Election box gain with party link|winner=Liberal Democrats (UK, 2025)|loser=Tunbridge Wells Alliance|swing=}} 
  {{Election box end}}
 
 == References ==

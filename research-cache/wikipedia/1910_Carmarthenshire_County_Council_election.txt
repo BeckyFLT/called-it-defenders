@@ -1,0 +1,1187 @@
+{{Short description|Welsh local election}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election 
+  |election_name      = 1910 Carmarthenshire County Council election 
+  |country            = Wales 
+  |flag_image         =  
+  |type               = Parliamentary 
+  |ongoing            = no 
+  |party_colour       = yes 
+  |previous_election  =  [[1907 Carmarthenshire County Council election]] 
+5  |previous_year      =  [[1907 Carmarthenshire County Council election|1907]] 
+  |next_election      = [[1913Carmarthenshire County Council election]] 
+  |next_year          = [[1913 Carmarthenshire County Council election|1913]] 
+  |seats_for_election = All 68 seats to [[Carmarthenshire County Council]] 
+  |majority_seats     =35 
+  |election_date      = 
+  |1blank=Councillors 
+|2blank=Aldermen
+|3blank=Seats&nbsp;+/–
+  
+<!-- Liberal  --> 
+  |image1             =  
+  |leader1            =  
+  |party1             = [[Liberal Party (UK)|Liberal]]  
+  |leaders_seat1      =  
+  |last_election1     = '''''53'''''/68
+  |seats_before1      = '''''53'''''/68
+  |seats1             = '''51'''/68
+  |seat_change1       =  
+  |popular_vote1      =  
+  |percentage1        =  
+  |1data1=37
+|2data1=14
+|3data1={{decrease}}2
+
+<!--Conservative --> 
+  |image2             = 
+  |leader2            =  
+  |party2             = [[Conservative Party (UK)|Conservative]]  
+  |leaders_seat2      =  
+  |last_election2     =  13/68
+  |seats_before2      =  13/68
+  |seats2             =  15/68
+  |seat_change2       = 
+  |popular_vote2      = 
+  |percentage2        =  
+  |1data2=12
+|2data2=3
+|3data2={{increase}}2
+
+<!-- Liberal Unionist --> 
+  |image3             = 
+  |leader3            = 
+  |party3             = Liberal Unionist 
+  |leaders_seat3      =  
+  |last_election3     =  1/68
+  |seats_before3      =  1/68
+  |seats3             = 1/68
+  |seat_change3       =  
+  |popular_vote3      = 
+  |percentage3        = 
+   |1data3=1
+|2data3=0
+|3data3={{decrease}}0
+  
+<!-- Independent--> 
+  |image4             =  
+  |leader4            =  
+  |party4             = [[Independent (politician)|Independent]] 
+  |leaders_seat4      =  
+  |last_election4     =  1/68
+  |seats_before4      = 1/68
+  |seats4             = 1/68
+  |seat_change4       =  
+  |popular_vote4      = 
+  |percentage4        =  
+   |1data4=1
+|2data4=0
+|3data4={{decrease}}o
+  
+  |title              = Council control 
+  |posttitle          = Council control after election 
+  |before_election    = 
+  |before_party       =   
+  |after_election     = Liberal 
+  |after_party        = [[Liberal Party (UK)|Liberal Party]] 
+}}
+
+The '''eighth election to the Carmarthenshire County Council''' was held in March 1910.<ref name="CJ 11-3-10 CarmsRes">{{cite news|title= County Council Elections. Carmarthenshire.|url=http://newspapers.library.wales/view/3764387/3764399/108|accessdate=9 October 2015|newspaper=Carmarthen Journal|date=11 March 1910|page=12}}</ref> It was preceded by the [[1907 Carmarthenshire County Council election|1907 election]] and followed by the [[1913 Carmarthenshire County Council election|1913 election]].
+
+{{TOC right}}
+
+==Overview of the result==
+
+The Liberals retained a strong majority although the elections were far less politicized than in previous years. With a few exceptions, members were returned unopposed.<ref name="CJ 4-3-10 CarmsNoms">{{cite news|title=County Council Elections. Carmarthenshire Nominations.|url=http://newspapers.library.wales/view/3764378/3764383/41|accessdate=9 October 2015|newspaper=Carmarthen Journal|date=4 March 1910|page=5}}</ref> The local press did not, on the whole, report the political affiliations of candidates but this was more explicitly noted in the Cardiff-based ''Weekly Mail''.<ref name="WkM 12-3-10 Carms">{{cite news|title=Carmarthenshire|url=http://newspapers.library.wales/view/3380106/3380108/38|accessdate=13 October 2015|newspaper=Weekly Mail|date=12 March 1910|page=2}}</ref>
+
+==Boundary changes==
+
+There were no boundary changes that occurred.
+
+==Candidates==
+
+There were only a small number of contested elections with one retiring alderman, John Lewis, seeking election as a councillor.
+
+Three of those elected at the first election in 1889, and who had served continuously since then, sought re-election.  Sir James Drummond, C.E. Morris and D.C. Parry (Llanelli) were all returned unopposed.<ref name="CJ 4-3-10 CarmsNoms" />
+
+==Outcome==
+
+There was very little change in the political complexion of the council.
+
+==The eighth council==
+
+John Johns (Liberal, Llansteffan) was elected chairman at the 1910 statutoty meeting but died suddenly within the month.<ref name="CJ 22-4-10">{{cite news |title=Death of Mr John Johns, Parceithyn. New Chairman of Carmarthenshire County Council. |url=https://newspapers.library.wales/view/3764445/3764453/106/ |access-date=16 March 2023 |newspaper=Carmarthen Journal |date=22 April 1910 |page=3}}</ref>
+
+At the June quarterly meeting, the vice-chairman, Alderman John Bevan, Llansadwrn, declined to be nominated for the chair and the Rev. Alfred Fuller-Mills was elected unanimously.
+
+==Ward results==
+
+===Abergwili===
+{{Election box begin | title = Abergwili 1910}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''John Lloyd*'''
+   |votes =unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Ammanford===
+{{Election box begin | title = Ammanford 1910}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''Col. David Morris*''' 
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bettws===
+{{Election box begin | title = Bettws 1910}}
+{{Election box candidate with party link
+   |party = Labour Party (UK)
+   |candidate = '''Tom Morris*''' 
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Caio===
+{{Election box begin | title = Caio 1910 }}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = '''Sir James Hills-Johnes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Lower Division)===
+Brigstocke, the member for many years, was defeated.
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1910 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''Dr Denzil Harries'''
+   |votes = 244
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = T.E. Brigstocke*
+   |votes = 240
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 4
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     =  Liberal Party (UK)
+  |loser =Independent (politician)  
+|swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Eastern Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Upper Division) 1910}}
+{{Election box winning candidate unopposed with party link
+   |party = Liberal Party (UK)
+   |candidate = Rev Andrew Fuller-Mills*
+   |votes = unoppose
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Lower Division)===
+{{Election box begin | title = Carmarthen Western Ward (Lower Division) 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Lewis*'''
+   |votes = 157
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Independent (politician)
+   |candidate = J.B. Arthur
+   |votes = 147
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 10
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+
+  |swing      = 
+}}
+{{Election box end}}
+
+===Carmarthen Western Ward (Upper Division)===
+{{Election box begin | title = Carmarthen Eastern Ward (Lower Division) 1910}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''H.F. Blagdon-Richards*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cenarth===
+{{Election box begin | title = Cenarth 1910 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''John Lewis+'''
+   |votes = 261
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = John Bowen
+   |votes = 223
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 38
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Cilycwm===
+{{Election box begin | title = Cilycwm 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rowland Evan Williams*'''
+   |votes = 231
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = Daniel Lewis
+   |votes = 101
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 130
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Conwil===
+{{Election box begin | title = Conwil 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Jones*''' 
+   |votes =  unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Kidwelly===
+{{Election box begin | title = Kidwelly 1910 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Alfred Stephens'''
+   |votes = 322
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = Samuel H. Anthony*
+   |votes = 270
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = 
+ |loser =
+  |swing      = 
+}}
+{{Election box end}}
+
+===Laugharne===
+{{Election box begin | title = Laugharne 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John D. Morse'''
+   |votes = 243
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = W.H. Dempster
+   |votes = 153
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 90
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     = Liberal Party (UK)
+  |loser = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanarthney===
+{{Election box begin | title = Llanarthney 1910}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''W.J. Thomas'''
+   |votes =382
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party = Independent (politician)
+   |candidate = David Farr-Davies
+   |votes = 309
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanboidy===
+{{Election box begin | title = Llanboidy 1910 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''David Evans*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandebie===
+{{Election box begin | title = Llandebie 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Davies*'''
+   |votes = 453
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  
+   |candidate = Rev P. Evans
+   |votes = 352
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Rural===
+{{Election box begin | title = Llandilo Rural 1910 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate = '''L.N. Powell*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandilo Urban===
+{{Election box begin | title = Llandilo Urban 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''J.W. Gwynne Hughes*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandovery===
+{{Election box begin | title = Llandovery 1910 }}
+{{Election box candidate with party link
+   |party =   Independent (politician)
+   |candidate = J.C. Vaughan Pryse-Rice
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     =  Independent (politician)
+  |loser = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llandyssilio===
+{{Election box begin | title = Llandyssilio 1910 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate = '''Benjamin John*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =  Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanedy===
+{{Election box begin | title = Llanedy 1910}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanegwad===
+{{Election box begin | title = Llanegwad 1910}}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate ='''Delme Davies-Evans*'''
+   |votes = 267
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Thomas Lewis
+   |votes = 246
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 21
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 1===
+{{Election box begin | title = Llanelly Division 1 1910 }}
+{{Election box candidate with party link|
+   |party = Independent (politician)
+   |candidate = '''W. Griffiths'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =  Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 2===
+{{Election box begin | title = Llanelly Division 2 1910 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate = '''John Simlett'''
+   |votes = 260
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  
+  |candidate = Brinley R. Jones
+   |votes = 107
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 153
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 3===
+{{Election box begin | title = Llanelly Division 3 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William David*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 4===
+{{Election box begin | title = Llanelly Division 4 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 5===
+{{Election box begin | title = Llanelly Division 5 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''D.C. Parry*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 6===
+{{Election box begin | title = Llanelly Division 6 1910 }}
+{{Election box candidate with party link
+   |party =  Labour Party (UK)
+   |candidate ='''Joseph Roberts*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 7===
+{{Election box begin | title = Llanelly Division 7 1910 }}
+{{Election box candidate with party link
+   |party =   Liberal Party (UK)
+   |candidate = '''Rev Hugh Jones'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box gain with party link|
+  |winner     =  Liberal Party (UK)
+|loser = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Division 8===
+{{Election box begin | title = Llanelly Division 8 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Joseph Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Berwick===
+{{Election box begin | title = Llanelly Rural, Berwick 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Harry'''
+   |votes = 265
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = H.J. Hopkins
+   |votes = 229
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 36
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Hengoed===
+{{Election box begin | title = Llanelly Rural, Hengoed 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''W.B. Jones*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanelly Rural, Westfa and Glyn===
+{{Election box begin | title = Llanelly Rural, Westfa and Glyn 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev Benjamin Humphreys*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanfihangel Aberbythick===
+{{Election box begin | title = Llanfihangel Aberbythick 1910 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[Frederick Campbell, 3rd Earl Cawdor|Earl Cawdor]]*
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Conservative Party (UK)
+}}
+{{Election box end}}
+
+===Llanfihangel-ar-Arth===
+{{Election box begin | title = Llanfihangel-ar-Arth 1910}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Thomas Rees Jones'''
+   |votes = 248
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = Thomas Barrett*
+   |votes = 198
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 50
+  |percentage    = 
+  |change        =
+}}
+{{Election box gain with party link|
+  |winner     =  Conservative Party (UK)
+ |loser =Liberal Party (UK)
+   |swing      = 
+}}
+{{Election box end}}
+
+===Llangadock===
+{{Election box begin | title = Llangadock 1910 }}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = '''Mervyn Lloyd Peel*'''
+   |votes = unopposed
+   |percentage = 
+   |change =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangeler===
+{{Election box begin | title = Llangeler 1910}}
+{{Election box candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = Thomas Thomas
+   |votes = 318
+   |percentage = 
+   |change =
+}}
+{{Election box candidate with party link
+   |party = 
+   |candidate = David Jones
+   |votes = 314
+   |percentage = 
+   |change =
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     =  Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangendeirne===
+{{Election box begin | title = Llangendeirne 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Rev R.H. Jones'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangennech===
+{{Election box begin | title = Llangennech 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Thomas Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangunnor===
+{{Election box begin | title = Llangunnor 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate ='''C.E. Morris*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanon===
+{{Election box begin | title = Llanon 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Greville*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llansawel===
+{{Election box begin | title = Llansawel 1910 }}
+{{Election box winning candidate with party link
+   |party = Conservative Party (UK)
+   |candidate = [[Sir James Williams-Drummond, 4th Baronet|Sir J.H.W. Drummond, Bart.]]*
+   |votes = Unopposed
+   |percentage = ''N/A''
+   |change = ''N/A''
+}}
+{{Election box hold with party link no swing|
+  |winner     = Conservative Party (UK) 
+}}
+{{Election box end}}
+
+===Llanstephan===
+{{Election box begin | title = Llanstephan 1910 }}
+{{Election box candidate with party link
+   |party = Liberal Party (UK)
+   |candidate = '''John Johns*'''
+   |votes = unopposed
+  |percentage=
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llanybyther===
+{{Election box begin | title = Llanybyther 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal  Party (UK)
+   |candidate = '''David Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal  Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Mothvey===
+{{Election box begin | title = Mothvey 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''David Davies*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey North===
+{{Election box begin | title = Pembrey North 1910 }}
+{{Election box candidate with party link
+   |party =  
+   |candidate = Thomas Evans Davies
+   |votes = 301
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Rev J.H. Rees* 
+   |votes = 301
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Pembrey South===
+{{Election box begin | title = Pembrey South 1910 }}
+{{Election box candidate with party link
+   |party =  Independent (politician)
+   |candidate = '''George Eynon Bowen*'''
+   |votes = 406
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Richard Thomas Hammond
+   |votes = 332
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Quarter Bach===
+{{Election box begin | title = Quarter Bach 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''W.J. Williams*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Rhydcymmerai===
+{{Election box begin | title = Rhydcymmerai 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''Benjamin Evans*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Clears===
+{{Election box begin | title = St Clears 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''James Phillips*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     =Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===St Ishmael===
+{{Election box begin | title = St Ishmael 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''John Lloyd Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Trelech===
+{{Election box begin | title =Trelech 1910 }}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = '''William Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Whitland===
+{{Election box begin | title =Whitland 1910 }}
+{{Election box candidate with party link
+   |party = Independent (politician)
+   |candidate = '''Dr R.L. Thomas*'''
+   |votes = unopposed
+   |percentage = 
+   |change =  
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+==Election of aldermen==
+
+In addition to the 51 councillors the council consisted of 17 county aldermen. Aldermen were elected by the council, and served a six-year term.
+
+Following the elections the following eight retiring aldermen were re-elected:
+*John Williams, 
+*W.N. Jones, 
+*D.L. Jones, 
+*R.W. Stephens, 
+*John Rees, 
+*Thomas Jones, 
+*Rev Thomas Johns, 
+*Rev William Davies,
+
+One new alderman was elected
+*John Lloyd, elected member for Abergwili
+
+One retiring alderman successfully sought election as a councillor and was not re-elected as alderman:
+*John Lewis
+
+All nine aldermen elected were Liberals.<ref name="CJ 18-3-10 AGM">{{cite news |title=Carmarthenshire County Council. First Meeting of New Body |url=https://newspapers.library.wales/view/3764400/3764408/94/aldermen%20carmarthenshire |access-date=6 March 2023 |newspaper=Carmarthen Journal |date=18 March 1910 |page=8}}</ref>
+
+==By-elections between 1910 and 1913==
+
+===Llansteffan by-election 1910===
+
+A by-election was held in May 1910 following the sudden death of John Johns, chairman of the council.<ref name="EE 30-5-10">{{cite news |title=Llanstephan |url=https://newspapers.library.wales/view/4218745/4218747/22/ |access-date=17 March 2023 |newspaper=Evening Express |date=30 May 1910 |page=2}}</ref> His son, Walter Johns was initially nominated but withdrew in favour of another Liberal.
+
+{{Election box begin | title = Llansteffan 1910 }}
+{{Election box winning candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = G. Barrett Evans
+   |votes = 216
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = Walter Thomas
+   |votes = 183
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 33
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Llangeler by-election 1911===
+
+A by-election was held on 6 May 1911 following the death of Conservative councillor, Thomas Thomas. Colonel Lewes of llysnewydd was selected in his place and won a comfortable victory over the Liberal candidate.<ref name="CJ 12-5-11">{{cite news |title=Llangeler Election. Huge Majority for Capt. Lewes. |url=https://www.britishnewspaperarchive.co.uk/viewer/bl/0002956/19110512/091/0008 |access-date=20 March 2023 |newspaper=Carmarthen Journal |date=12 May 1911 |page=8}}</ref>
+
+{{Election box begin | title = Llangeler by-election 1911 }}
+{{Election box winning candidate with party link
+   |party =  Conservative Party (UK)
+   |candidate = Capt. William Lewes
+   |votes = 411
+   |percentage = 
+   |change =  
+}}
+{{Election box candidate with party link
+   |party =  Liberal Party (UK)
+   |candidate = Rev D. Geler Jones
+   |votes = 259
+   |percentage = 
+   |change =  
+}}
+{{Election box majority
+  |votes         = 152
+  |percentage    = 
+  |change        =
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Carmarthenshire elections}}
+{{United Kingdom local elections, 1910}}
+
+[[Category:Carmarthenshire County Council elections|1910]]
+[[Category:1910 Welsh local elections|Carmarthenshire County Council election]]
