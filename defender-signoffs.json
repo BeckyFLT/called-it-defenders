@@ -212,5 +212,45 @@
     "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
     "correction": true,
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.west-suffolk.haverhill-west.by.2026-09-10",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_West_Suffolk_District_Council_election",
+    "note": "Resignation of Margaret Marks; elected Conservative in Haverhill West at the 2023 West Suffolk District Council election. The 10 Sept 2026 by-election result is itself recorded as a Conservative hold (winner Graham Cone).",
+    "decidedAt": "2026-09-25"
+  },
+  {
+    "ballotPaperId": "local.windsor-and-maidenhead.bray.by.2026-09-24",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_Windsor_and_Maidenhead_Borough_Council_election",
+    "note": "By-election called following the death of Conservative councillor Leo Walters, elected Conservative in Bray at the 2023 election (represented the ward for over 50 years). The ward's other councillor, Suzanne Cross, is unaffected.",
+    "decidedAt": "2026-09-25"
+  },
+  {
+    "ballotPaperId": "local.amber-valley.kilburn-denby-holbrook-horsley.by.2026-10-08",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_Amber_Valley_Borough_Council_election",
+    "note": "By-election triggered by the resignation of Conservative councillor Julie Whitmore, elected Conservative in Kilburn, Denby, Holbrook & Horsley at the 2023 election.",
+    "decidedAt": "2026-09-25"
+  },
+  {
+    "ballotPaperId": "local.lambeth.myatts-fields.by.2026-10-08",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "source": "https://en.wikipedia.org/wiki/2026_Lambeth_London_Borough_Council_election",
+    "note": "By-election called following the death of Labour Co-operative councillor Annie Gallop, elected Labour Co-op in Myatt's Fields at the May 2026 Lambeth election.",
+    "decidedAt": "2026-09-25"
+  },
+  {
+    "ballotPaperId": "local.newcastle-under-lyme.town.by.2026-10-08",
+    "partyId": "PP7931",
+    "partyName": "Reform UK",
+    "source": "https://en.wikipedia.org/wiki/2026_Newcastle-under-Lyme_Borough_Council_election",
+    "note": "By-election called following the resignation of Reform UK councillor Christine Duffy, elected Reform UK in Town ward at the May 2026 election (gain from Labour). The ward's other councillor, Sheelagh Casey-Hulme (Labour), is unaffected.",
+    "decidedAt": "2026-09-25"
   }
 ]
