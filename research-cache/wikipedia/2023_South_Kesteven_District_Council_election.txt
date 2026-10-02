@@ -644,7 +644,13 @@ The by-election was held after independent councillor Philip Gadd resigned; he d
 
 ==== Grantham St Wulfram's ====
 
-{{Election box begin|title=Grantham St Wulfram's by-election, 22 October 2026<ref>https://www.southkesteven.gov.uk/October22</ref>}}
+{{Election box begin|title=Grantham St Wulfram's by-election, 22 October 2026<ref>https://www.southkesteven.gov.uk/October22</ref><br><small>Resignation of Tim Harrison (Independent)</small><ref>https://granthammatters.co.uk/candidates-announced-for-grantham-st-wulframs-by-election/</ref>}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Tim Galsworthy|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Wayne Hasnip|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Ben Lavender|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Andy McKinlay|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Marie Reid|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Ian Simmons|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}

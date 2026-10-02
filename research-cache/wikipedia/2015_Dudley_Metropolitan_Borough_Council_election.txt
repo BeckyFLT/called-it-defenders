@@ -1,0 +1,256 @@
+{{Short description|2015 local election in England}}
+{{Use dmy dates|date=March 2015}}
+{{Use British English|date=March 2015}}
+
+{{Infobox election
+| election_date = {{Start date|2015|05|07|df=yes}}
+| election_name = 2015 Dudley Metropolitan Borough Council election
+| country = West Midlands
+| ongoing = no
+| previous_election = 2014 Dudley Metropolitan Borough Council election
+| next_election = 2016 Dudley Metropolitan Borough Council election
+| next_year = 2016
+| previous_year = 2014
+| type = parliamentary
+| seats_for_election = 24 out of 72 seats for [[Dudley Metropolitan Borough Council]]
+| majority_seats = 37
+| image1 = [[File:No image wide.svg|95x50px|Blank]]
+| party1 = Labour Party (UK)
+| image2 = [[File:No image wide.svg|95x50px|Blank]]
+| party2 = Conservative Party (UK)
+| image3 = [[File:No image wide.svg|95x50px|Blank]]
+| party3 = United Kingdom Independence Party
+| map_image = Dudley wards 2015.png
+| party4 = Green Party of England and Wales
+| image4 = [[File:No image wide.svg|95x50px|Blank]]
+| leader2 = Patrick Harley
+| leader1 = Pete Lowe
+| seats_before1 = 41
+| seats1 = 11
+| seats_after1 = '''40'''
+| seat_change1 = {{decrease}}1
+| popular_vote1 = 52,046
+| percentage1 = 33.74%
+| leader3 = ''Unknown''
+| leader4 = Will Duckworth
+| seats_before3 = 7
+| seats_after3 = '''7'''
+| seats3 = 0
+| seat_change3 = {{steady}}
+| popular_vote3 = 35,727
+| percentage3 = 23.16%
+| seats_before4 = 1
+| seats_after4 = '''1'''
+| seats4 = 0
+| seat_change4 = {{steady}}
+| popular_vote4 = 6,608
+| percentage4 = 4.28%
+| seats2 = '''13'''
+| seat_change2 = {{increase}}1
+| popular_vote2 = 58,026
+| percentage2 = 37.62%
+| before_election = 
+| before_party = Labour Party (UK)
+| after_election = 
+| after_party = Labour Party (UK)
+| seats_before2 = 25
+| seats_after2 = '''26'''
+| posttitle = Council control after election
+| title = Council control
+}}
+
+The '''2015 [[Dudley]] Metropolitan [[Borough Council]] [[election]]''' took place on 7 May 2015 to elect members of the [[Dudley Metropolitan Borough Council]] in [[Elections in England|England]].<ref name="TEC">{{Cite web|url=http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums |title=Upcoming elections & referendums |access-date=23 March 2015 |work=The Electoral Commission | archive-url= https://web.archive.org/web/20150315102043/http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums | archive-date= 15 March 2015 | url-status= live}}</ref> It was held on the same day as other [[2015 United Kingdom local elections|local elections]], as well as the election of MPs for [[Dudley South (UK Parliament constituency)|Dudley South]], [[Dudley North (UK Parliament constituency)|Dudley North]], [[Halesowen and Rowley Regis (UK Parliament constituency)|Halesowen and Rowley Regis]] and [[Stourbridge (UK Parliament constituency)|Stourbridge]].
+
+== Results summary ==
+{{Election summary begin with candidates
+   |title = 2015 Dudley Metropolitan Borough Council<ref name="2015results">{{Cite web|title = Local Election 2015 - All Wards Results Summary |url=https://www.dudley.gov.uk/media/9616/localelectionresults_-2015.pdf |url-status=dead|archive-url=https://web.archive.org/web/20200206123725/https://www.dudley.gov.uk/media/9616/localelectionresults_-2015.pdf|archive-date=6 Feb 2020|access-date=11 Nov 2023 |website=dudley.gov.uk}}</ref>
+}}
+{{Election summary party with candidates
+   |party      = Conservative Party (UK)
+   |candidates = 24
+   |seats      = '''13'''
+   |gain       = 1
+   |loss       = 0
+   |net        = {{increase}}1
+   |seats %    = 54.17
+   |plus/minus = 
+   |votes      = 58,026
+   |votes %    = 37.62
+}}
+{{Election summary party with candidates
+   |party      = Labour Party (UK)
+   |candidates = 24
+   |seats      = '''11'''
+   |gain       = 0
+   |loss       = 1
+   |net        = {{decrease}}1
+   |seats %    = 45.83
+   |votes      = 52,046
+   |votes %    = 33.74
+   |plus/minus = 
+}}
+{{Election summary party with candidates
+   |party      = United Kingdom Independence Party
+   |candidates = 24
+   |seats      = '''0'''
+   |gain       = 0
+   |loss       = 0
+   |net        = {{steady}}
+   |seats %    = 0.00
+   |votes %    = 23.16
+   |votes      = 35,727
+   |plus/minus = 
+}}
+{{Election summary party with candidates
+   |party      = Green Party of England and Wales
+   |candidates = 24
+   |seats      = '''0'''
+   |gain       = 0
+   |loss       = 0
+   |net        = {{steady}}
+   |seats %    = 0.00
+   |votes %    = 4.28
+   |votes      = 6,608
+   |plus/minus = 
+}}
+{{Election summary party with candidates
+   |party      = Liberal Democrats (UK)
+   |candidates = 4
+   |seats      = '''0'''
+   |gain       = 0
+   |loss       = 0
+   |net        = {{steady}}
+   |seats %    = 0.00
+   |votes %    = 0.96
+   |votes      = 1,485
+   |plus/minus = 
+}}
+{{Election summary party with candidates
+   |party      = Independent politician
+   |candidates = 1
+   |seats      = '''0'''
+   |gain       = 0
+   |loss       = 0
+   |net        = {{steady}}
+   |seats %    = 0.00
+   |votes %    = 0.24
+   |votes      = 366
+   |plus/minus = 
+}}
+{{Election summary with candidates|candidates='''101'''|seats='''24'''|seats %='''100.00'''|votes %='''100.00'''|votes='''154,258'''|party='''Totals'''|gain=|loss=|net=|plus/minus=}}
+
+|}
+
+== Ward results ==
+''* - Incumbent Candidate''
+
+=== Amblecote ===
+{{Election box begin no change|title=Amblecote Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|votes=3,079|candidate=Simon James Tyler|percentage=44.95}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Pete Lee|votes=1,776|percentage=25.93}}
+{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Sikandar Ahmed|votes=1,716|percentage=25.05}}
+{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Christian Devi Kiever|votes=238|percentage=3.47}}{{Election box rejected no change|votes=41|percentage=0.60}}
+{{Election box hold with party link no change|winner=Conservative Party (UK)}}
+{{Election box end}}
+
+=== Belle Vale ===
+{{Election box begin no change|title=Belle Vale Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|votes=2,728|candidate=Simon Phipps|percentage=39.42}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Liz Keenan|votes=2,533|percentage=36.60}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Graema Anthony Jack Lloyd|votes=1,279|percentage=18.48}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Gemma Louise Thompson|votes=329|percentage=4.75}}{{Election box rejected no change|votes=51|percentage=0.74}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Brierley Hill ===
+{{Election box begin no change|title=Brierley Hill Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|votes=2,351|candidate=Rachel Naomi Harris*|percentage=42.89}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Kamran Razzaq|votes=1,429|percentage=26.07}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Carl James Owen|votes=1,409|percentage=25.70}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Gordon Christopher Elcock|votes=275|percentage=5.02}}{{Election box rejected no change|votes=18|percentage=0.33}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Brockmoor & Pensnett ===
+{{Election box begin no change|title=Brockmoor & Pensnett Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Karen Mary Jordan*|votes=2,069|percentage=39.93}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Sue Greenaway|votes=1,593|percentage=30.74}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Jennifer Louise Bernadette Hill|votes=1,374|percentage=26.51}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Ben Sweeney|votes=127|percentage=2.45}}{{Election box rejected no change|votes=19|percentage=0.37}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Castle & Priory ===
+{{Election box begin no change|title=Castle & Priory Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|candidate=Ken Finch*|party=Labour Party (UK)|votes=3,011|percentage=47.00}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Philip Ather Wimlett|votes=1,695|percentage=26.46}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Daryl Brian Millward|votes=1,481|percentage=23.12}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Alexander John Kendall|votes=202|percentage=3.15}}{{Election box rejected no change|votes=18|percentage=0.28}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Coseley East ===
+{{Election box begin no change|title=Coseley East Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Melvyn Mottram|votes=2,276|percentage=41.14}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Craig Peter Winyard|votes=1,684|percentage=30.44}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Martin Richard Duffield|votes=1,399|percentage=25.28}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Jon Hartless|votes=159|percentage=2.87}}{{Election box rejected no change|votes=15|percentage=0.27}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Cradley & Wollescote ===
+{{Election box begin no change|title=Cradley & Wollescote Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Richard John Body|votes=2,602|percentage=43.54}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Alan Harry Hopwood|votes=1,704|percentage=28.51}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Lee John Sargeant|votes=1,427|percentage=23.88}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Dennis Anthony Neville|votes=218|percentage=3.65}}{{Election box rejected no change|votes=25|percentage=0.42}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Gornal ===
+{{Election box begin no change|title=Gornal Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Anne Elizabeth Millward|votes=2,443|percentage=34.45}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Stuart Turner*|votes=2,292|percentage=32.32}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Andrew John Elton Parsons|votes=2,203|percentage=31.07}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Ryan James Virgo|votes=124|percentage=1.75}}{{Election box rejected no change|votes=29|percentage=0.41}}{{Election box gain with party link no change|winner=Conservative Party (UK)|loser=Labour Party (UK)}}{{Election box end}}
+
+=== Halesowen North ===
+{{Election box begin no change|title=Halesowen North<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Karen Elizabeth Shakespeare*|votes=2,497|percentage=39.04}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Ian McGarry|votes=2,337|percentage=36.54}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Nathan Paul Hunt|votes=1,288|percentage=20.14}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Jogn Payne|votes=231|percentage=3.61}}{{Election box rejected no change|votes=43|percentage=0.67}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Halesowen South ===
+{{Election box begin no change|title=Halesowen South<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|candidate=Alan Taylor*|party=Conservative Party (UK)|votes=3,633|percentage=50.77}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=John Lewis|votes=1,815|percentage=25.36}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=James Alexander Apperley|votes=1,148|percentage=16.04}}{{Election box candidate with party link no change|party=Liberal Democrats (UK)|candidate=Derek Alan Campbell|votes=293|percentage=4.09}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Tim Weller|votes=219|percentage=3.06}}{{Election box rejected no change|votes=48|percentage=0.67}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Hayley Green & Cradley South ===
+{{Election box begin no change|title=Hayley Green & Cradley South Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Jeff Hill|votes=2,879|percentage=43.61}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Malcolm David Freeman|votes=1,840|percentage=27.87}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Michael William Forsyth|votes=1,222|percentage=18.51}}{{Election box candidate with party link no change|party=Independent politician|candidate=Adrian John Turner|votes=366|percentage=5.54}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Colin Royle|votes=242|percentage=3.67}}{{Election box rejected no change|votes=52|percentage=0.79}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Kingswinford North & Wall Heath ===
+{{Election box begin no change|title=Kingswinford North & Wall Heath Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Nicola Faye Richards|percentage=49.65|votes=3,672}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Lynn Edwina Boleyn|votes=1,944|percentage=26.28}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Karl Sean Reynolds|votes=1,553|percentage=21.00}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Luke Stuart Harrison|votes=196|percentage=2.65}}{{Election box rejected no change|votes=31|percentage=0.42}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Kingswinford South ===
+{{Election box begin no change|title=Kingswinford South Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Peter Philip Miller|votes=3,828|percentage=53.00}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Shaz Saleem|votes=1,678|percentage=23.23}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Peter Charles Hillman|votes=1,356|percentage=18.78}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Vicky Duckworth|votes=326|percentage=4.51}}{{Election box rejected no change|votes=34|percentage=0.47}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Lye & Stourbridge ===
+{{Election box begin no change|title=Lye & Stourbridge North Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Mohammed Hanif*|votes=2,143|percentage=35.89}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Asan Mishaq|votes=1,937|percentage=32.44}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Wendy Wilde|votes=1,646|percentage=27.57}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Andi Mohr|votes=218|percentage=3.65}}{{Election box rejected no change|votes=27|percentage=0.45}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Netherton, Woodside & St. Andrews's ===
+{{Election box begin no change|title=Netherton, Woodside & St. Andrews's Wars<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Qadar Zada*|votes=2,113|percentage=34.63}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Stephen Daniels|votes=1,474|percentage=24.16}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Bill McCornish|votes=1,288|percentage=21.11}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Chris Neale|votes=1,201|percentage=19.69}}{{Election box rejected no change|votes=25|percentage=0.41}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Norton Ward ===
+{{Election box begin no change|title=Norton Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|candidate=Heather Rogers*|party=Conservative Party (UK)|votes=3,795|percentage=52.62}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Mike Crannage|votes=1,527|percentage=21.17}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=David Jolyan Stroud Powell|votes=1,023|percentage=14.18}}{{Election box candidate with party link no change|party=Liberal Democrats (UK)|candidate=Vic Hanson|votes=429|percentage=5.95}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Pam Archer|votes=414|percentage=5.74}}{{Election box rejected no change|votes=34|percentage=0.33}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Pedmore & Stourbridge East ===
+{{Election box begin no change|title=Pedmore & Stourbridge East<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Ian Marshall Kettle*|votes=3,862|percentage=53.51}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Julie Elizabeth Baines|votes=1,673|percentage=23.18}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=David Jolyan Stroud Powell|votes=1,023|percentage=14.34}}{{Election box candidate with party link no change|party=Liberal Democrats (UK)|candidate=Simon Paul Hanson|votes=357|percentage=4.95}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Liz Tilly|votes=254|percentage=3.52}}{{Election box rejected no change|votes=35|percentage=0.51}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Quarry Bank & Dudley Wood ===
+{{Election box begin no change|title=Quarry Bank & Dudley Wood Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Jackie Cowell*|votes=2,072|percentage=35.95}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Dean Horton|votes=1,750|percentage=30.37}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Sue Ridney|votes=1,660|percentage=28.80}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Martin Richard Cotterell|votes=259|percentage=4.49}}{{Election box rejected no change|votes=22|percentage=0.38}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Sedgley ===
+{{Election box begin no change|title=Sedgley Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Tina Marion Westwood|votes=2,914|percentage=42.89}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Marcia Vera Harris|votes=1,874|percentage=27.58}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Sue Ridney|votes=1,779|percentage=26.18}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Emma Caroline Harrison|votes=193|percentage=2.84}}{{Election box rejected no change|votes=34|percentage=0.50}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== St. James ===
+{{Election box begin no change|title=St. James's Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Labour Party (UK)|candidate=Mary Roberts*|votes=2,641|percentage=44.74}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Philip Andrew Rowe|votes=1,642|percentage=27.82}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Jack Anthony Spriggs|votes=1,398|percentage=23.68}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Adrian Denis Crossen|votes=186|percentage=3.15}}{{Election box rejected no change|votes=38|percentage=0.61}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== St. Thomas's ===
+{{Election box begin no change|title=St. Thomas's Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|candidate=Glenis Louise Simms|party=Labour Party (UK)|percentage=57.07|votes=3,351}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Helen Louise Wimlett|votes=1,310|percentage=22.31}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Lila Redfern|votes=918|percentage=15.63}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Christian Green|votes=258|percentage=4.39}}{{Election box rejected no change|percentage=0.60|votes=35}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Upper Gornal & Woodsetton ===
+{{Election box begin no change|title=Upper Gornal & Woodsetton Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|candidate=Adam Michael Aston*|party=Labour Party (UK)|percentage=37.03|votes=2,256}}{{Election box candidate with party link no change|party=Conservative Party (UK)|candidate=Doreen Ameson|votes=1,864|percentage=30.59}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Fiona Jane Evans|votes=1,795|percentage=29.46}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Daniel James Brookes|votes=154|percentage=2.53}}{{Election box rejected no change|votes=24|percentage=0.39}}{{Election box hold with party link no change|winner=Labour Party (UK)}}{{Election box end}}
+
+=== Wollaston & Stourbridge Town ===
+{{Election box begin no change|title=Wollaston & Stourbridge Town Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Steve Clark|votes=3,075|percentage=43.40}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=Serena Craigle|votes=1,956|percentage=27.61}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=Maxim Lowe|votes=1,141|percentage=16.1}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Lawrence Rowlett|votes=461|percentage=6.51}}{{Election box candidate with party link no change|party=Liberal Democrats (UK)|candidate=Margaret Hanson|votes=406|percentage=5.73}}{{Election box rejected no change|votes=46|percentage=0.65}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+=== Wordsley ===
+{{Election box begin no change|title=Wordsley Ward<ref name="2015results"/>}}
+{{Election box winning candidate with party link no change|party=Conservative Party (UK)|candidate=Matt Rogers|votes=3,037|percentage=43.93}}{{Election box candidate with party link no change|party=Labour Party (UK)|candidate=William Peter Cody|votes=2,071|percentage=29.96}}{{Election box candidate with party link no change|party=United Kingdom Independence Party|candidate=John Alexander Christian MacLeod|votes=1,623|percentage=23.48}}{{Election box candidate with party link no change|party=Green Party of England and Wales|candidate=Catherine Mary Maguire|votes=161|percentage=2.33}}{{Election box rejected no change|votes=21|percentage=0.30}}{{Election box hold with party link no change|winner=Conservative Party (UK)}}{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{West Midlands elections}}
+{{United Kingdom local elections, 2015}}
+
+[[Category:2015 English local elections|Dudley]]
+[[Category:May 2015 in the United Kingdom]]
+[[Category:Dudley Council elections|2015]]
+[[Category:2010s in the West Midlands (county)]]

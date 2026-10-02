@@ -1,0 +1,1386 @@
+{{Short description|2021 UK local government election}}
+{{Use dmy dates|date=April 2022}}
+
+{{Infobox election
+| election_name     = 2021 Dudley Metropolitan Borough Council election
+| country           = West Midlands
+| type              = parliamentary
+| previous_election = 2019 Dudley Metropolitan Borough Council election
+| previous_year     = 2019
+| outgoing_members  = 
+| election_date     = {{Start date|2021|5|6|df=y}}
+| elected_members   = 
+| next_election     = 2022 Dudley Metropolitan Borough Council election
+| next_year         = 2022
+| seats_for_election= 26 out of 72 seats to [[Dudley Metropolitan Borough Council]]
+| majority_seats    = 37
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = Patrick Harley
+| party1            = Conservative Party (UK)
+| leader_since1     = 
+| last_election1    = 36 seats, 50%
+| leaders_seat1     = 
+| seats_before1     = 11
+| seats1            = 23
+| seats_after1      = '''46'''
+| seat_change1      = {{increase}} 10
+| popular_vote1     = 49,406
+| percentage1       = 57.1%
+| swing1            = {{increase}} 17.2%
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = Qadar Zada
+| party2            = Labour Party (UK)
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 36 seats, 50%
+| seats_before2     = 14
+| seats2            = 3
+| seats_after2      = '''24'''
+| seat_change2      = {{decrease}} 12
+| popular_vote2     = 28,882
+| percentage2       = 33.4%
+| swing2            = {{increase}} 0.4%
+| map_image         = Dudley UK local election 2021 map.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Winner of each seat at the 2021 Dudley Metropolitan Borough Council election
+| title = Council control
+| posttitle = Council control after election
+| before_election = 
+| before_party = Conservative Party (UK)
+| after_election = 
+| after_party = Conservative Party (UK)
+}}
+
+The '''2021 Dudley Metropolitan Borough Council election''' took place on 6 May 2021 to elect members of [[Dudley Metropolitan Borough Council]] in England. This was on the same day as other local elections.<ref>{{cite web |title=Elections 2021 |url=https://www.dudley.gov.uk/council-community/elections/elections-2021/ |website=Dudley.gov.uk |archive-url=https://web.archive.org/web/20220703152938/https://www.dudley.gov.uk/council-community/elections/elections-2021/ |archive-date=3 July 2022 |url-status=dead |access-date=29 April 2021 }}</ref> One-third of the seats were up for election, with two wards (Belle Vale and Kingswinford North & Wall Heath) electing two councillors.<ref>{{cite news |last1=Thandi |first1=Gurdip |title=Who is standing for local election 2021 in Dudley? |url=https://www.birminghammail.co.uk/black-country/who-standing-local-election-2021-20356261 |publisher=Birmingham Mail |date=9 April 2021 |archive-url=https://web.archive.org/web/20241215001354/https://www.birminghammail.co.uk/black-country/who-standing-local-election-2021-20356261 |archive-date=15 December 2024 |access-date=29 April 2021 |url-status=live }}</ref>
+
+== Results ==
+
+{{Election summary partial council net begin|title = 2021 Dudley Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 23
+  |net           = {{increase}}12
+  |seats %       = 88.5
+  |other seats   = 23
+  |total seats   = '''46'''
+  |total seats % = 63.9
+  |votes         = 49,406
+  |votes %       = 57.1
+  |plus/minus    = +17.2
+}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 3
+  |net           = {{decrease}} 11
+  |seats %       = 11.5
+  |other seats   = 21
+  |total seats   = '''24'''
+  |total seats % = 33.3
+  |votes         = 28,882
+  |votes %       = 33.4
+  |plus/minus    = +0.4
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 2
+  |total seats   = '''2'''
+  |total seats % = 2.8
+  |votes         = 197
+  |votes %       = 0.2
+  |plus/minus    = -0.9
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 3,591
+  |votes %       = 4.2
+  |plus/minus    = +0.8
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0 
+  |votes         = 2,202
+  |votes %       = 2.6
+  |plus/minus    = -1.6
+}}
+{{Election summary partial council net|
+  |party         = Black Country Party
+  |color         = #020202
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,219
+  |votes %       = 1.4
+  |plus/minus    = -6.5
+}}
+{{Election summary partial council net party|
+  |party         = Libertarian Party (UK)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 404
+  |votes %       = 0.5
+  |plus/minus    = +0.4
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{decrease}} 1
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 241
+  |votes %       = 0.3
+  |plus/minus    = -10.0
+}}
+{{Election summary partial council net party|
+  |party         = Reform UK
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 177
+  |votes %       = 0.2
+  |plus/minus    = ''New''
+}}
+{{Election summary partial council net party|
+  |party         = Trade Unionist and Socialist Coalition
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 118
+  |votes %       = 0.1
+  |plus/minus    = ''New''
+}}
+{{Election summary partial council net party|
+  |party         = Social Democratic Party (UK, 1990-present)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 71
+  |votes %       = 0.1
+  |plus/minus    = ''New''
+}}
+{{Election box end}}
+
+== Ward results ==
+=== Amblecote ===
+{{Election box begin | title = [[Amblecote]]<ref name="wards">{{cite web |title=Local government election - Statement of persons nominated |url=https://www.dudley.gov.uk/media/17606/local-elections-statement-of-persons-nominated-2021.pdf |website=Dudley.gov.uk |archive-url=https://web.archive.org/web/20260612183743/https://www.dudley.gov.uk/media/17606/local-elections-statement-of-persons-nominated-2021.pdf |archive-date=12 June 2026 |url-status=live |access-date=29 April 2021 }}</ref><ref name="dudley2021results">{{Cite web|url=https://online.dudley.gov.uk/elections/local2021.asp|title=Dudley MBC Live Local Election Results 2021|website=online.dudley.gov.uk|archive-url=https://web.archive.org/web/20250517043628/https://online.dudley.gov.uk/elections/local2021.asp|archive-date=17 May 2025|url-status=live|access-date=3 August 2026}}</ref>}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Kamran Razzaq
+|votes= 1,950
+|percentage= 57.98
+|change= {{increase}} 27.38
+}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Ellen Cobb
+|votes= 1,044
+|percentage= 31.04
+|change= {{decrease}} 2.85
+}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Adrian Mabe
+|votes= 123
+|percentage= 3.66
+|change= N/A
+}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Ian Flynn
+|votes= 119
+|percentage= 3.54
+|change= {{decrease}} 2.33
+}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Jake Woodley
+|votes= 111
+|percentage= 3.30
+|change= N/A
+}}
+{{Election box majority|
+  | votes      = 906
+  | percentage = 26.94
+  | change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,363
+  | percentage = 33.49
+  | change     = {{increase}} 7.43
+}}
+{{Election box rejected|
+  | votes      = 16
+  | percentage = 0.48
+}}
+{{Election box gain with party link|
+ | winner      = Conservative Party (UK)
+ | loser       = Labour Party (UK)
+ | swing       = 
+}}
+{{Election box end}}
+
+=== Belle Vale ===
+{{Election box begin | title = [[Belle Vale, Dudley|Belle Vale]] (2 seats)<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Daniel Bevan
+|votes= 2,058
+|percentage= 57.60
+|change=
+}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Peter Dobb
+|votes= 1,779
+|percentage= 49.79
+|change=
+}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Savannah Southorn
+|votes= 1,234
+|percentage= 34.54
+|change=
+}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Andrew Tromans
+|votes= 976
+|percentage= 27.32
+|change=
+}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Bill McComish
+|votes= 290
+|percentage= 8.12
+|change=
+}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Marjorie Pounder
+|votes= 131
+|percentage= 3.67
+|change=
+}}
+{{Election box majority|
+  |votes      = 545
+  |percentage = 8.39
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,600
+  | percentage = 35.05
+  | change     = {{increase}} 1.42
+}}
+{{Election box rejected|
+  | votes      = 27
+  | percentage = 0.42
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing =
+}}
+{{Election box end}}
+Two seats were contested here rather than the ward's usual one: the seat due for ordinary election in 2020 was not filled that year because the COVID-19 pandemic led to the nationwide postponement of the May 2020 English local elections, so it was instead contested alongside the ward's regular 2021 seat. The 2020-cycle seat also covered the vacancy left by Jake Cooper, who had won the seat from Labour in 2018 and resigned before 2021.<ref>{{cite web |title=Local Elections Archive Project: Dudley 2021 |url=https://www.andrewteale.me.uk/leap/results/2021/59/ |website=Local Elections Archive Project |access-date=3 August 2026}}</ref><ref>{{cite web |title=Election Summary: Belle Vale, Dudley, 6 May 2021 |url=https://elections.democracyclub.org.uk/elections/local.dudley.belle-vale.2021-05-06/ |website=Democracy Club |access-date=3 August 2026}}</ref>
+
+=== Brierley Hill ===
+{{Election box begin | title = [[Brierley Hill]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Adam Davies
+|votes= 1,692
+|percentage= 58.30
+|change= {{increase}} 38.40
+}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Serena Craigie
+|votes= 1,011
+|percentage= 34.84
+|change= {{decrease}} 11.77
+}}
+{{Election box candidate with party link|
+|party=Reform UK
+|candidate= Trevor Bunn
+|votes= 97
+|percentage= 3.34
+|change= N/A
+}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Clare Bramall
+|votes= 84
+|percentage= 2.89
+|change= N/A
+}}
+{{Election box majority|
+  | votes      = 681
+  | percentage = 23.47
+  | change     =
+}}
+{{Election box turnout|
+  | votes      = 2,902
+  | percentage = 28.44
+  | change     = {{increase}} 6.60
+}}
+{{Election box rejected|
+  | votes      = 18
+  | percentage = 0.62
+}}
+{{Election box gain with party link|
+ | winner = Conservative Party (UK)
+ | loser  = Labour Party (UK)
+ | swing  = 
+}}
+{{Election box end}}
+
+=== Brockmoor and Pensnett ===
+{{Election box begin | title = [[Brockmoor]] and [[Pensnett]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Rebbekah Collins
+|votes= 1,207
+|percentage= 45.04
+|change= {{increase}} 18.39
+}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= John Martin
+|votes= 919
+|percentage= 34.29
+|change= {{decrease}} 14.12
+}}
+{{Election box candidate|
+|party=Black Country Party
+|candidate= Steve Edwards
+|votes= 546
+|percentage= 20.37
+|change= N/A
+}}
+{{Election box majority|
+  | votes      = 288
+  | percentage = 10.75
+  | change     =
+}}
+{{Election box turnout|
+  | votes      = 2,680
+  | percentage = 27.08
+  | change     = {{increase}} 4.79
+}}
+{{Election box rejected|
+  | votes      = 8
+  | percentage = 0.30
+}}
+{{Election box gain with party link|
+ | winner = Conservative Party (UK)
+ | loser  = Labour Party (UK)
+ | swing  = 
+}}
+{{Election box end}}
+
+=== Castle and Priory ===
+{{Election box begin | title = Castle and Priory<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Margaret Aston
+|votes= 1,469
+|percentage= 48.32
+|change= {{decrease}} 8.35
+}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Mark Webb
+|votes= 1,430
+|percentage= 47.04
+|change= {{increase}} 27.91
+}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Liz Tilly
+|votes= 116
+|percentage= 3.82
+|change= N/A
+}}
+{{Election box majority|
+  | votes      = 39
+  | percentage = 1.28
+  | change     =
+}}
+{{Election box turnout|
+  | votes      = 3,040
+  | percentage = 26.35
+  | change     = {{increase}} 4.26
+}}
+{{Election box rejected|
+  | votes      = 25
+  | percentage = 0.82
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Coseley East ===
+{{Election box begin | title = [[Coseley]] East<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Sue Ridney
+|votes= 1,330
+|percentage= 52.63
+|change=
+}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Lynette Corfield
+|votes= 1,068
+|percentage= 42.26
+|change=
+}}
+{{Election box candidate with party link|
+|party=UK Independence Party
+|candidate= Helen Wimlett
+|votes= 116
+|percentage= 4.59
+|change=
+}}
+{{Election box majority|
+  |votes      = 262
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 2,527
+  | percentage = 26.66
+  | change     = {{increase}} 1.13
+}}
+{{Election box rejected|
+  | votes      = 13
+  | percentage = 0.51
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Cradley and Wollescote ===
+{{Election box begin | title = [[Cradley, West Midlands|Cradley]] and [[Wollescote]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Natalie Neale
+|votes= 1,395
+|percentage= 43.66
+|change=
+}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Gaye Partridge
+|votes= 1,232
+|percentage= 38.56
+|change=
+}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Ryan Priest
+|votes= 346
+|percentage= 10.83
+|change=
+}}
+{{Election box candidate|
+|party=Black Country Party
+|candidate= Sarah Smith
+|votes= 199
+|percentage= 6.23
+|change=
+}}
+{{Election box majority|
+  |votes      = 163
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,195
+  | percentage = 33.01
+  | change     = {{increase}} 3.83
+}}
+{{Election box rejected|
+  | votes      = 23
+  | percentage = 0.72
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Gornal ===
+{{Election box begin | title=[[Gornal, West Midlands|Gornal]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= David Stanley
+|votes= 2,362
+|percentage= 67.82
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Marian Howard
+|votes= 877
+|percentage= 25.18
+|change=}}
+{{Election box candidate with party link|
+|party=UK Independence Party
+|candidate= Phil Wimlett
+|votes= 75
+|percentage= 2.15
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= Stuart Turner
+|votes= 71
+|percentage= 2.04
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Mollie Priest
+|votes= 68
+|percentage= 1.95
+|change=}}
+{{Election box majority|
+  |votes      = 1,485
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,483
+  | percentage = 33.97
+  | change     = {{increase}} 3.92
+}}
+{{Election box rejected|
+  | votes      = 30
+  | percentage = 0.86
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Halesowen North ===
+{{Election box begin | title=[[Halesowen]] North<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Stuart Henley
+|votes= 1,906
+|percentage= 51.03
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Hilary Bills
+|votes= 1,698
+|percentage= 45.46
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Andrew Mckay
+|votes= 107
+|percentage= 2.86
+|change=}}
+{{Election box majority|
+  |votes      = 408
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,735
+  | percentage = 38.55
+  | change     = {{increase}} 1.49
+}}
+{{Election box rejected|
+  | votes      = 24
+  | percentage = 0.64
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Halesowen South ===
+{{Election box begin | title=Halesowen South<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= David Vickers
+|votes= 2,520
+|percentage= 63.27
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Donella Russell
+|votes= 910
+|percentage= 22.85
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= James Windridge
+|votes= 230
+|percentage= 5.77
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Derek Campbell
+|votes= 159
+|percentage= 3.99
+|change=}}
+{{Election box candidate|
+|party=Black Country Party
+|candidate= Nick Gregory
+|votes= 142
+|percentage= 3.57
+|change=}}
+{{Election box majority|
+  |votes      = 1,610
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,983
+  | percentage = 41.02
+  | change     = {{increase}} 7.09
+}}
+{{Election box rejected|
+  | votes      = 22
+  | percentage = 0.55
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing =
+}}
+{{Election box end}}
+
+=== [[Hayley Green, West Midlands|Hayley Green]] and Cradley South ===
+{{Election box begin | title=Hayley Green and Cradley South<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Ruth Buttery
+|votes= 2,158
+|percentage= 65.63
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Tony Barnsley
+|votes= 838
+|percentage= 25.49
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Ethan Stafford
+|votes= 191
+|percentage= 5.81
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= John Payne
+|votes= 78
+|percentage= 2.37
+|change=}}
+{{Election box majority|
+  |votes      = 1,320
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,288
+  | percentage = 35.86
+  | change     = {{increase}} 4.21
+}}
+{{Election box rejected|
+  | votes      = 23
+  | percentage = 0.70
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Kingswinford North and Wall Heath ===
+<!-- Candidate percentages below are unverified beyond 1dp: this is a 2-seat ward and the official results page's percentage convention (share of total marks) does not match Wikipedia's multi-member convention (share of valid ballot papers). No source checked (official results page, SOPN, Notice of Election, Democracy Club API, LEAP ward page/CSV) gives this ward's valid-ballot-papers count independently. Turnout% and rejected-papers count below ARE independently verified. If a Declaration of Result of Poll or elector count for this ward surfaces, recompute candidate percentages as votes / valid ballot papers, matching the method already used for Belle Vale above. -->
+{{Election box begin | title=[[Kingswinford]] North and [[Wall Heath]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Phil Atkins
+|votes= 2,358
+|percentage= 57.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Shaz Saleem
+|votes= 1,872
+|percentage= 46.0
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Adam Woodhall
+|votes= 1,132
+|percentage= 27.8
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Richard Lloyd
+|votes= 1,066
+|percentage= 26.2
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= David Sheppard
+|votes= 283
+|percentage=6.9
+|change=}}
+{{Election box majority|
+  |votes      = 740
+  |percentage =
+  |change     =
+}}
+{{Election box turnout|
+  | votes      =
+  | percentage = 41.88
+  | change     =
+}}
+{{Election box rejected|
+  | votes      = 31
+  | percentage = 0.46
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing =
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing =
+}}
+{{Election box end}}
+Two seats were contested here rather than the ward's usual one: the seat due for ordinary election in 2020 was not filled that year because the COVID-19 pandemic led to the nationwide postponement of the May 2020 English local elections, so it was instead contested alongside the ward's regular 2021 seat. The 2020-cycle seat also covered the vacancy left by [[Nicola Richards]], who had held it since 2015 and resigned from the council after being elected as MP for [[West Bromwich East (UK Parliament constituency)|West Bromwich East]] in December 2019.<ref name="leap2021">{{cite web |title=Local Elections Archive Project: Dudley 2021 |url=https://www.andrewteale.me.uk/leap/results/2021/59/ |website=Local Elections Archive Project |access-date=3 August 2026}}</ref><ref>{{cite web |title=Election Summary: Kingswinford North and Wall Heath, Dudley, 6 May 2021 |url=https://elections.democracyclub.org.uk/elections/local.dudley.kingswinford-north-and-wall-heath.2021-05-06/ |website=Democracy Club |access-date=3 August 2026}}</ref>
+
+=== Kingswinford South ===
+{{Election box begin | title=Kingswinford South<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Luke Johnson
+|votes= 2,465
+|percentage= 66.55
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Daniel Round
+|votes= 771
+|percentage= 20.82
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Elizabeth Geeves
+|votes= 434
+|percentage= 11.72
+|change=}}
+{{Election box majority|
+  |votes      = 1,694
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,704
+  | percentage = 36.99
+  | change     = {{increase}} 8.09
+}}
+{{Election box rejected|
+  | votes      = 34
+  | percentage = 0.92
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Lye and Stourbridge North ===
+{{Election box begin | title=Lye and [[Stourbridge]] North<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Dave Borley
+|votes= 1,426
+|percentage= 44.04
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Maz Qari
+|votes= 1,116
+|percentage= 34.47
+|change=}}
+{{Election box candidate with party link|
+|party=Libertarian Party (UK)
+|candidate= Gary Farmer
+|votes= 273
+|percentage= 8.43
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Abdul Qadus
+|votes= 239
+|percentage= 7.38
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Lawrence Rowlett
+|votes= 159
+|percentage= 4.91
+|change=}}
+{{Election box majority|
+  |votes      = 310
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,238
+  | percentage = 35.28
+  | change     = {{increase}} 5.13
+}}
+{{Election box rejected|
+  | votes      = 25
+  | percentage = 0.77
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Netherton Woodside and St Andrew's ===
+{{Election box begin | title=[[Netherton, West Midlands|Netherton]] [[Woodside, Dudley|Woodside]] and St Andrew's<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Damian Corfield
+|votes= 1,329
+|percentage= 48.07
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Helen Betts-Patel
+|votes= 1,178
+|percentage= 42.60
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Alexander Wright
+|votes= 172
+|percentage= 6.22
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Tracey Gregg
+|votes= 65
+|percentage= 2.35
+|change=}}
+{{Election box majority|
+  |votes      = 151
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 2,765
+  | percentage = 27.48
+  | change     = {{increase}} 1.60
+}}
+{{Election box rejected|
+  | votes      = 21
+  | percentage = 0.76
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Norton ===
+{{Election box begin | title=Norton<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Laura Taylor
+|votes= 2,660
+|percentage= 62.16
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Paul White
+|votes= 829
+|percentage= 19.37
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Pam Archer
+|votes= 378
+|percentage= 8.83
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Christopher Bramall
+|votes= 295
+|percentage= 6.89
+|change=}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Tim Woodley
+|votes= 86
+|percentage= 2.01
+|change=}}
+{{Election box majority|
+  |votes      = 1,831
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 4,279
+  | percentage = 45.00
+  | change     = {{increase}} 6.20
+}}
+{{Election box rejected|
+  | votes      = 31
+  | percentage = 0.72
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Pedmore and Stourbridge East ===
+{{Election box begin | title=[[Pedmore]] and Stourbridge East<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= James Clinton
+|votes= 2,713
+|percentage= 62.44
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Rachel Tudor
+|votes= 1,054
+|percentage= 24.26
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Catherine Maguire
+|votes= 235
+|percentage= 5.41
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Simon Hanson
+|votes= 188
+|percentage= 4.33
+|change=}}
+{{Election box candidate|
+|party=Black Country Party
+|candidate= Glen Wilson
+|votes= 133
+|percentage= 3.06
+|change=}}
+{{Election box majority|
+  |votes      = 1,659
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 4,345
+  | percentage = 45.19
+  | change     = {{increase}} 9.34
+}}
+{{Election box rejected|
+  | votes      = 22
+  | percentage = 0.51
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Quarry Bank and Dudley Wood ===
+{{Election box begin | title=[[Quarry Bank]] and Dudley Wood<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Rob Clinton
+|votes= 1,528
+|percentage= 58.08
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Brian Roe
+|votes= 912
+|percentage= 34.66
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Jason Sprintall
+|votes= 121
+|percentage= 4.6
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Richard Priest
+|votes= 50
+|percentage= 1.9
+|change=}}
+{{Election box majority|
+  |votes      = 616
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 2,631
+  | percentage = 26.08
+  | change     = {{increase}} 3.96
+}}
+{{Election box rejected|
+  | votes      = 20
+  | percentage = 0.76
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Sedgley ===
+{{Election box begin | title=[[Sedgley]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Michael Evans
+|votes= 2,530
+|percentage= 73.02
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Steve Beardsmore
+|votes= 779
+|percentage= 22.48
+|change=}}
+{{Election box candidate with party link|
+|party=Libertarian Party (UK)
+|candidate= Martin Day
+|votes= 131
+|percentage= 3.78
+|change=}}
+{{Election box majority|
+  |votes      = 1,751
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,465
+  | percentage = 36.35
+  | change     = {{increase}} 8.45
+}}
+{{Election box rejected|
+  | votes      = 25
+  | percentage = 0.72
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== St James's ===
+{{Election box begin | title=[[St James's]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Wayne Sullivan
+|votes= 1,471
+|percentage= 53.28
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Asif Ahmed
+|votes= 1,084
+|percentage= 39.26
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Alison Miller
+|votes= 179
+|percentage= 6.48
+|change=}}
+{{Election box majority|
+  |votes      = 387
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 2,761
+  | percentage = 27.21
+  | change     = {{increase}} 3.68
+}}
+{{Election box rejected|
+  | votes      = 27
+  | percentage = 0.98
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== St Thomas's ===
+{{Election box begin | title=St Thomas's<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Shaukat Ali
+|votes= 1,853
+|percentage= 50.81
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Sajid Hanif
+|votes= 1,490
+|percentage= 40.86
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Sofie Harris
+|votes= 153
+|percentage= 4.2
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Nicola Fisher
+|votes= 118
+|percentage= 3.24
+|change=}}
+{{Election box majority|
+  |votes      = 363
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 3,647
+  | percentage = 34.80
+  | change     = {{increase}} 7.11
+}}
+{{Election box rejected|
+  | votes      = 33
+  | percentage = 0.90
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Upper Gornal and Woodsetton ===
+{{Election box begin | title=Upper Gornal and [[Woodsetton, Dudley|Woodsetton]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Mark Westwood
+|votes= 1,397
+|percentage= 47.99
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Keiran Casey
+|votes= 1,313
+|percentage= 45.10
+|change=}}
+{{Election box candidate with party link|
+|party=Reform UK
+|candidate= Andy Griffin
+|votes= 80
+|percentage= 2.75
+|change=}}
+{{Election box candidate with party link|
+|party=UK Independence Party
+|candidate= Rich Colley
+|votes= 50
+|percentage= 1.72
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Benjamin Perry
+|votes= 43
+|percentage= 1.48
+|change=}}
+{{Election box majority|
+  |votes      = 84
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 2,911
+  | percentage = 29.47
+  | change     = {{increase}} 3.34
+}}
+{{Election box rejected|
+  | votes      = 28
+  | percentage = 0.96
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Wollaston and Stourbridge Town ===
+{{Election box begin | title=[[Wollaston, West Midlands|Wollaston]] and Stourbridge Town<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Alan Hopwood
+|votes= 2,176
+|percentage= 48.64
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Cat Eccles
+|votes= 1,678
+|percentage= 37.51
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Andi Mohr
+|votes= 237
+|percentage= 5.3
+|change=}}
+{{Election box candidate|
+|party=Black Country Party
+|candidate= Maxim Lowe
+|votes= 200
+|percentage= 4.47
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Jonathan Bramall
+|votes= 164
+|percentage= 3.67
+|change=}}
+{{Election box majority|
+  |votes      = 498
+  |percentage = 11.1
+  |change     = 
+}}
+{{Election box turnout|
+  | votes      = 4,474
+  | percentage = 44.39
+  | change     = {{increase}} 6.57
+}}
+{{Election box rejected|
+  | votes      = 19
+  | percentage = 0.42
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+=== Wordsley ===
+{{Election box begin | title=[[Wordsley]]<ref name="wards" /><ref name="dudley2021results" />}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Kerry Lewis
+|votes= 2,466
+|percentage= 71.90
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Muhammad Ikhlaq
+|votes= 579
+|percentage= 16.88
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Jennifer Slater-Reid
+|votes= 179
+|percentage= 5.22
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Elaine Sheppard
+|votes= 177
+|percentage= 5.16
+|change=}}
+{{Election box majority|
+  |votes      = 1,887
+  |percentage = 55.5
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  | votes      = 3,430
+  | percentage = 35.06
+  | change     = {{increase}} 8.54
+}}
+{{Election box rejected|
+  | votes      = 29
+  | percentage = 0.85
+}}
+{{Election box gain with party link|
+ |winner = Conservative Party (UK)
+ |loser = UK Independence Party
+ |swing =
+}}
+{{Election box end}}
+
+==Changes 2021–2022==
+* March 2022: Brierley Hill councillor Zafar Islam was suspended by the Labour Party for six months following an internal disciplinary investigation into social media posts, after the Labour Against Antisemitism campaign submitted a complaint against him in September 2021.<ref>{{Cite web |last=O'Brien |first=Lisa |title=Labour suspends Dudley councillor for six months after disciplinary investigation |url=https://www.expressandstar.com/news/politics/2022/03/24/labour-suspends-dudley-councillor-for-six-months-following-internal-disciplinary-investigation/ |access-date=24 March 2022 |website=www.expressandstar.com |language=en}}</ref>
+
+== References ==
+{{reflist}}
+
+{{West Midlands elections}}
+{{2021 United Kingdom local elections}}
+
+[[Category:2021 English local elections|Dudley]]
+[[Category:Dudley Council elections]]
