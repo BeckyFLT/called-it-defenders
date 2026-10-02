@@ -212,5 +212,61 @@
     "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
     "correction": true,
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.west-suffolk.haverhill-west.by.2026-09-10",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_West_Suffolk_District_Council_election",
+    "note": "Resignation of Margaret Marks; elected Conservative in Haverhill West at the 2023 West Suffolk District Council election. LEAP records no gain/hold change, and the by-election itself was a Conservative hold (Graham Cone).",
+    "decidedAt": "2026-10-02"
+  },
+  {
+    "ballotPaperId": "local.tunbridge-wells.cranbrook-sissinghurst-frittenden.by.2026-09-23",
+    "partyId": "PP6711",
+    "partyName": "Tunbridge Wells Alliance",
+    "source": "https://en.wikipedia.org/wiki/2024_Tunbridge_Wells_Borough_Council_election",
+    "note": "Resignation of Nancy Warne; elected Tunbridge Wells Alliance in Cranbrook, Sissinghurst & Frittenden at the 2024 Tunbridge Wells Borough Council election (ward redrawn from 'Benenden and Cranbrook' in 2023). LEAP: 'LD gain from Tunbridge Wells Alliance' — consistent, no defection.",
+    "decidedAt": "2026-10-02"
+  },
+  {
+    "ballotPaperId": "local.windsor-and-maidenhead.bray.by.2026-09-24",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_Windsor_and_Maidenhead_Borough_Council_election",
+    "note": "Death of Leo Walters, who had represented Bray for over 50 years; elected Conservative at the 2023 Windsor and Maidenhead Borough Council election.",
+    "decidedAt": "2026-10-02"
+  },
+  {
+    "ballotPaperId": "local.amber-valley.kilburn-denby-holbrook-horsley.by.2026-10-08",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_Amber_Valley_Borough_Council_election",
+    "note": "Resignation of Julie Whitmore; elected Conservative in Kilburn, Denby, Holbrook & Horsley at the 2023 Amber Valley Borough Council election.",
+    "decidedAt": "2026-10-02"
+  },
+  {
+    "ballotPaperId": "local.lambeth.myatts-fields.by.2026-10-08",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "source": "https://en.wikipedia.org/wiki/2026_Lambeth_London_Borough_Council_election",
+    "note": "Death of Annie Gallop; elected Labour Co-operative in Myatt's Fields at the 7 May 2026 Lambeth election.",
+    "decidedAt": "2026-10-02"
+  },
+  {
+    "ballotPaperId": "local.newcastle-under-lyme.town.by.2026-10-08",
+    "partyId": "PP7931",
+    "partyName": "Reform UK",
+    "source": "https://en.wikipedia.org/wiki/2026_Newcastle-under-Lyme_Borough_Council_election",
+    "note": "Resignation of Christine Duffy (letter dated 20 August 2026); elected Reform UK in Town ward at the May 2026 Newcastle-under-Lyme election.",
+    "decidedAt": "2026-10-02"
+  },
+  {
+    "ballotPaperId": "local.south-kesteven.grantham-st-wulframs.by.2026-10-22",
+    "partyId": "ynmp-party:2",
+    "partyName": "Independent",
+    "source": "https://en.wikipedia.org/wiki/2023_South_Kesteven_District_Council_election",
+    "note": "Resignation of Tim Harrison; elected as an Independent in Grantham St Wulfram's at the 2023 South Kesteven District Council election.",
+    "decidedAt": "2026-10-02"
   }
 ]
