@@ -212,5 +212,29 @@
     "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
     "correction": true,
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.west-suffolk.haverhill-west.by.2026-09-10",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://andrewteale.me.uk/leap/by/2026-09-10/",
+    "note": "Resignation of Margaret Marks; elected Conservative in Haverhill West at the 2023 West Suffolk District Council election (confirmed via Wikipedia: 2023 West Suffolk District Council election)",
+    "decidedAt": "2026-10-09"
+  },
+  {
+    "ballotPaperId": "local.tunbridge-wells.cranbrook-sissinghurst-frittenden.by.2026-09-23",
+    "partyId": "PP6711",
+    "partyName": "Tunbridge Wells Alliance",
+    "source": "https://andrewteale.me.uk/leap/by/2026-09-23/",
+    "note": "Resignation of Nancy Warne; the ward was created in a 2024 boundary review, and Warne was elected Tunbridge Wells Alliance in Cranbrook, Sissinghurst & Frittenden at the 2024 Tunbridge Wells Borough Council election (not the pre-review 2023 'Benenden and Cranbrook' result, where she also stood as TWA); consistent with LEAP's 'LD gain from Tunbridge Wells Alliance' notation (confirmed via Wikipedia: 2024 Tunbridge Wells Borough Council election)",
+    "decidedAt": "2026-10-09"
+  },
+  {
+    "ballotPaperId": "local.windsor-and-maidenhead.bray.by.2026-09-24",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://andrewteale.me.uk/leap/by/2026-09-24/",
+    "note": "Death of Leo Walters, who represented Bray for over 50 years; elected Conservative at the 2023 Windsor and Maidenhead Borough Council election (confirmed via Wikipedia: 2023 Windsor and Maidenhead Borough Council election)",
+    "decidedAt": "2026-10-09"
   }
 ]
