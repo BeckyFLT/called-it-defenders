@@ -1,0 +1,1346 @@
+{{Short description|Local election in Lincolnshire, England}}
+{{Use dmy dates|date=January 2026}}
+{{Use British English|date=January 2026}}
+{{Main|North East Lincolnshire Council elections}}
+
+{{Infobox election
+| election_name = 2026 North East Lincolnshire Council election
+| country = Lincolnshire
+| type = parliamentary
+| previous_election = 2024 North East Lincolnshire Council election
+| previous_year = 2024
+| election_date = {{Start date|2026|5|7|df=y}}
+| ongoing = no
+| next_year = 2027
+| seats_for_election = 15 out of 42 seats to [[North East Lincolnshire Council]]
+| majority_seats = 22
+<!-- Party 1 -->
+| image1            = {{eppt|Reform UK|}}
+| leader1           = Oliver Freeston
+| party1            = Reform UK
+| leader_since1     = 
+| leaders_seat1     = 
+| last_election1    = ''Did not stand''
+| seats_before1     = 1
+| seats1            = 14
+| seats_after1      = '''14'''
+| seat_change1      = {{increase}} 13
+| popular_vote1     = 18,197
+| percentage1       = 45.9%
+| swing1            = ''N/A''
+<!-- Party 2 -->
+| image2            = {{eppt|Labour Party (UK)|}}
+| leader2           = Emma Clough
+| party2            = Labour Party (UK)
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 15 seats, 40.3%
+| seats_before2     = 15
+| seats2            = 0
+| seats_after2      = '''11'''
+| seat_change2      = {{decrease}} 4
+| popular_vote2     = 5,625
+| percentage2       = 14.2%
+| swing2            = {{decrease}} 26.1%
+<!-- Party 3 -->
+| image3            = {{eppt|Conservative Party (UK)|}}
+| leader3           = Philip Jackson
+| party3            = Conservative Party (UK)
+| leader_since3     =
+| leaders_seat3     = 
+| last_election3    = 19 seats, 35.9%
+| seats_before3     = 18
+| seats3            = 0
+| seats_after3      = '''10'''
+| seat_change3      = {{decrease}} 8
+| popular_vote3     = 7,137
+| percentage3       = 18.0%
+| swing3            = {{decrease}} 17.9%
+<!-- Party 4 -->
+| image4            = {{eppt|Independent politician|}}
+| leader4           = 
+| party4            = Independent politician
+| leader_since4     =
+| leaders_seat4     = 
+| last_election4    = 5 seats, 9.2%
+| seats_before4     = 5
+| seats4            = 0
+| seats_after4      = '''4'''
+| seat_change4      = {{decrease}} 1
+| popular_vote4     = 2,492
+| percentage4       = 6.3%
+| swing4            = {{decrease}} 2.9%
+<!-- Party 5 -->
+| image5            = {{eppt|Liberal Democrats (UK, 2025)|}}
+| leader5           = Nicola Aisthorpe
+| party5            = Liberal Democrats (UK, 2025)
+| leader_since5     = 
+| leaders_seat5     = 
+| last_election5    = 3 seats, 11.7%
+| seats_before5     = 3
+| seats5            = 1
+| seats_after5      = '''3'''
+| seat_change5      = {{steady}}
+| popular_vote5     = 2,608
+| percentage5       = 6.6%
+| swing5            = {{decrease}} 5.1%
+| map_image = File:North East Lincolnshire UK local election 2026 map.svg
+| map_size = 
+| map_alt = 
+| map = 
+| map_caption = Winner of each seat at the 2026 North East Lincolnshire Council election.
+| title = [[Leader of the council|Leader]]
+| posttitle = Leader after election
+| before_election = Philip Jackson
+| before_party = [[Conservative Party (UK)|Conservative]]<br>[[No overall control]]{{efn|Conservative minority.}}
+| after_election = Oliver Freeston
+| after_party = [[Reform UK|Reform]]<br>[[No overall control]]{{efn|Reform minority.}}
+}}
+
+The '''2026 North East Lincolnshire Council election''' was held on 7 May 2026, alongside the [[2026 United Kingdom local elections|other local elections across the United Kingdom]] being held on the same day, to elect 15 of 42 members of [[North East Lincolnshire Council]].<ref>{{Cite web |title=Election dates and results |url=https://www.nelincs.gov.uk/your-council/elections-and-voting/election-dates-and-results/ |access-date=2026-01-27 |website=NELC |language=en}}</ref>
+
+Prior to the election, the council was under [[no overall control]]. The [[Conservative Party (UK)|Conservatives]] were the largest party and ran the council as a minority administration. At this election, the council remained under no overall control. [[Reform UK]], which only held one seat on the council prior to the election, won 14 of the 15 seats contested and became the largest party on the council. The new Reform group chose Oliver Freeston to be its leader after the election. He was formally appointed as the new leader of the council at the subsequent annual meeting on 21 May 2026, leading a Reform minority administration.<ref>{{cite news |last1=Sanderson |first1=Sarah |last2=Maslin |first2=Eleanor |title=Reform UK's Freeston voted as leader of council |url=https://www.bbc.co.uk/news/articles/cvgzp7nxjlro |access-date=8 September 2026 |work=BBC News |date=21 May 2026}}</ref>
+
+== Council composition ==
+{| class="wikitable"
+|-
+! colspan="3" | After 2024 election
+! colspan="3" | Before 2026 election
+! colspan="3" | After 2026 election
+|-
+! colspan="2" | Party
+! Seats
+! colspan="2" | Party
+! Seats
+! colspan="2" | Party
+! Seats
+|-
+| {{Party name with colour|Conservative Party (UK)}}
+| 19
+| {{Party name with colour|Conservative Party (UK)}}
+| 18
+| {{Party name with colour|Reform UK}}
+| 14
+|-
+| {{Party name with colour|Labour Party (UK)}}
+| 15
+| {{Party name with colour|Labour Party (UK)}}
+| 15
+| {{Party name with colour|Labour Party (UK)}}
+| 11
+|-
+| {{Party name with colour|Liberal Democrats (UK)}}
+| 3
+| {{Party name with colour|Liberal Democrats (UK, 2025)}}
+| 3
+| {{Party name with colour|Conservative Party (UK)}}
+| 10
+|-
+| {{Party name with colour|Reform UK}}
+| 0
+| {{Party name with colour|Reform UK}}
+| 1
+| {{Party name with colour|Liberal Democrats (UK, 2025)}}
+| 3
+|-
+| {{Party name with colour|Independent politician}}
+| 5
+| {{Party name with colour|Independent politician}}
+| 5
+| {{Party name with colour|Independent politician}}
+| 4{{efn|Sit as part of the Independent for North East Lincolnshire group.}}
+|}
+Changes 2024–2026:
+*May 2024: Oliver Freeston (Conservative) joins Reform<ref>{{cite news |last1=Craig |first1=Peter |title=Conservative councillor defects to Reform UK and will stand in General Election |url=https://www.grimsbytelegraph.co.uk/news/grimsby-news/conservative-councillor-defects-reform-uk-9309432 |access-date=2 February 2026 |work=Grimsby Live |date=28 May 2024}}</ref>
+
+==Summary==
+
+===Background===
+In [[2024 North East Lincolnshire Council election|2024]], the Conservatives lost the council to [[no overall control]].<ref>{{Cite news |date=2024-05-03 |title=North East Lincolnshire local election 2024 results - recap |url=https://www.grimsbytelegraph.co.uk/news/grimsby-news/north-east-lincolnshire-local-election-9261938 |access-date=2026-01-27 |work=Grimsby Live |language=en-GB |issn=0307-1235}}</ref><ref>{{Cite news |title=North East Lincolnshire result - Local Elections 2024 |url=https://www.bbc.com/news/election/2024/england/councils/E06000012 |access-date=2026-01-27 |work=BBC News |language=en-GB}}</ref>
+
+===Election result===
+
+{{Election summary partial council net begin|title = 2026 North East Lincolnshire Council election}}
+{{Election summary partial council net party|
+  |party         = Reform UK
+  |seats         = 14
+  |net           = {{increase}}13
+  |seats %       = 93.3
+  |other seats   = 0
+  |total seats   = '''14'''
+  |total seats % = 33.3
+  |votes         = 18,197
+  |votes %       = 45.9
+  |plus/minus    = ''N/A''
+}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 0
+  |net           = {{decrease}} 4
+  |seats %       = 0.0
+  |other seats   = 11
+  |total seats   = '''11'''
+  |total seats % = 26.2
+  |votes         = 5,625
+  |votes %       = 14.2
+  |plus/minus    = –26.1
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 0
+  |net           = {{decrease}} 8
+  |seats %       = 0.0
+  |other seats   = 10
+  |total seats   = '''10'''
+  |total seats % = 23.8
+  |votes         = 7,137
+  |votes %       = 18.0
+  |plus/minus    = –17.9
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 0
+  |net           = {{decrease}} 1
+  |seats %       = 0.0
+  |other seats   = 4
+  |total seats   = '''4'''
+  |total seats % = 9.5
+  |votes         = 2,492
+  |votes %       = 6.3
+  |plus/minus    = –2.9
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK, 2025)
+  |seats         = 1
+  |net           = {{steady}}
+  |seats %       = 6.7
+  |other seats   = 2
+  |total seats   = '''3'''
+  |total seats % = 7.1
+  |votes         = 2,608
+  |votes %       = 6.6
+  |plus/minus    = –5.1
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 3,391
+  |votes %       = 8.5
+  |plus/minus    = ''N/A''
+}}
+{{Election summary partial council net party|
+  |party         = TUSC
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 175
+  |votes %       = 0.4
+  |plus/minus    = –2.4
+}}
+{{Election summary partial council net party|
+  |party         = National Housing Party (UK)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 38
+  |votes %       = 0.1
+  |plus/minus    = ''N/A''
+}}
+{{Election summary partial council net party|
+  |party         = Social Democratic Party (UK, 1990-present)
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 11
+  |votes %       = <0.1
+  |plus/minus    = ''N/A''
+}}
+{{Election box end}}
+
+==Incumbents==
+
+{| class="wikitable sortable"
+|-
+! Ward
+! Incumbent councillor
+! colspan="2"|Party 
+! Re-standing
+|-
+| align="left" | '''Croft Baker'''
+| align="left" | Oliver Freeston{{efn|Originally elected as a Conservative, but defected to Reform in May 2024.}}
+! style="background-color: {{party color|Reform UK}}" |
+| [[Reform UK|Reform]] 
+| Yes
+|-
+| align="left" | '''East Marsh'''
+| align="left" | Stephen Beasant
+! style="background-color: {{party color|Liberal Democrats (UK, 2025)}}" |
+| [[Liberal Democrats (UK)|Liberal Democrats]] 
+| Yes
+|-
+| align="left" | '''Freshney'''
+| align="left" | Steve Holland
+! style="background-color: {{party color|Independent politician}}" |
+| [[Independent politician|Independent]] 
+| '''No'''
+|-
+| align="left" | '''Haverstone'''
+| align="left" | Margaret Cracknell
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+| align="left" | '''Heneage'''
+| align="left" | Kevin Shutt
+! style="background-color: {{party color|Labour Party (UK)}}" |
+| [[Labour Party (UK)|Labour]] 
+| Yes
+|-
+| align="left" | '''Humberston &<br>New Waltham'''
+| align="left" | Stephen Harness
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+| align="left" | '''Immingham'''
+| align="left" | Stewart Swinburn
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+| align="left" | '''Park'''
+| align="left" | Paul Silvester
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+| align="left" | '''Scartho'''
+| align="left" | Ron Shepherd
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+| align="left" | '''Sidney Sussex'''
+| align="left" | Sophia Farren
+! style="background-color: {{party color|Labour Party (UK)}}" |
+| [[Labour Party (UK)|Labour]] 
+| '''No'''
+|-
+| align="left" | '''South'''
+| align="left" | Tim Mickleburgh
+! style="background-color: {{party color|Labour Party (UK)}}" |
+| [[Labour Party (UK)|Labour]] 
+| '''No'''
+|-
+| align="left" | '''Waltham'''
+| align="left" | Nick Pettigrew
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+| align="left" | '''West Marsh'''
+| align="left" | Kathryn Wheatley
+! style="background-color: {{party color|Labour Party (UK)}}" |
+| [[Labour Party (UK)|Labour]] 
+| Yes
+|-
+| align="left" | '''Wolds'''
+| align="left" | David Hasthorpe
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| '''No'''
+|-
+| align="left" | '''Yarborough'''
+| align="left" | James Cairns
+! style="background-color: {{party color|Conservative Party (UK)}}" |
+| [[Conservative Party (UK)|Conservative]] 
+| Yes
+|-
+|}
+
+==Ward results==
+Incumbents are marked with an asterisk (*).
+
+===Croft Baker===
+
+{{Election box begin | title=Croft Baker}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Oliver Freeston[[Incumbent|*]]
+   |votes      = 1,539
+   |percentage = 51.4
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Janet Mager
+   |votes      = 596
+   |percentage = 19.9
+   |change     = -39.0
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Leon Brown
+   |votes      = 414
+   |percentage = 13.8
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Tutass
+   |votes      = 246
+   |percentage = 8.2
+   |change     = -22.5
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Andy Harrison
+   |votes      = 98
+   |percentage = 3.3
+   |change     = -7.1
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = George Georgiou
+   |votes      = 88
+   |percentage = 2.9
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = Julian Best
+   |votes      = 13
+   |percentage = 0.4
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 943
+   |percentage = 31.5
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,994
+   |percentage = 35.5
+   |change     = +12.3
+ }}
+{{Election box registered electors
+   |reg. electors = ~8,434
+ }}
+{{Election box hold with party link no swing
+   |winner     = Reform UK
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===East Marsh===
+
+{{Election box begin | title=East Marsh}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Steve Beasant[[Incumbent|*]]
+   |votes      = 675
+   |percentage = 45.3
+   |change     = -12.5
+}}
+ {{Election box candidate with party link
+   |party      = Reform UK
+   |candidate  = Megan Dennis
+   |votes      = 515
+   |percentage = 34.5
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Idee Charles
+   |votes      = 145
+   |percentage = 9.7
+   |change     = -23.7
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Megan Hussey
+   |votes      = 110
+   |percentage = 7.4
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Callum Procter
+   |votes      = 37
+   |percentage = 2.5
+   |change     = -6.3
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = Lee Coulbeck
+   |votes      = 9
+   |percentage = 0.6
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 160
+   |percentage = 10.8
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 1,491
+   |percentage = 21.8
+   |change     = +8.1
+ }}
+{{Election box registered electors
+   |reg. electors = ~6,839
+ }}
+{{Election box hold with party link no swing
+   |winner     = Liberal Democrats (UK, 2025)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Freshney===
+
+{{Election box begin | title=Freshney}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Karen Batson
+   |votes      = 939
+   |percentage = 39.6
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Dawn Merryweather
+   |votes      = 835
+   |percentage = 35.2
+   |change     = -19.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Wendy Draper
+   |votes      = 231
+   |percentage = 9.8
+   |change     = -13.9
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = David Christie
+   |votes      = 200
+   |percentage = 8.4
+   |change     = -9.6
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Simon Tatam
+   |votes      = 120
+   |percentage = 5.1
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Scarlett Lockhart
+   |votes      = 44
+   |percentage = 1.9
+   |change     = -0.1
+}}
+{{Election box majority
+   |votes      = 104
+   |percentage = 4.4
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,369
+   |percentage = 34.1
+   |change     = +8.4
+ }}
+{{Election box registered electors
+   |reg. electors = ~6,947
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Independent politician
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Haverstoe===
+
+{{Election box begin | title=Haverstoe}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Samuel Grice
+   |votes      = 1,756
+   |percentage = 49.7
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Margaret Cracknell[[Incumbent|*]]
+   |votes      = 1,020
+   |percentage = 28.9
+   |change     = -30.2
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ian Townsend
+   |votes      = 425
+   |percentage = 12.0
+   |change     = -18.6
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Joanna Craig
+   |votes      = 318
+   |percentage = 9.0
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = Paul Wood
+   |votes      = 15
+   |percentage = 0.4
+   |change     = -2.2
+}}
+{{Election box majority
+   |votes      = 736
+   |percentage = 20.8
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 3,534
+   |percentage = 45.3
+   |change     = +16.4
+ }}
+{{Election box registered electors
+   |reg. electors = ~7,801
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Heneage===
+
+{{Election box begin | title=Heneage}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Ingrid Oliver
+   |votes      = 1,064
+   |percentage = 44.5
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Brian Barrett
+   |votes      = 565
+   |percentage = 23.6
+   |change     = +1.0
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Kevin Shutt[[Incumbent|*]]
+   |votes      = 446
+   |percentage = 18.6
+   |change     = -29.5
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Leila Gomez-Fernandez
+   |votes      = 183
+   |percentage = 7.7
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Mark Smith
+   |votes      = 109
+   |percentage = 4.6
+   |change     = -19.4
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = John Stiff
+   |votes      = 14
+   |percentage = 0.6
+   |change     = -4.7
+}}
+ {{Election box candidate with party link
+   |party      = Social Democratic Party (UK, 1990-present)
+   |candidate  = Chris Stephenson
+   |votes      = 11
+   |percentage = 0.5
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 499
+   |percentage = 20.9
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,392
+   |percentage = 30.2
+   |change     = +11.2
+ }}
+{{Election box registered electors
+   |reg. electors = ~7,623
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Humberston & New Waltham===
+
+{{Election box begin | title=Humberston & New Waltham<ref name="auto">{{Cite web|url=https://www.nelincs.gov.uk/your-council/elections-and-voting/election-dates-and-results/local-elections/|title=Local elections|accessdate=17 May 2026}}</ref>}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Simon Taylor
+   |votes      = 2,032
+   |percentage = 49.3
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Harness[[Incumbent|*]]
+   |votes      = 1,200
+   |percentage = 29.1
+   |change     = -26.9
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Sylvia Moss
+   |votes      = 396
+   |percentage = 9.6
+   |change     = -20.7
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Michael Tobin
+   |votes      = 314
+   |percentage = 7.6
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Steve Hocknell
+   |votes      = 180
+   |percentage = 4.4
+   |change     = -6.2
+}}
+{{Election box majority
+   |votes      = 832
+   |percentage = 20.2
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 4,122
+   |percentage = 39.0
+   |change     = +16.0
+ }}
+{{Election box registered electors
+   |reg. electors = ~10,569
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Immingham===
+
+{{Election box begin | title=Immingham<ref name="auto"/>}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Blake Russell
+   |votes      = 1,481
+   |percentage = 51.5
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stewart Swinburn[[Incumbent|*]]
+   |votes      = 640
+   |percentage = 22.3
+   |change     = -19.7
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = David Watson
+   |votes      = 374
+   |percentage = 13.0
+   |change     = -28.5
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Jay Fraser
+   |votes      = 251
+   |percentage = 8.7
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Luiza-Elena Oancea
+   |votes      = 103
+   |percentage = 3.6
+   |change     = -8.6
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = David Mitchell
+   |votes      = 26
+   |percentage = 0.9
+   |change     = -3.4
+}}
+{{Election box majority
+   |votes      = 841
+   |percentage = 29.2
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,875
+   |percentage = 32.1
+   |change     = +11.8
+ }}
+{{Election box registered electors
+   |reg. electors = ~8,956
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Park===
+
+{{Election box begin | title=Park<ref name="auto"/>}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Nige Oliver
+   |votes      = 1,214
+   |percentage = 37.4
+   |change     = ''N/A''
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Amelia Bateman-Young
+   |votes      = 773
+   |percentage = 23.8
+   |change     = -20.6
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Paul Silvester[[Incumbent|*]]
+   |votes      = 587
+   |percentage = 18.1
+   |change     = -20.0
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = James Gill
+   |votes      = 446
+   |percentage = 13.8
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = David de Freitas
+   |votes      = 208
+   |percentage = 6.4
+   |change     = -8.9
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = Heather Davis
+   |votes      = 15
+   |percentage = 0.5
+   |change     = -2.6
+}}
+{{Election box majority
+   |votes      = 441
+   |percentage = 13.6
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 3,243
+   |percentage = 37.2
+   |change     = +8.4
+ }}
+{{Election box registered electors
+   |reg. electors = ~8,718
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Scartho===
+
+{{Election box begin | title=Scartho<ref name="auto"/>}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Tony Charlesworth
+   |votes      = 1,579
+   |percentage = 44.3
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Ron Shepherd[[Incumbent|*]]
+   |votes      = 891
+   |percentage = 25.0
+   |change     = -19.6
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Denis Doyle
+   |votes      = 593
+   |percentage = 16.6
+   |change     = -29.9
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Gabrielle Oliver
+   |votes      = 330
+   |percentage = 9.3
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Rob Wressell
+   |votes      = 172
+   |percentage = 4.8
+   |change     = -1.7
+}}
+{{Election box majority
+   |votes      = 688
+   |percentage = 19.3
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 3,565
+   |percentage = 38.1
+   |change     = +11.1
+ }}
+{{Election box registered electors
+   |reg. electors = ~9,357
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Sidney Sussex===
+
+{{Election box begin | title=Sidney Sussex<ref name="auto"/>}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Bob Callison
+   |votes      = 1,161
+   |percentage = 54.7
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Lauren Smith
+   |votes      = 365
+   |percentage = 17.2
+   |change     = -33.5
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Joanne Christie
+   |votes      = 226
+   |percentage = 10.7
+   |change     = -20.3
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Leanne McConville
+   |votes      = 213
+   |percentage = 10.0
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Zach Kellerman
+   |votes      = 119
+   |percentage = 5.6
+   |change     = -3.9
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = Mark Gee
+   |votes      = 37
+   |percentage = 1.7
+   |change     = -7.1
+}}
+{{Election box majority
+   |votes      = 796
+   |percentage = 37.5
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,121
+   |percentage = 26.4
+   |change     = +9.7
+ }}
+{{Election box registered electors
+   |reg. electors = ~8,034
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===South===
+
+{{Election box begin | title=South<ref name="auto"/>}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Paul Batson
+   |votes      = 1,081
+   |percentage = 56.9
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Carole Doherty
+   |votes      = 420
+   |percentage = 22.1
+   |change     = -32.9
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Lottie Croft
+   |votes      = 211
+   |percentage = 11.1
+   |change     = -15.1
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Alastair Grigg
+   |votes      = 143
+   |percentage = 7.5
+   |change     = +1.9
+}}
+ {{Election box candidate with party link
+   |party      = TUSC
+   |candidate  = William Ward
+   |votes      = 46
+   |percentage = 2.4
+   |change     = +0.1
+}}
+{{Election box majority
+   |votes      = 661
+   |percentage = 34.8
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 1,901
+   |percentage = 22.2
+   |change     = +6.6
+ }}
+{{Election box registered electors
+   |reg. electors = ~8,563
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Waltham===
+
+{{Election box begin | title=Waltham<ref name="auto"/>}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = James Sawkins
+   |votes      = 1,037
+   |percentage = 42.0
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Nick Pettigrew[[Incumbent|*]]
+   |votes      = 956
+   |percentage = 38.7
+   |change     = -22.7
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Vicky Hartung
+   |votes      = 202
+   |percentage = 8.2
+   |change     = -21.7
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Lorna Kirman
+   |votes      = 177
+   |percentage = 7.2
+   |change     = -1.5
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Gemma Marshall
+   |votes      = 98
+   |percentage = 4.0
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 81
+   |percentage = 3.3
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,470
+   |percentage = 42.5
+   |change     = +11.8
+ }}
+{{Election box registered electors
+   |reg. electors = ~5,812
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===West Marsh===
+
+{{Election box begin | title=West Marsh <ref name="auto" />}}
+{{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Tanya Brasted
+   |votes      = 574
+   |percentage = 49.7
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Kathryn Wheatley[[Incumbent|*]]
+   |votes      = 259
+   |percentage = 22.4
+   |change     = -26.9
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = David Dade
+   |votes      = 156
+   |percentage = 13.5
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Daniel Westcott
+   |votes      = 74
+   |percentage = 6.4
+   |change     = -5.8
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Aharon Wharton
+   |votes      = 54
+   |percentage = 4.7
+   |change     = -8.1
+}}
+ {{Election box candidate with party link
+   |party      = National Housing Party (UK)
+   |candidate  = Angela Kingston
+   |votes      = 38
+   |percentage = 3.3
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 315
+   |percentage = 27.3
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 1,155
+   |percentage = 22.1
+   |change     = +5.7
+ }}
+{{Election box registered electors
+   |reg. electors = ~5,226
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Wolds===
+
+{{Election box begin | title=Wolds<ref name="auto" />}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = Darren Mayne
+   |votes      = 953
+   |percentage = 33.8
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Jack Hilton
+   |votes      = 914
+   |percentage = 32.4
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Christine Vickers
+   |votes      = 547
+   |percentage = 19.4
+   |change     = -23.4
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Jonathan Kirman
+   |votes      = 171
+   |percentage = 6.1
+   |change     = +0.7
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Frances Bovill
+   |votes      = 153
+   |percentage = 5.4
+   |change     = -10.3
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Ryan Aisthorpe
+   |votes      = 85
+   |percentage = 3.0
+   |change     = -33.1
+}}
+{{Election box majority
+   |votes      = 39
+   |percentage = 1.4
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,823
+   |percentage = 42.6
+   |change     = +14.3
+ }}
+{{Election box registered electors
+   |reg. electors = ~6,627
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Yarborough===
+
+{{Election box begin | title=Yarborough<ref name="auto" />}}
+ {{Election box winning candidate with party link
+   |party      = Reform UK
+   |candidate  = John Mills
+   |votes      = 1,272
+   |percentage = 48.6
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Angela Greenfield
+   |votes      = 655
+   |percentage = 25.0
+   |change     = -25.0
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Darci Metcalf
+   |votes      = 247
+   |percentage = 9.4
+   |change     = -17.3
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = James Cairns
+   |votes      = 193
+   |percentage = 7.4
+   |change     = -11.9
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Ollie Sheldrake
+   |votes      = 188
+   |percentage = 7.2
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK, 2025)
+   |candidate  = Jason Neilson
+   |votes      = 64
+   |percentage = 2.4
+   |change     = -0.3
+}}
+{{Election box majority
+   |votes      = 617
+   |percentage = 23.6
+   |change     = ''N/A''
+ }}
+{{Election box turnout
+   |votes      = 2,619
+   |percentage = 31.0
+   |change     = +10.0
+ }}
+{{Election box registered electors
+   |reg. electors = ~8,448
+ }}
+{{Election box gain with party link no swing
+   |winner     = Reform UK
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{Lincolnshire elections}}
+{{2026 United Kingdom local elections}}
+
+[[Category:North East Lincolnshire Council elections]]
+[[Category:2026 English local elections|North East Lincolnshire]]
+[[Category:2020s in Lincolnshire]]
+[[Category:Long stubs with short prose]]
+
+{{England-election-stub}}

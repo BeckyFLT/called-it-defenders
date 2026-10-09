@@ -166,7 +166,7 @@ The changes underlying the "Before 2026 election" column are detailed on [[2024 
 == Background ==
 
 === History ===
-The [[Local Government Act 1972]] created a two-tier system of metropolitan counties and districts covering [[Greater Manchester]], [[Merseyside]], [[South Yorkshire]], [[Tyne and Wear]], the [[West Midlands (county)|West Midlands]], and [[West Yorkshire]] starting in 1974. Dudley was a district of the West Midlands metropolitan county.<ref name=guide>{{cite book |title=Local Government in England and Wales: A Guide to the New System |year=1974 |publisher=[[HMSO]] |location=London |isbn=0-11-750847-0 |page=7 }}</ref> The [[Local Government Act 1985]] abolished the metropolitan county councils, with metropolitan districts taking on most of their powers as [[metropolitan borough]]s. The [[West Midlands Combined Authority]] was created in 2016 and began electing the [[mayor of the West Midlands]] from 2017, which was given strategic powers covering a region coterminous with the West Midlands metropolitan county.<ref>{{cite web|title=CONSTITUTION OF THE WEST MIDLANDS COMBINED AUTHORITY|url=https://www.wmca.org.uk/media/1576/constitution-master-module-2642017.pdf|access-date=4 December 2017}}</ref>
+The [[Local Government Act 1972]] created a two-tier system of metropolitan counties and districts covering [[Greater Manchester]], [[Merseyside]], [[South Yorkshire]], [[Tyne and Wear]], the [[West Midlands (county)|West Midlands]], and [[West Yorkshire]] starting in 1974. Dudley was a district of the West Midlands metropolitan county.<ref name=guide>{{cite book |title=Local Government in England and Wales: A Guide to the New System |year=1974 |publisher=[[HMSO]] |location=London |isbn=0-11-750847-0 |page=7 }}</ref> The [[Local Government Act 1985]] abolished the metropolitan county councils, with metropolitan districts taking on most of their powers as [[metropolitan borough]]s. The [[West Midlands Combined Authority]] was created in 2016 and began electing the [[mayor of the West Midlands]] from 2017, which was given strategic powers covering a region coterminous with the West Midlands metropolitan county.<ref>{{cite web|title=CONSTITUTION OF THE WEST MIDLANDS COMBINED AUTHORITY|url=https://www.wmca.org.uk/media/1576/constitution-master-module-2642017.pdf|access-date=4 December 2017|archive-url=https://web.archive.org/web/20220531185344/https://www.wmca.org.uk/media/1576/constitution-master-module-2642017.pdf|archive-date=31 May 2022|url-status=dead}}</ref>
 
 Dudley Council has variously been under Labour control, Conservative control and [[no overall control]] since it was established. The Conservatives controlled the council from the [[2004 Dudley Metropolitan Borough Council election|2004 election]] until Labour gained control in the [[2012 Dudley Metropolitan Borough Council election|2012 election]]. Labour lost overall control in the [[2016 Dudley Metropolitan Borough Council election|2016 election]] but continued to lead the council until 2017, when the Conservatives led the council, still without a majority. In the [[2021 Dudley Metropolitan Borough Council election|2021 elections]], the Conservatives gained a majority on the council, which they kept in the [[2023 Dudley Metropolitan Borough Council election|2023 election]].<ref>{{Cite web |last=Farrington |first=Dayna |title=Full election results from Dudley Council as Conservatives gain power |url=https://www.expressandstar.com/news/politics/elections-west-midlands-mayor-pcc-council-2021/2021/05/07/dudley-councils-election-results--in-full/ |access-date=2022-03-26 |website=www.expressandstar.com |language=en}}</ref><ref>{{Cite news |title=Dudley result - Local Elections 2023 |language=en-GB |work=BBC News |url=https://www.bbc.com/news/election/2023/england/councils/E08000027 |access-date=2024-01-02}}</ref>
 
@@ -467,7 +467,7 @@ File:2026 Dudley Council Composition.svg|{{centre|Council composition after the 
 Sitting councillors standing for re-election are marked with an asterisk (*).
 
 ===Amblecote===
-{{Election box begin | title =Amblecote<ref name="dudley2026results">{{Cite news |title=Local Election Results 2026 |url=https://online.dudley.gov.uk/elections/local2026-live.asp |website=online.dudley.gov.uk |archive-url=http://web.archive.org/web/20260528202422/https://online.dudley.gov.uk/elections/local2026-live.asp |archive-date=28 May 2026 |url-status=live |access-date=4 August 2026}}</ref><ref name="dudley2026sopn">{{Cite web |title=Statement of persons nominated and notice of poll |url=https://www.dudley.gov.uk/media/epjn401b/statement-of-persons-nominated-2026.pdf |website=Dudley Metropolitan Borough Council |archive-url=http://web.archive.org/web/20260528101719/https://www.dudley.gov.uk/media/epjn401b/statement-of-persons-nominated-2026.pdf |archive-date=28 May 2026 |url-status=live |access-date=4 August 2026}}</ref>}}
+{{Election box begin | title =Amblecote<ref name="dudley2026results">{{Cite news |title=Local Election Results 2026 |url=https://online.dudley.gov.uk/elections/local2026-live.asp |website=online.dudley.gov.uk |archive-url=https://web.archive.org/web/20260528202422/https://online.dudley.gov.uk/elections/local2026-live.asp |archive-date=28 May 2026 |url-status=live |access-date=4 August 2026}}</ref><ref name="dudley2026sopn">{{Cite web |title=Statement of persons nominated and notice of poll |url=https://www.dudley.gov.uk/media/epjn401b/statement-of-persons-nominated-2026.pdf |website=Dudley Metropolitan Borough Council |archive-url=https://web.archive.org/web/20260528101719/https://www.dudley.gov.uk/media/epjn401b/statement-of-persons-nominated-2026.pdf |archive-date=28 May 2026 |url-status=live |access-date=4 August 2026}}</ref>}}
 {{Election box winning candidate with party link
 |party = Reform UK
 |candidate = Wayne Lewis
@@ -1932,6 +1932,20 @@ The ward elected two councillors after [[Cat Eccles]] (Labour), who had also ser
    |swing      = 
 }}
 {{Election box end}}
+
+==Post-election changes==
+
+===St James's by-election===
+{{Election box begin|title=St James's by-election, 29 October 2026<ref>https://whocanivotefor.co.uk/elections/local.dudley.st-jamess.by.2026-10-29/st-jamess/</ref>}}
+{{Election box candidate with party link|party=Reform UK|candidate=Chris Chivers|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Sam Firmstone|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Restore Britain|candidate=Tristan Owens|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Katherine Poole|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Caroline Reid|votes=|percentage=|change=}}
+{{Election box majority|votes=|percentage=|change=}}
+{{Election box turnout|votes=|percentage=|change=}}
+{{Election box hold with party link|winner=|loser=|swing=}}
+ {{Election box end}}
 
 ==Notes==
 {{notelist}}

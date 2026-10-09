@@ -1,0 +1,1004 @@
+{{Short description|2019 local election in England}}
+{{Use dmy dates|date=April 2018}}
+{{Use British English|date=April 2018}}
+[[File:Oldham UK local election 2019 map.svg|thumb|Map of the results]]
+The '''2019 Oldham Metropolitan Borough Council election''' took place on 2 May 2019 to elect members of [[Oldham Metropolitan Borough Council]] in England.<ref name="20190502_Results">{{cite web |title=Local election results 2 May 2019 |url=https://www.oldham.gov.uk/homepage/987/local_election_results_2_may_2019 |website=Oldham Borough Council |publisher=Oldham Borough Council |access-date=30 June 2019 }}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The election took place on the same day as other [[2019 United Kingdom local elections|local elections]] in England.
+
+== Overall results ==
+Vote share changes compared to [[2018 Oldham Metropolitan Borough Council election|2018]].
+{{Election summary partial council net begin|title=2019 Oldham Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+   |party         = Labour Party (UK)
+   |seats         = 15
+   |net           = {{increase}}1
+   |seats %       = 75.0
+   |other seats   = 30
+   |total seats   = '''45'''
+   |total seats % = 75.0
+   |votes %       = 40.59
+   |votes         = 21,717
+   |plus/minus    = {{nowrap|{{decrease}}15.37}}
+}}
+{{Election summary partial council net party|
+   |party         = Liberal Democrats (UK)
+   |seats         = 3
+   |net           = {{nochange}}
+   |seats %       = 15.0
+   |other seats   = 5
+   |total seats   = '''8'''
+   |total seats % = 13.3
+   |votes %       = 13.66
+   |votes         = 7,308
+   |plus/minus    = {{nowrap|{{decrease}}1.71}}
+}}
+{{Election summary partial council net party|
+   |party         = Independent (politician)
+   |seats         = 1
+   |net           = {{decrease}}1
+   |seats %       = 5.0
+   |other seats   = 2
+   |total seats   = '''3'''
+   |total seats % = 5.0
+   |votes %       = 16.43
+   |votes         = 8,792
+   |plus/minus    = {{nowrap|{{increase}}13.08}}
+}}
+{{Election summary partial council net party|
+   |party         = Conservative Party (UK)
+   |seats         = 1
+   |net           = {{nochange}}
+   |seats %       = 5.0
+   |other seats   = 3
+   |total seats   = '''4'''
+   |total seats % = 6.7
+   |votes %       = 12.07
+   |votes         = 6,456
+   |plus/minus    = {{nowrap|{{decrease}}9.96}}
+}}
+{{Election summary partial council net party|
+   |party         = UK Independence Party
+   |seats         = 0
+   |net           = {{nochange}}
+   |seats %       = 0.0
+   |other seats   = 0
+   |total seats   = '''0'''
+   |total seats % = 0.0
+   |votes %       = 9.98
+   |votes         = 5,339
+   |plus/minus    = ''N/A''
+}}
+{{Election summary partial council net party|
+   |party         = Green Party of England and Wales
+   |seats         = 0
+   |net           = {{nochange}}
+   |seats %       = 0.0
+   |other seats   = 0
+   |total seats   = '''0'''
+   |total seats % = 0.0
+   |votes %       = 3.89
+   |votes         = 2,081
+   |plus/minus    = {{nowrap|{{increase}}0.60}}
+}}
+{{Election summary partial council net|
+   |party         = Saddleworth First!
+   |seats         = 0
+   |net           = {{nochange}}
+   |seats %       = 0.0
+   |other seats   = 0
+   |total seats   = '''0'''
+   |total seats % = 0.0
+   |votes %       = 3.38
+   |votes         = 1,806
+   |plus/minus    = ''N/A''
+}}
+{{Election box end}}
+
+==Ward results==
+Councillors seeking re-election are marked with an asterisk; they were last elected in [[2015 Oldham Metropolitan Borough Council election|2015]] and changes are compared to that year's election.
+
+===Alexandra===
+{{Election box begin | title=Alexandra}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jenny Harrison*
+  |votes      = 1,255
+  |percentage = 57.9
+  |change     = +5.9
+}}
+{{Election box candidate|
+  |party      = Independent
+  |candidate  = Muhammad Imran Sarwar
+  |votes      = 417
+  |percentage = 19.2
+  |change     = ''n/a''
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Carl Sinderby
+  |votes      = 263
+  |percentage = 12.1
+  |change     = -9.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Dinoff
+  |votes      = 128
+  |percentage = 5.9
+  |change     = +1.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jawaad Hussain
+  |votes      = 106
+  |percentage = 4.9
+  |change     = -17.0
+}}
+{{Election box majority|votes=838|percentage=38.6|change=+8.4 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,169|percentage=28.51|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-6.65 }}
+{{Election box end}}
+
+===Chadderton Central===
+{{Election box begin | title=Chadderton Central}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Eddie Moores*
+  |votes      = 1,180
+  |percentage = 50.8
+  |change     = +5.8
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Marian Goodwin
+  |votes      = 435
+  |percentage = 18.7
+  |change     = ''n/a''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mohammed Shah Jahan
+  |votes      = 325
+  |percentage = 14.0
+  |change     = -7.1
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Jess Mahoney
+  |votes      = 256
+  |percentage = 11.0
+  |change     = +6.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Barbara Ann Beeley
+  |votes      = 129
+  |percentage = 5.5
+  |change     = +2.8
+}}
+{{Election box majority|votes=745|percentage=32.0|change= }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,325|percentage=29.61|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-6.45 }}
+{{Election box end}}
+
+===Chadderton North===
+{{Election box begin | title=Chadderton North}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mohon Ali*
+  |votes      = 1,388
+  |percentage = 44.3
+  |change     = -0.7
+}}
+{{Election box candidate|
+  |party      = Independent
+  |candidate  = Tracy Woodward
+  |votes      = 936
+  |percentage = 29.9
+  |change     = ''n/a''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mohammed Alom
+  |votes      = 468
+  |percentage = 14.9
+  |change     = -10.3
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Chris Parr
+  |votes      = 188
+  |percentage = 6.0
+  |change     = +2.2
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Hall
+  |votes      = 153
+  |percentage = 4.9
+  |change     = +0.9
+}}
+{{Election box majority|votes=452|percentage=14.4|change=-5.5 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=3,133|percentage=37.34|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-15.3 }}
+{{Election box end}}
+
+===Chadderton South===
+{{Election box begin |title= Chadderton South}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Graham Shuttleworth*
+   |votes      = 964
+   |percentage = 47.4
+   |change     = +4.6
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Jack Dickenson
+   |votes      = 482
+   |percentage = 23.7
+   |change     = -12.2
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Barnes
+   |votes      = 390
+   |percentage = 19.2
+   |change     = +3.6
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Melodey Walker
+   |votes      = 123
+   |percentage = 6.0
+   |change     = +2.8
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Tabirul Islam
+   |votes      = 76
+   |percentage = 3.7
+   |change     = +1.1
+}}
+{{Election box majority|votes=482|percentage=23.7|change=+16.8 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,035|percentage=25.74|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=+8.4 }}
+{{Election box end}}
+
+===Coldhurst===
+Montaz Azad was elected for Labour in 2015 but was suspended from the party.<ref name="20190503_OldhamTimes">{{cite web |title=Two shock defeats for Labour but ruling party makes one overall overall gain in Oldham |url=https://www.theoldhamtimes.co.uk/news/17616200.local-elections-two-shock-defeats-for-labour-but-ruling-party-makes-one-overall-overall-gain-in-oldham/ |website=The Oldham Times |access-date=30 June 2019}}</ref> They stood as an independent; their individual change and Labour's change are based on the same 2015 result.
+{{Election box begin |title= Coldhurst}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ruji Sapna Surjan
+   |votes      = 2,031
+   |percentage = 43.7
+   |change     = -21.0
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Montaz Azad*
+   |votes      = 1,700
+   |percentage = 36.6
+   |change     = -28.1
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Kutub Uddin
+   |votes      = 537
+   |percentage = 11.5
+   |change     = -8.1
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Jean Betteridge
+   |votes      = 229
+   |percentage = 4.9
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Md Shahid Miah
+   |votes      = 153
+   |percentage = 3.3
+   |change     = -2.0
+}}
+{{Election box majority|votes=331|percentage=7.1|change=-38.0 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=4,650|percentage=53.61|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing= }}
+{{Election box end}}
+
+===Crompton===
+{{Election box begin |title= Crompton}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Louie Hamblett
+   |votes      = 1,233
+   |percentage = 47.2
+   |change     = +18.5
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Colin Francis Jones
+   |votes      = 523
+   |percentage = 20.0
+   |change     = -1.3
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Phelyp Bennett
+   |votes      = 463
+   |percentage = 17.7
+   |change     = -5.1
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alex Jones-Casey
+   |votes      = 391
+   |percentage = 15.0
+   |change     = -9.5
+}}
+{{Election box majority|votes=710|percentage=27.2|change=+23.0 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,610|percentage=32.20|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Liberal Democrats (UK)|swing=+9.9 }}
+{{Election box end}}
+
+===Failsworth East===
+{{Election box begin |title= Failsworth East}}
+{{Election box winning candidate with party link
+   |party      = Independent (politician)
+   |candidate  = Brian Hobin
+   |votes      = 1,347
+   |percentage = 53.6
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Paul Jean Jacques*
+   |votes      = 826
+   |percentage = 32.9
+   |change     = -21.5
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Antony Cahill
+   |votes      = 295
+   |percentage = 11.7
+   |change     = -5.4
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Alan Belmore
+   |votes      = 46
+   |percentage = 1.8
+   |change     = +0.3
+}}
+{{Election box majority|votes=521|percentage=20.7|change=-10.0 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,514|percentage=32.08|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box gain with party link||winner=Independent (politician)|loser=Labour Party (UK)|swing=+37.55 }}
+{{Election box end}}
+
+===Failsworth West===
+{{Election box begin |title= Failsworth West}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Elaine Garry*
+   |votes      = 855
+   |percentage = 36.8
+   |change     = -9.7
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Warren Bates
+   |votes      = 711
+   |percentage = 30.6
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Annette Evans
+   |votes      = 325
+   |percentage = 14.0
+   |change     = -16.7
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Michele Stockton
+   |votes      = 192
+   |percentage = 8.3
+   |change     = -8.7
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Andy Hunter-Rossall
+   |votes      = 191
+   |percentage = 8.2
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Richard Darlington
+   |votes      = 52
+   |percentage = 2.2
+   |change     = +0.2
+}}
+{{Election box majority|votes=144|percentage=6.2|change=-10.5 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,326|percentage=30.42|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-20.15 }}
+{{Election box end}}
+
+===Hollinwood===
+{{Election box begin |title= Hollinwood}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Steve Williams*
+   |votes      = 990
+   |percentage = 56.1
+   |change     = +2.1
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Matthew Woods
+   |votes      = 457
+   |percentage = 25.9
+   |change     = -3.0
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Sajjad Hussain
+   |votes      = 123
+   |percentage = 7.0
+   |change     = -3.3
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Stephen Barrow
+   |votes      = 118
+   |percentage = 6.7
+   |change     = +3.2
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = David Maybury
+   |votes      = 76
+   |percentage = 4.3
+   |change     = +1.0
+}}
+{{Election box majority|votes=533|percentage=30.2|change=+5.1 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=1,764|percentage=22.71|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=+2.55 }}
+{{Election box end}}
+
+===Medlock Vale===
+Kaiser Rehman was elected for Labour in 2015 but left the party. They stood as an independent; their individual change and Labour's change are based on the same 2015 result.
+{{Election box begin |title= Medlock Vale}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Mohammed Alyas
+   |votes      = 1,346
+   |percentage = 44.4
+   |change     = -10.2
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Kaiser Rehman*
+   |votes      = 992
+   |percentage = 32.7
+   |change     = -21.9
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Marcus Esbach
+   |votes      = 231
+   |percentage = 7.6
+   |change     = -17.4
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Philip Howarth
+   |votes      = 186
+   |percentage = 6.1
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Neil Allsopp
+   |votes      = 128
+   |percentage = 4.2
+   |change     = -8.3
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Daniel Clayton
+   |votes      = 83
+   |percentage = 2.7
+   |change     = -1.9
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Rachel Pendlebury
+   |votes      = 64
+   |percentage = 2.1
+   |change     = -0.9
+}}
+{{Election box majority|votes=354|percentage=11.7|change=-17.9 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=3,030|percentage=34.67|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing= }}
+{{Election box end}}
+
+===Royton North===
+{{Election box begin |title= Royton North}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Clint Phythian*
+   |votes      = 840
+   |percentage = 34.0
+   |change     = -11.1
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Allan Fish
+   |votes      = 674
+   |percentage = 27.2
+   |change     = +4.9
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Paul Goldring
+   |votes      = 573
+   |percentage = 23.2
+   |change     = -1.6
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Lina Shaw
+   |votes      = 219
+   |percentage = 8.9
+   |change     = +5.2
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Russell Gosling
+   |votes      = 168
+   |percentage = 6.8
+   |change     = +2.7
+}}
+{{Election box majority|votes=166|percentage=6.7|change=-13.7 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,474|percentage=32.31|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-8.0 }}
+{{Election box end}}
+
+===Royton South===
+{{Election box begin |title= Royton South}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Steven Bashforth*
+   |votes      = 1,014
+   |percentage = 46.4
+   |change     = +0.4
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Anthony Prince
+   |votes      = 549
+   |percentage = 25.1
+   |change     = -0.2
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Ian Bond
+   |votes      = 289
+   |percentage = 13.2
+   |change     = -8.2
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Jim Stidworthy
+   |votes      = 189
+   |percentage = 8.7
+   |change     = +5.8
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Ken Berry
+   |votes      = 143
+   |percentage = 6.5
+   |change     = +2.4
+}}
+{{Election box majority|votes=465|percentage=21.3|change=+0.6 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,184|percentage=26.39|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=+0.3 }}
+{{Election box end}}
+
+===Saddleworth North===
+{{Election box begin |title= Saddleworth North}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = George Hulme
+   |votes      = 704
+   |percentage = 23.8
+   |change     = +8.4
+}}
+{{Election box candidate
+   |party      = Saddleworth First!
+   |candidate  = Car Roberts
+   |votes      = 650
+   |percentage = 22.0
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Luke Lancaster
+   |votes      = 592
+   |percentage = 20.0
+   |change     = -0.9
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = John Eccles
+   |votes      = 567
+   |percentage = 19.2
+   |change     = -6.9
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Chris Green
+   |votes      = 255
+   |percentage = 8.6
+   |change     = -7.4
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Phil Sewell
+   |votes      = 188
+   |percentage = 6.4
+   |change     = ''n/a''
+}}
+{{Election box majority|votes=54|percentage=1.8|change=-3.4 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,956|percentage=38.03|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box gain with party link||winner=Labour Party (UK)|loser=Liberal Democrats (UK)|swing=-7.65 }}
+{{Election box end}}
+
+===Saddleworth South===
+{{Election box begin |title= Saddleworth South}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Graham Sheldon*
+   |votes      = 1,068
+   |percentage = 31.3
+   |change     = -10.6
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Brian Lord
+   |votes      = 649
+   |percentage = 19.0
+   |change     = -6.2
+}}
+{{Election box candidate
+   |party      = Saddleworth First!
+   |candidate  = Duncan Goodman
+   |votes      = 496
+   |percentage = 14.5
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Connor Green
+   |votes      = 466
+   |percentage = 13.7
+   |change     = -8.2
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Helen Bishop
+   |votes      = 435
+   |percentage = 12.8
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Harry Moore
+   |votes      = 244
+   |percentage = 7.2
+   |change     = -3.8
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Alec Crook
+   |votes      = 51
+   |percentage = 1.5
+   |change     = ''n/a''
+}}
+{{Election box majority|votes=419|percentage=11.3|change=-5.5 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=3,409|percentage=37.15|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Conservative Party (UK)|swing=-2.2 }}
+{{Election box end}}
+
+===Saddleworth West & Lees===
+{{Election box begin |title= Saddleworth West & Lees}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Sam Al-Hamdani
+   |votes      = 953
+   |percentage = 33.8
+   |change     = +18.2
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Adrian Alexander*
+   |votes      = 670
+   |percentage = 23.8
+   |change     = -8.1
+}}
+{{Election box candidate
+   |party      = Saddleworth First!
+   |candidate  = "Boots" Errock
+   |votes      = 660
+   |percentage = 23.4
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Paul Taylor
+   |votes      = 280
+   |percentage = 9.9
+   |change     = -12.8
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Tom Lord
+   |votes      = 254
+   |percentage = 9.0
+   |change     = -13.6
+}}
+{{Election box majority|votes=283|percentage=10.0|change=+0.9 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,817|percentage=33.63|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box gain with party link||winner=Liberal Democrats (UK)|loser=Labour Party (UK)|swing=+13.15 }}
+{{Election box end}}
+
+===Shaw===
+{{Election box begin |title= Shaw}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Chris Gloster*
+   |votes      = 1,121
+   |percentage = 50.1
+   |change     = +18.8
+}}
+{{Election box candidate with party link
+   |party      = Labour and Co-operative
+   |candidate  = Ken Rustidge
+   |votes      = 428
+   |percentage = 19.1
+   |change     = -7.4
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Rob Vance
+   |votes      = 318
+   |percentage = 14.2
+   |change     = -9.0
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Lisa Smirk
+   |votes      = 259
+   |percentage = 11.6
+   |change     = -3.9
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Catherine Hunter-Rossall
+   |votes      = 112
+   |percentage = 5.0
+   |change     = +1.5
+}}
+{{Election box majority|votes=693|percentage=31.0|change=+25.2 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=2,238|percentage=29.54|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Liberal Democrats (UK)|swing=+13.1 }}
+{{Election box end}}
+
+===St. James===
+{{Election box begin |title= St. James}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Angela Cosgrove*
+   |votes      = 634
+   |percentage = 31.9
+   |change     = -11.3
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Tony Martin
+   |votes      = 522
+   |percentage = 26.2
+   |change     = +15.6
+}}
+{{Election box candidate with party link
+   |party      = UK Independence Party
+   |candidate  = Colin Burrows
+   |votes      = 404
+   |percentage = 20.3
+   |change     = -10.1
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Amoy Lindo-Crooks
+   |votes      = 219
+   |percentage = 11.0
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Atif Ali
+   |votes      = 124
+   |percentage = 6.2
+   |change     = -6.1
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Roger Pakeman
+   |votes      = 87
+   |percentage = 4.4
+   |change     = +1.0
+}}
+{{Election box majority|votes=112|percentage=5.6|change=-7.3 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=1,990|percentage=25.33|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-13.45 }}
+{{Election box end}}
+
+===St. Mary's===
+{{Election box begin |title= St. Mary's}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Nyla Ibrahim
+   |votes      = 2,625
+   |percentage = 85.2
+   |change     = +25.7
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Miranda Meadowcroft
+   |votes      = 177
+   |percentage = 5.7
+   |change     = +3.3
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Sean Curley
+   |votes      = 148
+   |percentage = 4.8
+   |change     = -1.6
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Pat Lord
+   |votes      = 132
+   |percentage = 4.3
+   |change     = +0.6
+}}
+{{Election box majority|votes=2,448|percentage=79.4|change=+36.5 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=3,082|percentage=34.67|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=+11.2 }}
+{{Election box end}}
+
+===Waterhead===
+{{Election box begin |title= Waterhead}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Peter Dean*
+   |votes      = 1,233
+   |percentage = 62.2
+   |change     = +16.0
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Linda Dawson
+   |votes      = 431
+   |percentage = 21.7
+   |change     = +10.3
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Max Woodvine
+   |votes      = 319
+   |percentage = 16.1
+   |change     = +5.5
+}}
+{{Election box majority|votes=802|percentage=40.4|change=+23.4 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=1,983|percentage=24.62|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=+2.85 }}
+{{Election box end}}
+
+===Werneth===
+{{Election box begin |title= Werneth}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Javid Iqbal*
+   |votes      = 1,877
+   |percentage = 49.3
+   |change     = -31.1
+}}
+{{Election box candidate
+   |party      = Independent
+   |candidate  = Asghar Ali
+   |votes      = 1,610
+   |percentage = 42.3
+   |change     = ''n/a''
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Irfat Ahmed Shajahan
+   |votes      = 151
+   |percentage = 4.0
+   |change     = +1.6
+}}
+{{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Heath Fletcher
+   |votes      = 86
+   |percentage = 2.3
+   |change     = -4.0
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Keith Pendlebury
+   |votes      = 86
+   |percentage = 2.3
+   |change     = -2.2
+}}
+{{Election box majority|votes=267|percentage=7.0|change=-67.0 }}
+{{Election box rejected||votes=|percentage=|change=}}
+{{Election box turnout||votes=3,810|percentage=46.33|change= }}
+{{Election box registered electors||reg. electors=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=-36.7 }}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{Greater Manchester elections}}
+
+[[Category:2019 English local elections|Oldham]]
+[[Category:Oldham Council elections]]
+[[Category:2010s in Greater Manchester]]
+[[Category:May 2019 in the United Kingdom]]

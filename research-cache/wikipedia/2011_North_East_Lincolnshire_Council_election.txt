@@ -1,0 +1,907 @@
+{{Short description|2011 UK local government election}}
+{{Use dmy dates|date = June 2025}}
+The '''2011 North East Lincolnshire Council election''' was held on Thursday 5 May 2011 to elect 15 members to [[North East Lincolnshire Council]], the same day as other [[2011 United Kingdom local elections|local elections in the United Kingdom]]. It elected approximately one-third of the council's 42 members to a four-year term. The turnout across the entire council was 34.5%.<ref name=council>{{citeweb|title=Local elections|url=https://www.nelincs.gov.uk/your-council/elections-and-voting/election-dates-and-results/local-elections/|publisher=North East Lincolnshire Council|accessdate= 9 June 2025}}</ref> The council remained under [[no overall control]].<ref name=HoC>{{citeweb|title=Local elections 2011|url=https://researchbriefings.files.parliament.uk/documents/RP11-43/RP11-43.pdf|date=24 May 2011|last=Tetteh|first=Edmund|publisher=The House of Commons Library|accessdate = 9 June 2025}}</ref>
+
+==Results summary==
+{{Election summary partial council net begin|title=2011 North East Lincolnshire Council election<ref name=LEAP>{{citeweb|title=Local Election Results 2011 - North East Lincolnshire|url=https://www.andrewteale.me.uk/leap/results/2011/112/|last=Teale|first=Andrew|publisher=Local Elections Archive Project|accessdate= 9 June 2025}}</ref><ref name=TEC1>{{citeweb|title=Local Elections Handbook 2011|url=https://www.electionscentre.co.uk/wp-content/uploads/2015/07/Local-Elections-Handbook-2011-complete.pdf|last1=Rallings|first1=Colin|last2=Thrasher|first2=Michael|publisher=The Elections Centre|accessdate = 9 June 2025}}</ref><ref name=TEC2>{{citeweb|title=North East Lincolnshire Council Election Results 1995-2012|url=https://www.electionscentre.co.uk/wp-content/uploads/2015/06/North-East-Lincolnshire-1995-2012.pdf|last1=Rallings|first1=Colin|last2=Thrasher|first2=Michael|publisher=The Elections Centre|accessdate = 9 June 2025}}</ref>}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 9
+  |net           = {{increase}}7
+  |seats %       = 60.0
+  |other seats   = 8
+  |total seats   = '''17'''
+  |total seats % = 40.5
+  |votes         = 14,202
+  |votes %       = 35.8 <!-- 35.807 -->
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 5
+  |net           = {{decrease}}1
+  |seats %       = 33.3
+  |other seats   = 9
+  |total seats   = '''14'''
+  |total seats % = 33.3
+  |votes         = 12,335
+  |votes %       = 31.1 <!-- 31.100 -->
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 1
+  |net           = {{decrease}}5
+  |seats %       = 6.7
+  |other seats   = 10
+  |total seats   = '''11'''
+  |total seats % = 26.2
+  |votes         = 7,346
+  |votes %       = 18.5 <!-- 18.521 -->
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = UK Independence Party
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 3,730
+  |votes %       = 9.4 <!-- 9.404 -->
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 0
+  |net           = {{decrease}}1
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,926
+  |votes %       = 4.9 <!-- 4.856 -->
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 86
+  |votes %       = 0.2 <!-- 0.217 -->
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Trade Unionist and Socialist Coalition
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 38
+  |votes %       = 0.1 <!-- 0.096 -->
+  |plus/minus    = 
+}}
+{{Election box end}}
+
+==Ward results==
+===Croft Baker===
+<noinclude>{{Election box begin|title=Croft Baker<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Michale Burnett*
+ | votes      = 1,619
+ | percentage = 53.2
+ | change     = {{increase}}18.1
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Bob Callison
+ | votes      = 964
+ | percentage = 31.7
+ | change     = {{increase}}9.5
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Colin Eastwell
+ | votes      = 460
+ | percentage = 15.1
+ | change     = {{decrease}}19.7
+}}
+{{Election box majority|
+   |votes         = 655
+   |percentage    = 21.5
+   |change        = {{increase}}21.2
+}}
+{{Election box total valid|
+   |votes         = 3,043
+   |percentage    = 35.2
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 35.6
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,642
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = {{increase}}4.3
+}}
+{{Election box end}}
+
+===East Marsh===
+<noinclude>{{Election box begin|title=East Marsh<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Terry Walker
+ | votes      = 849
+ | percentage = 49.1
+ | change     = {{increase}}14.7
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Anthony McCabe*
+ | votes      = 514
+ | percentage = 29.7
+ | change     = {{decrease}}26.0
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Phillip Dumbrell
+ | votes      = 185
+ | percentage = 10.7
+ | change     = {{increase}}0.8
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Nigel Wright
+ | votes      = 182
+ | percentage = 10.5
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 335
+   |percentage    = 19.4
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 1,730
+   |percentage    = 23.1
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 23.3
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 7,495
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = {{increase}}20.3
+}}
+{{Election box end}}
+
+===Freshney===
+<noinclude>{{Election box begin|title=Freshney<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Ray Sutton
+ | votes      = 1,011
+ | percentage = 41.1
+ | change     = {{increase}}10.0
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = David Boylen*
+ | votes      = 709
+ | percentage = 28.9
+ | change     = {{decrease}}5.9
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Paul Fieldgate
+ | votes      = 469
+ | percentage = 19.1
+ | change     = {{decrease}}12.1
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Paul Wood
+ | votes      = 268
+ | percentage = 10.9
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 302
+   |percentage    = 12.3
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 2,457
+   |percentage    = 33.1
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 33.2
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 7,431
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = {{increase}}8.0
+}}
+{{Election box end}}
+
+===Haverstoe===
+<noinclude>{{Election box begin|title=Haverstoe<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Keith Brookes*
+ | votes      = 2,104
+ | percentage = 59.7
+ | change     = {{decrease}}5.3
+}}
+{{Election box candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Rhys Harrison
+ | votes      = 969
+ | percentage = 27.5
+ | change     = {{increase}}10.0
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Roy Horobin
+ | votes      = 451
+ | percentage = 12.8
+ | change     = {{decrease}}4.7
+}}
+{{Election box majority|
+   |votes         = 1,135
+   |percentage    = 32.2
+   |change        = {{decrease}}15.2
+}}
+{{Election box total valid|
+   |votes         = 3,524
+   |percentage    = 43.5
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 43.8
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,106
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = {{decrease}}7.6
+}}
+{{Election box end}}
+
+===Heneage===
+<noinclude>{{Election box begin|title=Heneage<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Matthew Patrick
+ | votes      = 1,089
+ | percentage = 43.6
+ | change     = {{increase}}9.6
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Stephen Hocknell*
+ | votes      = 585
+ | percentage = 23.4
+ | change     = {{decrease}}19.8
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Stephen Kibble
+ | votes      = 525
+ | percentage = 21.0
+ | change     = {{decrease}}1.7
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Nicholas Pettigrew
+ | votes      = 299
+ | percentage = 12.0
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 504
+   |percentage    = 20.2
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 2,498
+   |percentage    = 30.2
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 30.4
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,272
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = {{increase}}14.7
+}}
+{{Election box end}}
+
+===Humberston and New Waltham===
+<noinclude>{{Election box begin|title=Humberston and New Waltham<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Steve Norton*
+ | votes      = 1,327
+ | percentage = 37.9
+ | change     = {{decrease}}3.0
+}}
+{{Election box candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Matthew Barrow
+ | votes      = 756
+ | percentage = 21.6
+ | change     = {{increase}}6.5
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Stephen Harness
+ | votes      = 663
+ | percentage = 19.0
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = Independent politician
+ | candidate  = Margaret Solomon
+ | votes      = 616
+ | percentage = 17.6
+ | change     = {{decrease}}20.1
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Christopher Stanland
+ | votes      = 136
+ | percentage = 3.9
+ | change     = {{decrease}}2.4
+}}
+{{Election box majority|
+   |votes         = 571
+   |percentage    = 16.3
+   |change        = {{increase}}13.1
+}}
+{{Election box total valid|
+   |votes         = 3,498
+   |percentage    = 40.5
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 40.6
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,645
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = {{decrease}}4.7
+}}
+{{Election box end}}
+
+===Immingham===
+<noinclude>{{Election box begin|title=Immingham<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Mike Burton
+ | votes      = 1,506
+ | percentage = 46.8
+ | change     = {{increase}}8.2
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Stewart Swinburn*
+ | votes      = 1,099
+ | percentage = 34.2
+ | change     = {{decrease}}9.1
+}}
+{{Election box candidate with party link|
+ | party      = Independent politician
+ | candidate  = Willie Weir
+ | votes      = 522
+ | percentage = 16.2
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = Independent politician
+ | candidate  = Victor Banks{{efn|Victor Banks ran as the candidate for the Liberal Democrats in 2007, and the change in vote share is with respect to the share received in that election.}}
+ | votes      = 90
+ | percentage = 2.8
+ | change     = {{decrease}}15.3
+}}
+{{Election box majority|
+   |votes         = 407
+   |percentage    = 12.7
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 3,217
+   |percentage    = 37.6
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 37.9
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,553
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Conservative Party (UK)
+   |swing = {{increase}}8.6
+}}
+{{Election box end}}
+
+===Park===
+<noinclude>{{Election box begin|title=Park<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Andrew de Freitas*
+ | votes      = 1,463
+ | percentage = 42.0
+ | change     = {{decrease}}5.8
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Ann Furneaux
+ | votes      = 1,165
+ | percentage = 34.4
+ | change     = {{increase}}12.4
+}}
+{{Election box candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Timothy Mickleburgh
+ | votes      = 855
+ | percentage = 24.5
+ | change     = {{increase}}13.0
+}}
+{{Election box majority|
+   |votes         = 298
+   |percentage    = 8.6
+   |change        = {{decrease}}17.3
+}}
+{{Election box total valid|
+   |votes         = 3,483
+   |percentage    = 38.7
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 39.3
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 9,000
+}}
+{{Election box hold with party link|
+   |winner = Liberal Democrats (UK)
+   |swing = {{decrease}}9.1
+}}
+{{Election box end}}
+
+===Scartho===
+<noinclude>{{Election box begin|title=Scartho<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Alex Baxter
+ | votes      = 1,197
+ | percentage = 37.7
+ | change     = {{decrease}}12.4
+}}
+{{Election box candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Marian Jervis
+ | votes      = 776
+ | percentage = 24.4
+ | change     = {{increase}}8.6
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Ronald Shepherd
+ | votes      = 648
+ | percentage = 20.4
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Sally Dixon
+ | votes      = 473
+ | percentage = 14.9
+ | change     = {{decrease}}19.2
+}}
+{{Election box candidate with party link|
+ | party      = Independent politician
+ | candidate  = Ernie Brown
+ | votes      = 84
+ | percentage = 2.6
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 421
+   |percentage    = 13.2
+   |change        = {{decrease}}2.7
+}}
+{{Election box total valid|
+   |votes         = 3,178
+   |percentage    = 39.4
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 39.8
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,057
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = {{decrease}}10.5
+}}
+{{Election box end}}
+
+===Sidney Sussex===
+<noinclude>{{Election box begin|title=Sidney Sussex<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Hazel Chase
+ | votes      = 1,118
+ | percentage = 47.1
+ | change     = {{increase}}9.5
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Peter Burgess*
+ | votes      = 581
+ | percentage = 24.5
+ | change     = {{decrease}}14.5
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = David Hasthorpe
+ | votes      = 437
+ | percentage = 18.4
+ | change     = {{decrease}}5.0
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Karl Simmons
+ | votes      = 238
+ | percentage = 10.0
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 537
+   |percentage    = 22.6
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 2,374
+   |percentage    = 28.5
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 28.7
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,331
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = {{increase}}12.0
+}}
+{{Election box end}}
+
+===South===
+<noinclude>{{Election box begin|title=South<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Norma Lincoln*
+ | votes      = 1,141
+ | percentage = 54.5
+ | change     = {{increase}}12.4
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Doug Pickett
+ | votes      = 496
+ | percentage = 23.7
+ | change     = {{decrease}}16.9
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = John Stockton
+ | votes      = 456
+ | percentage = 21.8
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 645
+   |percentage    = 30.8
+   |change        = {{increase}}29.3
+}}
+{{Election box total valid|
+   |votes         = 2,093
+   |percentage    = 25.0
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 25.0
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,372
+}}
+{{Election box hold with party link|
+   |winner = Labour Party (UK)
+   |swing = {{increase}}14.6
+}}
+{{Election box end}}
+
+===Waltham===
+<noinclude>{{Election box begin|title=Waltham<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Philip Jackson*
+ | votes      = 1,270
+ | percentage = 54.6
+ | change     = {{decrease}}9.6
+}}
+{{Election box candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Jack Connor
+ | votes      = 543
+ | percentage = 23.3
+ | change     = {{increase}}10.7
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Paul Barton
+ | votes      = 356
+ | percentage = 15.3
+ | change     = {{decrease}}7.8
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Scott Owen
+ | votes      = 157
+ | percentage = 6.7
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 727
+   |percentage    = 31.26
+   |change        = {{decrease}}9.8
+}}
+{{Election box total valid|
+   |votes         = 2,326
+   |percentage    = 41.3
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 41.6
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 5,633
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = {{decrease}}10.2
+}}
+{{Election box end}}
+
+===West Marsh===
+<noinclude>{{Election box begin|title=West Marsh<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Darren Billard
+ | votes      = 465
+ | percentage = 37.6
+ | change     = {{increase}}17.3
+}}
+{{Election box candidate with party link|
+ | party      = Independent politician
+ | candidate  = Peter Barker*
+ | votes      = 398
+ | percentage = 32.2
+ | change     = {{decrease}}39.0
+}}
+{{Election box candidate with party link|
+ | party      = Independent politician
+ | candidate  = Keith Watkin
+ | votes      = 216
+ | percentage = 17.5
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Philip Wilson
+ | votes      = 120
+ | percentage = 9.7
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = TUSC
+ | candidate  = James Cartwright
+ | votes      = 38
+ | percentage = 3.1
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 67
+   |percentage    = 5.4
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 1,237
+   |percentage    = 24.4
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 24.8
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 5,073
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Independent politician
+   |swing = {{increase}}28.1
+}}
+{{Election box end}}
+
+===Wolds===
+<noinclude>{{Election box begin|title=Wolds<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Melanie Dickerson*
+ | votes      = 1,151
+ | percentage = 48.9
+ | change     = {{decrease}}13.7
+}}
+{{Election box candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Julian Dugard
+ | votes      = 575
+ | percentage = 24.4
+ | change     = {{increase}}8.9
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = Henry Hudson
+ | votes      = 418
+ | percentage = 17.8
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Gordon Smith
+ | votes      = 208
+ | percentage = 8.8
+ | change     = {{decrease}}13.0
+}}
+{{Election box majority|
+   |votes         = 576
+   |percentage    = 24.5
+   |change        = {{decrease}}16.3
+}}
+{{Election box total valid|
+   |votes         = 2,352
+   |percentage    = 40.7
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 41.0
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 5,775
+}}
+{{Election box hold with party link|
+   |winner = Conservative Party (UK)
+   |swing = {{decrease}}11.3
+}}
+{{Election box end}}
+
+===Yarborough===
+<noinclude>{{Election box begin|title=Yarborough<ref name=LEAP></ref><ref name=TEC1></ref>}}</noinclude>
+{{Election box winning candidate with party link|
+ | party      = Labour Party (UK)
+ | candidate  = Peter Wheatley
+ | votes      = 930
+ | percentage = 35.1
+ | change     = {{increase}}13.4
+}}
+{{Election box candidate with party link|
+ | party      = Liberal Democrats (UK)
+ | candidate  = Les Bonner*
+ | votes      = 914
+ | percentage = 34.5
+ | change     = {{decrease}}2.4
+}}
+{{Election box candidate with party link|
+ | party      = Conservative Party (UK)
+ | candidate  = Harry Hall
+ | votes      = 442
+ | percentage = 16.7
+ | change     = {{increase}}0.7
+}}
+{{Election box candidate with party link|
+ | party      = UK Independence Party
+ | candidate  = James Cairns
+ | votes      = 281
+ | percentage = 10.6
+ | change     = ''New''
+}}
+{{Election box candidate with party link|
+ | party      = Green Party of England and Wales
+ | candidate  = Vicky Dunn
+ | votes      = 86
+ | percentage = 3.2
+ | change     = ''New''
+}}
+{{Election box majority|
+   |votes         = 16
+   |percentage    = 0.6
+   |change        = ''N/A''
+}}
+{{Election box total valid|
+   |votes         = 2,653
+   |percentage    = 31.5
+}}
+{{Election box turnout|
+   |votes         = 
+   |percentage    = 31.7
+   |change        = 
+}}
+{{Election box registered electors|
+   |reg. electors= 8,429
+}}
+{{Election box gain with party link|
+   |winner = Labour Party (UK)
+   |loser = Liberal Democrats (UK)
+   |swing = {{increase}}7.9
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2011}}
+{{Lincolnshire elections}}
+
+[[Category:2011 English local elections|North East Lincolnshire]]
+[[Category:North East Lincolnshire Council elections|2011]]
+[[Category:2010s in Lincolnshire]]

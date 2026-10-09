@@ -1,0 +1,850 @@
+{{Short description|2023 English local election}}
+{{Infobox election
+| election_name     = 2023 North East Lincolnshire Council election
+| country           = Lincolnshire
+| type              = parliamentary
+| previous_election = 2022 North East Lincolnshire Council election
+| previous_year     = 2022
+| outgoing_members  = 
+| election_date     = {{Start date|2023|5|4|df=y}}
+| elected_members   = 
+| next_election     = 2024 North East Lincolnshire Council election
+| next_year         = 2024
+| seats_for_election= 15 of 42 seats to [[North East Lincolnshire Council]]
+| majority_seats    = 22
+| opinion_polls     = 
+| turnout           = 23.12%
+<!-- Party 1 -->
+| party1            = Conservative Party (UK)
+| image1            = [[File:No image wide.svg|110x50px|Blank]]
+| leader1           = Philip Jackson
+| last_election1    = 30 seats, 47.3%
+| seats_before1     =
+| seats1            = 7
+| seats_after1      = '''27'''
+| seat_change1      = {{decrease}} 3
+| popular_vote1     = 11,039
+| percentage1       = 41.5%
+| swing1            = {{decrease}} 5.8%
+<!-- Party 2 -->
+| party2            = Labour Party (UK)
+| image2            = [[File:No image wide.svg|110x50px|Blank]]
+| leader2           = Matthew Patrick
+| last_election2    = 8 seats, 34.8%
+| seats_before2     = 
+| seats2            = 5
+| seats_after2      = '''9'''
+| seat_change2      = {{increase}} 1
+| popular_vote2     = 10,121
+| percentage2       = 38.1%
+| swing2            = {{increase}} 3.3%
+<!-- Party 3 -->
+| party3            = Independent politician
+| image3            = [[File:No image wide.svg|110x50px|Blank]]
+| leader3           = n/a
+| last_election3    = 1 seat, 4.9%
+| seats_before3     = 
+| seats3            = 2
+| seats_after3      = '''3'''
+| seat_change3      = {{increase}} 2
+| popular_vote3     = 2,551
+| percentage3       = 9.6%
+| swing3            = {{increase}} 4.7%
+<!-- Party 4 -->
+| party4            = Liberal Democrats (UK)
+| image4            = [[File:No image wide.svg|110x50px|Blank]]
+| leader4           = Steve Beasant
+| last_election4    = 3 seats, 10.6%
+| seats_before4     = 
+| seats4            = 1
+| seats_after4      = '''3'''
+| seat_change4      = {{steady}}
+| popular_vote4     = 1,856
+| percentage4       = 7.0%
+| swing4            = {{decrease}} 3.6%
+| map_image         =North East Lincolnshire UK ward map 2023.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = The winner of each seat in the 2023 North East Lincolnshire Council Election
+| title = [[Leader of the council|Leader]]
+| posttitle = Leader after election
+| before_election = Philip Jackson
+| before_party = Conservative Party (UK)
+| after_election = Philip Jackson
+| after_party = Conservative Party (UK)
+}}
+
+The '''2023 North East Lincolnshire Council election''' took place on 4 May 2023 to elect 15 members (the usual approximate third) of [[North East Lincolnshire Council]] in [[Lincolnshire]], England. This was on the same day as other [[2023 United Kingdom local elections|local elections across England]].
+
+The Conservatives retained their majority on the council.<ref>{{Cite news |date=2023-05-05 |title=North East Lincolnshire election results - Tories make losses on council |language=en-GB |work=GrimsbyLive |url=https://www.grimsbytelegraph.co.uk/news/grimsby-news/north-east-lincolnshire-election-results-8413825 |access-date=2023-05-07 |issn=0307-1235}}</ref> After the election Labour changed their group leader, with Kathryn Wheatley replacing Matthew Patrick.<ref>{{cite news |last1=Morris Poxton |first1=Ivan |title=Labour changes its leader in North East Lincolnshire after local elections |url=https://www.grimsbytelegraph.co.uk/news/grimsby-news/labour-changes-leader-north-east-8444553 |access-date=22 May 2023 |work=Grimsby Live |date=17 May 2023}}</ref>
+
+== Results summary ==
+Following the results, the council remained under Conservative control.<ref>{{Cite news |date=2023-05-05 |title=Local election results 2023: Conservatives retain North East Lincolnshire |language=en-GB |work=BBC News |url=https://www.bbc.com/news/uk-england-humber-65491156 |access-date=2023-05-07}}</ref><ref>{{cite news |last1=Page |first1=Mark |last2=Craig |first2=Peter |title=North East Lincolnshire local election results recap as Conservatives stay in control but make losses |url=https://www.grimsbytelegraph.co.uk/news/grimsby-news/north-east-lincolnshire-election-results-8413825 |access-date=22 May 2023 |work=Grimsby Live |date=5 May 2023}}</ref>
+{{Election summary partial council net begin|title = 2023 North East Lincolnshire Council election}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 7
+  |net           = {{decrease}} 3
+  |seats %       = 46.7
+  |other seats   = 20
+  |total seats   = '''27'''
+  |total seats % = 64.2
+  |votes         = 11,039
+  |votes %       = 41.5
+  |plus/minus    = {{decrease}} 5.8
+}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 5
+  |net           = {{increase}} 1
+  |seats %       = 33.3
+  |other seats   = 4
+  |total seats   = '''9'''
+  |total seats % = 21.4
+  |votes         = 10,121
+  |votes %       = 38.1
+  |plus/minus    = {{increase}} 3.3
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 2
+  |net           = {{increase}} 2
+  |seats %       = 13.3
+  |other seats   = 1
+  |total seats   = '''3'''
+  |total seats % = 7.2
+  |votes         = 2,551
+  |votes %       = 9.6
+  |plus/minus    = {{increase}} 4.7
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 1
+  |net           = {{steady}}
+  |seats %       = 6.7
+  |other seats   = 2
+  |total seats   = '''3'''
+  |total seats % = 7.2
+  |votes         = 1,856
+  |votes %       = 7.0
+  |plus/minus    = {{decrease}} 3.6
+}}
+{{Election summary partial council net party|
+  |party         = Trade Unionist and Socialist Coalition
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 654
+  |votes %       = 2.4
+  |plus/minus    = {{increase}} 1.1
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{steady}}
+  |seats %       = 0.0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 368
+  |votes %       = 1.4
+  |plus/minus    = {{increase}} 0.6
+}}
+{{Election box end}}
+
+== Ward results ==
+Incumbents are marked with an asterisk (*).
+
+=== Croft Baker ===
+{{Election box begin | title=Croft Baker}}
+{{Election box winning candidate with party link
+   |party      = Labour and Co-operative Party
+   |candidate  = Malcolm Morland
+   |votes      = 969
+   |percentage = 52.2
+   |change     = +15.0
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Bob Callison*
+   |votes      = 782
+   |percentage = 42.1
+   |change     = -9.6
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Julian Best
+   |votes      = 107
+   |percentage = 5.7
+   |change     = +3.7
+}}
+{{Election box majority
+   |votes      = 187
+   |percentage = 10.1
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,858
+   |percentage = 22.6
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Labour and Co-operative Party
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== East Marsh ===
+{{Election box begin | title=East Marsh}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Nicola Aisthorpe*
+   |votes      = 608
+   |percentage = 55.7
+   |change     = -4.4
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Kay Rudd
+   |votes      = 373
+   |percentage = 34.2
+   |change     = +9.9
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Callum Procter
+   |votes      = 82
+   |percentage = 7.5
+   |change     = -6.7
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Lee Coulbeck
+   |votes      = 28
+   |percentage = 2.6
+   |change     = -4.7
+}}
+{{Election box majority
+   |votes      = 235
+   |percentage = 21.5
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,091
+   |percentage = 16.0
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Freshney ===
+{{Election box begin | title=Freshey}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Lyndsey Downes
+   |votes      = 964
+   |percentage = 46.3
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Sheldon Mill
+   |votes      = 576
+   |percentage = 27.7
+   |change     = -3.6
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Anna Griffiths
+   |votes      = 294
+   |percentage = 14.1
+   |change     = 19.1
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Mick Kiff
+   |votes      = 146
+   |percentage = 11.9
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 388
+   |percentage = 18.6
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,080
+   |percentage = 29.2
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Haverstoe ===
+{{Election box begin | title=Haverstoe}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Keith Brookes*
+   |votes      = 1,464
+   |percentage = 63.0
+   |change     = -5.0
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Samantha Brown
+   |votes      = 761
+   |percentage = 32.7
+   |change     = +0.7
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Cameron Warren
+   |votes      = 100
+   |percentage = 4.3
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 703
+   |percentage = 30.3
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,325
+   |percentage = 29.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Heneage ===
+{{Election box begin | title=Heneage}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Matthew Patrick*
+   |votes      = 891
+   |percentage = 56.2
+   |change     = +15.6
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Trevor Crofts
+   |votes      = 511
+   |percentage = 32.2
+   |change     = +1.9
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Daniel Young
+   |votes      = 122
+   |percentage = 7.7
+   |change     = -19.7
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = John Stiff
+   |votes      = 61
+   |percentage = 3.9
+   |change     = +2.3
+}}
+{{Election box majority
+   |votes      = 380
+   |percentage = 24.0
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,585
+   |percentage = 20.3
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Humberston and New Waltham ===
+{{Election box begin | title=Humberston and New Waltham}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stan Shreeve*
+   |votes      = 1,534
+   |percentage = 63.7
+   |change     = -6.8
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ian Townsend
+   |votes      = 875
+   |percentage = 36.3
+   |change     = +6.8
+}}
+{{Election box majority
+   |votes      = 659
+   |percentage = 27.4
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,409
+   |percentage = 24.8
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Immingham ===
+{{Election box begin | title=Immingham}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Karen Swinburn*
+   |votes      = 886
+   |percentage = 48.8
+   |change     = -6.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Sam Wrexham Holborow
+   |votes      = 647
+   |percentage = 35.6
+   |change     = +1.8
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Dave Barton
+   |votes      = 237
+   |percentage = 13.1
+   |change     = +4.0
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Nathan Newton
+   |votes      = 46
+   |percentage = 2.5
+   |change     = +0.7
+}}
+{{Election box majority
+   |votes      = 239
+   |percentage = 13.2
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,816
+   |percentage = 20.5
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Park ===
+{{Election box begin | title=Park}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Marian Boyd*
+   |votes      = 869
+   |percentage = 40.0
+   |change     = -0.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Edward Kaczmarek
+   |votes      = 741
+   |percentage = 34.1
+   |change     = 6.3
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Ryan Aisthorpe
+   |votes      = 387
+   |percentage = 17.8
+   |change     = -11.3
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Andrew Dickson
+   |votes      = 126
+   |percentage = 5.8
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Dave Mitchell
+   |votes      = 52
+   |percentage = 2.3
+   |change     = -0.3
+}}
+{{Election box majority
+   |votes      = 128
+   |percentage = 5.9
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,175
+   |percentage = 25.3
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Scartho ===
+{{Election box begin | title=Scartho}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Ian Lindley*
+   |votes      = 1,399
+   |percentage = 53.6
+   |change     = -2.7
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Robson Augusta
+   |votes      = 1,097
+   |percentage = 43.9
+   |change     = +0.2
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Val Pow
+   |votes      = 63
+   |percentage = 2.5
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 302
+   |percentage = 9.7
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,499
+   |percentage = 28.3
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Sidney Sussex ===
+{{Election box begin | title=Sidney Sussex}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Janet Haggis
+   |votes      = 793
+   |percentage = 54.0
+   |change     = +5.2
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Christine Vickers
+   |votes      = 545
+   |percentage = 37.1
+   |change     = -7.4
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Mark Gee
+   |votes      = 130
+   |percentage = 8.9
+   |change     = +2.2
+}}
+{{Election box majority
+   |votes      = 248
+   |percentage = 16.9
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,468
+   |percentage = 18.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== South ===
+{{Election box begin | title=South}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Janet Goodwin*
+   |votes      = 755
+   |percentage = 58.0
+   |change     = +5.7
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Burch
+   |votes      = 319
+   |percentage = 24.5
+   |change     = -13.9
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Jane Bramley
+   |votes      = 87
+   |percentage = 6.7
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Karen Batson
+   |votes      = 74
+   |percentage = 5.7
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Phillip Moulson
+   |votes      = 45
+   |percentage = 3.4
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Bill Ward
+   |votes      = 22
+   |percentage = 1.7
+   |change     = -0.2
+}}
+{{Election box majority
+   |votes      = 436
+   |percentage = 33.5
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,302
+   |percentage = 15.1
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Waltham ===
+{{Election box begin | title=Waltham}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Philip Jackson*
+   |votes      = 1,052
+   |percentage = 61.4
+   |change     = -7.7
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Peter Bailey
+   |votes      = 512
+   |percentage = 29.9
+   |change     = -1.0
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Lorna Kirman
+   |votes      = 148
+   |percentage = 8.7
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 540
+   |percentage = 31.5
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,712
+   |percentage = 30.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== West Marsh ===
+{{Election box begin | title=West Marsh}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Karl Wilson*
+   |votes      = 412
+   |percentage = 49.3
+   |change     = -3.4
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Peter Barker
+   |votes      = 162
+   |percentage = 19.4
+   |change     = -27.9
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Marco Lawless
+   |votes      = 107
+   |percentage = 12.8
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Hugh Richies
+   |votes      = 102
+   |percentage = 12.2
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Keith Watkin
+   |votes      = 31
+   |percentage = 3.7
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Heather Davis
+   |votes      = 21
+   |percentage = 2.6
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 250
+   |percentage = 29.9
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 835
+   |percentage = 16.4
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Wolds ===
+{{Election box begin | title=Wolds}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Henry Hudson*
+   |votes      = 749
+   |percentage = 42.8
+   |change     = -8.2
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Loyd Emmerson
+   |votes      = 632
+   |percentage = 36.1
+   |change     = +12.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Wil Wheaton Chapman
+   |votes      = 274
+   |percentage = 15.7
+   |change     = -2.7
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Jonathan Kirman
+   |votes      = 94
+   |percentage = 5.4
+   |change     = -1.6
+}}
+{{Election box majority
+   |votes      = 117
+   |percentage = 6.7
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,749
+   |percentage = 28.3
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+=== Yarborough ===
+{{Election box begin | title=Yarborough}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Paul Henderson
+   |votes      = 805
+   |percentage = 44.1
+   |change     = ''New''
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = David Watson
+   |votes      = 546
+   |percentage = 29.9
+   |change     = -17.9
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Garry Abel*
+   |votes      = 451
+   |percentage = 24.7
+   |change     = -27.5
+}}
+ {{Election box candidate with party link
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Phil Tuplin
+   |votes      = 24
+   |percentage = 1.3
+   |change     = ''New''
+}}
+{{Election box majority
+   |votes      = 259
+   |percentage = 14.2
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,826
+   |percentage = 21.5
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{Lincolnshire elections}}
+{{2023 United Kingdom local elections}}
+
+[[Category:2023 English local elections|North East Lincolnshire]]
+[[Category:May 2023 in the United Kingdom]]
+[[Category:North East Lincolnshire Council elections]]
+[[Category:2020s in Lincolnshire]]
