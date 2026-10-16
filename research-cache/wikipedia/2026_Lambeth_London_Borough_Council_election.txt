@@ -100,7 +100,7 @@ In May 2025, a by-election was held in Herne Hill and Loughborough Junction foll
 ===Affiliation changes===
 Cllr Martin Abrams resigned from the Labour Party in August 2025, highlighting a culture of alleged bullying and factionalism. He was suspended by Lambeth Labour in early 2024 after voting for a ceasefire motion in Gaza.<ref>{{cite web|url=https://insidecroydon.com/2025/08/29/jewish-councillor-quits-labour-over-bullying-and-anti-semitism/|title=Jewish councillor quits Labour claiming he has been bullied|date=29 August 2025|work=Inside Croydon|accessdate=9 May 2026}}</ref> He joined the Greens in September 2025, making them the official opposition group on Lambeth Council.<ref>{{cite web|url=https://www.brixtonbuzz.com/2025/09/ex-labour-councillor-martin-abrams-defects-to-lambeth-greens-party-now-becomes-official-opposition-at-town-hall/|title=Ex-Labour councillor Martin Abrams defects to Lambeth Greens – party now becomes official opposition at Town Hall|first=Jason|last=Cobb|date=11 September 2025|work=Brixton Buzz|accessdate=9 May 2026}}</ref>
 
-In July 2025, Cllr Irfan Mohammed was suspended from Labour after being charged with a criminal offences relating to exposure, controlling behaviour and sexual assault.<ref>{{cite web | title=UPDATE: Full details emerge after Lambeth Labour councillor Irfan Mohammed charged with controlling behaviour, sexual assault and exposure | url=https://www.brixtonbuzz.com/2025/07/update-full-details-emerge-after-lambeth-labour-councillor-irfan-mohammed-charged-with-controlling-behaviour-sexual-assault-and-exposure/|work=Brixton Buzz|date=17 July 2025|first=Jason|last=Cobb|accessdate=21 May 2026 }}</ref> He sat as an Independent.<ref>{{cite web | title=Lambeth Labour councillor charged and suspended as party moves to limit fallout | url=https://www.brixtonbuzz.com/2025/07/lambeth-labour-councillor-charged-and-suspended-as-party-moves-to-limit-fallout/|work=Brixton Buzz|first=Jason|last=Cobb|accessdate=21 May 2026 }}</ref>
+In July 2025, Cllr Irfan Mohammed was suspended from Labour after being charged with a criminal offences relating to exposure, controlling behaviour and sexual assault.<ref>{{cite web | title=UPDATE: Full details emerge after Lambeth Labour councillor Irfan Mohammed charged with controlling behaviour, sexual assault and exposure | url=https://www.brixtonbuzz.com/2025/07/update-full-details-emerge-after-lambeth-labour-councillor-irfan-mohammed-charged-with-controlling-behaviour-sexual-assault-and-exposure/|work=Brixton Buzz|date=17 July 2025|first=Jason|last=Cobb|accessdate=21 May 2026 }}</ref> He sat as an independent.<ref>{{cite web | title=Lambeth Labour councillor charged and suspended as party moves to limit fallout | url=https://www.brixtonbuzz.com/2025/07/lambeth-labour-councillor-charged-and-suspended-as-party-moves-to-limit-fallout/|work=Brixton Buzz|first=Jason|last=Cobb|accessdate=21 May 2026 }}</ref>
 
 In November 2025, Cllr Christiana (Tina) Valcarcel, defected to the [[Liberal Democrats (UK)|Liberal Democrats]], making them the joint opposition party on the council.<ref>{{Cite web |last=Burford |first=Rachael |date=12 November 2025 |title=London Labour sees more defections as support for Keir Starmer’s party plunges |url=https://www.standard.co.uk/news/politics/london-labour-defections-councillors-keir-starmer-lambeth-b1257406.html |access-date=20 November 2025|work=The Standard}}</ref>
 
@@ -811,35 +811,35 @@ Liam Daley was a councillor for [[Kennington (ward)|Kennington ward]], elected i
 |candidate  = Michael Ball
 |votes      = 842
 |percentage = 43.8
-|change     = +11.6
+|change     = {{increase}}11.6
 }}
 {{Election box candidate with party link
 |party      = Labour and Co-operative Party
 |candidate  = Louie Somerville-Sutherland
 |votes      = 799
 |percentage = 41.5
-|change     = +5.7
+|change     = {{increase}}5.7
 }}
 {{Election box candidate with party link
 |party      = Liberal Democrats (UK, 2025)
 |candidate  = Ben Amos
 |votes      = 108
 |percentage = 5.6
-|change     = -4.6
+|change     = {{decrease}} 4.6
 }}
 {{Election box candidate with party link
 |party      = Conservative Party (UK)
 |candidate  = Joshua Forrester
 |votes      = 85
 |percentage = 4.4
-|change     = -4.2
+|change     = {{decrease}} 4.2
 }}
 {{Election box candidate with party link
 |party      = Reform UK
 |candidate  = Martin Read
 |votes      = 71
 |percentage = 3.7
-|change     = -2.9
+|change     = {{decrease}} 2.9
 }}
 {{Election box candidate with party link
 |party      = Christian Peoples Alliance
@@ -863,7 +863,7 @@ Liam Daley was a councillor for [[Kennington (ward)|Kennington ward]], elected i
 {{Election box turnout 
 |votes      = 1,923
 |percentage = 20.1
-|change     = -13.0
+|change     = {{decrease}} 13.0
 }}
 {{Election box registered electors
    |reg. electors = 9,559
@@ -881,35 +881,35 @@ Liam Daley was a councillor for [[Kennington (ward)|Kennington ward]], elected i
 |candidate  = Alex Davies
 |votes      = 1,161
 |percentage = 41.7
-|change     = +26.3
+|change     = {{increase}} 26.3
 }}
 {{Election box candidate with party link
 |party      = Green Party of England and Wales
 |candidate  = Dario Goodwin
 |votes      = 972
 |percentage = 35.0
-|change     = -12.5
+|change     = {{decrease}} 12.5
 }}
 {{Election box candidate with party link
 |party      = Labour Party (UK)
 |candidate  = Jade Albas
 |votes      = 421
 |percentage = 15.1
-|change     = -7.9
+|change     = {{decrease}} 7.9
 }}
 {{Election box candidate with party link
 |party      = Conservative Party (UK)
 |candidate  = Chris Cousins
 |votes      = 119
 |percentage = 4.3
-|change     = -3.1
+|change     = {{decrease}} 3.1
 }}
 {{Election box candidate with party link
 |party      = Reform UK
 |candidate  = Mark McKee
 |votes      = 71
 |percentage = 2.6
-|change     = -4.2
+|change     = {{decrease}} 4.2
 }}
 {{Election box candidate with party link
 |party      = Christian Peoples Alliance
@@ -926,7 +926,7 @@ Liam Daley was a councillor for [[Kennington (ward)|Kennington ward]], elected i
 {{Election box turnout 
 |votes      = 2,781
 |percentage = 25.8
-|change     = -13.4
+|change     = {{decrease}} 13.4
 }}
 {{Election box registered electors
    |reg. electors = 10,791
@@ -941,16 +941,16 @@ Liam Daley was a councillor for [[Kennington (ward)|Kennington ward]], elected i
 === Myatt's Fields ===
 
 {{Election box begin|title=Myatt's Fields by-election: 8 October 2026<ref>https://www.lambeth.gov.uk/voting-elections/myatts-fields-election-thursday-8-october-2026</ref><br><small>Death of Annie Gallop (Labour Co-op)</small><ref>https://love.lambeth.gov.uk/lambeth-date-set-for-myatts-fields-by-election-following-death-of-local-councillor/</ref>}}
-{{Election box candidate with party link|party=Christian Peoples Alliance|candidate=Yemi Awolola|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Chris French|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Labour and Co-operative Party|candidate=Molly Hartill|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Hinsdon|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Socialist Party of Great Britain|candidate=Anya Krycek|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Reform UK|candidate=Mark McKee|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Sonia Winifred|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box winning candidate with party link|party=Labour and Co-operative Party|candidate=Molly Hartill|votes=1026|percentage=46.7|change={{increase}}10.3}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Sonia Winifred|votes=815|percentage=37.1|change={{decrease}}2.0}}
+{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Chris French|votes=189|percentage=8.6|change={{increase}}1.5}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=John Hinsdon|votes=74|percentage=3.4|change={{decrease}}1.8}}
+{{Election box candidate with party link|party=Reform UK|candidate=Mark McKee|votes=58|percentage=2.6|change={{decrease}}2.7}}
+{{Election box candidate with party link|party=Christian Peoples Alliance|candidate=Yemi Awolola|votes=26|percentage=1.2|change=''N/A''}}
+{{Election box candidate with party link|party=Socialist Party of Great Britain|candidate=Anya Krycek|votes=9|percentage=0.4|change=''N/A''}}
+{{Election box majority|votes=211|percentage=9.6|change=''N/A''}}
+{{Election box turnout|votes=2204|percentage=26.3|change=-10.8}}
+{{Election box hold with party link|winner=Labour and Co-operative Party|loser=|swing=}}
  {{Election box end}}
 
 ==Notes==

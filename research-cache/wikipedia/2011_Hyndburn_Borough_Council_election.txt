@@ -1,0 +1,494 @@
+{{Short description|English local election}}
+{{More references|date=August 2026}}
+{{Use British English|date=November 2013}}
+{{Use dmy dates|date=January 2024}}
+{{main|Hyndburn Borough Council elections}}{{Infobox election
+| election_name = 2011 Hyndburn Borough Council election
+| country = 
+| type = parliamentary
+| ongoing = no
+| previous_election = 2010 Hyndburn Borough Council election
+| previous_year = 2010
+| next_election = 2012 Hyndburn Borough Council election
+| next_year = 2012
+| seats_for_election = 11 of 35 seats to [[Hyndburn Borough Council]]
+| election_date = 5 May 2011
+| majority_seats = 18
+| party1 = Labour Party (UK)
+| image1 = [[File:No image wide.svg|95x50px|Blank]]
+| leader1 = Miles Parkinson
+| seats_before1 = 15
+| seats_after1 = 18
+| seat_change1 = {{increase}}3
+| party2 = Conservative Party (UK)
+| image2 = [[File:No image wide.svg|95x50px|Blank]]
+| leader2 = Peter Britcliffe
+| seats_before2 = 18
+| seats_after2 = 14
+| seat_change2 = {{decrease}}4
+| party4 = [[Independent politician|Independents in Hyndburn]]
+| image4 = [[File:No image wide.svg|95x50px|Blank]]
+| leader4 = David Mason
+| seats_before4 = 2
+| seats_after4 = 3
+| seat_change4 = {{increase}}1
+| map_image = File:Hyndburn UK local election 2011 map.svg
+| map_caption = 2011 local election results in Hyndburn
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#c0c0c0ff|[[Independent politician|Independent]]}}
+{{legend|#808080|Not contested}}
+| leaders_seat1 = Altham
+| leaders_seat2 = St Andrew's
+}}Elections to [[Hyndburn]] Borough Council were held on 5 May 2011. One third of the council-seats were up for election.
+
+{{TOC limit|3}}
+
+==Background==
+Before the election  [[Conservative Party (UK)|Conservatives]] had a single-seat majority of 18 councillors, [[Labour Party (UK)|Labour]] had 15 councillors, while [[Independent (politician)]] had 2 councillors.
+
+Conservative and Labour candidates contested for every seat. Independents were defending a single seat, but 'various' candidates were contesting five wards. UKIP's only single candidate contested in the Central ward.
+
+==Local election result==
+After the election, the composition of the council was:<ref>{{cite web |title=Vote 2011 - Hyndburn seats at a glance |url=https://www.bbc.co.uk/news/special/election2011/council/html/30ug.stm |website=[[BBC News]] |access-date=2 August 2026}}</ref>
+
+*[[Labour Party (UK)|Labour]] 18
+*[[Conservative Party (UK)|Conservative]] 14
+*[[Independent (politician)|Independent]] 3
+
+{{Election summary begin|title = Hyndburn local election result 2011 - over just 12 wards}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 7
+  |gain       = 3
+  |loss       = 0
+  |net        = 3
+  |seats %    = 58.33
+  |votes %    = 51.3
+  |votes      = 10,173
+  |plus/minus = 1,956
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 3
+  |gain       = 0
+  |loss       = 4
+  |net        = -4
+  |seats %    = 25.0
+  |votes %    = 40.0
+  |votes      = 7,932
+  |plus/minus = -680
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 2
+  |gain       = 1
+  |loss       = 0
+  |net        = 1
+  |seats %    = 8.6
+  |votes %    = 8.3
+  |votes      = 1,639
+  |plus/minus = 801
+}}
+{{Election summary party|
+  |party      = UKIP
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = ...
+  |votes %    = ...
+  |votes      = 88
+  |plus/minus = N/A
+}}
+{{Election box end}}
+
+The four (out of 16) Hyndburn Local Borough Council ward seats that were NOT up for re-election in 2011 included the following wards - Netherton in Gt. Harwood, Peel and Spring Hill in Accrington, plus St. Andrews in Oswaldtwistle.
+
+==Ward results==
+
+===Altham===
+{{Election box begin | title=Altham}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Miles Parkinson
+  |votes      = 999
+  |percentage = 65.77
+  |change     = 3.77
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Todd
+  |votes      = 520
+  |percentage = 34.23
+  |change     = -3.77
+}}
+{{Election box turnout|
+  |votes      = 1,519
+  |percentage = 37.9
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Barnfield===
+{{Election box begin | title=Barnfield}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = June Harrison
+  |votes      = 756
+  |percentage = 50.98
+  |change     = 20.28
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Barton
+  |votes      = 650
+  |percentage = 43.83
+  |change     = -12.07
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Tony Hindle
+  |votes      = 77
+  |percentage = 5.19
+  |change     = N/A
+}}
+{{Election box turnout|
+  |votes      = 1,483
+  |percentage = 44.3
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Baxenden===
+{{Election box begin | title=Baxenden}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kath Pratt
+  |votes      = 845
+  |percentage = 57.44
+  |change     = -15.16
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Hartley
+  |votes      = 626
+  |percentage = 42.56
+  |change     = 15.16
+}}
+{{Election box turnout|
+  |votes      = 1,471
+  |percentage = 45.2
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Central===
+{{Election box begin | title=Central}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mohammed Ayub
+  |votes      = 1602
+  |percentage = 71.71
+  |change     = 14.31
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Razaq Hussain
+  |votes      = 544
+  |percentage = 24.35
+  |change     = -18.25
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Bobby Anwar
+  |votes      = 88
+  |percentage = 3.94
+  |change     = N/A
+}}
+{{Election box turnout|
+  |votes      = 2,234
+  |percentage = 59.9
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Church===
+{{Election box begin | title=Church}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Broadley
+  |votes      = 845
+  |percentage = 66.12
+  |change     = 4.22
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mohammed Hussain
+  |votes      = 433
+  |percentage = 33.88
+  |change     = -4.22
+}}
+{{Election box turnout|
+  |votes      = 1,278
+  |percentage = 39.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Clayton-le-Moors===
+{{Election box begin | title=Clayton-le-Moors}}
+{{Election box candidate|
+  |party      = Independents in Hyndburn
+  |candidate  = Nick Collingridge
+  |votes      = 579
+  |percentage = 36.28
+  |change     = N/A
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Chris Fisher
+  |votes      = 575
+  |percentage = 36.03
+  |change     = -10.67
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Janet Storey
+  |votes      = 442
+  |percentage = 27.69
+  |change     = -25.61
+}}
+{{Election box turnout|
+  |votes      = 1,596
+  |percentage = 43.5
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Huncoat===
+{{Election box begin | title=Huncoat}}
+{{Election box candidate|
+  |party      = Independents in Hyndburn 
+  |candidate  = David Parkins
+  |votes      = 980
+  |percentage = 63.64
+  |change     = 9.84
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Hurn
+  |votes      = 345
+  |percentage = 22.40
+  |change     = 4.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sam Cudworth
+  |votes      = 215
+  |percentage = 13.96
+  |change     = -14.54
+}}
+{{Election box turnout|
+  |votes      = 1,540
+  |percentage = 44.3
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Independent (politician)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Immanuel===
+{{Election box begin | title=Immanuel}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Judith Addison
+  |votes      = 878
+  |percentage = 54.57
+  |change     = 2.37
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John McCormack
+  |votes      = 731
+  |percentage = 45.43
+  |change     = -2.37
+}}
+{{Election box turnout|
+  |votes      = 1,609
+  |percentage = 45.7
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Milnshaw===
+{{Election box begin | title=Milnshaw}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Cox
+  |votes      = 710
+  |percentage = 45.37
+  |change     = -19.83
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roger Jepson
+  |votes      = 372
+  |percentage = 23.77
+  |change     = -11.03
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Malcolm Pritchard
+  |votes      = 460
+  |percentage = 29.39
+  |change     = N/A
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Christian Rayner
+  |votes      = 23
+  |percentage = 1.47
+  |change     = N/A
+}}
+{{Election box turnout|
+  |votes      = 1,565
+  |percentage = 44.6
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Overton===
+{{Election box begin | title=Overton}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gareth Molineux
+  |votes      = 988
+  |percentage = 44.34
+  |change     = 1.94
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roy Atkinson
+  |votes      = 740
+  |percentage = 33.21
+  |change     = -24.39
+}}
+{{Election box candidate|
+  |party      = Independents in Hyndburn
+  |candidate  = David Mason
+  |votes      = 500
+  |percentage = 22.44
+  |change     = N/A
+}}
+{{Election box turnout|
+  |votes      = 2,228
+  |percentage = 44.6
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Rishton===
+{{Election box begin | title=Rishton}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Clare Cleary
+  |votes      = 1180
+  |percentage = 52.28
+  |change     = 4.38
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stanley Horne
+  |votes      = 1077
+  |percentage = 47.72
+  |change     = -4.38
+}}
+{{Election box turnout|
+  |votes      = 2,257
+  |percentage = 44.4
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===St. Oswald's===
+{{Election box begin | title=St. Oswald's}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brian Roberts
+  |votes      = 1086
+  |percentage = 53.44
+  |change     = -9.36
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stewart Eaves
+  |votes      = 946
+  |percentage = 46.56
+  |change     = 9.36
+}}
+{{Election box turnout|
+  |votes      = 2,032
+  |percentage = 39.9
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{Lancashire elections}}
+{{United Kingdom local elections, 2011}}
+
+[[Category:2011 English local elections|Hyndburn]]
+[[Category:Hyndburn Borough Council elections|2011]]
+[[Category:2010s in Lancashire]]

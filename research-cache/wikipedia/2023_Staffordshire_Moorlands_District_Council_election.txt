@@ -25,13 +25,13 @@
 | image2            = [[File:No image wide.svg|95x50px|Blank]]
 | leader2           = Paul Roberts
 | party2            = Conservative Party (UK)
-| last_election2    = 25 seats, 36.3%
+| last_election2    = 25 seats, 36.2%
 | seats_before2     = 29
 | seats2            = '''22'''
 | seat_change2      = {{decrease}}3
 | popular_vote2     = 16,242
 | percentage2       = 34.7%
-| swing2            = {{decrease}}1.6%
+| swing2            = {{decrease}}1.5%
 <!-- Independent -->
 | image3            = [[File:No image wide.svg|95x50px|Blank]]
 | leader3           = 
@@ -84,13 +84,13 @@ The '''2023 Staffordshire Moorlands District Council election''' took place on 4
 The Conservatives lost their majority at this election, with the council going under [[no overall control]] and Labour overtaking the Conservatives to become the largest party.
 
 ==Summary==
-At the previous [[2019 Staffordshire Moorlands District Council election|2019 election]] the Conservatives had lost control of the council to no overall control and subsequently formed an administration with some of the independent councillors. Following a number of by-elections and changes of allegiance the Conservatives regained a majority of the seats on the council during May 2022.<ref>{{cite news |last1=Boothroyd |first1=David |title=Post-election roundup |url=https://www.localcouncils.co.uk/2022/05/post-election-roundup-2/ |access-date=30 December 2023 |work=Local Councils |publisher=Thorncliffe |date=13 May 2022}}</ref>
+At the previous [[2019 Staffordshire Moorlands District Council election|2019 election]] the Conservatives had lost control of the council to no overall control and subsequently formed an administration with some of the independent councillors. Following a number of by-elections and changes of allegiance the Conservatives regained a majority of the seats on the council during May 2022.<ref>{{cite news |last1=Boothroyd |first1=David |title=Post-election roundup |url=https://www.localcouncils.co.uk/2022/05/post-election-roundup-2/ |access-date=30 December 2023 |work=Local Councils |publisher=Thorncliffe |date=13 May 2022 |archive-url=https://web.archive.org/web/20260613025945/https://www.localcouncils.co.uk/2022/05/post-election-roundup-2/ |archive-date=13 June 2026}}</ref>
 
-Following the results, the Conservatives lost the council to [[no overall control]]. Labour was the largest party after the election and was able to form a minority administration with the informal support of independent councillors. Labour's group leader, Mike Gledhill, was appointed leader of the council at the subsequent annual council meeting on 17 May 2023.<ref>{{cite news |last1=Price |first1=Richard |title=Deadlock broken as Labour takes control of Staffordshire Moorlands District Council |url=https://www.stokesentinel.co.uk/news/stoke-on-trent-news/deadlock-broken-labour-takes-control-8450368 |access-date=30 December 2023 |work=Stoke-on-Trent Live |date=19 May 2023}}</ref><ref>{{cite web |title=Council minutes, 17 May 2023 |url=https://democracy.highpeak.gov.uk/ieListDocuments.aspx?CId=133&MId=2507&Ver=4 |website=Staffordshire Moorlands District Council |access-date=30 December 2023}}</ref>
+Following the results, the Conservatives lost the council to [[no overall control]]. Labour was the largest party after the election and was able to form a minority administration with the informal support of independent councillors. Labour's group leader, Mike Gledhill, was appointed leader of the council at the subsequent annual council meeting on 17 May 2023.<ref>{{cite news |last1=Price |first1=Richard |title=Deadlock broken as Labour takes control of Staffordshire Moorlands District Council |url=https://www.stokesentinel.co.uk/news/stoke-on-trent-news/deadlock-broken-labour-takes-control-8450368 |access-date=30 December 2023 |work=Stoke-on-Trent Live |date=19 May 2023 |archive-url=https://web.archive.org/web/20240225140947/https://www.stokesentinel.co.uk/news/stoke-on-trent-news/deadlock-broken-labour-takes-control-8450368 |archive-date=25 February 2024}}</ref><ref>{{cite web |title=Council minutes, 17 May 2023 |url=https://democracy.highpeak.gov.uk/ieListDocuments.aspx?CId=133&MId=2507&Ver=4 |website=Staffordshire Moorlands District Council |access-date=30 December 2023 |archive-url=https://web.archive.org/web/20250909222710/https://democracy.highpeak.gov.uk/ieListDocuments.aspx?CId=133&MId=2507&Ver=4 |archive-date=9 September 2025}}</ref>
 
 == Results ==
-{{Local election summary begin|title=2023 Staffordshire Moorlands District Council Election<ref>{{cite news |title=Staffordshire Moorlands election result |url=https://www.bbc.co.uk/news/election/2023/england/councils/E07000198 |access-date=30 December 2023 |work=BBC News |date=May 2023}}</ref>
-<ref name=Coyle>{{cite news |last1=Coyle |first1=Simon |title=Staffordshire Moorlands council elections 2023 results in full |url=https://www.manchestereveningnews.co.uk/news/uk-news/stafford-council-elections-2023-results-26844318 |access-date=30 December 2023 |work=Manchester Evening News |date=4 May 2023}}</ref>}}
+{{Local election summary begin|title=2023 Staffordshire Moorlands District Council Election<ref>{{cite news |title=Staffordshire Moorlands election result |url=https://www.bbc.co.uk/news/election/2023/england/councils/E07000198 |access-date=30 December 2023 |work=BBC News |date=May 2023 |archive-url=https://web.archive.org/web/20251007155702/https://www.bbc.co.uk/news/election/2023/england/councils/E07000198 |archive-date=7 October 2025}}</ref>
+<ref name=Coyle>{{cite news |last1=Coyle |first1=Simon |title=Staffordshire Moorlands council elections 2023 results in full |url=https://www.manchestereveningnews.co.uk/news/uk-news/stafford-council-elections-2023-results-26844318 |access-date=30 December 2023 |work=Manchester Evening News |date=4 May 2023 |archive-url=https://web.archive.org/web/20230516194730/https://www.manchestereveningnews.co.uk/news/uk-news/stafford-council-elections-2023-results-26844318 |archive-date=16 May 2023}}</ref>}}
 {{Local election summary party
   |party         = Labour Party (UK)
   |candidates    = 35
@@ -113,7 +113,7 @@ Following the results, the Conservatives lost the council to [[no overall contro
   |votes %       = 34.7
   |seats %       = 39.3
   |votes         = 16,242
-  |plus/minus    =-1.6
+  |plus/minus    =-1.5
 }}
 {{Local election summary party
   |party         = Green Party of England and Wales
@@ -153,7 +153,7 @@ Following the results, the Conservatives lost the council to [[no overall contro
 }}
 {{Local election summary party
   |party         = Independent politician
-  |candidates    = 25
+  |candidates    = 24
   |seats         = '''8'''
   |gain          = 0
   |loss          = 9
@@ -167,12 +167,12 @@ Following the results, the Conservatives lost the council to [[no overall contro
 {{Election box end}}
 
 ==Ward results==
-The results for each ward were as follows, with an asterisk (*) indicating an incumbent councillor standing for re-election.<ref name=Coyle/><ref>{{cite web |title=District Council Elections 4 May 2023 |url=https://www.staffsmoorlands.gov.uk/article/4178/District-Council-Elections-4-May-2023 |website=Staffordshire Moorlands District Council |access-date=30 December 2023}}</ref><ref>{{cite web |title=Councillors |url=https://democracy.staffsmoorlands.gov.uk/mgMemberIndexGroup.aspx?g=smcllrs&m=smcllrs |website=Staffordshire Moorlands District Council |access-date=30 December 2023 |archive-url=https://web.archive.org/web/20230404180409/https://democracy.staffsmoorlands.gov.uk/mgMemberIndexGroup.aspx?g=smcllrs&m=smcllrs |archive-date=4 April 2023}}</ref>
+The results for each ward were as follows, with an asterisk (*) indicating an incumbent councillor standing for re-election.<ref name=Coyle/><ref>{{cite web |title=District Council Elections 4 May 2023 |url=https://www.staffsmoorlands.gov.uk/article/4178/District-Council-Elections-4-May-2023 |website=Staffordshire Moorlands District Council |access-date=30 December 2023 |archive-url=https://web.archive.org/web/20260314014730/https://www.staffsmoorlands.gov.uk/article/4178/District-Council-Elections-4-May-2023 |archive-date=14 March 2026}}</ref><ref>{{cite web |title=Councillors |url=https://democracy.staffsmoorlands.gov.uk/mgMemberIndexGroup.aspx?g=smcllrs&m=smcllrs |website=Staffordshire Moorlands District Council |access-date=30 December 2023 |archive-url=https://web.archive.org/web/20230404180409/https://democracy.staffsmoorlands.gov.uk/mgMemberIndexGroup.aspx?g=smcllrs&m=smcllrs |archive-date=4 April 2023}}</ref>
 ===Alton===
-{{Election box begin | title=Alton}}
+{{Election box begin | title=Alton<ref>{{cite web |title=Declaration of result of poll – Alton Ward |url=https://www.staffsmoorlands.gov.uk/media/8246/Results-for-Alton-Ward/pdf/8gAlton.pdf?m=1683296279470 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250421043907/https://www.staffsmoorlands.gov.uk/media/8246/Results-for-Alton-Ward/pdf/8gAlton.pdf?m=1683296279470 |archive-date=21 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Nigel John Moult
+   |candidate  = Nigel Moult
    |votes      = 209
    |percentage = 54.9
    |change     = -11.6
@@ -185,10 +185,23 @@ The results for each ward were as follows, with an asterisk (*) indicating an in
    |change     = +11.6
 }}
 
+{{Election box majority
+   |votes      = 37
+   |percentage = 9.7
+   |change     = 
+ }}
 {{Election box turnout
-   |votes      = 381
+   |votes      = 384
    |percentage = 33.3
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,152
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -198,10 +211,10 @@ The results for each ward were as follows, with an asterisk (*) indicating an in
 {{Election box end}}
 
 ===Bagnall and Stanley===
-{{Election box begin | title=Bagnall and Stanley}}
+{{Election box begin | title=Bagnall and Stanley<ref>{{cite web |title=Declaration of result of poll – Bagnall and Stanley Ward |url=https://www.staffsmoorlands.gov.uk/media/8244/Results-for-Bagnall-and-Stanley-Ward/pdf/01Bagnall___Stanley.pdf?m=1683295307110 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418113607/https://www.staffsmoorlands.gov.uk/media/8244/Results-for-Bagnall-and-Stanley-Ward/pdf/01Bagnall___Stanley.pdf?m=1683295307110 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Charlotte Hannah Edwards
+   |candidate  = Charlotte Edwards
    |votes      = 356
    |percentage = 53.7
    |change     = -17.1
@@ -227,10 +240,23 @@ The results for each ward were as follows, with an asterisk (*) indicating an in
    |percentage = 5.9
    |change     = ''N/A''
 }}
+{{Election box majority
+   |votes      = 167
+   |percentage = 25.2
+   |change     = 
+ }}
 {{Election box turnout
    |votes      = 666
    |percentage = 49.0
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,359
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -241,7 +267,7 @@ The results for each ward were as follows, with an asterisk (*) indicating an in
 Sybil Ralphs had been a Conservative prior to the election but stood as an independent in 2023. Seat shown as Conservative hold to allow comparison with 2019 results.
 
 ===Biddulph East===
-{{Election box begin | title=Biddulph East}}
+{{Election box begin | title=Biddulph East<ref>{{cite web |title=Declaration of result of poll – Biddulph East Ward |url=https://www.staffsmoorlands.gov.uk/media/8245/Results-for-Biddulph-East-Ward/pdf/1qBiddulph_East.pdf?m=1683295393130 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250807124452/https://www.staffsmoorlands.gov.uk/media/8245/Results-for-Biddulph-East-Ward/pdf/1qBiddulph_East.pdf?m=1683295393130 |archive-date=7 August 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Jill Salt*
@@ -285,9 +311,17 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 807
+   |votes      = 821
    |percentage = 18.4
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 14
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,458
  }}
 {{Election box hold with party link
    |winner     = Labour Party (UK)
@@ -308,10 +342,10 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Biddulph Moor===
-{{Election box begin | title=Biddulph Moor}}
+{{Election box begin | title=Biddulph Moor<ref>{{cite web |title=Declaration of result of poll – Biddulph Moor Ward |url=https://www.staffsmoorlands.gov.uk/media/8247/Results-for-Biddulph-Moor-Ward/pdf/c9Biddulph_Moor.pdf?m=1683296700237 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260415004125/https://www.staffsmoorlands.gov.uk/media/8247/Results-for-Biddulph-Moor-Ward/pdf/c9Biddulph_Moor.pdf?m=1683296700237 |archive-date=15 April 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = John Thomas Jones*
+   |candidate  = John Jones*
    |votes      = 308
    |percentage = 75.3
    |change     = -5.2
@@ -323,10 +357,23 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |percentage = 24.7
    |change     = +19.5
 }}
+{{Election box majority
+   |votes      = 207
+   |percentage = 50.6
+   |change     = 
+ }}
 {{Election box turnout
-   |votes      = 409
+   |votes      = 412
    |percentage = 30.2
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,366
  }}
 {{Election box hold with party link
    |winner     = Independent politician
@@ -336,7 +383,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Biddulph North===
-{{Election box begin | title=Biddulph North}}
+{{Election box begin | title=Biddulph North<ref>{{cite web |title=Declaration of result of poll – Biddulph North Ward |url=https://www.staffsmoorlands.gov.uk/media/8255/Biddulph-North-Results/pdf/qeBiddulph_North_Results.pdf?m=1683298346103 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250421184930/https://www.staffsmoorlands.gov.uk/media/8255/Biddulph-North-Results/pdf/qeBiddulph_North_Results.pdf?m=1683298346103 |archive-date=21 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Adam Parkes
@@ -373,9 +420,17 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |change     = +3.5
 }}
 {{Election box turnout
-   |votes      = 1,261
+   |votes      = 1,267
    |percentage = 28.6
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 6
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,436
  }}
 {{Election box gain with party link
    |winner     = Labour Party (UK)
@@ -395,32 +450,45 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Biddulph South===
-{{Election box begin | title=Biddulph South}}
+{{Election box begin | title=Biddulph South<ref>{{cite web |title=Declaration of result of poll – Biddulph South Ward |url=https://www.staffsmoorlands.gov.uk/media/8220/Results-for-Biddulph-South-Ward/pdf/fgBiddulph_South.pdf?m=1683289833617 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418064417/https://www.staffsmoorlands.gov.uk/media/8220/Results-for-Biddulph-South-Ward/pdf/fgBiddulph_South.pdf?m=1683289833617 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Andrew Stuart Cunningham Church
+   |candidate  = Andrew Church
    |votes      = 207
    |percentage = 46.8
    |change     = +27.0
 }}
 {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Adrian Charles Lawton
+   |candidate  = Adrian Lawton
    |votes      = 176
    |percentage = 39.8
    |change     = ''N/A''
 }}
 {{Election box candidate with party link
    |party      = Liberal Democrats (UK)
-   |candidate  = Roy William Gregg
+   |candidate  = Roy Gregg
    |votes      = 59
    |percentage = 13.3
    |change     = -20.9
 }}
-{{Election box turnout
-   |votes      = 442
-   |percentage = 32.4
+{{Election box majority
+   |votes      = 31
+   |percentage = 7.0
    |change     = 
+ }}
+{{Election box turnout
+   |votes      = 444
+   |percentage = 32.6
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 2
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,361
  }}
 {{Election box gain with party link
    |winner     = Labour Party (UK)
@@ -430,7 +498,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Biddulph West===
-{{Election box begin | title=Biddulph West}}
+{{Election box begin | title=Biddulph West<ref>{{cite web |title=Declaration of result of poll – Biddulph West Ward |url=https://www.staffsmoorlands.gov.uk/media/8221/Results-for-Biddulph-West-Ward/pdf/f2Biddulph_West.pdf?m=1683289876310 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250420010241/https://www.staffsmoorlands.gov.uk/media/8221/Results-for-Biddulph-West-Ward/pdf/f2Biddulph_West.pdf?m=1683289876310 |archive-date=20 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Nigel Yates*
@@ -454,7 +522,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Derek James Stubbs
+   |candidate  = Derek Stubbs
    |votes      = 419
    |percentage = 38.8
    |change     = +7.9
@@ -468,7 +536,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Mark Andrew Stubbs
+   |candidate  = Mark Stubbs
    |votes      = 328
    |percentage = 30.4
    |change     = +15.6
@@ -488,9 +556,17 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 1,079
-   |percentage = 27.0
+   |votes      = 1,083
+   |percentage = 27
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 4
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,012
  }}
 {{Election box gain with party link
    |winner     = Labour Party (UK)
@@ -510,7 +586,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Brown Edge and Endon===
-{{Election box begin | title=Brown Edge and Endon}}
+{{Election box begin | title=Brown Edge and Endon<ref>{{cite web |title=Declaration of result of poll – Brown Edge and Endon Ward |url=https://www.staffsmoorlands.gov.uk/media/8222/Results-for-Brown-Edge-and-Endon-Ward/pdf/geBrown_Edge___Endon.pdf?m=1683289932253 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250413082945/https://www.staffsmoorlands.gov.uk/media/8222/Results-for-Brown-Edge-and-Endon-Ward/pdf/geBrown_Edge___Endon.pdf?m=1683289932253 |archive-date=13 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Joe Porter*
@@ -534,7 +610,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Roy Alan James Molson
+   |candidate  = Roy Molson
    |votes      = 506
    |percentage = 36.0
    |change     = -5.4
@@ -561,9 +637,17 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 1,406
+   |votes      = 1,417
    |percentage = 36.2
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 11
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 3,915
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -583,7 +667,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Caverswall===
-{{Election box begin | title=Caverswall}}
+{{Election box begin | title=Caverswall<ref>{{cite web |title=Declaration of result of poll – Caverswall Ward |url=https://www.staffsmoorlands.gov.uk/media/8248/Results-for-Caverswall-Ward/pdf/clCaverswall.pdf?m=1683296737450 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260415010831/https://www.staffsmoorlands.gov.uk/media/8248/Results-for-Caverswall-Ward/pdf/clCaverswall.pdf?m=1683296737450 |archive-date=15 April 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Paul Roberts*
@@ -598,10 +682,23 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |percentage = 46.7
    |change     = +26.8
 }}
+{{Election box majority
+   |votes      = 30
+   |percentage = 6.6
+   |change     = 
+ }}
 {{Election box turnout
-   |votes      = 452
+   |votes      = 457
    |percentage = 31.1
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,469
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -611,39 +708,47 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Cellarhead===
-{{Election box begin | title=Cellarhead}}
+{{Election box begin | title=Cellarhead<ref>{{cite web |title=Declaration of result of poll – Cellarhead Ward |url=https://www.staffsmoorlands.gov.uk/media/8249/Results-for-Cellarhead-Ward/pdf/drCellarhead.pdf?m=1683296777590 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250421032324/https://www.staffsmoorlands.gov.uk/media/8249/Results-for-Cellarhead-Ward/pdf/drCellarhead.pdf?m=1683296777590 |archive-date=21 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Barbara Aillen Hughes*
+   |candidate  = Barbara Hughes*
    |votes      = 403
    |percentage = 59.5
    |change     = +8.1
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Patricia Ann Hughes
+   |candidate  = Patricia Hughes
    |votes      = 319
    |percentage = 47.1
    |change     = -11.3
 }}
 {{Election box candidate with party link
    |party      = Green Party of England and Wales
-   |candidate  = James Martin Firkins
+   |candidate  = James Firkins
    |votes      = 267
    |percentage = 39.4
    |change     = +0.5
 }}
 {{Election box candidate with party link
    |party      = Green Party of England and Wales
-   |candidate  = Julian Bernard King-Salter
+   |candidate  = Julian King-Salter
    |votes      = 244
    |percentage = 36.0
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 677
+   |votes      = 682
    |percentage = 26.0
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,628
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -658,7 +763,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 {{Election box end}}
 
 ===Cheadle North East===
-{{Election box begin | title=Cheadle North East}}
+{{Election box begin | title=Cheadle North East<ref>{{cite web |title=Declaration of result of poll – Cheadle North East Ward |url=https://www.staffsmoorlands.gov.uk/media/8218/Results-for-Cheadle-North-East-Ward/pdf/elCheadle_North_East.pdf?m=1683289725400 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418052830/https://www.staffsmoorlands.gov.uk/media/8218/Results-for-Cheadle-North-East-Ward/pdf/elCheadle_North_East.pdf?m=1683289725400 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Liz Whitehouse
@@ -668,7 +773,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Matthew Charles Spooner
+   |candidate  = Matthew Spooner
    |votes      = 245
    |percentage = 36.0
    |change     = ''N/A''
@@ -702,9 +807,17 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 681
+   |votes      = 682
    |percentage = 23.8
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 1
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,863
  }}
 {{Election box gain with party link
    |winner     = Labour Party (UK)
@@ -720,7 +833,7 @@ Sybil Ralphs had been a Conservative prior to the election but stood as an indep
 Phil Routledge had been elected as an independent in 2019 but joined the Conservatives in May 2022. Stephen Ellis had won the seat in a by-election in May 2021 following the death of the previous independent councillor. Both seats shown as independent losses to allow comparison with 2019 results.
 
 ===Cheadle South East===
-{{Election box begin | title=Cheadle South East}}
+{{Election box begin | title=Cheadle South East<ref>{{cite web |title=Declaration of result of poll – Cheadle South East Ward |url=https://www.staffsmoorlands.gov.uk/media/8219/Results-for-Cheadle-South-East-Ward/pdf/edCheadle_South_East.pdf?m=1683289777907 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418054845/https://www.staffsmoorlands.gov.uk/media/8219/Results-for-Cheadle-South-East-Ward/pdf/edCheadle_South_East.pdf?m=1683289777907 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Mike Haines
@@ -744,15 +857,23 @@ Phil Routledge had been elected as an independent in 2019 but joined the Conserv
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Zenobia Rose Lillian Routledge*
+   |candidate  = Zenobia Routledge*
    |votes      = 324
    |percentage = 39.7
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 817
+   |votes      = 824
    |percentage = 28.5
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,895
  }}
 {{Election box gain with party link
    |winner     = Labour Party (UK)
@@ -768,7 +889,7 @@ Phil Routledge had been elected as an independent in 2019 but joined the Conserv
 Both seats had been won by independents in 2019, but Peter Jackson won his seat in a by-election in May 2021 and Zenobia Routledge won her seat in a by-election in May 2022. Both seats shown as independent losses to allow comparison with 2019 results.
 
 ===Cheadle West===
-{{Election box begin | title=Cheadle West}}
+{{Election box begin | title=Cheadle West<ref>{{cite web |title=Declaration of result of poll – Cheadle West Ward |url=https://www.staffsmoorlands.gov.uk/media/8257/Cheadle-West-Results/pdf/rbCheadle_West_Results.pdf?m=1683298493157 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418104848/https://www.staffsmoorlands.gov.uk/media/8257/Cheadle-West-Results/pdf/rbCheadle_West_Results.pdf?m=1683298493157 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Kate Mills*
@@ -785,7 +906,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 }}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = Ian William Plant*
+   |candidate  = Ian Plant*
    |votes      = 464
    |percentage = 40.7
    |change     = -0.3
@@ -799,15 +920,23 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Jonathan Nicholas Mason
+   |candidate  = Jonathan Mason
    |votes      = 334
    |percentage = 29.3
    |change     = -3.2
 }}
 {{Election box turnout
-   |votes      = 1,139
+   |votes      = 1,140
    |percentage = 28.6
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 1
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 3,989
  }}
 {{Election box hold with party link
    |winner     = Independent politician
@@ -827,7 +956,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 {{Election box end}}
 
 ===Checkley===
-{{Election box begin | title=Checkley}}
+{{Election box begin | title=Checkley<ref>{{cite web |title=Declaration of result of poll – Checkley Ward |url=https://www.staffsmoorlands.gov.uk/media/8223/Results-for-Checkley-Ward/pdf/g2Checkley.pdf?m=1683289991377 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418061214/https://www.staffsmoorlands.gov.uk/media/8223/Results-for-Checkley-Ward/pdf/g2Checkley.pdf?m=1683289991377 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Peter Wilkinson*
@@ -837,7 +966,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Mark Anthony Deaville*
+   |candidate  = Mark Deaville*
    |votes      = 603
    |percentage = 45.2
    |change     = -3.3
@@ -858,7 +987,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 }}
 {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Luke Daniel Emery
+   |candidate  = Luke Emery
    |votes      = 371
    |percentage = 27.8
    |change     = ''N/A''
@@ -878,9 +1007,17 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 1,333
+   |votes      = 1,336
    |percentage = 29.4
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,540
  }}
 {{Election box hold with party link
    |winner     = Independent politician
@@ -900,7 +1037,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 {{Election box end}}
 
 ===Cheddleton===
-{{Election box begin | title=Cheddleton}}
+{{Election box begin | title=Cheddleton<ref>{{cite web |title=Declaration of result of poll – Cheddleton Ward |url=https://www.staffsmoorlands.gov.uk/media/8241/Results-for-Cheddleton-Ward/pdf/t7Cheddleton.pdf?m=1683295086233 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418063716/https://www.staffsmoorlands.gov.uk/media/8241/Results-for-Cheddleton-Ward/pdf/t7Cheddleton.pdf?m=1683295086233 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Mike Worthington*
@@ -938,7 +1075,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 }}
 {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Michael Thomas Bowen*
+   |candidate  = Michael Bowen*
    |votes      = 364
    |percentage = 24.7
    |change     = -19.2
@@ -979,9 +1116,17 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 1,472
+   |votes      = 1,483
    |percentage = 33.9
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 11
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,370
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1002,7 +1147,7 @@ Both seats had been won by independents in 2019, but Peter Jackson won his seat 
 Michael Bowen had been elected as a Conservative in 2019 but left the party in May 2022 to sit as an independent. Seat shown as independent loss to allow comparison with 2019 results.
 
 ===Churnet===
-{{Election box begin | title=Churnet}}
+{{Election box begin | title=Churnet<ref>{{cite web |title=Declaration of result of poll – Churnet Ward |url=https://www.staffsmoorlands.gov.uk/media/8250/Results-for-Churnet-Ward/pdf/dbChurnet.pdf?m=1683296827677 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418051113/https://www.staffsmoorlands.gov.uk/media/8250/Results-for-Churnet-Ward/pdf/dbChurnet.pdf?m=1683296827677 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = James Aberley*
@@ -1019,22 +1164,30 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 }}
 {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Hugh Gerald Thomas Black
+   |candidate  = Hugh Black
    |votes      = 257
    |percentage = 31.7
    |change     = +13.0
 }}
 {{Election box candidate with party link
    |party      = Reform UK
-   |candidate  = Warwick Alexander McKenzie
+   |candidate  = Warwick McKenzie
    |votes      = 135
    |percentage = 16.6
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 811
+   |votes      = 818
    |percentage = 30.8
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,657
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1049,25 +1202,38 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 {{Election box end}}
 
 ===Dane===
-{{Election box begin | title=Dane}}
+{{Election box begin | title=Dane<ref>{{cite web |title=Declaration of result of poll – Dane Ward |url=https://www.staffsmoorlands.gov.uk/media/8242/Results-for-Dane-Ward/pdf/tmDane.pdf?m=1683295143123 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260307001002/https://www.staffsmoorlands.gov.uk/media/8242/Results-for-Dane-Ward/pdf/tmDane.pdf?m=1683295143123 |archive-date=7 March 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Callum George Beswick
+   |candidate  = Callum Beswick
    |votes      = 295
    |percentage = 63.3
    |change     = -4.8
 }}
 {{Election box candidate with party link
    |party      = Green Party of England and Wales
-   |candidate  = Alison Rosemary McCrea
+   |candidate  = Alison McCrea
    |votes      = 171
    |percentage = 36.7
    |change     = +4.8
 }}
+{{Election box majority
+   |votes      = 124
+   |percentage = 26.6
+   |change     = 
+ }}
 {{Election box turnout
    |votes      = 474
    |percentage = 35.5
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 8
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,337
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1077,7 +1243,7 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 {{Election box end}}
 
 ===Forsbrook===
-{{Election box begin | title=Forsbrook}}
+{{Election box begin | title=Forsbrook<ref>{{cite web |title=Declaration of result of poll – Forsbrook Ward |url=https://www.staffsmoorlands.gov.uk/media/8224/Results-for-Forsbrook-Ward/pdf/h1Forsbrook.pdf?m=1683290042380 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418065940/https://www.staffsmoorlands.gov.uk/media/8224/Results-for-Forsbrook-Ward/pdf/h1Forsbrook.pdf?m=1683290042380 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Tony Holmes*
@@ -1101,7 +1267,7 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 }}
 {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Paul Thomas Powner
+   |candidate  = Paul Powner
    |votes      = 437
    |percentage = 37.0
    |change     = -10.4
@@ -1121,9 +1287,17 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 1,182
+   |votes      = 1,183
    |percentage = 28.0
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 1
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,231
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1143,7 +1317,7 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 {{Election box end}}
 
 ===Hamps Valley===
-{{Election box begin | title=Hamps Valley}}
+{{Election box begin | title=Hamps Valley<ref>{{cite web |title=Declaration of result of poll – Hamps Valley Ward |url=https://www.staffsmoorlands.gov.uk/media/8243/Results-for-Hamps-Valley-Ward/pdf/0aHamps_Valley.pdf?m=1683295245513 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250419004154/https://www.staffsmoorlands.gov.uk/media/8243/Results-for-Hamps-Valley-Ward/pdf/0aHamps_Valley.pdf?m=1683295245513 |archive-date=19 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Edwin Wain*
@@ -1158,10 +1332,23 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
    |percentage = 35.4
    |change     = ''N/A''
 }}
+{{Election box majority
+   |votes      = 150
+   |percentage = 29.2
+   |change     = 
+ }}
 {{Election box turnout
-   |votes      = 514
+   |votes      = 517
    |percentage = 35.9
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,441
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1171,7 +1358,7 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 {{Election box end}}
 
 ===Horton===
-{{Election box begin | title=Horton}}
+{{Election box begin | title=Horton<ref>{{cite web |title=Declaration of result of poll – Horton Ward |url=https://www.staffsmoorlands.gov.uk/media/8251/Results-for-Horton-Ward/pdf/dgHorton.pdf?m=1683296874797 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250414204829/https://www.staffsmoorlands.gov.uk/media/8251/Results-for-Horton-Ward/pdf/dgHorton.pdf?m=1683296874797 |archive-date=14 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Jo Cox
@@ -1186,10 +1373,23 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
    |percentage = 45.7
    |change     = ''N/A''
 }}
+{{Election box majority
+   |votes      = 51
+   |percentage = 8.5
+   |change     = 
+ }}
 {{Election box turnout
-   |votes      = 597
+   |votes      = 606
    |percentage = 40.1
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 9
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,512
  }}
 {{Election box gain with party link
    |winner     = Conservative Party (UK)
@@ -1199,7 +1399,7 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 {{Election box end}}
 
 ===Ipstones===
-{{Election box begin | title=Ipstones}}
+{{Election box begin | title=Ipstones<ref>{{cite web |title=Ipstones |url=https://www.staffsmoorlands.gov.uk/article/4251/Ipstones |publisher=[[Staffordshire Moorlands District Council]] |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250715031320/https://www.staffsmoorlands.gov.uk/article/4251/Ipstones |archive-date=15 July 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Linda Ann Malyon*
@@ -1215,7 +1415,7 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 {{Election box end}}
 
 ===Leek East===
-{{Election box begin | title=Leek East}}
+{{Election box begin | title=Leek East<ref>{{cite web |title=Declaration of result of poll – Leek East Ward |url=https://www.staffsmoorlands.gov.uk/media/8225/Results-for-Leek-East-Ward/pdf/htLeek_East.pdf?m=1683290113623 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418104009/https://www.staffsmoorlands.gov.uk/media/8225/Results-for-Leek-East-Ward/pdf/htLeek_East.pdf?m=1683290113623 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Darren Price*
@@ -1225,14 +1425,14 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Crecy Janina Christian Boone
+   |candidate  = Crecy Boone
    |votes      = 681
    |percentage = 51.3
    |change     = +21.0
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Gareth Richard Taylor
+   |candidate  = Gareth Taylor
    |votes      = 591
    |percentage = 44.5
    |change     = ''N/A''
@@ -1266,9 +1466,17 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
    |change     = ''N/A''
 }}
 {{Election box turnout
-   |votes      = 1,327
+   |votes      = 1,333
    |percentage = 32.8
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 6
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,070
  }}
 {{Election box hold with party link
    |winner     = Labour Party (UK)
@@ -1289,46 +1497,47 @@ Michael Bowen had been elected as a Conservative in 2019 but left the party in M
 Brian Johnson had been elected as an independent in 2019 but joined the Conservatives in May 2022. Seat shown as independent loss to allow comparison with 2019 results.
 
 ===Leek North===
-{{Election box begin | title=Leek North}}
+{{Election box begin | title=Leek North<ref>{{cite web |title=Declaration of result of poll – Leek North Ward |url=https://www.staffsmoorlands.gov.uk/media/8226/Results-for-Leek-North-Ward/pdf/htLeek_North.pdf?m=1683290156187 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418064752/https://www.staffsmoorlands.gov.uk/media/8226/Results-for-Leek-North-Ward/pdf/htLeek_North.pdf?m=1683290156187 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = [[Charlotte Atkins]]*
    |votes      = 742
-   |percentage = 73.2
-   |change     = +11.0
+   |percentage = 73.4
+   |change     = +11.2
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Lyn Swindlehurst*
    |votes      = 673
-   |percentage = 66.4
-   |change     = +19.8
+   |percentage = 66.6
+   |change     = +20.0
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Mark David Johnson
+   |candidate  = Mark Johnson
    |votes      = 633
-   |percentage = 62.4
-   |change     = +18.5
+   |percentage = 62.6
+   |change     = +18.7
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Charlotte Lockett
    |votes      = 297
-   |percentage = 29.3
-   |change     = -1.4
-}}
-{{Election box candidate with party link
-   |party      = Independent politician
-   |candidate  = Ferenc Kari
-   |votes      = 116
-   |percentage = 11.4
-   |change     = ''N/A''
+   |percentage = 29.4
+   |change     = -1.3
 }}
 {{Election box turnout
    |votes      = 1,014
    |percentage = 24.5
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,136
  }}
 {{Election box hold with party link
    |winner     = Labour Party (UK)
@@ -1348,46 +1557,54 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 {{Election box end}}
 
 ===Leek South===
-{{Election box begin | title=Leek South}}
+{{Election box begin | title=Leek South<ref>{{cite web |title=Declaration of result of poll – Leek South Ward |url=https://www.staffsmoorlands.gov.uk/media/8256/Leek-South-Results/pdf/q4Leek_South_Results.pdf?m=1683298429570 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250413091251/https://www.staffsmoorlands.gov.uk/media/8256/Leek-South-Results/pdf/q4Leek_South_Results.pdf?m=1683298429570 |archive-date=13 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Matt Swindlehurst
    |votes      = 880
-   |percentage = 66.4
-   |change     = +20.0
+   |percentage = 66.6
+   |change     = +20.2
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Mike Gledhill*
+   |candidate  = Michael Gledhill*
    |votes      = 801
-   |percentage = 60.4
-   |change     = +5.5
+   |percentage = 60.6
+   |change     = +5.7
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Keith Hoptroff*
    |votes      = 794
-   |percentage = 59.9
-   |change     = +19.1
+   |percentage = 60.1
+   |change     = +19.3
 }}
 {{Election box candidate with party link
    |party      = Green Party of England and Wales
-   |candidate  = Daniella Vickerstaff
+   |candidate  = Danni Vickerstaff
    |votes      = 375
-   |percentage = 28.3
-   |change     = +3.4
+   |percentage = 28.4
+   |change     = +3.5
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Neil David Cox
+   |candidate  = Neil Cox
    |votes      = 357
-   |percentage = 26.9
-   |change     = -4.6
+   |percentage = 27.0
+   |change     = -4.5
 }}
 {{Election box turnout
    |votes      = 1,326
    |percentage = 29.9
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,428
  }}
 {{Election box hold with party link
    |winner     = Labour Party (UK)
@@ -1407,7 +1624,7 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 {{Election box end}}
 
 ===Leek West===
-{{Election box begin | title=Leek West}}
+{{Election box begin | title=Leek West<ref>{{cite web |title=Declaration of result of poll – Leek West Ward |url=https://www.staffsmoorlands.gov.uk/media/8227/Results-for-Leek-West-Ward/pdf/ieLeek_West.pdf?m=1683290204230 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250613155457/https://www.staffsmoorlands.gov.uk/media/8227/Results-for-Leek-West-Ward/pdf/ieLeek_West.pdf?m=1683290204230 |archive-date=13 June 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Bill Cawley*
@@ -1438,15 +1655,23 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 }}
 {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Neal Robert Podmore
+   |candidate  = Neal Podmore
    |votes      = 490
    |percentage = 38.1
    |change     = +1.4
 }}
 {{Election box turnout
-   |votes      = 1,286
+   |votes      = 1,292
    |percentage = 35.2
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 6
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 3,666
  }}
 {{Election box hold with party link
    |winner     = Labour Party (UK)
@@ -1466,10 +1691,10 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 {{Election box end}}
 
 ===Manifold===
-{{Election box begin | title=Manifold}}
+{{Election box begin | title=Manifold<ref>{{cite web |title=Declaration of result of poll – Manifold Ward |url=https://www.staffsmoorlands.gov.uk/media/8252/Results-for-Manifold-Ward/pdf/eeManifold.pdf?m=1683296923850 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418085052/https://www.staffsmoorlands.gov.uk/media/8252/Results-for-Manifold-Ward/pdf/eeManifold.pdf?m=1683296923850 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Green Party of England and Wales
-   |candidate  = Jonathan Paul Kempster
+   |candidate  = Jonathan Kempster
    |votes      = 306
    |percentage = 52.7
    |change     = ''N/A''
@@ -1481,10 +1706,23 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
    |percentage = 47.3
    |change     = -17.4
 }}
+{{Election box majority
+   |votes      = 31
+   |percentage = 5.3
+   |change     = 
+ }}
 {{Election box turnout
-   |votes      = 581
+   |votes      = 588
    |percentage = 39.6
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,484
  }}
 {{Election box gain with party link
    |winner     = Green Party of England and Wales
@@ -1494,7 +1732,7 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 {{Election box end}}
 
 ===Werrington===
-{{Election box begin | title=Werrington}}
+{{Election box begin | title=Werrington<ref>{{cite web |title=Declaration of result of poll – Werrington Ward |url=https://www.staffsmoorlands.gov.uk/media/8253/Results-for-Werrington-Ward/pdf/e4Werrington.pdf?m=1683296975293 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418130204/https://www.staffsmoorlands.gov.uk/media/8253/Results-for-Werrington-Ward/pdf/e4Werrington.pdf?m=1683296975293 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = David Shaw*
@@ -1511,7 +1749,7 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 }}
 {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Nigel Michael Meakin
+   |candidate  = Nigel Meakin
    |votes      = 262
    |percentage = 36.5
    |change     = ''N/A''
@@ -1524,9 +1762,17 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
    |change     = -4.7
 }}
 {{Election box turnout
-   |votes      = 717
+   |votes      = 722
    |percentage = 27.3
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,644
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1539,6 +1785,16 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
    |swing      = 
 }}
 {{Election box end}}
+
+==Changes 2023–2027==
+* May 2024: Connor Brady (Biddulph East) left the Labour Party in May 2024; on 18 November 2025 it was reported that he had joined the Green Party.<ref>{{cite news |last=Snape |first=Liana |title=Former Labour councillor for the Staffordshire Moorlands joins the Green Party |url=https://stoke.nub.news/news/local-news/former-labour-councillor-for-the-staffordshire-moorlands-joins-the-green-party-279300 |publisher=Stoke Nub News |date=18 November 2025 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211440/https://stoke.nub.news/news/local-news/former-labour-councillor-for-the-staffordshire-moorlands-joins-the-green-party-279300 |archive-date=30 September 2026}}</ref>
+
+===Cheddleton by-election===
+{{Election box begin|title=Cheddleton by-election, 12 November 2026<ref>https://whocanivotefor.co.uk/elections/local.staffordshire-moorlands.cheddleton.by.2026-11-12/cheddleton/</ref>}}
+{{Election box majority|votes=|percentage=|change=}}
+{{Election box turnout|votes=|percentage=|change=}}
+{{Election box hold with party link|winner=|loser=|swing=}}
+ {{Election box end}}
 
 == References ==
 {{notelist}}

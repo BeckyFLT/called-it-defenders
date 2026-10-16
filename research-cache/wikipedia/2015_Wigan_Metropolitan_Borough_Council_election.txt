@@ -1,0 +1,800 @@
+{{Short description|2015 local election in England}}
+{{Use dmy dates|date=March 2015}}
+{{Use British English|date=March 2015}}
+{{Infobox election
+| election_name = 2015 Wigan Metropolitan Borough Council election
+| flag_image = Coat of arms of Wigan Metropolitan Borough Council.png
+| type = parliamentary
+| previous_election = 2014_Wigan_Metropolitan_Borough_Council_election
+| previous_year = 2014
+| next_election = 2016_Wigan_Metropolitan_Borough_Council_election
+| next_year = 2016
+| seats_for_election = 25 of 75 seats to [[Wigan Metropolitan Borough Council]]
+| election_date = 7 May 2015
+| majority_seats = 38
+| image1 = 
+| leader1 = {{nowrap|[[Peter Smith, Baron Smith of Leigh|Peter Smith]]}}
+| leader_since1 = {{nowrap|1991}}
+| leaders_seat1 = {{nowrap|[[Leigh West (ward)|Leigh West]]}}
+| party1 = Labour Party (UK)
+| seats_before1  = 63
+|seats_after1 = '''64'''
+|seat_change1 = {{increase}} 1
+| image2 = 
+| leader2 = {{nowrap|[[James Grundy (politician)|James Grundy]]}}
+| leader_since2 = {{nowrap|2012}}
+| leaders_seat2 = {{nowrap|[[Lowton East (ward)|Lowton East]]}}
+| party2 = Conservative Party (UK)
+| seats_before2  = 2
+|seats_after2 = 3
+|seat_change2 = {{increase}} 1
+| map_image = Wigan_UK_local_election_2015_map.svg
+| map_size = 300px
+| map_caption = 2015 local election results in Wigan.
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#dddddd|Independent}}
+}}
+The '''2015 Wigan Metropolitan Borough Council election''' took place on 7 May 2015 to elect members of [[Wigan Metropolitan Borough Council]] in England.<ref name="TEC">{{Cite web|title=Upcoming elections & referendums|url=http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums|url-status=dead|archive-url=https://web.archive.org/web/20150315102043/http://www.electoralcommission.org.uk/find-information-by-subject/elections-and-referendums/upcoming-elections-and-referendums|archive-date=15 March 2015|access-date=26 March 2015|work=The Electoral Commission}}</ref> This was on the same day as other [[2015 United Kingdom local elections|local elections]] and the [[2015 United Kingdom general election|general election]].
+
+==Overview==
+Prior to the election, the composition of the council was:
+
+*[[Labour Party (UK)|Labour Party]]: 63
+*[[Conservative Party (UK)|Conservative Party]]: 2
+*[[Independent (politician)|Independent]]: 10
+
+After the election, the composition of the council was:
+*[[Labour Party (UK)|Labour Party]]: 64
+*[[Conservative Party (UK)|Conservative Party]]: 3
+*[[Independent (politician)|Independent]]: 8
+
+{| class="wikitable sortable mw-collapsible"
+|+Number of Candidates fielded per party <ref>{{Cite web|url=https://apps.wigan.gov.uk/electionResults/index.asp?ElectionDate=7+May+2015|title=Local Election Results|website=apps.wigan.gov.uk}}</ref>
+!Party
+
+!Number
+|-
+|[[Labour Party (UK)]]
+
+|25
+|-
+|[[Conservative Party (UK)]]
+|25
+|-
+|[[UK Independence Party]]
+|24
+|-
+|[[Green Party of England and Wales]]
+|9
+|-
+|[[Independent politician|Independent]]
+|8
+|-
+|[[Left Unity (UK)|Left Unity]]
+|8
+|-
+|[[Community Action Party]]
+|3
+|-
+|[[Liberal Democrats (UK)]]
+|2
+|-
+|[[Trade Unionist and Socialist Coalition|TUSC]]
+|1
+|}
+
+==Results summary==
+
+{{Election summary partial council net begin|title = 2015 Wigan Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 23
+  |net           = {{increase}} 1
+  |seats %       = 92
+  |other seats   = 41
+  |total seats   = '''64'''
+  |total seats % = 85.3
+  |votes         = 71,184
+  |votes %       = 50.4
+  |plus/minus    = {{decrease}} 4.1
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 1
+  |net           = {{increase}} 1
+  |seats %       = 4
+  |other seats   = 2
+  |total seats   = '''3'''
+  |total seats % = 4
+  |votes         = 27,263
+  |votes %       = 19.3
+  |plus/minus    = {{decrease}} 0.3
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 1
+  |net           = {{decrease}} 2
+  |seats %       = 4
+  |other seats   = 7
+  |total seats   = '''8'''
+  |total seats % = 10.7
+  |votes         = 7,483
+  |votes %       = 5.3
+  |plus/minus    = {{decrease}} 7.3
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 29,622
+  |votes %       = 21.0
+  |plus/minus    = {{increase}} 20.4
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 2,837
+  |votes %       = 2.0
+  |plus/minus    = ''New''
+}}
+{{Election summary partial council net party|
+  |party         = Community Action Party
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 1,115
+  |votes %       = 0.8
+  |plus/minus    = {{decrease}} 4.0
+}}
+{{Election summary partial council net party|
+  |party         = Left Unity (UK)|Left Unity
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 990
+  |votes %       = 0.7
+  |plus/minus    = ''New''
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 648
+  |votes %       = 0.5
+  |plus/minus    = {{decrease}} 2.2
+}}
+{{Election summary partial council net party|
+  |party         = Trade Unionist and Socialist Coalition
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 99
+  |votes %       = 0.1
+  |plus/minus    = {{decrease}} 0.3
+}}
+{{Election box end}}
+
+==Ward results==
+
+=== Bolton West constituency ===
+
+====Atherton ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Atherton (ward)|Atherton]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Martin Luke Aldred|votes= 2,508|percentage=39.9|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Norman Alec Bradbury|votes=1,989|percentage=31.7|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Quinton John Smith|votes=950|percentage=15.1|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Toby Joseph Hewitt|votes=788|percentage=12.5|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Craig Anthony Wilson|votes=46|percentage=0.7|change=}}
+{{Election box majority||votes=519|percentage=8.2|change=}}
+{{Election box turnout||votes=6,281|percentage=|change=}}
+{{Election box gain with party link
+   |winner     = Labour Party (UK)
+   |loser      = Independent (politician)
+   |swing      =
+}}
+{{Election box end}}
+
+=== Leigh constituency ===
+
+====Astley Mosley Common ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Astley Mosley Common (ward)|Astley Mosley Common]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Christine Lilian Roberts|votes=2,478|percentage=42.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David John Stirzaker|votes=1,804|percentage=30.7|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Joanne Bradley|votes=1,306|percentage=22.2|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Clive James Robert Charles|votes=290|percentage=4.9|change=}}
+{{Election box majority||votes=674|percentage=11.5|change=}}
+{{Election box turnout||votes=5,878|percentage=|change=}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+====Atherleigh ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Atherleigh (ward)|Atherleigh]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Mark Aldred|votes=2,310|percentage=48.2|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Les Leggett|votes=1,005|percentage=21.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Paul Lambert Fairhurst|votes=859|percentage=17.9|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Stuart Andrew Gerrard|votes=494|percentage=10.3|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Stephen Michael Hall|votes=125|percentage=2.6|change=}}
+{{Election box majority||votes=1,305|percentage=27.2|change=}}
+{{Election box turnout||votes=4,793|percentage=|change=}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+====Golborne and Lowton West ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Golborne and Lowton West (ward)|Golborne and Lowton West]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Stuart Arthur Keane|votes=3,046|percentage=60.5|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Peter Graham Kearns|votes=970|percentage=19.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Brian Howard Lobell|votes=793|percentage=15.8|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Sophie Aspey|votes=225|percentage=4.5|change=}}
+{{Election box majority||votes=2,076|percentage=41.2|change=}}
+{{Election box turnout||votes=5,034|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Leigh East ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Leigh East (ward)|Leigh East]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Anita Thorpe|votes=2,949|percentage=58.4|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Gill Gibson|votes=1,088|percentage=21.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Byrom Houlton|votes=888|percentage=17.6|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Graham Gifford|votes=123|percentage=2.4|change=}}
+{{Election box majority||votes=1,861|percentage=36.8|change=}}
+{{Election box turnout||votes=5,048|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Leigh South ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Leigh South (ward)|Leigh South]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=John David O'Brien|votes=3,200|percentage=51.3|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Rod Halliwell|votes=1,547|percentage=24.8|change=}}
+{{Election box candidate with party link||party= Conservative Party (UK)|candidate=Denise Young|votes=1,358|percentage=21.8|change=}}
+{{Election box candidate with party link||party= Left Unity (UK)|candidate=Ian Heyes|votes=135|percentage=2.2|change=}}
+{{Election box majority||votes=1,653|percentage=26.5|change=}}
+{{Election box turnout||votes=6,240|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Leigh West ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Leigh West (ward)|Leigh West]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Myra Joan Whiteside|votes=3,066|percentage=56.7|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Mary Therese Lavelle|votes=1,418|percentage=26.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew John Oxley|votes=645|percentage=11.9|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Paula Unger|votes=278|percentage=5.1|change=}}
+{{Election box majority||votes=1,648|percentage=30.5|change=}}
+{{Election box turnout||votes=5,407|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Lowton East ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Lowton East (ward)|Lowton East]]}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Kath Houlton|votes=3,228|percentage=50.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Pam Gilligan|votes=2,579|percentage=40.2|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Sandy Franzen|votes=609|percentage=9.5|change=}}
+{{Election box majority||votes=649|percentage=10.1|change=}}
+{{Election box turnout||votes=6,416|percentage=|change=}}
+{{Election box gain with party link||winner     = Conservative Party (UK)|loser      = Labour Party (UK)|swing      =}}
+{{Election box end}}
+
+====Tyldesley ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Tyldesley (ward)|Tyldesley]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Stephen John Hellier|votes=2,780|percentage=45.2|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Matthew Robert James|votes=1,530|percentage=24.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Sue Vickery|votes=1,198|percentage=19.5|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Lorraine Gillon|votes=353|percentage=5.7|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Graham Unsworth|votes=283|percentage=4.6|change=}}
+{{Election box majority||votes=1,250|percentage=20.3|change=}}
+{{Election box turnout||votes=6,144|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing = }}
+{{Election box end}}
+
+=== Makerfield constituency ===
+
+====Abram ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Abram (ward)|Abram]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Eunice Smethurst|votes=3,217|percentage=59.0|change=}}
+{{Election box candidate with party link||party=UK Independence Party|candidate=Jim Carmichael-Prince|votes=1,584|percentage=28.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Joanne Bradley|votes=653|percentage=12.0|change=}}
+{{Election box majority||votes=1,633|percentage=30.6|change=}}
+{{Election box turnout|votes=5,454|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Ashton ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Ashton (ward)|Ashton]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Jennifer Bullen|votes=2,738|percentage=49.0|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Alan Freeman|votes=950|percentage=17.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Marie Winstanley|votes=833|percentage=14.9|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Michael Moulding|votes=749|percentage=13.4|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Peter Merry|votes=318|percentage=5.7|change=}}
+{{Election box majority|votes=1,788|percentage=32.0|change=}}
+{{Election box turnout|votes=5,588|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Bryn ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Bryn (ward)|Bryn]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Nathan George Murray|votes=2,245|percentage=39.4|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Gary Thomas Wilkes|votes=1,717|percentage=30.1|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Stephen Jones|votes=948|percentage=16.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Judith Anderson|votes=378|percentage=6.6|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=David Wilkes|votes=267|percentage=4.7|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Catherine Aspey|votes=141|percentage=2.5|change=}}
+{{Election box majority||votes=528|percentage=9.2|change=}}
+{{Election box turnout||votes=5,696|percentage=|change=}}
+{{Election box gain with party link||winner = Labour Party (UK)|loser = Independent (politician)|swing = }}
+{{Election box end}}
+
+====Hindley ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Hindley (ward)|Hindley]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=James Eccles-Churton|votes=2,975|percentage=54.7|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Sue Ellis|votes=1,457|percentage=26.8|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Susan Atherton|votes=712|percentage=13.1|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Charles Skipworth|votes=295|percentage=5.4|change=}}
+{{Election box majority||votes=1,518|percentage=27.9|change=}}
+{{Election box turnout||votes=5,439|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Hindley Green ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Hindley Green (ward)|Hindley Green]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Frank Carmichael|votes=2,839|percentage=55.2|change=}}
+{{Election box candidate with party link||party=UKIP|candidate= Sandra Margaret Atherton|votes=1,520|percentage=29.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gerard Joseph Houlton|votes=788|percentage=15.3|change=}}
+{{Election box majority||votes=1,319|percentage=25.7|change=}}
+{{Election box turnout||votes=5,147|percentage=|change=}}
+{{Election box gain with party link||winner = Labour Party (UK)|loser = Independent (politician)|swing = }}
+{{Election box end}}
+
+====Orrell ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Orrell (ward)|Orrell]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Steve Murphy|votes=2,812|percentage=44.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael William Winstanley|votes=2,257|percentage=35.5|change=|}}
+{{Election box candidate with party link||party=UKIP|candidate=Philip Easton|votes=950|percentage=15.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=David Stazicker|votes=325|percentage=5.1|change=}}
+{{Election box majority||votes=545|percentage=8.8|change=}}
+{{Election box turnout||votes=6,354|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+==== Winstanley ward ====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Winstanley (ward)|Winstanley]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Marie Teresa Morgan|votes=2,898|percentage=49.0|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Andrew Francis Collinson|votes=1,437|percentage=24.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Allan Atherton|votes=1,182|percentage=20.0|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Steven Charles Heyes|votes=398|percentage=6.7|change=}}
+{{Election box majority||votes=1,461|percentage=24.7|change=}}
+{{Election box turnout||votes=5,915|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+====Worsley Mesnes ward====
+{{Election box begin | title=[[2015 United Kingdom local elections|Local Elections 2015]]: [[Worsley Mesnes (ward)|Worsley Mesnes]]}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Billy Rotherham|votes=3,039|percentage=59.4|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Maureen McCoy|votes=1,332|percentage=26.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Stephen Gerard Holt|votes=566|percentage=11.1|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Norma Stout|votes=182|percentage=3.6|change=}}
+{{Election box majority||votes=1,707|percentage=33.4|change=}}
+{{Election box turnout||votes=5,119|percentage=|change=}}
+{{Election box hold with party link||winner = Labour Party (UK)|swing =}}
+{{Election box end}}
+
+===Wigan constituency===
+====Aspull, New Springs and Whelley ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Aspull, New Springs and Whelley (ward)|Aspull, New Springs and Whelley]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Chris Ready
+  |votes      = 3,534
+  |percentage = 55.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Mark Andrew Bradley
+  |votes      = 1,416
+  |percentage = 22.2
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jane Surples
+  |votes      = 1,282
+  |percentage = 20.1
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Left Unity (UK)
+  |candidate  = John Stuart Bolton
+  |votes      = 156
+  |percentage = 2.4
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 2,118
+  |percentage = 33.2
+  |change     =
+}}
+{{Election box turnout|
+|votes = 6,388
+|percentage = 63.3
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Douglas ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Douglas (ward)|Douglas]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael Anthony Dewhurst
+  |votes      = 3,145
+  |percentage = 64.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Derek Wilkes
+  |votes      = 1,130
+  |percentage = 23.1
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Atherton
+  |votes      = 525
+  |percentage = 10.7
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Left Unity (UK)
+  |candidate  = Adele Joanne Andrews
+  |votes      = 98
+  |percentage = 2.0
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 2,015
+  |percentage = 41.1
+  |change     =
+}}
+{{Election box turnout|
+|votes = 4,898
+|percentage = 50.2
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Ince ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Ince (ward)|Ince]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Janice Sharratt
+  |votes      = 2,937
+  |percentage = 64.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Ross Allan Wright
+  |votes      = 1,192
+  |percentage = 26.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Callum Chadwick
+  |votes      = 352
+  |percentage = 7.7
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Left Unity (UK)
+  |candidate  = Janet Elizabeth Phillips
+  |votes      = 100
+  |percentage = 2.2
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 1,745
+  |percentage = 38.1
+  |change     =
+}}
+{{Election box turnout|
+|votes = 4,581
+|percentage = 50.6
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Pemberton ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Pemberton (ward)|Pemberton]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sam Marc Murphy
+  |votes      = 3,154
+  |percentage = 62.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Daniel Stephen Wood
+  |votes      = 1,099
+  |percentage = 21.9
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Claire Houlton
+  |votes      = 547
+  |percentage = 10.9
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Will Patterson
+  |votes      = 212
+  |percentage = 4.2
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 2,055
+  |percentage = 41.0
+  |change     =
+}}
+{{Election box turnout|
+|votes = 5,012
+|percentage = 50.6
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Shevington with Lower Ground ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Shevington with Lower Ground (ward)|Shevington with Lower Ground]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Anthony Collins
+  |votes      = 2,717
+  |percentage = 43.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Ollerton
+  |votes      = 1,661
+  |percentage = 26.6
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Arnold Jefferson Foster
+  |votes      = 1,439
+  |percentage = 23.1
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Joseph Rylance
+  |votes      = 426
+  |percentage = 6.8
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 1,056
+  |percentage = 16.9
+  |change     =
+}}
+{{Election box turnout|
+|votes = 6,243
+|percentage = 67.5
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Standish with Langtree ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Standish with Langtree (ward)|Standish with Langtree]]}}
+{{Election box candidate|
+  |party      = '''Standish Independents'''
+  |candidate  = '''George Allan Fairhurst'''
+  |votes      = '''1,999'''
+  |percentage = '''30.3'''
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Ray Whittingham
+  |votes      = 1,848
+  |percentage = 28.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Debbie Parkinson
+  |votes      = 1,735
+  |percentage = 26.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Emma Josephine Appleton
+  |votes      = 923
+  |percentage = 14.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Trade Unionist and Socialist Coalition
+  |candidate  = Sharon Holden
+  |votes      = 99
+  |percentage = 1.4
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 151
+  |percentage = 2.3
+  |change     =
+}}
+{{Election box turnout|
+|votes = 6,604
+|percentage = 68.0
+|change = 
+}}
+{{Election box hold|
+|winner     = Standish Independents
+|swing      = 
+}}
+{{Election box end}}
+
+====Wigan Central ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Wigan Central (ward)|Wigan Central]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Michael McLoughlin
+  |votes      = 2,783
+  |percentage = 46.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Margaret Peet
+  |votes      = 1,391
+  |percentage = 23.4
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Keith Robert Jones
+  |votes      = 1,228
+  |percentage = 20.7
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Damien Hendry
+  |votes      = 443
+  |percentage = 7.5
+  |change     =
+}}
+{{Election box candidate|
+  |party      = Independent
+  |candidate  = Brian Parr
+  |votes      = 90
+  |percentage = 1.5
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 1,392
+  |percentage = 23.5
+  |change     =
+}}
+{{Election box turnout|
+|votes = 5,935
+|percentage = 63.8
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Wigan West ward====
+{{Election box begin | title= [[2015 United Kingdom local elections|Local Elections 2015]]: [[Wigan West (ward)|Wigan West]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Steve Dawber
+  |votes      = 3,500
+  |percentage = 62.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Janet Markland
+  |votes      = 1,203
+  |percentage = 21.3
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jamie Vickery
+  |votes      = 727
+  |percentage = 12.9
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Left Unity (UK)
+  |candidate  = Hazel Elizabeth Duffy
+  |votes      = 207
+  |percentage = 3.7
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 2,297
+  |percentage = 40.7
+  |change     =
+}}
+{{Election box turnout|
+|votes = 5,637
+|percentage = 57.5
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2015}}
+{{Greater Manchester elections}}
+
+[[Category:2015 English local elections|Wigan]]
+[[Category:May 2015 in the United Kingdom]]
+[[Category:Wigan Council elections|2015]]
+[[Category:2010s in Greater Manchester]]

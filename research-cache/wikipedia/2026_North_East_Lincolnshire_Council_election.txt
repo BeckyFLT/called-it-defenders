@@ -1329,6 +1329,41 @@ Incumbents are marked with an asterisk (*).
 }}
  {{Election box end}}
 
+== Post-election changes ==
+
+===Croft Baker by-election===
+{{Election box begin|title=Croft Baker by-election, 12 November 2026<ref>https://whocanivotefor.co.uk/elections/local.north-east-lincolnshire.croft-baker.by.2026-11-12/croft-baker/</ref>}}
+{{Election box candidate with party link
+ |party       = Reform UK
+ |candidate   = Melissa Grice
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box candidate with party link
+ |party       = Labour Party (UK)
+ |candidate   = Janet Mager
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box majority
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box turnout
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box hold with party link
+ |winner      =
+ |loser       =
+ |swing       =
+}}
+{{Election box end}}
+
 == Notes ==
 {{notelist}}
 

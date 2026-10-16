@@ -1,0 +1,626 @@
+{{Short description|2014 UK local government election}}
+{{Use dmy dates|date=May 2014}}
+{{Use British English|date=May 2014}}
+{{Infobox election
+| election_name = 2014 Wigan Metropolitan Borough Council election
+| country = 
+| flag_image = Coat of arms of Wigan Metropolitan Borough Council.png
+| type = 
+| ongoing = 
+| party_colour = 
+| previous_election = Wigan_Metropolitan_Borough_Council_election,_2012
+| previous_year = 2012
+| next_election = Wigan_Metropolitan_Borough_Council_election,_2015
+| next_year = 2015
+| seats_for_election = 
+| election_date = 22 May 2014
+| 1blank = <!-- Labour -->
+| image1 = 
+| colour1 = 
+| leader1 = 
+| leader_since1 = 
+| leaders_seat1 = 
+| party1 = Labour Party (UK)
+| seats1 = 
+| seat_change1 = 
+| swing1 = 
+| 1data1 = <!-- Conservative -->
+| image2 = 
+| colour2 = 
+| leader2 = {{nowrap|[[David Cameron]]}}
+| leader_since2 = {{nowrap|6 December 2005}}
+| leaders_seat2 = 
+| party2 = Conservative Party (UK)
+| seats2 = 
+| seat_change2 = 
+| swing2 = 
+| 1data2 = 
+| map_image = Wigan_UK_local_election_2014_map.svg
+| map_size = 300px
+| map_caption = 2014 local election results in Wigan.
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|{{party color|Labour Co-operative}}|[[Labour and Co-operative]]}}
+{{legend|#dddddd|Independent}}
+}}
+The '''2014 Wigan Metropolitan Borough Council election''' took place on 22 May 2014 to elect members of [[Wigan Metropolitan Borough Council]] in England.<ref name="BBC">{{cite web|url=https://www.bbc.co.uk/news/events/vote2014/england-council-election-results |title=England council results |access-date=23 May 2014 |work=BBC News}}</ref> This was on the same day as other [[2014 United Kingdom local elections|local elections]].
+
+==Overview==
+{| class="wikitable sortable mw-collapsible"
+|+Number of Candidates fielded per party
+!Party
+
+!Number of Candidates
+|-
+|[[Labour Party (UK)|Labour Party]]
+|25
+|-
+|[[Conservative Party (UK)|Conservative Party]]
+|25
+|-
+|[[UKIP]]
+|15
+|-
+|[[Community Action Party]]
+|7
+|-
+|[[Left Unity (UK)|Left Unity]]
+|7
+|-
+|[[Independent (politician)|Independents]]
+|7
+|-
+|[[Green Party of England and Wales|Green]]
+|3
+|-
+|[[Liberal Democrats (UK)|Liberal Democrats]]
+|2
+|-
+|Wigan Independents
+|2
+|-
+|[[British National Party|BNP]]
+|1
+|-
+|[[Trade Unionist and Socialist Coalition|TUSC]]
+|1
+|-
+|Wigan Real Labour
+|1
+|-
+|}
+
+==Results summary==
+{{Election summary partial council net begin|title = 2014 Wigan Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 23
+  |net           = {{decrease}} 1
+  |seats %       = 92
+  |other seats   = 39
+  |total seats   = '''62'''
+  |total seats % = 82.7
+  |votes         = 36,065
+  |votes %       = 51.1
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 1
+  |net           = {{increase}} 1
+  |seats %       = 4
+  |other seats   = 1
+  |total seats   = '''2'''
+  |total seats % = 2.7
+  |votes         = 11,722
+  |votes %       = 16.6
+  |plus/minus    = 
+}}
+{{Election summary partial council net|
+  |party         = Wigan Independents
+  |seats         = 1
+  |net           = {{increase}} 1
+  |seats %       = 4
+  |other seats   = 2
+  |total seats   = '''3'''
+  |total seats % = 4
+  |votes         = 2,340
+  |votes %       = 3.3
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 8
+  |total seats   = '''8'''
+  |total seats % = 10.7
+  |votes         = 5,252
+  |votes %       = 7.4
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 11,327
+  |votes %       = 16.0
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Community Action Party
+  |seats         = 0
+  |net           = {{nochange}} 
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 1,590
+  |votes %       = 2.3
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Left Unity (UK)
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 796
+  |votes %       = 1.1
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 0
+  |net           = {{decrease}} 1
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 693
+  |votes %       = 1.0
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 574
+  |votes %       = 0.8
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = British National Party
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 134
+  |votes %       = 0.2
+  |plus/minus    = 
+}}{{Election summary partial council net|
+  |party         = Wigan Real Labour
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 63
+  |votes %       = 0.1
+  |plus/minus    = 
+}}{{Election summary partial council net party|
+  |party         = Trade Unionist and Socialist Coalition
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 56
+  |votes %       = 0.1
+  |plus/minus    = 
+}}
+{{Election box end}}
+
+==Ward results==
+
+===Bolton West Constituency===
+
+====Atherton ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Atherton (ward)|Atherton]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Karen Joyce Aldred|votes=1,494|percentage=48.1|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=John Trevor Higson|votes=1,106|percentage=35.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Paul Fairhurst|votes=374|percentage=12.1|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Craig Anthony Wilson|votes=129|percentage=4.2|change=}}
+{{Election box majority||votes=388|percentage=12.5|change=}}
+{{Election box turnout||votes=3,103|percentage=27.5|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+===Leigh Constituency===
+====Astley Mosley Common ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Astley Mosley Common (ward)|Astley Mosley Common]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Barry John Taylor|votes=1,812|percentage=67.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Nasri Barghothi|votes=867|percentage=32.4|change=}}
+{{Election box majority||votes=945|percentage=35.2|change=}}
+{{Election box turnout||votes=2,679|percentage=28.9|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Atherleigh ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Atherleigh (ward)|Atherleigh]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Pamela Stuart|votes=1,152|percentage=49.5|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Stuart Andrew Gerrard|votes=750|percentage=32.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Denise Young|votes=339|percentage=14.6|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Stephen Michael Hall|votes=85|percentage=3.7|change=}}
+{{Election box majority||votes=402|percentage=17.3|change=}}
+{{Election box turnout||votes=2,326|percentage=26.7|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Golborne and Lowton West ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Golborne and Lowton West (ward)|Golborne and Lowton West]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Richard Andrew Barber |votes=1,596|percentage=65.0|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Abbey Aspey|votes=456|percentage=18.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Kathleen Houlton|votes=403|percentage=16.4|change=}}
+{{Election box majority||votes=1,140|percentage=46.4|change=}}
+{{Election box turnout||votes=2,455|percentage=27.0|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh East ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Leigh East (ward)|Leigh East]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Frederick Brown Walker|votes=1,633|percentage=70.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Ian Aspinall|votes=671|percentage=29.1|change=}}
+{{Election box majority||votes=962|percentage=41.8|change=}}
+{{Election box turnout||votes=2,304|percentage=24.9|change=}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Leigh South ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Leigh South (ward)|Leigh South]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Charles Rigby|votes=1,955|percentage=65.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Alan Short|votes=1,032|percentage=34.5|change=}}
+{{Election box majority||votes=923|percentage=31.0|change=}}
+{{Election box turnout||votes=2,987|percentage=28.6|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh West ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Leigh West (ward)|Leigh West]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=[[Peter Smith, Baron Smith of Leigh|Peter Richard Charles Smith]]|votes=2,005|percentage=75.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew John Oxley|votes=658|percentage=24.7|change=}}
+{{Election box majority||votes=1,347|percentage=50.6|change=}}
+{{Election box turnout||votes=2,663|percentage=24.9|change=}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Lowton East ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Lowton East (ward)|Lowton East]]}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Edward Noel Houlton|votes=1,603|percentage=46.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Eleanor Mary Blackburn|votes=1,137|percentage=32.7|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Sandra Margaret Atherton|votes=589|percentage=17.0|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Sophie Aspey|votes=144|percentage=4.1|change=}}
+{{Election box majority||votes=466|percentage=13.5|change=}}
+{{Election box turnout||votes=3,473|percentage=35.1|change=}}
+{{Election box gain with party link||winner=Conservative Party (UK)|loser= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Tyldesley ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Tyldesley (ward)|Tyldesley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Joanne Marshall|votes=1,821|percentage=65.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Margaret Mary Winstanley|votes=551|percentage=19.8|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Charles Skipworth|votes=404|percentage=14.6|change=}}
+{{Election box majority||votes=1,270|percentage=45.8|change=}}
+{{Election box turnout||votes=2,776|percentage=26.4|change=}}
+{{Election box gain with party link||winner=Labour Party (UK)|loser= Liberal Democrats (UK)|swing=}}
+{{Election box end}}
+
+===Makerfield Constituency===
+
+====Abram ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Abram (ward)|Abram]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Carl Sweeney|votes=1,580|percentage=57.4|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Janet Markland|votes=760|percentage=27.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Joseph Sheedy|votes=180|percentage=6.5|change=}}
+{{Election box candidate with party link||party=British National Party|candidate=Dennis Shambley|votes=134|percentage=4.9|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Susan Brown|votes=101|percentage=3.7|change=}}
+{{Election box majority||votes=820|percentage=29.8|change=}}
+{{Election box turnout|votes=2,755|percentage=24.7|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Ashton ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Ashton (ward)|Ashton]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Nigel Dennis Ash|votes=1,144|percentage=42.3|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=John Stuart Littler|votes=591|percentage=21.9|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Peter Merry|votes=403|percentage=14.9|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Michael Moulding|votes=395|percentage=14.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Marie Winstanley|votes=170|percentage=6.3|change=}}
+{{Election box majority|votes=553|percentage=20.4|change=}}
+{{Election box turnout|votes=2,703|percentage=29.6|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Bryn ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Bryn (ward)|Bryn]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Margaret Ann Rampling|votes=1,190|percentage=40.2|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Stephen Jones|votes=724|percentage=24.5|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Brian Merry|votes=625|percentage=21.1|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Catherine Aspey|votes=289|percentage=9.8|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Susan Atherton|votes=131|percentage=4.4|change=}}
+{{Election box majority||votes=466|percentage=15.7|change=}}
+{{Election box turnout||votes=2,959|percentage=31.8|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Hindley ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Hindley (ward)|Hindley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=James Talbot|votes=1,418|percentage=53.1|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Brian Leslie Ellis|votes=913|percentage=34.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gerald Joseph Houlton|votes=263|percentage=9.8|change=}}
+{{Election box candidate with party link||party= Left Unity (UK) |candidate=Ian Heyes|votes=78|percentage=2.9|change=}}
+{{Election box majority||votes=505|percentage=18.9|change=}}
+{{Election box turnout||votes=2,672|percentage=26.4|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Hindley Green ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Hindley Green (ward)|Hindley Green]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=David Keir Stitt|votes=1,145|percentage=43.9|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=John Melville Vickers|votes=908|percentage=34.8|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Kieron Creegan|votes=325|percentage=12.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Stephen Gerrard Holt|votes=231|percentage=8.9|change=}}
+{{Election box majority||votes=237|percentage=9.1|change=}}
+{{Election box turnout||votes=2,609|percentage=29.7|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Orrell ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Orrell (ward)|Orrell]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=David John Arrowsmith|votes=1,102|percentage=34.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael William Winstanley|votes=1,031|percentage=32.6|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Philip Easton|votes=818|percentage=25.9|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Norma Stout|votes=210|percentage=6.6|change=}}
+{{Election box majority||votes=71|percentage=2.3|change=}}
+{{Election box turnout||votes=3,161|percentage=33.2|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+==== Winstanley ward ====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Winstanley (ward)|Winstanley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Clive William Morgan|votes=1,177|percentage=44.1|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Andrew Collinson|votes=874|percentage=32.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Allan Atherton|votes=263|percentage=9.8|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Steven Charles Heyes|votes=208|percentage=7.8|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Lee Aspey|votes=149|percentage=5.6|change=}}
+{{Election box majority||votes=303|percentage=11.4|change=}}
+{{Election box turnout||votes=2,671|percentage=29.4|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Worsley Mesnes ward====
+{{Election box begin | title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Worsley Mesnes (ward)|Worsley Mesnes]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Patricia Lynne Holland|votes=1,552|percentage=60.4|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Gillian Mary Gibson|votes=813|percentage=31.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Judith Atherton|votes=203|percentage=7.9|change=}}
+{{Election box majority||votes=739|percentage=28.7|change=}}
+{{Election box turnout||votes=2,568|percentage=28.2|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+===Wigan Constituency===
+====Aspull, New Springs and Whelley ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Aspull, New Springs and Whelley (ward)|Aspull, New Springs and Whelley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Ronald Josef Conway|votes=1,581|percentage=46.0|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Maureen McCoy|votes=827|percentage=24.1|change=}}
+{{Election box candidate||party=Aspull and Standish Independent|candidate=Janet Brown|votes=547|percentage=15.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Linda Jane Surples|votes=393|percentage=11.4|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=John Stuart Bolton|votes=88|percentage=2.6|change=}}
+{{Election box majority||votes=754|percentage=21.9|change=}}
+{{Election box turnout||votes=3,436|percentage=33.2|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Douglas ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Douglas (ward)|Douglas]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Shirley Ann Dewhurst|votes=1,502|percentage=60.0|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Derek Wilkes|votes=790|percentage=31.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Margaret Atherton|votes=210|percentage=8.4|change=}}
+{{Election box majority||votes=712|percentage=28.4|change=}}
+{{Election box turnout||votes=2,502|percentage=24.9|change =}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Ince ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Ince (ward)|Ince]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=James Moodie|votes=1,397|percentage=56.8|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Ross Allan Wright|votes=851|percentage=34.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Raymond Whittingham|votes=133|percentage=5.4|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Janet Elizabeth Phillips|votes=79|percentage=3.2|change=}}
+{{Election box majority||votes=546|percentage=22.2|change=}}
+{{Election box turnout||votes=2,460|percentage=26.1|change =}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Pemberton ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Pemberton (ward)|Pemberton]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Paul Prescott|votes=1,632|percentage=62.7|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Alan Freeman|votes=692|percentage=26.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Jonathon Charles Cartwright|votes=195|percentage=7.5|change=}}
+{{Election box candidate with party link||party=Left Unity (UK)|candidate=Adele Joanne Andrews|votes=85|percentage=3.3|change=}}
+{{Election box majority||votes=940|percentage=36.1|change=}}
+{{Election box turnout||votes=2,604|percentage=25.4|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Shevington with Lower Ground ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Shevington with Lower Ground (ward)|Shevington with Lower Ground]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Michael John Crosby|votes=1,050|percentage=33.3|change=}}
+{{Election box candidate||party=Shevington Independents|candidate=Angela Maria Bland|votes=797|percentage=25.3|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Arnold Jefferson Foster|votes=797|percentage=25.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Claire Houlton|votes=353|percentage=11.2|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Joseph Robert Rylance|votes=156|percentage=4.9|change=}}
+{{Election box majority||votes=253|percentage=8.0|change=}}
+{{Election box turnout||votes=3,153|percentage=33.5|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+"Shevington Independents" is a description used by candidates for the Wigan Independents.
+
+====Standish with Langtree ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Standish with Langtree (ward)|Standish with Langtree]]}}
+{{Election box winning candidate||party=Standish Independents|candidate=Deborah Fairhurst|votes=1,543|percentage=42.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David Marcus Jon Ollerton|votes=701|percentage=19.4|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Deborah Gaye Parkinson|votes=646|percentage=17.9|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Joanne Bradley|votes=590|percentage=16.3|change=}}
+{{Election box candidate||party=Wigan Real Labour|candidate=Emma Jayne Mcgurrin|votes=63|percentage=1.7|change=}}
+{{Election box candidate with party link||party=Trade Unionist and Socialist Coalition|candidate=Joanne Bradley|votes=56|percentage=1.5|change=}}
+{{Election box candidate with party link||party=Community Action Party|candidate=Daniel Willson|votes=20|percentage=0.6|change=}}
+{{Election box majority||votes=842|percentage=23.2|change=}}
+{{Election box turnout||votes=3,619|percentage=36.7|change=}}
+{{Election box gain||winner= Standish Independents|loser=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+"Standish Independents" is a description used by candidates for the Wigan Independents.
+
+====Wigan Central ward====
+{{Election box begin | title= [[2014 United Kingdom local elections|Local Elections 2014]]: [[Wigan Central (ward)|Wigan Central]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=George Davies|votes=1,618|percentage=51.8|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Keith Robert Jones|votes=893|percentage=28.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Callum David Owen Chadwick|votes=614|percentage=19.6|change=}}
+{{Election box majority||votes=725|percentage=23.2|change=}}
+{{Election box turnout||votes=3,125|percentage=33.2|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Wigan West ward====
+ {{Election box begin |
+  |title=[[2014 United Kingdom local elections|Local Elections 2014]]: [[Wigan West (ward)|Wigan West]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Pyhllis Mary Cullen
+  |votes      = 1,726
+  |percentage = 60.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = John Stanley Atherton
+  |votes      = 718
+  |percentage = 25.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Left Unity (UK)
+  |candidate  = Hazel Duffy
+  |votes      = 252
+  |percentage = 8.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Peet
+  |votes      = 153
+  |percentage = 5.4
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 1,008
+  |percentage = 35.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,849
+  |percentage = 28.1
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==By-elections between 2014 and 2015==
+===Douglas ward===
+{{Election box begin | title=[[Douglas (ward)|Douglas]], 13 November 2014<ref name="Douglas">{{cite web|title=Elections result 13 November 2014|url=https://www.wigan.gov.uk/Docs/PDF/Council/Voting-and-Elections/Douglas-Ward---Declaration-of-Results.pdf|publisher=[[Wigan Metropolitan Borough Council]]|access-date=28 December 2017}}</ref>}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Maggie Skilling
+  |votes      = 874
+  |percentage = 59.3
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Derek Wilkes
+  |votes      = 452
+  |percentage = 30.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Atherton
+  |votes      = 80
+  |percentage = 5.4
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Damien Hendry
+  |votes      = 37
+  |percentage = 2.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Community Action Party
+  |candidate  = Michael Moulding
+  |votes      = 29
+  |percentage = 2.0
+  |change     = 
+}}
+{{Election box majority|
+  |votes      = 422
+  |percentage = 28.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,474
+  |percentage = 14.5
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Greater Manchester elections}}
+{{United Kingdom local elections, 2014}}
+
+[[Category:2014 English local elections|Wigan]]
+[[Category:Wigan Council elections|2014]]
+[[Category:2010s in Greater Manchester]]

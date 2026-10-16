@@ -26,7 +26,7 @@
 | leader3 = Alison McDermott
 | party3 = Green Party of England and Wales
 | last_election3 = 6 seats
-| seats_before3 = 5
+| seats_before3 = 6
 <!--Independent-->| image4 = [[File:No image wide.svg|95x50px|Blank]]
 | leader4 = ''No Leader''
 | party4 = Independent politician
@@ -40,7 +40,7 @@
 | image6 = [[File:No image wide.svg|95x50px|Blank]]
 | leader6 = Ben Bellamy
 | party6 = Derbyshire Community Party
-| last_election6 = 0 seats
+| last_election6 = 2 seats
 | seats_before6 = 2
 | image7 = [[File:No image wide.svg|95x50px|Blank]]
 | leader7 = Kate Smith
@@ -55,7 +55,7 @@
 | after_party = 
 | seats_needed1 = {{increase}} 3
 | seats_needed2 = {{increase}} 15
-| seats_needed3 = {{increase}} 17
+| seats_needed3 = {{increase}} 16
 | seats_needed4 = {{increase}} 18
 | seats_needed5 = {{increase}} 19
 | seats_needed6 = {{increase}} 20

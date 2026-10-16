@@ -1,0 +1,44 @@
+{{Short description|1998 UK local government election}}
+{{use British English|date=August 2018}}
+{{use dmy dates|date=August 2018}}
+Elections to [[Metropolitan Borough of Rotherham|Rotherham]] Metropolitan Borough Council were held on 7 May 1998.  One third of the council was up for election and the [[Labour Party (UK)|Labour]] party kept overall control of the council.<ref name=results>{{Cite news | title = Local Elections results | work = [[The Times]] | page = 46 | date = 9 May 1998 |issn=0140-0460}}</ref>
+
+After the election, the composition of the council was
+*[[Labour Party (UK)|Labour]] 65
+*[[Conservative Party (UK)|Conservative]] 1
+
+==Election result==
+{{Election Summary Begin|title = Rotherham local election result 1998}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 22
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 95.7
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 1
+  |gain       = 
+  |loss       = 
+  |net        = 0
+  |seats %    = 4.3
+  |votes %    = 
+  |votes      = 
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 1998}}
+
+[[Category:1998 English local elections]]
+[[Category:Rotherham Council elections|1998]]
+[[Category:1990s in South Yorkshire]]

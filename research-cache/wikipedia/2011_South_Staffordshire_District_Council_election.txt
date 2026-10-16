@@ -1,0 +1,1220 @@
+{{Short description|2011 UK local government election}}
+{{Use dmy dates|date=June 2025}}
+{{Use British English|date=June 2025}}
+[[File:South Staffordshire UK ward map 2011.svg|thumb|Results of the 2011 South Staffordshire District Council election]]
+The '''2011 South Staffordshire District Council election''' to the [[South Staffordshire District Council]] took place on Thursday 5 May 2011.<ref>{{cite web|url=https://www.sstaffs.gov.uk/elections/local-elections--5th-may-2011.cfm|title=Local Elections - 5th May 2011|date=n.d.|publisher=South Staffordshire Council|access-date=2021-09-26}}</ref> A total of 49 seats were up for election, 42 of which went to the [[Conservative Party (UK)|Conservative Party]], mirroring the [[2007 South Staffordshire District Council election|2007 elections]].<ref name=data>{{cite web|url=https://www.electionscentre.co.uk/wp-content/uploads/2015/06/South-Staffordshire-1973-2011.pdf|title=South Staffordshire Council Election Results 1973-2011|date=2011|last1=Rallings|first1=Colin|last2=Thrasher|first2=Michael|publisher=The Elections Centre, Plymouth University|access-date=2021-09-26}}</ref>
+
+==Election result==
+{{Election Summary Begin|title = South Staffordshire District Council election, 2011}}
+{{Election Summary Party
+  |party      = Conservative Party (UK)
+  |seats      = 42
+  |gain       = 4
+  |loss       = 3
+  |net        =
+  |seats %    = 85.72%
+  |votes %    = 61.23%
+  |votes      = 35,647
+  |plus/minus =
+}}
+{{Election Summary Party
+  |party      = Labour Party (UK)
+  |seats      = 2
+  |gain       = 1
+  |loss       = 0
+  |net        =
+  |seats %    = 4.09%
+  |votes %    = 16.42%
+  |votes      = 9,564
+  |plus/minus =
+}}
+{{Election Summary Party
+  |party      = Labour Co-operative
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        =
+  |seats %    = 0%
+  |votes %    = 0.70%
+  |votes      = 409
+  |plus/minus =
+}}
+{{Election Summary Party
+  |party      = Liberal Democrats (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        =
+  |seats %    = 0%
+  |votes %    = 4.94%
+  |votes      = 2,873
+  |plus/minus =
+}}
+{{Election Summary Party
+  |party      = UK Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        =
+  |seats %    = 0%
+  |votes %    = 4.94%
+  |votes      = 2,873
+  |plus/minus =
+}}
+{{Election Summary Party
+  |party      = Independent (politician)
+  |seats      = 5
+  |gain       = 2
+  |loss       = 3
+  |net        =
+  |seats %    = 10.21%
+  |votes %    = 16.70%
+  |votes      = 9,724
+  |plus/minus =
+}}
+{{Election box end}}
+
+==Ward results==
+{{Election box begin | title=Billbrook Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Val Chapman'''
+  |votes      = 848
+  |percentage = 33.16%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Labour Co-operative
+  |candidate  = Kevin David McElduff
+  |votes      = 409
+  |percentage = 16%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Sonja Marie Oatley'''
+  |votes      = 823
+  |percentage = 32.20%
+  |change     = -0.66%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Anthony Peter Wynne-Jones
+  |votes      = 478
+  |percentage = 18.70%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 1,671
+  |percentage = 65%
+  |change     = -0.47%
+}}
+{{Election box turnout
+  |votes      = 2,558
+  |percentage = 42.60%
+  |change     = +8.60%
+}}
+<!--{{Election box hold with party link
+  |winner     = Conservative
+  |loser      = Labour
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Brewood and Coven Ward (3 councillors)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Andy Ball
+  |votes      = 941
+  |percentage = 15.31%
+  |change     = -9%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Ivor Clay'''
+  |votes      = 1,369
+  |percentage = 22.27%
+  |change     = -0.89%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Michael Robert Hampson'''
+  |votes      = 1,193
+  |percentage = 19.40%
+  |change     = -2.54%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Anne Holmes'''
+  |votes      = 1,221
+  |percentage = 19.86%
+  |change     = -1.46%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Lena Holmes
+  |votes      = 661
+  |percentage = 10.75%
+  |change     = 0.33%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Lorna Elizabeth Jones
+  |votes      = 765
+  |percentage = 12.44%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 3,783
+  |percentage = 61.52%
+  |change     = -3.10%
+}}
+{{Election box turnout
+  |votes      = 6,150
+  |percentage = 44%
+  |change     = +6%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Cheslyn Hay North and Saredon Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = '''Mike Boyle'''
+  |votes      = 431
+  |percentage = 19.78%
+  |change     = -5.32%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Alex John Brindle
+  |votes      = 325
+  |percentage = 14.91%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Alita Ann Caine
+  |votes      = 388
+  |percentage = 17.80%
+  |change     = -8.02%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Nigel Peter Caine
+  |votes      = 384
+  |percentage = 17.62%
+  |change     = -7.88%
+}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Ken Gould
+  |votes      = 242
+  |percentage = 11.11%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = '''Mac Harris'''
+  |votes      = 410
+  |percentage = 18.81%
+  |change     = -4.84%
+}}
+{{Election box majority
+  |votes      = 772
+  |percentage = 35.42%
+  |change     = -15.89%
+}}
+{{Election box turnout
+  |votes      = 2,180
+  |percentage = 37%
+  |change     = +7%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Cheslyn Hay South Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Joseph Colin Davison
+  |votes      = 396
+  |percentage = 21.91%
+  |change     = +2.91%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''David Heseltine'''
+  |votes      = 443
+  |percentage = 24.51%
+  |change     = -0.98%
+}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Steve Hollis
+  |votes      = 245
+  |percentage = 13.56%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Ann Pugh
+  |votes      = 312
+  |percentage = 17.26%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Bernard Williams'''
+  |votes      = 412
+  |percentage = 22.79%
+  |change     = -8.57%
+}}
+{{Election box majority
+  |votes      = 855
+  |percentage = 47.29%
+  |change     = -9.61%
+}}
+{{Election box turnout
+  |votes      = 1,808
+  |percentage = 37%
+  |change     = +6%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Codsall North Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Pat Campbell'''
+  |votes      = 861
+  |percentage = 33.61%
+  |change     = -7.49%
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = John Evans
+  |votes      = 337
+  |percentage = 13.16%
+  |change     = -26.40%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Matt Ewart'''
+  |votes      = 797
+  |percentage = 31.11%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Judith Marion Williams
+  |votes      = 308
+  |percentage = 12%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Trefor John Williams
+  |votes      = 259
+  |percentage = 10.11%
+  |change     = +1%
+}}
+{{Election box majority
+  |votes      = 1,658
+  |percentage = 64.72%
+  |change     = -15.91%
+}}
+{{Election box turnout
+  |votes      = 2,562
+  |percentage = 42%
+  |change     = +4%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Codsall South Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Mike Lynch
+  |votes      = 377
+  |percentage = 13.65%
+  |change     = +0.65%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Robert James Marshall'''
+  |votes      = 1,019
+  |percentage = 36.89%
+  |change     = -2.01%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''John Kirkland Michell'''
+  |votes      = 909
+  |percentage = 32.90%
+  |change     = -6.27%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Gemma Elizabeth Smith
+  |votes      = 254
+  |percentage = 9.20%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Pamela Wall
+  |votes      = 204
+  |percentage = 7.39%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 1,928
+  |percentage = 69.78%
+  |change     = -8.32%
+}}
+{{Election box turnout
+  |votes      = 2,763
+  |percentage = 46%
+  |change     = +8%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Essington Ward (1 councillor)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Barry Michael Bond
+  |votes      = 383
+  |percentage = 14.11%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = '''David John Clifft'''
+  |votes      = 1,135
+  |percentage = 41.79%
+  |change     = +41.79%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Charlotte Jane Hale
+  |votes      = 307
+  |percentage = 11.31%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = '''Wayne Anthony Thomas Whitehouse'''
+  |votes      = 483
+  |percentage = 17.79%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Christine Margaret Young
+  |votes      = 408
+  |percentage = 15%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 1,618
+  |percentage = 59.58%
+  |change     = +59.58%
+}}
+{{Election box turnout
+  |votes      = 2,716
+  |percentage = 41%
+  |change     = +41%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Featherstone and Shareshill Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = '''Frank William Beardsmore'''
+  |votes      = 536
+  |percentage = 22.69%
+  |change     = +3.40%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = John Brindle
+  |votes      = 482
+  |percentage = 20.40%
+  |change     = +8.21%
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = '''Bob Cope'''
+  |votes      = 639
+  |percentage = 27%
+  |change     = -1%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Mike Lawrence
+  |votes      = 475
+  |percentage = 20.10%
+  |change     = +4.49%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Philip David Light
+  |votes      = 231
+  |percentage = 9.78%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 1,175
+  |percentage = 49.73%
+  |change     = +2.39%
+}}
+{{Election box turnout
+  |votes      = 2,363
+  |percentage = 39%
+  |change     = 11.20%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Great Wyrley Landywood Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Ken Bullock
+  |votes      = 453
+  |percentage = 19.60%
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = John Christopher Jones
+  |votes      = 423
+  |percentage = 18.30%
+  |change     = -0.30%
+}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Glen Paul Keatley
+  |votes      = 179
+  |percentage = 7.75%
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Ray Perry'''
+  |votes      = 611
+  |percentage = 26.43%
+  |change     = -4.18%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Kath Williams'''
+  |votes      = 646
+  |percentage = 27.95%
+  |change     = -3.96%
+}}
+{{Election box majority
+  |votes      = 1,257
+  |percentage = 54.37%
+  |change     = -8.15%
+}}
+{{Election box turnout
+  |votes      = 2,312
+  |percentage = 33%
+  |change     = +5%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Great Wyrley Town Ward (3 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Brian Paul Bates'''
+  |votes      = 1,048
+  |percentage = 24.79%
+  |change     = 0.76%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Janet Ann Johnson'''
+  |votes      = 1,101
+  |percentage = 26.04%
+  |change     = -0.42%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Tom Lowe
+  |votes      = 537
+  |percentage = 12.70%
+  |change     = +2.96%
+}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Malcolm Keith McKenzie
+  |votes      = 361
+  |percentage = 8.54%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Kath Perry'''
+  |votes      = 1,182
+  |percentage = 27.95%
+  |change     = -0.14%
+}}
+{{Election box majority
+  |votes      = 3,331
+  |percentage = 78.77%
+  |change     = -1.33%
+}}
+{{Election box turnout
+  |votes      = 4,229
+  |percentage = 36%
+  |change     = +4%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Himley and Swindon Ward (1 councillor)}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Gordon Edward Fanthom
+  |votes      = 261
+  |percentage = 31.45%
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Roger Lees'''
+  |votes      = 417
+  |percentage = 50.25%
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Keith Ian Pincher
+  |votes      = 152
+  |percentage = 18.32%
+  |change     =
+}}
+{{Election box majority
+  |votes      = 417
+  |percentage = 50.25%
+  |change     =
+}}
+{{Election box turnout
+  |votes      = 830
+  |percentage = 48.30%
+  |change     =
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Huntington and Hatherton Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = '''Jeff Ashley'''
+  |votes      = 537
+  |percentage = 33.53%
+  |change     = +9.04%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Ron Kenyon
+  |votes      = 496
+  |percentage = 30.97%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''David Williams'''
+  |votes      = 569
+  |percentage = 35.52%
+  |change     = +6.18%
+}}
+{{Election box majority
+  |votes      = 1,033
+  |percentage = 64.49%
+  |change     = +15.80%
+}}
+{{Election box turnout
+  |votes      = 1,602
+  |percentage = 30%
+  |change     = +6%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Kinver Ward (3 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Brian Robert Edwards'''
+  |votes      = 1,659
+  |percentage = 26.98%
+  |change     = +2.61%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Lin Hingley'''
+  |votes      = 1,655
+  |percentage = 26.91%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Ena Doreen Ray
+  |votes      = 1,071
+  |percentage = 17.41%
+  |change     = -3.06%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Christine Mary Ridgeway
+  |votes      = 644
+  |percentage = 10.47%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Paul Arthur Wooddisse'''
+  |votes      = 1,122
+  |percentage = 18.24%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 4,436
+  |percentage = 72.12%
+  |change     = +11.29%
+}}
+{{Election box turnout
+  |votes      = 6,151
+  |percentage = 45%
+  |change     = +7%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Pattingham and Patshull Ward (1 councillor)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Stephanie Brindle
+  |votes      = 120
+  |percentage = 13.20%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Joan Millicent Burton'''
+  |votes      = 789
+  |percentage = 86.80%
+  |change     = +86.80%
+}}
+{{Election box majority
+  |votes      = 789
+  |percentage = 86.80%
+  |change     = +86.80%
+}}
+{{Election box turnout
+  |votes      = 909
+  |percentage = 50%
+  |change     = +50%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Penkridge North East and Acton Trussell Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Leonard Arthur Bates'''
+  |votes      = 811
+  |percentage = 33.39%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Bevan Craddock
+  |votes      = 416
+  |percentage = 17.13%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Isabel Ford'''
+  |votes      = 835
+  |percentage = 34.38%
+  |change     = +34.38%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Sandie Morris
+  |votes      = 367
+  |percentage = 15.11%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 1,646
+  |percentage = 67.77%
+  |change     = +67.77%
+}}
+{{Election box turnout
+  |votes      = 2,429
+  |percentage = 48.40%
+  |change     = +48.40%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Penkridge South East Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Vincent Thomas Brennan
+  |votes      = 474
+  |percentage = 19.68%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = David John Oldfield
+  |votes      = 499
+  |percentage = 20.72%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Christine Jane Raven'''
+  |votes      = 798
+  |percentage = 33.13%
+  |change     = -10.31%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''John Raven'''
+  |votes      = 638
+  |percentage = 26.49%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 1,436
+  |percentage = 59.61%
+  |change     = -22.71%
+}}
+{{Election box turnout
+  |votes      = 2,409
+  |percentage = 42%
+  |change     = +7%
+}}
+<!--{{Election box hold with party link
+  |winner     =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Penkridge West Ward (1 councillor)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Donald Edwin Cartwright'''
+  |votes      = 370
+  |percentage = 53.95%
+  |change     = +53.95%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Sam Murphy
+  |votes      = 135
+  |percentage = 19.68%
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Calvert Stonehouse
+  |votes      = 181
+  |percentage = 26.39%
+  |change     =
+}}
+{{Election box majority
+  |votes      = 370
+  |percentage = 53.95%
+  |change     = +53.95%
+}}
+{{Election box turnout
+  |votes      = 686
+  |percentage = 41.5%
+  |change     = +41.5%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Perton Dippons Ward (1 councillor)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Charlene Mary Ann Duffell
+  |votes      = 248
+  |percentage = 39.37%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Keith James'''
+  |votes      = 382
+  |percentage = 60.64%
+  |change     = +39.37%
+}}
+{{Election box majority
+  |votes      = 382
+  |percentage = 60.64%
+  |change     = +60.64%
+}}
+{{Election box turnout
+  |votes      = 630
+  |percentage = 40.5%
+  |change     = +40.5%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Perton East Ward (1 councillor)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''David John Billson'''
+  |votes      = 432
+  |percentage = 51.80%
+  |change     = -1.16%
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Anthony Adam Christopher Bourke
+  |votes      = 402
+  |percentage = 48.20%
+  |change     = n/a
+}}
+{{Election box majority
+  |votes      = 432
+  |percentage = 51.80%
+  |change     = -1.16%
+}}
+{{Election box turnout
+  |votes      = 834
+  |percentage = 47.20%
+  |change     = +8.20%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Perton Lakeside Ward (3 councillors)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Alan Keith Black
+  |votes      = 513
+  |percentage = 11.37%
+  |change     = -0.54%
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = John Fenby
+  |votes      = 418
+  |percentage = 9.27%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''David Michael Fereday'''
+  |votes      = 886
+  |percentage = 19.64%
+  |change     = +3.46%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Rita Ann Helestine'''
+  |votes      = 850
+  |percentage = 18.84%
+  |change     = +2.35%
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Angie James
+  |votes      = 592
+  |percentage = 13.13%
+  |change     = -1.01%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Roy Edward Moreton'''
+  |votes      = 800
+  |percentage = 17.73%
+  |change     = +2.19%
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Patricia Norah Pitt
+  |votes      = 453
+  |percentage = 10.04%
+  |change     = -3.01%
+}}
+{{Election box majority
+  |votes      = 2,536
+  |percentage = 56.21%
+  |change     = -6.52%
+}}
+{{Election box turnout
+  |votes      = 4,512
+  |percentage = 35.80%
+  |change     = +5.80%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Trysull and Seisdon (1 councillor)}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Neil David Compson
+  |votes      = 263
+  |percentage = 33.08%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Robert James McCardle'''
+  |votes      = 532
+  |percentage = 66.92%
+  |change     = +66.92%
+}}
+{{Election box majority
+  |votes      = 532
+  |percentage = 66.92%
+  |change     = +66.92%
+}}
+{{Election box turnout
+  |votes      = 795
+  |percentage = 45.10%
+  |change     = +45.10%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Wheaton Aston, Bishops Wood and Lapley Ward (2 Councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Brian Cox'''
+  |votes      = unopposed
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Roy Wright'''
+  |votes      = unopposed
+  |percentage =
+  |change     =
+}}
+{{Election box majority
+  |votes      =
+  |percentage = 100%
+  |change     =
+}}
+{{Election box turnout
+  |votes      =
+  |percentage =
+  |change     =
+}}
+<!--{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Wombourne North and Lower Penn Ward (3 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Alan George Hinton'''
+  |votes      = 1,345
+  |percentage = 29.53%
+  |change     = +29.53%
+}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Lyndon Jones
+  |votes      = 707
+  |percentage = 15.52%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Robert Frederick Reade'''
+  |votes      = 1,267
+  |percentage = 27.82%
+  |change     = +27.82%
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Joan Williams'''
+  |votes      = 1,236
+  |percentage = 27.14%
+  |change     = +27.14%
+}}
+{{Election box majority
+  |votes      = 3,848
+  |percentage = 84.48%
+  |change     = -15.52%
+}}
+{{Election box turnout
+  |votes      = 4,555
+  |percentage = 41.40%
+  |change     = +41.40%
+}}
+<!--{{Election box gain with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}-->
+{{Election box end}}
+
+{{Election box begin | title=Wombourne South East Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Jackie Granger'''
+  |votes      = 860
+  |percentage = 38.50%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = UK Independence Party
+  |candidate  = Stuart Pace
+  |votes      = 501
+  |percentage = 22.42%
+  |change     = n/a
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Reginald Williams'''
+  |votes      = 873
+  |percentage = 39.08%
+  |change     = +4.73%
+}}
+{{Election box majority
+  |votes      = 1,733
+  |percentage = 77.58%
+  |change     = +0.9%
+}}
+{{Election box turnout
+  |votes      = 2,234
+  |percentage = 45.20%
+  |change     = +7.20%
+}}
+{{Election box end}}
+
+{{Election box begin | title=Wombourne South West Ward (2 councillors)}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Mary Bond'''
+  |votes      = unopposed
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = '''Mike Davies'''
+  |votes = unopposed
+  |percentage =
+  |change     =
+}}
+{{Election box majority
+  |votes      =
+  |percentage = 100%
+  |change     =
+}}
+{{Election box turnout
+  |votes      =
+  |percentage =
+  |change     =
+}}
+<!--{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box hold with party link
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}-->
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{Staffordshire elections}}
+{{United Kingdom local elections, 2011}}
+{{Authority control}}
+
+[[Category:2011 English local elections|South Staffordshire]]
+[[Category:South Staffordshire District Council elections|2011]]
+[[Category:2010s in Staffordshire]]

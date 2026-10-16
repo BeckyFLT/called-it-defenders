@@ -10,12 +10,11 @@
 | election_date = {{Start date|2026|5|7|df=y}}
 | elected_members = 
 | next_election = 2027 Newcastle-under-Lyme Borough Council election
-| next_year = 2027 
+| next_year = 2027
 | seats_for_election = All 44 seats to [[Newcastle-under-Lyme Borough Council]]
 | majority_seats = 23
 | opinion_polls = 
-| turnout = 
-<!-- Party 1 -->
+| turnout = <!-- Party 1 -->
 | image1 = {{eppt|Reform UK|}}
 | leader1 = [[Jonathan Gullis]]
 | party1 = Reform UK
@@ -28,8 +27,7 @@
 | popular_vote1 = 32,529
 | percentage1 = 41.1%
 | swing1 = ''N/A''
-<!-- Party 2 -->
-| image2 = {{eppt|Conservative Party (UK)|}}
+<!-- Party 2 -->| image2 = {{eppt|Conservative Party (UK)|}}
 | leader2 = Simon Tagg
 | party2 = Conservative Party (UK)
 | leader_since2 = 
@@ -41,21 +39,19 @@
 | popular_vote2 = 21,165
 | percentage2 = 26.7%
 | swing2 = {{decrease}} 22.8%
-<!-- Party 3 -->
-| image3 = {{eppt|Green Party of England and Wales|}}
-| leader3 = ''None''
+<!-- Party 3 -->| image3 = {{eppt|Green Party of England and Wales|}}
+| leader3 = Mark Jones
 | party3 = Green Party of England and Wales
-| leader_since3 =
+| leader_since3 = 
 | last_election3 = 0 seats, 0.3%
-| leaders_seat3 =
+| leaders_seat3 = 
 | seats_before3 = 0
 | seats3 = '''0'''
 | seat_change3 = {{steady}}
 | popular_vote3 = 6,054
 | percentage3 = 7.6%
 | swing3 = {{increase}} 7.3%
-<!-- Party 4 -->
-| image4 = {{eppt|Labour Party (UK)|}}
+<!-- Party 4 -->| image4 = {{eppt|Labour Party (UK)|}}
 | leader4 = Dave Jones
 | party4 = Labour Party (UK)
 | leader_since4 = 
@@ -67,8 +63,7 @@
 | popular_vote4 = 17,014
 | percentage4 = 21.5%
 | swing4 = {{decrease}} 25.3%
-<!-- Party 5 -->
-| image5 = {{eppt|Independent politician|}}
+<!-- Party 5 -->| image5 = {{eppt|Independent politician|}}
 | leader5 = ''None''
 | party5 = Independent politician
 | leader_since5 = 
@@ -1886,15 +1881,19 @@ Neill Walker was the Reform UK candidate for the [[Newcastle-under-Lyme (constit
 
 A by-election was called for the Town ward following the resignation of Reform UK councillor Christine Duffy, whose resignation letter was dated 20 August 2026 and received by the council on 21 August 2026. The ward's other councillor, Sheelagh Casey-Hulme, was unaffected.<ref>{{cite web |title=Borough Council by-election to be held |url=https://www.newcastle-staffs.gov.uk/news/article/572/borough-council-by-election-to-be-held |publisher=Newcastle-under-Lyme Borough Council |date=21 August 2026 |access-date=3 September 2026}}</ref> A date for the by-election had not yet been confirmed as of early September 2026.<ref>{{cite web |title=Current vacancies and by-elections |url=https://www.newcastle-staffs.gov.uk/elections-registration-1/current-vacancies-elections/4 |publisher=Newcastle-under-Lyme Borough Council |access-date=3 September 2026}}</ref>
 
-{{Election box begin|title=Town by-election, 8 October 2026<ref>https://whocanivotefor.co.uk/elections/local.newcastle-under-lyme.town.by.2026-10-08/town/</ref>}}
-{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Conna Eynon|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Labour Party (UK)|candidate=Andrew Fox-Hewitt|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Reform UK|candidate=Adam Griffiths|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Morgan Inwood|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Mark Jones|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box begin|title=Town by-election, 8 October 2026<ref>https://whocanivotefor.co.uk/elections/local.newcastle-under-lyme.town.by.2026-10-08/town/</ref><ref>https://www.newcastle-staffs.gov.uk/downloads/file/4116/declaration-of-result</ref>}}
+{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Andrew Fox-Hewitt|votes=431|percentage=46.2|change=+18.0}}
+{{Election box candidate with party link|party=Reform UK|candidate=Adam Griffiths|votes=249|percentage=26.7|change=-0.4}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Mark Jones|votes=115|percentage=12.3|change=-9.2}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Conna Eynon|votes=110|percentage=11.8|change=-4.3}}
+{{Election box candidate with party link|party=Liberal Democrats (UK, 2025)|candidate=Morgan Inwood|votes=27|percentage=2.9|change=-4.0}}
+{{Election box majority|votes=182|percentage=19.5|change=''N/A''}}
+{{Election box rejected|votes=2|percentage=0.2|change=}}
+{{Election box turnout|votes=932|percentage=23.2|change=-6.5}}
+{{Election box registered electors
+   |reg. electors = 4,026
+ }}
+{{Election box gain with party link|winner=Labour Party (UK)|loser=Reform UK|swing=+9.2}}
  {{Election box end}}
 
 ==References==

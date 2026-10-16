@@ -1,0 +1,1196 @@
+{{Short description|2016 local election in England}}
+{{Use dmy dates|date=March 2016}}
+{{Use British English|date=March 2016}}
+
+{{Infobox election
+| election_name = 2016 Rotherham Metropolitan Borough Council election
+| country = England
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2015 Rotherham Metropolitan Borough Council election]]
+| previous_year = [[2015 Rotherham Metropolitan Borough Council election|2015]]
+| next_election = [[2021 Rotherham Metropolitan Borough Council election]]
+| next_year = [[2021 Rotherham Metropolitan Borough Council election|2021]]
+| seats_for_election = All 63 seats to [[Rotherham Metropolitan Borough Council]]
+| majority_seats = 32
+| election_date = 5 May 2016
+
+| party1          = Labour Party (UK)
+| seats1          = '''48'''
+| seat_change1    = {{steady}}
+| swing1          =
+
+| party2          = United Kingdom Independence Party
+| seats2          = 14
+| seat_change2    = {{gain}}2
+| swing2          =
+
+| map_image = 
+| map_size = 400px
+| map_caption = 
+| title = Majority party
+| posttitle = Majority party after election
+| before_election = [[Labour Party (UK)|Labour]]
+| before_party = 
+| after_election =  [[Labour Party (UK)|Labour]]
+| after_party = 
+}}
+
+[[File:Rotherham wards 2016.svg|thumb|right|300px|2016 local election results in Rotherham]]
+
+'''[[Rotherham Metropolitan Borough Council]] elections''' took place on Thursday 5 May 2016, alongside [[2016 United Kingdom local elections|nationwide local elections]]. All 63 seats were up for election, 3 seats from each of the 21 wards.<ref>{{cite web
+ |url        = http://www.rotherham.gov.uk/downloads/file/2978/summary_of_borough_election_candidates
+ |title        = May 2016 election notices
+ |work        = Rotherham Metropolitan Borough Council
+ |access-date        = 24 April 2016
+ |archive-date        = 30 November 2024
+ |archive-url        = https://web.archive.org/web/20241130053346/https://www.rotherham.gov.uk/downloads/file/2978/summary_of_borough_election_candidates
+ |url-status        = dead
+ }}</ref>
+
+{{Election summary begin|title = Rotherham Metropolitan Borough Council Election Result 2016}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |defending  = 48
+  |gain       = 4
+  |loss       = 4
+  |net        = {{steady}}
+  |seats      = '''48'''
+  |seats %    = 76.2
+  |votes %    = 51.0
+  |votes      = 77,016
+  |plus/minus = {{gain}}6.7
+}}
+{{Election summary party|
+  |party      = United Kingdom Independence Party
+  |defending  = 12
+  |gain       = 3
+  |loss       = 1
+  |net        = {{gain}}2
+  |seats      = '''14'''
+  |seats %    = 22.2
+  |votes %    = 29.5
+  |votes      = 44,563
+  |plus/minus = {{loss}}5.8
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |defending  = 1
+  |gain       = 0
+  |loss       = 1
+  |net        = {{loss}}1
+  |seats      = '''0'''
+  |seats %    = 0.0
+  |votes %    = 7.9
+  |votes      = 11,871
+  |plus/minus = {{loss}}7.4
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |defending  = 2
+  |gain       = 0
+  |loss       = 1
+  |net        = {{loss}}1
+  |seats      = '''1'''
+  |seats %    = 1.6
+  |votes %    = 5.2
+  |votes      = 7,885
+  |plus/minus = {{gain}}3.1
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |defending  = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats      = '''0'''
+  |seats %    = 0.0
+  |votes %    = 3.6
+  |votes      = 5,426
+  |plus/minus = {{gain}}1.9
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |defending  = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats      = '''0'''
+  |seats %    = 0.0
+  |votes %    = 1.4
+  |votes      = 2,178
+  |plus/minus = {{gain}}0.4
+}}
+{{Election summary party|
+  |party      = Yorkshire First
+  |defending  = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats      = '''0'''
+  |seats %    = 0.0
+  |votes %    = 0.7
+  |votes      = 1,095
+  |plus/minus = {{gain}}0.7
+}}
+{{Election summary party|
+  |party      = Trade Unionist and Socialist Coalition
+  |defending  = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats      = '''0'''
+  |seats %    = 0.0
+  |votes %    = 0.6
+  |votes      = 960
+  |plus/minus = {{gain}}0.2
+}}
+{{Election box end}}
+
+This result has the following consequences for the total number of seats on the council after the elections:
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+! valign=top style="width: 30px"|+/-
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+! align=center | 48
+! align=center | 48
+! align=center | {{steady}}0
+|-
+! style="background-color: {{party color|UK Independence Party}}; width: 3px;" |
+| UKIP
+! align=center | 12
+! align=center | 14
+! align=center | {{gain}}2
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent
+! align=center | 2
+! align=center | 1
+! align=center | {{loss}}1
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+! align=center | 1
+! align=center | 0
+! align=center | {{loss}}1
+|-
+! colspan=2| Total
+! style="text-align: center"| 63
+! style="text-align: center"| 63
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|33|border=darkgray}}
+! {{Color box|#FFBF00|33|border=darkgray}}
+|}
+
+==Ward results==
+ Incumbent*
+
+===Anston and Woodsetts===
+
+{{Election box begin |title=Anston and Woodsetts 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Clive Robert Jepson*
+   |votes      = 1,240	|percentage = 15.6	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jonathan Charles Ireland
+   |votes      = 1,183	|percentage = 14.9	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Katherine Wilson
+   |votes      = 1,038	|percentage = 13.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Bernard Froggatt
+   |votes      = 1,003	|percentage = 12.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Phillip John Clarke
+   |votes      = 974	|percentage = 12.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Lauren Amy Edith Astbury*
+   |votes      = 827	|percentage = 10.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Christine Sadler
+   |votes      = 724	|percentage = 9.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Anthony John Kavanagh
+   |votes      = 582	|percentage = 7.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Charles David Foulstone
+   |votes      = 382	|percentage = 4.8	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Independent (politician)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Boston Castle===
+
+{{Election box begin |title=Boston Castle 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Rose McNeely*
+   |votes      = 1,843	|percentage = 24.1	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Saghir Alam*
+   |votes      = 1,662	|percentage = 21.7	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Taiba Yasseen*
+   |votes      = 1,626	|percentage = 21.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Lisa Michelle Raby
+   |votes      = 1,201	|percentage = 15.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Christian Carl Backer Kramer
+   |votes      = 844	|percentage = 11.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Christopher James Edward Bingham
+   |votes      = 477	|percentage = 6.2	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Brinsworth and Catcliffe===
+
+{{Election box begin |title=Brinsworth and Catcliffe 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Alan Buckley*
+   |votes      = 1,764	|percentage = 27.4	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Andrew Scott Roddison*
+   |votes      = 1,288	|percentage = 20.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Nigel Gary Simpson
+   |votes      = 1,190	|percentage = 18.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Shabana Ahmed*
+   |votes      = 1,070	|percentage = 16.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Adam Jonathon Carter
+   |votes      = 637	|percentage = 9.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Ruth Pauline Marsh
+   |votes      = 480	|percentage = 7.5	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box gain with party link|
+ |winner = UKIP
+ |loser = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Dinnington===
+
+{{Election box begin |title=Dinnington 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Simon Andrew Tweed*
+   |votes      = 1,012	|percentage = 15.1	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Ian Kenneth Finnie*
+   |votes      = 954	|percentage = 14.3	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jeanette Martin Mallinder*
+   |votes      = 913	|percentage = 13.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Shaun Grice
+   |votes      = 871	|percentage = 13.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Dave Smith
+   |votes      = 795	|percentage = 11.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Jean Hart
+   |votes      = 657	|percentage = 9.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Les Clarke
+   |votes      = 620	|percentage = 9.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Thomas Joseph Angel
+   |votes      = 492	|percentage = 7.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Wendy Hamilton
+   |votes      = 380	|percentage = 5.7	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }} {{Election box end}}
+
+===Hellaby===
+
+{{Election box begin |title=Hellaby 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = John Turner*
+   |votes      = 1,406	|percentage = 16.7	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Brian Cutts
+   |votes      = 1,324	|percentage = 15.7	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jenny Andrews
+   |votes      = 1,233	|percentage = 14.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Richard Fleming*
+   |votes      = 1,178	|percentage = 14.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Janet Law
+   |votes      = 1,147	|percentage = 13.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Andrew James Fenwick-Green
+   |votes      = 855	|percentage = 10.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Anne Middleton
+   |votes      = 779	|percentage = 9.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Rebecca Louise Whyman
+   |votes      = 520	|percentage = 6.2	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Holderness===
+
+{{Election box begin |title=Holderness 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Lyndsay Pitchley*
+   |votes      = 1,679	|percentage = 21.8	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Robert Paul Taylor*
+   |votes      = 1,382	|percentage = 17.9	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Michael Elliott
+   |votes      = 1,208	|percentage = 15.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = John Jenkins
+   |votes      = 1,188	|percentage = 15.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Darren Jason Louis Hughes*
+   |votes      = 1,177	|percentage = 15.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Michael James Naughton
+   |votes      = 628	|percentage = 8.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Ian Barkley
+   |votes      = 453	|percentage = 5.9	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }} {{Election box end}}
+
+===Hoober===
+
+{{Election box begin |title=Hoober 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Denise Lelliott*
+   |votes      = 1,363	|percentage = 23.8	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = David John Roche*
+   |votes      = 1,204	|percentage = 21.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Brian Steele*
+   |votes      = 1,185	|percentage = 20.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Amanda Cowles
+   |votes      = 992	|percentage = 17.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Tyrrell Jane Bingham
+   |votes      = 547	|percentage = 9.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Steven Scutt
+   |votes      = 445	|percentage = 7.8	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner =Labour Party (UK) 
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Keppel===
+
+{{Election box begin |title=Keppel 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Maggi Clark*
+   |votes      = 1,270	|percentage = 15.6	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = David Cutts*
+   |votes      = 1,227	|percentage = 15.1	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Paul Hague*
+   |votes      = 1,153	|percentage = 14.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = John Foden
+   |votes      = 1,110	|percentage = 13.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Christine Houghton
+   |votes      = 1,082	|percentage = 13.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jo Baker-Rogers
+   |votes      = 883	|percentage = 10.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Janice Middleton
+   |votes      = 366	|percentage = 4.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Kenneth Rodney Marshall
+   |votes      = 357	|percentage = 4.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = Yorkshire First
+   |candidate  = Peter Robert Key
+   |votes      = 268	|percentage = 3.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Thomas Walter Hill
+   |votes      = 266	|percentage = 3.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Neil Adshead
+   |votes      = 135	|percentage = 1.7	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }} {{Election box end}}
+
+===Maltby===
+
+{{Election box begin |title=Maltby 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Christine Beaumont*
+   |votes      = 1,181	|percentage = 18.1	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Amy Rushforth*
+   |votes      = 1,037	|percentage = 15.9	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Richard Price*
+   |votes      = 984	|percentage = 15.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Roger Jarvis
+   |votes      = 948	|percentage = 14.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Jon Carratt
+   |votes      = 750	|percentage = 11.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Shaz Biggin
+   |votes      = 555	|percentage = 8.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Simon Ashley Ball
+   |votes      = 452	|percentage = 6.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Joy Bradford
+   |votes      = 444	|percentage = 6.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Jane Rosemary Salt
+   |votes      = 188	|percentage = 2.9	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Rawmarsh===
+
+{{Election box begin |title=Rawmarsh 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Bob Bird
+   |votes      = 1,387	|percentage = 21.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = David Roy Sheppard
+   |votes      = 1,234	|percentage = 18.7	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Sandra Marriott
+   |votes      = 1,100	|percentage = 16.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Caven Vines*
+   |votes      = 1,063	|percentage = 16.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Emma Wallis*
+   |votes      = 1,036	|percentage = 15.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Emily West
+   |votes      = 442	|percentage = 6.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Josephine Margaret Taylor
+   |votes      = 343	|percentage = 5.2	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }} {{Election box end}}
+
+===Rother Vale===
+
+{{Election box begin |title=Rother Vale 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Amy Caroline Brookes
+   |votes      = 1,240	|percentage = 18.2	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Bob Walsh
+   |votes      = 1,146	|percentage = 16.9	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Leon Allcock
+   |votes      = 996	|percentage = 14.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Robert Donald Webster
+   |votes      = 919	|percentage = 13.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Matthew Eyre
+   |votes      = 916	|percentage = 13.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Greg Reynolds*
+   |votes      = 855	|percentage = 12.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = William Salt
+   |votes      = 419	|percentage = 6.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Martin Brown
+   |votes      = 308	|percentage = 4.5	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box gain with party link|
+ |winner =  Labour Party (UK)
+ |loser =  UKIP
+ |swing = }} {{Election box end}}
+
+===Rotherham East===
+
+{{Election box begin |title=Rotherham East 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Wendy Cooksey
+   |votes      = 1,336	|percentage = 23.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Tajamal Khan*
+   |votes      = 1,301	|percentage = 22.4	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Deborah Fenwick-Green
+   |votes      = 1,053	|percentage = 18.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Courtney Lea Webster
+   |votes      = 999	|percentage = 17.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Barry Dodson
+   |votes      = 463	|percentage = 8.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Richard William Penycate
+   |votes      = 420	|percentage = 7.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Marilyn Marshall
+   |votes      = 241	|percentage = 4.1	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Rotherham West===
+
+{{Election box begin |title=Rotherham West 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Ian Paul Jones*
+   |votes      = 1,589	|percentage = 24.3	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Pat Jarvis
+   |votes      = 1,552	|percentage = 23.8	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Eve Rose Keenan*
+   |votes      = 1,387	|percentage = 21.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Maureen Vines*
+   |votes      = 1,232	|percentage = 18.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Keith Hunter
+   |votes      = 423	|percentage = 6.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Trade Unionist and Socialist Coalition
+   |candidate  = Pat McLaughlin
+   |votes      = 348	|percentage = 5.3	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box gain with party link|
+ |winner = Labour Party (UK)
+ |loser = UK Independence Party
+ |swing = }} 
+{{Election box end}}
+
+===Silverwood===
+
+{{Election box begin |title=Silverwood 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Ann Russell*
+   |votes      = 1,200	|percentage = 15.8	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Alan Derek Napper
+   |votes      = 1,170	|percentage = 15.4	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Steve Marles
+   |votes      = 1,157	|percentage = 15.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = David Fleming
+   |votes      = 1,095	|percentage = 14.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = John Wilkinson
+   |votes      = 1,041	|percentage = 13.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Fakhary Saleh
+   |votes      = 817	|percentage = 10.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Denise Helen Hall
+   |votes      = 423	|percentage = 5.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Martyn Lawton Parker*
+   |votes      = 371	|percentage = 4.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Grant Thomas Morement
+   |votes      = 327	|percentage = 4.3	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box gain with party link|
+ |winner = UKIP
+ |loser = Independent (politician)
+ |swing = }} {{Election box end}}
+
+===Sitwell===
+
+{{Election box begin |title=Sitwell 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Allen Cowles*
+   |votes      = 1,466	|percentage = 15.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Peter Short
+   |votes      = 1,304	|percentage = 13.3	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Julie Turner*
+   |votes      = 1,277	|percentage = 13.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Christopher Norman Middleton*
+   |votes      = 1,128	|percentage = 11.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jacquie Falvey
+   |votes      = 1,024	|percentage = 10.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = John Lester Oliver
+   |votes      = 1,000	|percentage = 10.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Neil Rushforth
+   |votes      = 988	|percentage = 10.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Yorkshire First
+   |candidate  = Mick Bower
+   |votes      = 827	|percentage = 8.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Abdul Rashid
+   |votes      = 779	|percentage = 8.0	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }}
+{{Election box gain with party link|
+ |winner =UKIP 
+ |loser =Conservative Party (UK)
+ |swing = }} {{Election box end}}
+
+===Swinton===
+
+{{Election box begin |title=Swinton 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Victoria Cusworth
+   |votes      = 1,621	|percentage = 23.4	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Ken Wyatt*
+   |votes      = 1,619	|percentage = 23.4	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Stuart James Sansome*
+   |votes      = 1,510	|percentage = 21.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Ruby Collins
+   |votes      = 997	|percentage = 14.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Cassie Collins
+   |votes      = 740	|percentage = 10.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Handel Jones
+   |votes      = 426	|percentage = 6.2	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Valley===
+
+{{Election box begin |title=Valley 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Kerry Albiston
+   |votes      = 1,227	|percentage = 18.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = [[Jayne Senior]]
+   |votes      = 1,115	|percentage = 16.3	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Kath Reeder*
+   |votes      = 1,087	|percentage = 15.9	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Haroon Rashid
+   |votes      = 878	|percentage = 12.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Leah Dawn Webster
+   |votes      = 776	|percentage = 11.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Steven Benjamin Webster
+   |votes      = 714	|percentage = 10.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Dave Pickering*
+   |votes      = 449	|percentage = 6.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = Independent (politician)
+   |candidate  = Simon Currie*
+   |votes      = 365	|percentage = 5.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Omar Mehban
+   |votes      = 222	|percentage = 3.2	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box gain with party link|
+ |winner = Labour Party (UK)
+ |loser = Independent (politician)
+ |swing = }}
+{{Election box gain with party link|
+ |winner = Labour Party (UK)
+ |loser = Independent (politician)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UK Independence Party
+ |swing = }} {{Election box end}}
+
+===Wales===
+
+{{Election box begin |title=Wales 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Dominic Edward Beck*
+   |votes      = 1,584	|percentage = 22.3	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jenny Whysall*
+   |votes      = 1,450	|percentage = 20.4	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Gordon Watson*
+   |votes      = 1,189	|percentage = 16.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Dennis Flynn
+   |votes      = 1,065	|percentage = 15.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = John Cox
+   |votes      = 904	|percentage = 12.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Paul Neville Martin
+   |votes      = 493	|percentage = 7.0	|change     = }}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Alan Vincent Marshall
+   |votes      = 408	|percentage = 5.8	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box end}}
+
+===Wath===
+
+{{Election box begin |title=Wath 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Alan Atkin*
+   |votes      = 1,639	|percentage = 23.2	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Jayne Elliot*
+   |votes      = 1,496	|percentage = 21.2	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Simon Evans*
+   |votes      = 1,182	|percentage = 16.7	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Brian Albert Bailey
+   |votes      = 1,095	|percentage = 15.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Jeffrey Cowles
+   |votes      = 975	|percentage = 13.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Mykel Hedge
+   |votes      = 364	|percentage = 5.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Liberal Democrats (UK)
+   |candidate  = Abe Staples-McCall
+   |votes      = 322	|percentage = 4.6	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Lissa Higgins
+   |votes      = 316	|percentage = 4.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Beryl Brown
+   |votes      = 307	|percentage = 4.3	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Wickersley===
+
+{{Election box begin |title=Wickersley 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sue Ellis*
+   |votes      = 1,814	|percentage = 22.0	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Chris Read*
+   |votes      = 1,426	|percentage = 17.3	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Emma Hoddinott*
+   |votes      = 1,424	|percentage = 17.2	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Dennis Harry Hardwick
+   |votes      = 1,305	|percentage = 15.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Leslie James Hince
+   |votes      = 1,224	|percentage = 14.8	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Peter Michael Higgins
+   |votes      = 536	|percentage = 6.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Jo Baker
+   |votes      = 531	|percentage = 6.4	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }} {{Election box end}}
+
+===Wingfield===
+
+{{Election box begin |title=Wingfield 2016}}
+
+{{Election box winning candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Robert William Elliott
+   |votes      = 1,361	|percentage = 23.6	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Sarah Ann Allen
+   |votes      = 1,162	|percentage = 20.1	|change     = }}
+{{Election box winning candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = John Williams
+   |votes      = 898	|percentage = 15.5	|change     = }}
+{{Election box candidate with party link|
+   |party      = UK Independence Party
+   |candidate  = Lee James Hunter*
+   |votes      = 888	|percentage = 15.4	|change     = }}
+{{Election box candidate with party link|
+   |party      = Labour Party (UK)
+   |candidate  = Mahroof Rashid
+   |votes      = 644	|percentage = 11.1	|change     = }}
+{{Election box candidate with party link|
+   |party      = Green Party of England and Wales
+   |candidate  = Keith Cooper
+   |votes      = 540	|percentage = 9.3	|change     = }}
+{{Election box candidate with party link|
+   |party      = Conservative Party (UK)
+   |candidate  = Barrie Marsh
+   |votes      = 286	|percentage = 4.9	|change     = }}
+{{Election box majority|
+ |votes = 	|percentage = 	|change = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = }}
+{{Election box hold with party link|
+ |winner = UKIP
+ |swing = }} {{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{South Yorkshire elections}}
+{{United Kingdom local elections, 2016}}
+
+[[Category:2016 English local elections|Rotherham]]
+[[Category:Rotherham Council elections|2016]]
+[[Category:2010s in South Yorkshire]]

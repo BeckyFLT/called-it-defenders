@@ -1,0 +1,475 @@
+{{Short description|2006 UK local government election}}
+{{refimprove|date=September 2019}}
+{{Use dmy dates|date=April 2025}}
+{{Use British English|date=November 2013}}
+
+{{main|Hyndburn Borough Council elections}}
+
+{{Infobox election
+| election_name = 2006 Hyndburn Borough Council election
+| country = 
+| type = parliamentary
+| ongoing = no
+| previous_election = 2004 Hyndburn Borough Council election
+| previous_year = 2004
+| next_election = 2007 Hyndburn Borough Council election
+| next_year = 2007
+| seats_for_election = 11 of 35 seats to [[Hyndburn Borough Council]]
+| election_date = 4 May 2006
+| majority_seats = 18
+| party1 = Conservative Party (UK)
+| image1 = [[File:No image wide.svg|95x50px|Blank]]
+| leader1 = Peter Britcliffe
+| seats_before1 = 20
+| seats_after1 = 19
+| seat_change1 = {{decrease}}1
+| party2 = Labour Party (UK)
+| image2 = [[File:No image wide.svg|95x50px|Blank]]
+| leader2 = [[Graham Jones (politician)|Graham Jones]]
+| seats_before2 = 15
+| seats_after2 = 15
+| seat_change2 = {{steady}}
+| party4 = Independent politician
+| image4 = [[File:No image wide.svg|95x50px|Blank]]
+| leader4 = Nick Collingridge
+| seats_before4 = 0
+| seats_after4 = 1
+| seat_change4 = {{increase}}1
+| map_image = Hyndburn_UK_local_election_2006_map.svg
+| map_caption = 2006 local election results in Hyndburn
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#c0c0c0ff|[[Independent politician|Independent]]}}
+{{legend|#808080|Not contested}}
+| leaders_seat1 = St Andrew's
+| leaders_seat2 = Peel
+}}Elections to [[Hyndburn]] Borough Council were held on 4 May 2006. One third of the council was up for election and the [[Conservative Party (UK)|Conservative]] party stayed in overall control of the council. Two seats had been lost to Labour in by elections in 2005 (Rishton and Overton) but both these were won back at this election. However the Conservatives did lose one seat to Labour, Immanuel Ward reducing their majority to 19. (18+2-1=19)
+
+After the election, the composition of the council was
+*[[Conservative Party (UK)|Conservative]] 19
+*[[Labour Party (UK)|Labour]] 15
+*[[Independent (politician)|Independent]] 1
+
+==Election result==
+
+{{Election Summary Begin|title = Hyndburn local election result 2006}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 6
+  |gain       = 1
+  |loss       = 3
+  |net        = -2
+  |seats %    = 54.5
+  |votes %    = 49.8
+  |votes      = 7,566
+  |plus/minus = +7.0%
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 4
+  |gain       = 2
+  |loss       = 1
+  |net        = +1
+  |seats %    = 36.4
+  |votes %    = 45.3
+  |votes      = 6,880
+  |plus/minus = -2.9%
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 1
+  |gain       = 1
+  |loss       = 0
+  |net        = +1
+  |seats %    = 9.1
+  |votes %    = 3.6
+  |votes      = 553
+  |plus/minus = +2.2%
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 1.2
+  |votes      = 188
+  |plus/minus = -3.6%
+}}
+{{Election box end}}
+
+==Ward results==
+
+{{Election box begin | title=Clayton-le-Moors}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Nicholas Collingridge
+  |votes      = 553
+  |percentage = 40.0
+  |change     = +40.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Tim O'Kane
+  |votes      = 459
+  |percentage = 33.2
+  |change     = -13.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Philip Storey
+  |votes      = 369
+  |percentage = 26.7
+  |change     = -26.9
+}}
+{{Election box majority|
+ |votes      = 94
+ |percentage = 6.8
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,381
+  |percentage = 39.6
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Independent (politician)
+  |loser      = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huncoat}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Gott
+  |votes      = 593
+  |percentage = 54.1
+  |change     = -3.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Kathleen Pratt
+  |votes      = 503
+  |percentage = 45.9
+  |change     = +3.5
+}}
+{{Election box majority|
+ |votes      = 90
+ |percentage = 8.2
+ |change     = -7.0
+}}
+{{Election box turnout|
+  |votes      = 1,096
+  |percentage = 33.3
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Immanuel}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Colette McCormack
+  |votes      = 640
+  |percentage = 51.2
+  |change     = +3.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Sandra Hayes
+  |votes      = 611
+  |percentage = 48.8
+  |change     = -3.7
+}}
+{{Election box majority|
+ |votes      = 29
+ |percentage = 2.4
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,251
+  |percentage = 36.9
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Milnshaw}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Clare Pritchard
+  |votes      = 719
+  |percentage = 56.8
+  |change     = +3.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stanley Horne
+  |votes      = 546
+  |percentage = 43.2
+  |change     = -3.1
+}}
+{{Election box majority|
+ |votes      = 173
+ |percentage = 13.6
+ |change     = +6.2
+}}
+{{Election box turnout|
+  |votes      = 1,265
+  |percentage = 37.1
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Netherton}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mohammed Rahman
+  |votes      = 780
+  |percentage = 57.1
+  |change     = +9.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Dennis Baron
+  |votes      = 585
+  |percentage = 42.9
+  |change     = -9.5
+}}
+{{Election box majority|
+ |votes      = 195
+ |percentage = 14.2
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,365
+  |percentage = 41.6
+  |change     = -2.4
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+Susan Shorrocks had won [[Hyndburn Borough Council elections|the seat for Labour]] from the Conservatives 30 June 2005 after the resignation of Wyn Frankland. The Conservatives won it back at this election.
+
+{{Election box begin | title=Overton}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Roy Atkinson
+  |votes      = 956
+  |percentage = 53.8
+  |change     = -1.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Rob Kearney
+  |votes      = 822
+  |percentage = 46.2
+  |change     = +1.3
+}}
+{{Election box majority|
+ |votes      = 134
+ |percentage = 7.6
+ |change     = -2.6
+}}
+{{Election box turnout|
+  |votes      = 1,778
+  |percentage = 36.0
+  |change     = -8.7
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Peel}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bernard Dawson
+  |votes      = 514
+  |percentage = 67.4
+  |change     = -0.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Derek Wolstenholme
+  |votes      = 249
+  |percentage = 32.6
+  |change     = +0.4
+}}
+{{Election box majority|
+ |votes      = 265
+ |percentage = 34.8
+ |change     = -0.8
+}}
+{{Election box turnout|
+  |votes      = 763
+  |percentage = 24.5
+  |change     = -9.2
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+Claire Hamilton had won [[Hyndburn Borough Council elections|the seat for Labour]] from the Conservatives 17 March 2005 following the death of June Butler. The Conservatives won it back at this election.
+
+{{Election box begin | title=Rishton}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jennet Liddle
+  |votes      = 1,022
+  |percentage = 51.2
+  |change     = -8.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Claire Hamilton
+  |votes      = 975
+  |percentage = 48.8
+  |change     = +8.3
+}}
+{{Election box majority|
+ |votes      = 47
+ |percentage = 2.4
+ |change     = -16.6
+}}
+{{Election box turnout|
+  |votes      = 1,997
+  |percentage = 39.7
+  |change     = -1.8
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St. Andrew's}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Britcliffe
+  |votes      = 704
+  |percentage = 49.1
+  |change     = +5.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Gayle Knight
+  |votes      = 542
+  |percentage = 37.8
+  |change     = +4.6
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Bill Greene
+  |votes      = 188
+  |percentage = 13.1
+  |change     = -10.4
+}}
+{{Election box majority|
+ |votes      = 162
+ |percentage = 11.3
+ |change     = +1.2
+}}
+{{Election box turnout|
+  |votes      = 1,434
+  |percentage = 43.7
+  |change     = +0.2
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Oswald's}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Doug Hayes
+  |votes      = 997
+  |percentage = 59.3
+  |change     = +1.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William Pinder
+  |votes      = 684
+  |percentage = 40.7
+  |change     = -1.5
+}}
+{{Election box majority|
+ |votes      = 313
+ |percentage = 18.6
+ |change     = +3.0
+}}
+{{Election box turnout|
+  |votes      = 1,681
+  |percentage = 33.3
+  |change     = -8.2
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Spring Hill}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Pam Barton
+  |votes      = 838
+  |percentage = 71.3
+  |change     = +21.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Imran Arif
+  |votes      = 338
+  |percentage = 28.7
+  |change     = -3.6
+}}
+{{Election box majority|
+ |votes      = 500
+ |percentage = 42.6
+ |change     = +24.7
+}}
+{{Election box turnout|
+  |votes      = 1,176
+  |percentage = 33.9
+  |change     = -9.1
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==References==
+*[https://news.bbc.co.uk/2/shared/bsp/hi/vote2006/locals/html/30ug.stm 2006 Hyndburn election result]
+*[https://www.lancashiretelegraph.co.uk/archive/2006/5/5/900493.html/ Tories keep control of Hyndburn]
+*[https://www.lancashiretelegraph.co.uk/news/politics/elections/751970.tories-keep-control-hyndburn/ Ward results]
+
+{{Lancashire elections}}
+{{United Kingdom local elections, 2006}}
+
+[[Category:2006 English local elections]]
+[[Category:Hyndburn Borough Council elections|2006]]
+[[Category:2000s in Lancashire]]

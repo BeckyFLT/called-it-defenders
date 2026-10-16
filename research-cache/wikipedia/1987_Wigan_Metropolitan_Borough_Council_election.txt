@@ -1,0 +1,962 @@
+{{Short description|1987 UK local government election}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+[[File:Wigan85.png|thumb|500px|right|Map of the results of the 1987 Wigan council election.]]
+Elections to the [[Metropolitan Borough of Wigan|Wigan]] council were held on Thursday, 7 May 1987, with one third of the council up for election. Previous to the election there had been two by-elections held, resulting in a [[Labour Party (UK)|Labour]] gain of the seat being fought in Swinley from the [[Conservative Party (UK)|Conservatives]] and Labour retaining one of their Hindley Green seats. Participation for this election increased substantially from the [[1986 Wigan Council election|previous year]]'s lows. Only one ward went unopposed (Leigh Central) as Labour reliably provided a full-slate of candidates, the [[SDP-Liberal Alliance|Alliance]] all but [[Atherton, Greater Manchester|Atherton]] and the Conservatives up from 16 to 18, by way of fielding candidates in the Labour strongholds of Abram and [[Worsley Mesnes]] this time around. An [[Independent Labour]] candidate also fought and won [[Hindley, Greater Manchester|Hindley]], with an Independent victory last seen in [[1976 Wigan Council election|1976]], and Independent representation in [[1980 Wigan Council election|1980]], when that same victor failed to survive the re-warding.
+
+The results seen an end to four years of consecutive increases in Labour's share, peaking with last year's all-time high, as they slipped back into a respectable high-fifties and their loss dispersing to each of the opposition parties. Labour lost four seats in total, with the aforementioned Independent Labour loss in Hindley, an Alliance casualty from last year's elections re-elected in Winstanley, another loss to Alliance in [[Aspull]]-[[Standish, Greater Manchester|Standish]] and the Conservatives comfortable retaking the seat in Swinley they'd lost in the earlier mentioned by-election. These losses were offset somewhat by a gain from Alliance in Tyldesley East, returning the ward to entire Labour representation. Overall turnout rose to an above-average 37.1%.<ref name="results">{{cite web | url = http://www.wigan.gov.uk/NR/rdonlyres/3692F771-E969-41EE-B068-1F9F20DFE0B7/0/WiganResults1973to2007.pdf | title = Wigan Council results from 1973 to 2008 | publisher = wigan.gov.uk | access-date = 2012-01-30 | archive-url = https://web.archive.org/web/20111120022015/http://www.wigan.gov.uk/NR/rdonlyres/3692F771-E969-41EE-B068-1F9F20DFE0B7/0/WiganResults1973to2007.pdf | archive-date = 2011-11-20 | url-status = dead }}</ref>
+
+==Election result==
+{{Election summary begin|title = Wigan local election result 1987}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 19
+  |gain       = 1
+  |loss       = 4
+  |net        = -3
+  |seats %    = 79.2
+  |votes %    = 59.3
+  |votes      = 49,800
+  |plus/minus = -5.7
+}}
+{{Election summary party|
+  |party      = SDP-Liberal Alliance
+  |seats      = 3
+  |gain       = 2
+  |loss       = 1
+  |net        = +1
+  |seats %    = 12.5
+  |votes %    = 23.1
+  |votes      = 19,406
+  |plus/minus = +1.3
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 1
+  |gain       = 1
+  |loss       = 0
+  |net        = +1
+  |seats %    = 4.2
+  |votes %    = 15.3
+  |votes      = 12,820
+  |plus/minus = +2.2
+}}
+{{Election summary party|
+  |party      = Independent Labour
+  |seats      = 1
+  |gain       = 1
+  |loss       = 0
+  |net        = +1
+  |seats %    = 4.2
+  |votes %    = 2.2
+  |votes      = 1,894
+  |plus/minus = +2.2
+}}
+{{Election box end}}
+
+This result had the following consequences for the total number of seats on the council after the elections:
+
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 65
+| 62
+|-
+! style="background-color: {{party color|SDP-Liberal Alliance}}; width: 3px;" |
+| SDP-Liberal Alliance
+| 5
+| 6
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+| 2
+| 3
+|-
+! style="background-color: {{party color|Independent Labour}}; width: 3px;" |
+| Independent Labour
+| 0
+| 1
+|-
+! colspan=2| Total
+! style="text-align: center"| 72
+! colspan=3| 72
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|58|border=darkgray}}
+! {{Color box|#FFBF00|52|border=darkgray}}
+|}
+
+==Ward results==
+
+{{Election box begin | title=Abram<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = N. Cumberbach
+  |votes      = 2,687
+  |percentage = 80.0
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Wright
+  |votes      = 377
+  |percentage = 11.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = R. Murphy
+  |votes      = 296
+  |percentage = 8.8
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 2,310
+  |percentage = 68.7
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 3,360
+  |percentage = 34.8
+  |change     = ''N/A''
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = ''N/A''
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Ashton-in-Makerfield|Ashton]]-[[Golborne]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Hilton
+  |votes      = 2,206
+  |percentage = 65.3
+  |change     = -7.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = S. Edwards
+  |votes      = 718
+  |percentage = 21.2
+  |change     = +6.2
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = B. Miners
+  |votes      = 453
+  |percentage = 13.4
+  |change     = +1.2
+}}
+{{Election box majority|
+  |votes      = 1,488
+  |percentage = 44.0
+  |change     = -13.5
+}}
+{{Election box turnout|
+  |votes      = 3,377
+  |percentage = 34.6
+  |change     = +4.3
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -6.7
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Aspull]]-[[Standish, Greater Manchester|Standish]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = G. Davies
+  |votes      = 2,153
+  |percentage = 42.0
+  |change     = +0.5
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = A. Durkin
+  |votes      = 2,117
+  |percentage = 41.3
+  |change     = -4.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = K. Hart
+  |votes      = 860
+  |percentage = 16.7
+  |change     = +4.0
+}}
+{{Election box majority|
+  |votes      = 36
+  |percentage = 0.7
+  |change     = -3.7
+}}
+{{Election box turnout|
+  |votes      = 5,130
+  |percentage = 49.4
+  |change     = +4.8
+}}
+{{Election box gain with party link |
+  |winner     = SDP-Liberal Alliance
+  |loser      = Labour Party (UK)
+  |swing      = +2.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Atherton, Greater Manchester|Atherton]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Sumner
+  |votes      = 2,507
+  |percentage = 76.1
+  |change     = -6.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Sharland
+  |votes      = 1,418
+  |percentage = 23.8
+  |change     = +6.6
+}}
+{{Election box majority|
+  |votes      = 1,722
+  |percentage = 52.3
+  |change     = -13.1
+}}
+{{Election box turnout|
+  |votes      = 3,292
+  |percentage = 35.0
+  |change     = +5.4
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -6.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Bedford-Astley<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = H. Hayes
+  |votes      = 1,999
+  |percentage = 58.5
+  |change     = -9.1
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = D. Wilkinson
+  |votes      = 1,418
+  |percentage = 41.5
+  |change     = +9.1
+}}
+{{Election box majority|
+  |votes      = 581
+  |percentage = 17.0
+  |change     = -18.2
+}}
+{{Election box turnout|
+  |votes      = 3,417
+  |percentage = 34.2
+  |change     = +3.5
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -9.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Beech Hill<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = H. Antill
+  |votes      = 1,834
+  |percentage = 57.2
+  |change     = -17.0
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = J. McGarty
+  |votes      = 929
+  |percentage = 29.0
+  |change     = +13.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = R. Gibson
+  |votes      = 442
+  |percentage = 13.8
+  |change     = +3.2
+}}
+{{Election box majority|
+  |votes      = 905
+  |percentage = 28.2
+  |change     = -30.7
+}}
+{{Election box turnout|
+  |votes      = 3,205
+  |percentage = 36.1
+  |change     = +4.2
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -15.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=Bryn<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Foster
+  |votes      = 2,709
+  |percentage = 72.9
+  |change     = -5.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = R. Clayton
+  |votes      = 560
+  |percentage = 15.1
+  |change     = +3.8
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = W. Claypole
+  |votes      = 448
+  |percentage = 12.0
+  |change     = +2.0
+}}
+{{Election box majority|
+  |votes      = 2,149
+  |percentage = 57.8
+  |change     = -9.7
+}}
+{{Election box turnout|
+  |votes      = 3,717
+  |percentage = 37.5
+  |change     = +3.7
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -4.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Hindley, Greater Manchester|Hindley]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Independent Labour
+  |candidate  = E. Edwardson
+  |votes      = 1,894
+  |percentage = 54.2
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = M. O'Halloran
+  |votes      = 1,140
+  |percentage = 32.6
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = S. Galeazzi
+  |votes      = 459
+  |percentage = 13.1
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 754
+  |percentage = 21.6
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 3,493
+  |percentage = 36.4
+  |change     = ''N/A''
+}}
+{{Election box gain with party link |
+  |winner     = Independent Labour
+  |loser      = Labour Party (UK)
+  |swing      = ''N/A''
+}}
+{{Election box end}}
+
+{{Election box begin | title=Hindley Green<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = R. McAllister
+  |votes      = 2,275
+  |percentage = 72.1
+  |change     = ''N/A''
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = J. Cranfield
+  |votes      = 880
+  |percentage = 27.9
+  |change     = ''N/A''
+}}
+{{Election box majority|
+  |votes      = 1,395
+  |percentage = 44.2
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 3,155
+  |percentage = 28.2
+  |change     = ''N/A''
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = ''N/A''
+}}
+{{Election box end}}
+
+{{Election box begin | title=Hindsford<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = S. Little
+  |votes      = 2,189
+  |percentage = 64.0
+  |change     = -9.3
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = S. Jones
+  |votes      = 1,232
+  |percentage = 36.0
+  |change     = +9.3
+}}
+{{Election box majority|
+  |votes      = 957
+  |percentage = 28.0
+  |change     = -18.7
+}}
+{{Election box turnout|
+  |votes      = 3,421
+  |percentage = 32.0
+  |change     = +3.6
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -9.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=Hope Carr<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = L. Birtles
+  |votes      = 1,976
+  |percentage = 55.8
+  |change     = -10.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = E. Manson
+  |votes      = 1,103
+  |percentage = 31.2
+  |change     = -2.7
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = G. Pullin
+  |votes      = 460
+  |percentage = 13.0
+  |change     = +13.0
+}}
+{{Election box majority|
+  |votes      = 873
+  |percentage = 24.7
+  |change     = -7.5
+}}
+{{Election box turnout|
+  |votes      = 3,539
+  |percentage = 36.2
+  |change     = +1.8
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -3.7
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Ince-in-Makerfield|Ince]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = D. Molyneaux
+  |votes      = 2,385
+  |percentage = 87.7
+  |change     = -1.2
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = A. Robinson
+  |votes      = 172
+  |percentage = 6.3
+  |change     = +0.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = D. Edwards
+  |votes      = 161
+  |percentage = 5.9
+  |change     = +0.7
+}}
+{{Election box majority|
+  |votes      = 2,213
+  |percentage = 81.4
+  |change     = -1.7
+}}
+{{Election box turnout|
+  |votes      = 2,718
+  |percentage = 34.0
+  |change     = +0.6
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -0.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=Langtree<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = S. Jeffers
+  |votes      = 2,220
+  |percentage = 44.4
+  |change     = -2.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = S. Turner
+  |votes      = 1,945
+  |percentage = 38.9
+  |change     = -4.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Wolstenholme
+  |votes      = 839
+  |percentage = 16.8
+  |change     = +7.2
+}}
+{{Election box majority|
+  |votes      = 275
+  |percentage = 5.5
+  |change     = +2.0
+}}
+{{Election box turnout|
+  |votes      = 5,004
+  |percentage = 46.3
+  |change     = -0.9
+}}
+{{Election box hold with party link |
+  |winner     = SDP-Liberal Alliance
+  |swing      = +1.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Leigh Central<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = 
+  |votes      = Unopposed
+  |percentage = ''N/A''
+  |change     = ''N/A''
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = ''N/A''
+}}
+{{Election box end}}
+
+{{Election box begin | title=Leigh East<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = D. Caley
+  |votes      = 1,857
+  |percentage = 61.6
+  |change     = -12.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Turner
+  |votes      = 722
+  |percentage = 24.0
+  |change     = -1.9
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = P. Claypole
+  |votes      = 433
+  |percentage = 14.4
+  |change     = +14.4
+}}
+{{Election box majority|
+  |votes      = 1,135
+  |percentage = 37.7
+  |change     = -10.5
+}}
+{{Election box turnout|
+  |votes      = 3,012
+  |percentage = 29.3
+  |change     = +1.6
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -5.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Lightshaw<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = B. Strett
+  |votes      = 2,406
+  |percentage = 58.6
+  |change     = -8.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = G. Jackson
+  |votes      = 1,071
+  |percentage = 26.1
+  |change     = +7.6
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = J. Wilson
+  |votes      = 628
+  |percentage = 15.3
+  |change     = +1.2
+}}
+{{Election box majority|
+  |votes      = 1,335
+  |percentage = 32.5
+  |change     = -16.5
+}}
+{{Election box turnout|
+  |votes      = 4,105
+  |percentage = 38.9
+  |change     = -2.9
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -8.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Newtown<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = M. Milligan
+  |votes      = 2,406
+  |percentage = 77.0
+  |change     = -7.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = I. Nicholson
+  |votes      = 419
+  |percentage = 13.4
+  |change     = +4.8
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = W. Hewer
+  |votes      = 300
+  |percentage = 9.6
+  |change     = +2.2
+}}
+{{Election box majority|
+  |votes      = 1,987
+  |percentage = 63.6
+  |change     = -11.8
+}}
+{{Election box turnout|
+  |votes      = 3,125
+  |percentage = 34.5
+  |change     = +3.0
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -5.9
+}}
+{{Election box end}}
+
+{{Election box begin | title=Norley<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Smith
+  |votes      = 2,544
+  |percentage = 85.5
+  |change     = -2.7
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = R. Richardson
+  |votes      = 231
+  |percentage = 7.8
+  |change     = +1.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Carrington
+  |votes      = 200
+  |percentage = 6.7
+  |change     = +1.7
+}}
+{{Election box majority|
+  |votes      = 2,313
+  |percentage = 77.7
+  |change     = -3.7
+}}
+{{Election box turnout|
+  |votes      = 2,975
+  |percentage = 37.5
+  |change     = +2.1
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -1.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Orrell, Greater Manchester|Orrell]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = R. Capstick
+  |votes      = 1,946
+  |percentage = 46.4
+  |change     = -0.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = D. Patmore 
+  |votes      = 1,346
+  |percentage = 32.1
+  |change     = +10.2
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = N. Somers
+  |votes      = 903
+  |percentage = 21.5
+  |change     = -9.9
+}}
+{{Election box majority|
+  |votes      = 600
+  |percentage = 14.3
+  |change     = -0.8
+}}
+{{Election box turnout|
+  |votes      = 4,195
+  |percentage = 40.8
+  |change     = +1.2
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -5.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Swinley<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Dowling
+  |votes      = 1,908
+  |percentage = 40.0
+  |change     = +1.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = M. Gallagher
+  |votes      = 1,767
+  |percentage = 37.0
+  |change     = +0.4
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = C. Rhys
+  |votes      = 1,096
+  |percentage = 23.0
+  |change     = -2.2
+}}
+{{Election box majority|
+  |votes      = 141
+  |percentage = 2.9
+  |change     = +1.3
+}}
+{{Election box turnout|
+  |votes      = 4,771
+  |percentage = 53.0
+  |change     = +5.5
+}}
+{{Election box gain with party link |
+  |winner     = Conservative Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      = +0.7
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Tyldesley]] East<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = C. Hopkinson
+  |votes      = 2,104
+  |percentage = 56.0
+  |change     = -5.6
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = A. Shaw
+  |votes      = 1,653
+  |percentage = 44.0
+  |change     = +5.6
+}}
+{{Election box majority|
+  |votes      = 451
+  |percentage = 12.0
+  |change     = -11.1
+}}
+{{Election box turnout|
+  |votes      = 3,757
+  |percentage = 35.7
+  |change     = -3.6
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = SDP-Liberal Alliance
+  |swing      = -5.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Whelley<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = M. Pendleton
+  |votes      = 2,448
+  |percentage = 77.0
+  |change     = -2.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = F. Sidebotham
+  |votes      = 387
+  |percentage = 12.2
+  |change     = +3.8
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = D. Armstrong
+  |votes      = 342
+  |percentage = 10.7
+  |change     = -0.9
+}}
+{{Election box majority|
+  |votes      = 2,061
+  |percentage = 64.9
+  |change     = -3.4
+}}
+{{Election box turnout|
+  |votes      = 3,177
+  |percentage = 36.0
+  |change     = +0.5
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -3.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=Winstanley<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = J. Fitzpatrick
+  |votes      = 2,171
+  |percentage = 44.8
+  |change     = +1.1
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = G. Taberner
+  |votes      = 2,049
+  |percentage = 42.2
+  |change     = -4.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = N. Edmond
+  |votes      = 630
+  |percentage = 13.0
+  |change     = +2.9
+}}
+{{Election box majority|
+  |votes      = 122
+  |percentage = 2.5
+  |change     = -0.0
+}}
+{{Election box turnout|
+  |votes      = 4,850
+  |percentage = 42.2
+  |change     = +2.1
+}}
+{{Election box gain with party link |
+  |winner     = SDP-Liberal Alliance
+  |loser      = Labour Party (UK)
+  |swing      = +2.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=[[Worsley Mesnes]]<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = B. Baldwin
+  |votes      = 2,304
+  |percentage = 73.7
+  |change     = -10.5
+}}
+{{Election box candidate with party link|
+  |party      = SDP-Liberal Alliance
+  |candidate  = B. Pryle
+  |votes      = 529
+  |percentage = 16.9
+  |change     = +1.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = C. Michaels
+  |votes      = 292
+  |percentage = 9.3
+  |change     = +9.3
+}}
+{{Election box majority|
+  |votes      = 1,775
+  |percentage = 56.8
+  |change     = -11.7
+}}
+{{Election box turnout|
+  |votes      = 3,125
+  |percentage = 31.5
+  |change     = +3.8
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -5.8
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{United Kingdom local elections, 1987 |state=expanded}}
+{{Wigan Council elections}}
+
+[[Category:1987 English local elections]]
+[[Category:Wigan Council elections|1987]]
+[[Category:1980s in Greater Manchester]]

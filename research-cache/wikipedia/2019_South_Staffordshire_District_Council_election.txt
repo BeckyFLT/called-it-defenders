@@ -1,0 +1,1477 @@
+{{Short description|2019 UK local government election}}
+{{Use dmy dates|date=April 2022}}
+
+{{Infobox election
+| election_name     = 2019 South Staffordshire District Council election
+| country           = Staffordshire
+| type              = parliamentary
+| previous_election = 2015 South Staffordshire District Council election
+| previous_year     = 2015
+| outgoing_members  = 
+| election_date     = {{Start date|2019|5|2|df=y}}
+| elected_members   = 
+| next_election     = 2023 South Staffordshire District Council election
+| next_year         = 2023
+| seats_for_election= All 49 seats to [[South Staffordshire District Council]]
+| majority_seats    = 25
+| opinion_polls     = 
+| turnout           = 
+<!-- Party 1 -->
+| image1            = [[File:No image wide.svg|95x50px|Blank]]
+| leader1           = 
+| party1            = Conservative Party (UK)
+| leader_since1     = 
+| last_election1    = 43 seats, 60.9%
+| leaders_seat1     = 
+| seats_before1     = 
+| seats1            = '''37'''
+| seats_after1      = 
+| seat_change1      = {{decrease}} 6
+| popular_vote1     = 23,348
+| percentage1       = 57.4%
+| swing1            = {{decrease}} 3.5%
+<!-- Party 2 -->
+| image2            = [[File:No image wide.svg|95x50px|Blank]]
+| leader2           = 
+| party2            = Independent politician
+| leader_since2     = 
+| leaders_seat2     = 
+| last_election2    = 4 seats, 14.4%
+| seats_before2     = 
+| seats2            = '''7'''
+| seats_after2      = 
+| seat_change2      = {{increase}} 3
+| popular_vote2     = 5,947
+| percentage2       = 14.6%
+| swing2            = {{increase}} 0.2%
+<!-- Party 3 -->
+| image3            = [[File:No image wide.svg|95x50px|Blank]]
+| leader3           = 
+| party3            = Green Party of England and Wales
+| leader_since3     =
+| leaders_seat3     = 
+| last_election3    = 0 seats, 1.3%
+| seats_before3     = 
+| seats3            = '''3'''
+| seats_after3      = 
+| seat_change3      = {{increase}} 3
+| popular_vote3     = 4,471
+| percentage3       = 11.0%
+| swing3            = {{increase}} 9.7%
+<!-- Party 4 -->
+| image4            = [[File:No image wide.svg|95x50px|Blank]]
+| leader4           = 
+| party4            = Labour Party (UK)
+| leader_since4     =
+| leaders_seat4     = 
+| last_election4    = 1 seat, 17.8%
+| seats_before4     = 
+| seats4            = '''1'''
+| seats_after4      = 
+| seat_change4      = {{steady}}
+| popular_vote4     = 5,578
+| percentage4       = 13.7%
+| swing4            = {{decrease}} 4.1%
+<!-- Party 5 -->
+| image5            = [[File:No image wide.svg|95x50px|Blank]]
+| leader5           = 
+| party5            = UKIP
+| leader_since5     = 
+| leaders_seat5     = 
+| last_election5    = 1 seat, 5.6%
+| seats_before5     = 
+| seats5            = '''1'''
+| seats_after5      = 
+| seat_change5      = {{steady}}
+| popular_vote5     = 680
+| percentage5       = 1.7%
+| swing5            = {{decrease}} 3.9%
+| map_image         = File:South Staffordshire UK ward map 2019.svg
+| map_size          = 
+| map_alt           = 
+| map               = 
+| map_caption       = Results of the 2019 South Staffordshire District Council election
+| title = Council control
+| posttitle = Council control after election
+| before_election = 
+| before_party = Conservative Party (UK)
+| after_election = 
+| after_party = Conservative Party (UK)
+}}
+
+The '''2019 [[South Staffordshire]] [[District council (England)|District Council]] [[election]]''' took place on 2 May 2019 to elect members of the [[South Staffordshire District Council]] in [[Elections in England|England]].<ref>{{cite web |title=Election Results South Staffordshire Council |url=https://www.sstaffs.gov.uk/elections/election-results.cfm?election=25 |website=www.sstaffs.gov.uk |access-date=4 August 2021 |language=en}}</ref> It was held on the same day as other [[2019 United Kingdom local elections|local elections]].
+
+==Summary==
+
+===Election result===
+
+{{Local election summary begin|title=2019 South Staffordshire District Council election}}
+{{Local election summary party
+  |party         =Conservative Party (UK)
+  |candidates    =45
+  |seats         ='''37'''
+  |gain          =0
+  |loss          =6
+  |net           ={{decrease}} 6
+  |votes %       =57.4
+  |seats %       =77.1
+  |votes         =23,348
+  |plus/minus    =–3.5
+}}
+{{Local election summary party
+  |party         =Independent politician
+  |candidates    =11
+  |seats         ='''7'''
+  |gain          =3
+  |loss          =0
+  |net           ={{increase}} 3
+  |votes %       =14.6
+  |seats %       =14.6
+  |votes         =5,947
+  |plus/minus    =+0.2
+}}
+{{Local election summary party
+  |party         =Green Party of England and Wales
+  |candidates    =11
+  |seats         ='''3'''
+  |gain          =3
+  |loss          =0
+  |net           ={{increase}} 3
+  |votes %       =11.0
+  |seats %       =6.3
+  |votes         =4,471
+  |plus/minus    =+9.7
+}}
+{{Local election summary party
+  |party         =Labour Party (UK)
+  |candidates    =25
+  |seats         ='''1'''
+  |gain          =1
+  |loss          =1
+  |net           ={{steady}}
+  |votes %       =13.7
+  |seats %       =2.1
+  |votes         =5,578
+  |plus/minus    =–4.1
+}}
+{{Local election summary party
+  |party         =UKIP
+  |candidates    =2
+  |seats         ='''1'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =1.7
+  |seats %       =2.1
+  |votes         =680
+  |plus/minus    =–3.9
+}}
+{{Local election summary party
+  |party         =Liberal Democrats (UK)
+  |candidates    =2
+  |seats         ='''0'''
+  |gain          =0
+  |loss          =0
+  |net           ={{steady}}
+  |votes %       =1.7
+  |seats %       =0.0
+  |votes         =677
+  |plus/minus    =''N/A''
+}}
+|-
+{{Election box end}}
+
+==Ward results==
+
+===Bilbrook===
+
+{{Election box begin | title=Bilbrook}}
+{{Election box winning candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Gary Burnett
+   |votes      = 747
+   |percentage = 68.4
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Ian Sadler
+   |votes      = 580
+   |percentage = 53.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Valeria Chapman
+   |votes      = 419
+   |percentage = 38.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Shane Jenkinson
+   |votes      = 293
+   |percentage = 26.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,098
+   |percentage = 34.0
+   |change     = 
+ }}
+{{Election box gain with party link no swing
+   |winner     = Green Party of England and Wales
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Green Party of England and Wales
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Brewood and Coven===
+
+{{Election box begin | title=Brewood and Coven}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Joyce Bolton
+   |votes      = 1,011
+   |percentage = 62.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Anne Holmes
+   |votes      = 1,009
+   |percentage = 62.1
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Wendy Sutton
+   |votes      = 901
+   |percentage = 55.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Lorna Jones
+   |votes      = 462
+   |percentage = 28.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = James Sadler
+   |votes      = 436
+   |percentage = 26.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Antony Hyett
+   |votes      = 301
+   |percentage = 18.5
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,650
+   |percentage = 30.7
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Cheslyn Hay North and Saredon===
+
+{{Election box begin | title=Cheslyn Hay North and Saredon}}
+{{Election box winning candidate with party link
+   |party      = UKIP
+   |candidate  = Stephen Hollis
+   |votes      = 394
+   |percentage = 46.4
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Mike Boyle
+   |votes      = 344
+   |percentage = 40.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Victor Kelly
+   |votes      = 337
+   |percentage = 39.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Lee Booker
+   |votes      = 195
+   |percentage = 22.9
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 861
+   |percentage = 25.5
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = UKIP
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Labour Party (UK)
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Cheslyn Hay South===
+
+{{Election box begin | title=Cheslyn Hay South}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Bernard Williams
+   |votes      = 369
+   |percentage = 45.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Joseph Lockley
+   |votes      = 365
+   |percentage = 45.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Albert Emery
+   |votes      = 286
+   |percentage = 35.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Joseph Davidson
+   |votes      = 184
+   |percentage = 22.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Matthew Plant
+   |votes      = 174
+   |percentage = 21.4
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 822
+   |percentage = 28.0
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Codsall North===
+
+{{Election box begin | title=Codsall North}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Megan Barrow
+   |votes      = 628
+   |percentage = 62.8
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = James Ewart
+   |votes      = 595
+   |percentage = 59.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Brigid O'Connor
+   |votes      = 292
+   |percentage = 29.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Luke Carpenter
+   |votes      = 215
+   |percentage = 21.5
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,017
+   |percentage = 30.5
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Codsall South===
+
+{{Election box begin | title=Codsall South}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Spencer
+   |votes      = 691
+   |percentage = 67.8
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = John Michell
+   |votes      = 625
+   |percentage = 61.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Hilde Liesens
+   |votes      = 259
+   |percentage = 25.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = David Jones
+   |votes      = 164
+   |percentage = 16.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Kevin McElduff
+   |votes      = 122
+   |percentage = 12.0
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,037
+   |percentage = 32.9
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Essington===
+
+{{Election box begin | title=Essington}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Warren Fisher
+   |votes      = 697
+   |percentage = 55.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Christopher Steel
+   |votes      = 641
+   |percentage = 50.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = David Clifft
+   |votes      = 436
+   |percentage = 34.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Peter Lever
+   |votes      = 370
+   |percentage = 29.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Malcolm McKenzie
+   |votes      = 167
+   |percentage = 13.3
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,265
+   |percentage = 32.0
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Featherstone and Shareshill===
+
+{{Election box begin | title=Featherstone and Shareshill}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Robert Cope
+   |votes      = 669
+   |percentage = 54.8
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Frank Beardsmore
+   |votes      = 663
+   |percentage = 54.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Henryk Lobuczek
+   |votes      = 319
+   |percentage = 26.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = John Brindle
+   |votes      = 260
+   |percentage = 21.3
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,229
+   |percentage = 33.3
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Independent politician
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Great Wyrley Landywood===
+
+{{Election box begin | title=Great Wyrley Landywood}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Kathleen Williams
+   |votes      = 522
+   |percentage = 67.4
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Raymond Perry
+   |votes      = 512
+   |percentage = 66.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Susan Wood
+   |votes      = 222
+   |percentage = 28.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Adam Pearson
+   |votes      = 212
+   |percentage = 27.4
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 813
+   |percentage = 22.0
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Great Wyrley Town===
+
+{{Election box begin | title=Great Wyrley Town}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Kathleen Perry
+   |votes      = 731
+   |percentage = 57.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Janet Johnson
+   |votes      = 682
+   |percentage = 53.6
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Michael Lawrence
+   |votes      = 541
+   |percentage = 42.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = David Norris
+   |votes      = 357
+   |percentage = 28.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ken Bullock
+   |votes      = 289
+   |percentage = 22.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = John Jones
+   |votes      = 255
+   |percentage = 20.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = David Mermod
+   |votes      = 228
+   |percentage = 17.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alex Brindle
+   |votes      = 226
+   |percentage = 17.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,291
+   |percentage = 25.5
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Himley and Swindon===
+
+{{Election box begin | title=Himley and Swindon}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Roger Lees
+   |votes      = 350
+   |percentage = 58.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Gordon Fanthom
+   |votes      = 240
+   |percentage =41.7
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 598
+   |percentage = 28.6
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Huntington and Hatherton===
+
+{{Election box begin | title=Huntington and Hatherton}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = David Williams
+   |votes      = 393
+   |percentage = 36.3
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Christopher Benton
+   |votes      = 358
+   |percentage = 33.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Jeff Ashley
+   |votes      = 331
+   |percentage = 30.6
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 847
+   |percentage = 21.3
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Green Party of England and Wales
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Kinver===
+
+{{Election box begin | title=Kinver}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Linda Hingley
+   |votes      = 1,022
+   |percentage = 55.8
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Brian Edwards
+   |votes      = 1,004
+   |percentage = 54.8
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Henry Williams
+   |votes      = 889
+   |percentage = 48.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Bernadette McGourty
+   |votes      = 665
+   |percentage = 36.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Timothy Talbot-Webb
+   |votes      = 598
+   |percentage = 32.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,860
+   |percentage = 31.3
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Pattingham and Patshull===
+
+{{Election box begin | title=Pattingham and Patshull}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Terence Mason
+   |votes      = 468
+   |percentage = 80.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Nicholas Hill
+   |votes      = 114
+   |percentage =19.6
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 602
+   |percentage = 33.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Penkridge North East and Acton Trussell===
+
+{{Election box begin | title=Penkridge North East and Acton Trussell}}
+{{Election box unopposed candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Len Bates
+}}
+{{Election box unopposed candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Isabel Ford
+}}
+ {{Election box end}}
+
+===Penkridge South East===
+
+{{Election box begin | title=Penkridge South East}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Christine Raven
+   |votes      = 571
+   |percentage = 61.5
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = John Raven
+   |votes      = 529
+   |percentage = 56.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Norman Smallwood
+   |votes      = 330
+   |percentage = 35.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Andrew Lenz
+   |votes      = 318
+   |percentage = 34.2
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 966
+   |percentage = 27.4
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Penkridge West===
+
+{{Election box begin | title=Penkridge West}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Josephine Chapman
+   |votes      = 373
+   |percentage = 78.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ronald Kenyon
+   |votes      = 101
+   |percentage =21.3
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 502
+   |percentage = 28.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Perton Dippons===
+
+{{Election box begin | title=Perton Dippons}}
+{{Election box unopposed candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Philip Davis
+}}
+ {{Election box end}}
+
+===Perton East===
+
+{{Election box begin | title=Perton East}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Anthony Bourke
+   |votes      = 485
+   |percentage = 81.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Richard Simonds
+   |votes      = 113
+   |percentage =18.9
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 602
+   |percentage = 36.2
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Perton Lakeside===
+
+{{Election box begin | title=Perton Lakeside}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Penelope Allen
+   |votes      = 771
+   |percentage = 62.6
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Nigel Caine
+   |votes      = 618
+   |percentage = 50.2
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Rita Heseltine
+   |votes      = 532
+   |percentage = 43.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Christopher Evans
+   |votes      = 502
+   |percentage = 40.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Jonathan Stokes
+   |votes      = 309
+   |percentage = 25.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Natalie Neale
+   |votes      = 274
+   |percentage = 22.3
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,241
+   |percentage = 25.5
+   |change     = 
+ }}
+{{Election box gain with party link no swing
+   |winner     = Independent politician
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+{{Election box gain with party link no swing
+   |winner     = Independent politician
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Trysull and Seisdon===
+
+{{Election box begin | title=Trysull and Seisdon}}
+{{Election box unopposed candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Victoria Wilson
+}}
+ {{Election box end}}
+
+===Wheaton Aston, Bishopswood and Lapley===
+
+{{Election box begin | title=Wheaton Aston, Bishopswood and Lapley}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Brian Cox
+   |votes      = 686
+   |percentage = 68.3
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Venetia Jackson
+   |votes      = 685
+   |percentage = 68.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Barbara Sandland
+   |votes      = 247
+   |percentage = 24.6
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,046
+   |percentage = 32.1
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Wombourne North and Lower Penn===
+
+{{Election box begin | title=Wombourne North and Lower Penn}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Barry Bond
+   |votes      = 813
+   |percentage = 62.0
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Daniel Kinsey
+   |votes      = 771
+   |percentage = 58.8
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Robert Reade
+   |votes      = 701
+   |percentage = 53.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Holly Fuller
+   |votes      = 507
+   |percentage = 38.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,348
+   |percentage = 25.4
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Wombourne South East===
+
+{{Election box begin | title=Wombourne South East}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Kenneth Upton
+   |votes      = 677
+   |percentage = 76.3
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Reginald Williams
+   |votes      = 585
+   |percentage = 66.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Denis Beaumont
+   |votes      = 250
+   |percentage = 28.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michael Vaughan
+   |votes      = 172
+   |percentage = 19.4
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 918
+   |percentage = 28.7
+   |change     = 
+ }}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Wombourne South West===
+
+The original poll in this ward, scheduled for 2 May 2019, was cancelled and rescheduled following the death of a candidate; the rescheduled election was held on 6 June 2019.<ref>{{cite web |title=Wombourne South West ward (postponed) |url=https://whocanivotefor.co.uk/elections/local.south-staffordshire.wombourne-south-west.2019-05-02/ |website=WhoCanIVoteFor |publisher=Democracy Club |access-date=28 September 2026}}</ref>
+
+{{Election box begin | title=Wombourne South West: 6 June 2019<ref>{{cite web |title=Wombourne South West ward |url=https://whocanivotefor.co.uk/elections/local.south-staffordshire.wombourne-south-west.2019-06-06/ |website=WhoCanIVoteFor |publisher=Democracy Club |access-date=28 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Mike Davies
+   |votes      = 359
+   |percentage = 38.1
+   |change     =
+}}
+ {{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Vince Merrick
+   |votes      = 325
+   |percentage = 34.5
+   |change     =
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Claire McIlvenna
+   |votes      = 90
+   |percentage = 9.5
+   |change     =
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Pete Stones
+   |votes      = 79
+   |percentage = 8.4
+   |change     =
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Adam Freeman
+   |votes      = 47
+   |percentage = 5.0
+   |change     =
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michael Vaughan
+   |votes      = 43
+   |percentage = 4.6
+   |change     =
+}}
+{{Election box turnout
+   |votes      = 955
+   |percentage = 18.0
+   |change     =
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+==Changes 2019–2023==
+
+* Dave Lockley (Cheslyn Hay South), elected as a Conservative in 2019, left the party during the term and stood as an independent candidate at the 2023 election.<ref>{{cite web |title=Cheslyn Hay South ward |url=https://whocanivotefor.co.uk/elections/local.south-staffordshire.cheslyn-hay-south.2019-05-02/ |website=WhoCanIVoteFor |publisher=Democracy Club |access-date=28 September 2026}}</ref><ref>{{cite web |title=Cheslyn Hay Village ward |url=https://whocanivotefor.co.uk/elections/local.south-staffordshire.cheslyn-hay-village.2023-05-04/ |website=WhoCanIVoteFor |publisher=Democracy Club |access-date=28 September 2026}}</ref>
+
+===By-elections===
+
+====Kinver====
+
+A by-election was held on 28 October 2021 to fill a casual vacancy in the ward.
+
+{{Election box begin | title=Kinver: 28 October 2021<ref>{{cite web |title=Kinver ward by-election |url=https://whocanivotefor.co.uk/elections/local.south-staffordshire.kinver.by.2021-10-28/ |website=WhoCanIVoteFor |publisher=Democracy Club |access-date=28 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Geoff Sisley
+   |votes      = 865
+   |percentage = 74.1
+   |change     =
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michael Vaughan
+   |votes      = 154
+   |percentage = 13.2
+   |change     =
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Bernadette McGourty
+   |votes      = 149
+   |percentage = 12.8
+   |change     =
+}}
+{{Election box majority
+   |votes      = 711
+   |percentage = 60.9
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 1,173
+   |percentage = 20.0
+   |change     =
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+====Penkridge North East and Acton Trussell====
+
+A by-election was held on 21 July 2022 to fill a casual vacancy in the ward.
+
+{{Election box begin | title=Penkridge North East and Acton Trussell: 21 July 2022<ref>{{cite web |title=PNE and AT Declaration of results 2022 |url=https://www.sstaffs.gov.uk/sites/default/files/2024-03/pen%20district%20results.docx |website=www.sstaffs.gov.uk |publisher=South Staffordshire Council |access-date=28 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Adams
+   |votes      = 388
+   |percentage = 47.8
+   |change     =
+}}
+{{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Samuel Harper-Wallis
+   |votes      = 378
+   |percentage = 46.6
+   |change     =
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Norman Smallwood
+   |votes      = 45
+   |percentage = 5.5
+   |change     =
+}}
+{{Election box majority
+   |votes      = 10
+   |percentage = 1.2
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 814
+   |percentage = 27.4
+   |change     =
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+====Wombourne South East====
+
+A by-election was held on 28 October 2021 to fill a casual vacancy in the ward.
+
+{{Election box begin | title=Wombourne South East: 28 October 2021<ref>{{cite web |title=Wombourne South East ward by-election |url=https://whocanivotefor.co.uk/elections/local.south-staffordshire.wombourne-south-east.by.2021-10-28/ |website=WhoCanIVoteFor |publisher=Democracy Club |access-date=28 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Mark Evans
+   |votes      = 370
+   |percentage = 50.3
+   |change     =
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Claire McIlvenna
+   |votes      = 323
+   |percentage = 43.9
+   |change     =
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Denis Beaumont
+   |votes      = 42
+   |percentage = 5.7
+   |change     =
+}}
+{{Election box majority
+   |votes      = 47
+   |percentage = 6.4
+   |change     =
+ }}
+{{Election box turnout
+   |votes      = 738
+   |percentage = 23.0
+   |change     =
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      =
+   |swing      =
+}}
+ {{Election box end}}
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{Staffordshire elections}}
+
+[[Category:2019 English local elections|South Staffordshire]]
+[[Category:May 2019 in the United Kingdom]]
+[[Category:South Staffordshire District Council elections|2019]]
+[[Category:2010s in Staffordshire]]

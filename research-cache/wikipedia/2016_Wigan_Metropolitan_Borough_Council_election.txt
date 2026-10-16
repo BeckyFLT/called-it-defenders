@@ -1,0 +1,871 @@
+{{Short description|2016 local election in England}}
+{{Use dmy dates|date=April 2016}}
+{{Use British English|date=April 2016}}
+{{Infobox election
+| election_name = 2016 Wigan Metropolitan Borough Council election
+| country = 
+| flag_image = Coat of arms of Wigan Metropolitan Borough Council.png
+| type = 
+| ongoing = 
+| party_colour = 
+| previous_election = Wigan_Metropolitan_Borough_Council_election,_2015
+| previous_year = 2015
+| next_election = Wigan_Metropolitan_Borough_Council_election,_2018
+| next_year = 2018
+| seats_for_election = 
+| election_date = 5 May 2016
+| 1blank = <!-- Labour -->
+| image1 = 
+| colour1 = 
+| leader1 = [[Jeremy Corbyn]]
+| leader_since1 = 12 September 2015
+| leaders_seat1 = 
+| party1 = Labour Party (UK)
+| seats1 = 
+| seat_change1 = 
+| swing1 = 
+| 1data1 = <!-- Conservative -->
+| image2 = 
+| colour2 = 
+| leader2 = {{nowrap|[[David Cameron]]}}
+| leader_since2 = {{nowrap|6 December 2005}}
+| leaders_seat2 = 
+| party2 = Conservative Party (UK)
+| seats2 = 
+| seat_change2 = 
+| swing2 = 
+| 1data2 = 
+| map_image = Wigan_UK_local_election_2016_map.svg
+| map_size = 300px
+| map_caption = 2016 local election results in Wigan.
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#cc0000|[[Labour and Co-operative]]}}
+{{legend|#9d9d9d|[[Independent Network]]}}
+{{legend|#dddddd|Independent}}
+}}
+
+The '''2016 Wigan Metropolitan Borough Council election''' took place on 5 May 2016 to elect members of [[Wigan Metropolitan Borough Council]] in England.<ref name="BBC">{{Cite web|url=https://www.bbc.co.uk/news/uk-politics-35813119 |title=Guide to May 2016 elections in Scotland, Wales, England and Northern Ireland |access-date=21 April 2016 |work=BBC News}}</ref> This was on the same day as other [[2016 United Kingdom local elections|local elections]].
+
+==Overview==
+Prior to the election, the composition of the council was:<ref>{{cite news | url=https://www.manchestereveningnews.co.uk/news/greater-manchester-news/local-elections-2016-results-wigan-11291918 | title=Wigan local election results 2016 - who won in Wigan? | date=6 May 2016 | first=Charlotte | last=Cox | newspaper=Manchester Evening News | access-date=22 October 2018 }}</ref>
+
+*[[Labour Party (UK)|Labour Party]]: 64
+*[[Conservative Party (UK)|Conservative Party]]: 3
+* Wigan Independents: 3
+*[[Independent (politician)|Independent]]: 5
+
+After the election, the composition of the council was:<ref>{{cite news | url=https://www.manchestereveningnews.co.uk/news/greater-manchester-news/local-elections-2016-results-wigan-11291918 | title=Wigan local election results 2016 - who won in Wigan? | date=6 May 2016 | first=Charlotte | last=Cox | newspaper=Manchester Evening News | access-date=22 October 2018 }}</ref>
+*[[Labour Party (UK)|Labour Party]]: 65
+*[[Conservative Party (UK)|Conservative Party]]: 5
+* Wigan Independents: 2
+*[[Independent (politician)|Independent]]: 3
+
+{| class="wikitable sortable mw-collapsible"
+|+Number of Candidates fielded per party
+!Party
+
+!Number of Candidates
+|-
+|[[Labour Party (UK)]]
+|25
+|-
+|[[Conservative Party (UK)]]
+|25
+|-
+|[[UK Independence Party]]
+|18
+|-
+|[[Green Party of England and Wales]]
+|9
+|-
+|[[Liberal Democrats (UK)]]
+|7
+|-
+|[[Independent (politician)|Independents]]
+|7
+|-
+|Wigan Independents
+|3
+|-
+|[[Trade Unionist and Socialist Coalition|TUSC]]
+|1
+|}
+
+==Results summary==
+
+{{Election summary partial council net begin|title = 2016 Wigan Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 19
+  |net           = {{increase}} 1
+  |seats %       = 76
+  |other seats   = 46
+  |total seats   = '''65'''
+  |total seats % = 86.7
+  |votes         = 35,513
+  |votes %       = 49.8
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 3
+  |net           = {{increase}} 2
+  |seats %       = 12
+  |other seats   = 2
+  |total seats   = '''5'''
+  |total seats % = 6.7
+  |votes         = 12,118
+  |votes %       = 17.0
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 3
+  |net           = {{decrease}} 1
+  |seats %       = 12
+  |other seats   = 0
+  |total seats   = '''3'''
+  |total seats % = 4
+  |votes         = 7,279
+  |votes %       = 10.2
+  |plus/minus    = 
+}}
+{{Election summary partial council net|
+  |party         = Wigan Independents
+  |seats         = 0
+  |net           = {{decrease}} 1
+  |seats %       = 0
+  |other seats   = 2
+  |total seats   = '''2'''
+  |total seats % = 2.7
+  |votes         = 2,097
+  |votes %       = 2.9
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 11,833
+  |votes %       = 16.6
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 1,247
+  |votes %       = 1.7
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 0
+  |net           = {{decrease}} 1
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 1,154
+  |votes %       = 1.6
+  |plus/minus    = 
+}}
+{{Election summary partial council net party|
+  |party         = Trade Unionist and Socialist Coalition
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0
+  |votes         = 54
+  |votes %       = 0.1
+  |plus/minus    = 
+}}
+{{Election box end}}
+
+==Ward results==
+=== Bolton West constituency ===
+
+====Atherton ward====
+{{Election box begin | title=Atherton}}
+{{Election box winning candidate with party link||party= Independent (politician)|candidate= Jamie Hodgkinson|votes=1,838 |percentage=51.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Elnur Yusifzade|votes=969|percentage=27.0|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Quinton John Smith|votes=567|percentage=15.8|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Brian Howard Lobell|votes=209|percentage=5.8|change=}}
+{{Election box majority||votes=869|percentage=24.3|change=}}
+{{Election box turnout||votes=3,583|percentage=34.2|change=}}
+{{Election box hold with party link||winner=Independent (politician)|swing=}}
+{{Election box end}}
+
+=== Leigh constituency ===
+
+====Astley Mosley Common ward====
+{{Election box begin | title=Astley Mosley Common}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=[[Jo Platt|Joanne Marie Platt]]|votes=1,548|percentage=51.3|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Allan Short|votes=739|percentage=24.5|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Steve Mills|votes=731|percentage=24.2|change=}}
+{{Election box majority||votes=809|percentage=26.8|change=}}
+{{Election box turnout||votes=3,018|percentage=33.0|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Atherleigh ward====
+{{Election box begin | title=Atherleigh}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=John Harding|votes=1,067|percentage=46.4|change=}}
+{{Election box candidate with party link||party=Independent (politician)
+|candidate= Stuart Andrew Gerrard|votes=533|percentage=23.2|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Luke Greenhalgh|votes=446|percentage=19.4|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Paul Lambert Fairhurst|votes=207|percentage=9.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Lorraine Gillon|votes=49|percentage=2.1|change=}}
+{{Election box majority||votes=534|percentage=23.2|change=}}
+{{Election box turnout||votes=2,302|percentage=28.2|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing= }}
+{{Election box end}}
+
+====Golborne Lowton West ward====
+{{Election box begin | title=Golborne Lowton West}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Yvonne Marie Klieve|votes=1,675|percentage=70.2|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Peter Graham Kearns|votes=540|percentage=22.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Toby Joseph Hewitt|votes=170|percentage=7.1|change=}}
+{{Election box majority||votes=1,135|percentage=47.6|change=}}
+{{Election box turnout||votes=2,385|percentage=27.8|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh East ward====
+{{Election box begin | title=Leigh East}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Keith Cunliffe|votes=1,513|percentage=67.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Byrom Houlton|votes=446|percentage=20.0|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Dowsett|votes=275|percentage=12.3|change=}}
+{{Election box majority||votes=1,067|percentage=47.7|change=}}
+{{Election box turnout||votes=2,234|percentage=25.5|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh South ward====
+{{Election box begin | title=Leigh South}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Kevin Anderson|votes=1,773|percentage=55.6|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Russell Eddison|votes=913|percentage=28.6|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Denise Alison Young|votes=503|percentage=15.8|change=}}
+{{Election box majority||votes=860|percentage=27.0|change=}}
+{{Election box turnout||votes=3,189|percentage=31.6|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh West ward====
+{{Election box begin | title=Leigh West}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Sue Greensmith|votes=1,610|percentage=60.0|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Jayson Lomax-Hargreaves|votes=738|percentage=27.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Andrew John Oxley|votes=205|percentage=7.6|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Neil Hancox|votes=129|percentage=4.8|change=}}
+{{Election box majority||votes=872|percentage=32.5|change=}}
+{{Election box turnout||votes=2,682|percentage=26.8|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Lowton East ward====
+{{Election box begin | title=Lowton East}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=James Nelson Grundy|votes=2,327|percentage=60.9|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Garry Lloyd|votes=1,110|percentage=29.1|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Stephen Thomas Darragh|votes=278|percentage=7.3|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Harry John Alderson Snape|votes=104|percentage=2.7|change=}}
+{{Election box majority||votes=1,217|percentage=31.8|change=}}
+{{Election box turnout||votes=3,819|percentage=40.3|change=}}
+{{Election box hold with party link||winner=Conservative Party (UK)|swing=}}
+{{Election box end}}
+
+====Tyldesley ward====
+{{Election box begin | title=Tyldesley}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Nazia Rehman|votes=1,235|percentage=38.5|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Matthew Robert James|votes=978|percentage=30.5|change=}}
+{{Election box candidate with party link||party=Independent (politician)
+|candidate=Norman Alec Bradbury|votes=572|percentage=17.8|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David John Stirzaker|votes=421|percentage=13.1|change=}}
+{{Election box majority||votes=257|percentage=8.0|change=}}
+{{Election box turnout||votes=3,206|percentage=31.7|change=}}
+{{Election box gain with party link||winner=Labour Party (UK)|loser=Liberal Democrats (UK)|swing=}}
+{{Election box end}}
+
+=== Makerfield constituency ===
+
+====Abram ward====
+{{Election box begin | title=Abram}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Martyn Smethurst|votes=1495|percentage=58.3|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Jim Carmichael|votes=868|percentage=33.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Claire Houlton|votes=201|percentage=7.8|change=}}
+{{Election box majority||votes=627|percentage=24.4|change=}}
+{{Election box turnout|votes=2,564|percentage=25.5|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Ashton ward====
+{{Election box begin | title=Ashton}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Bill Clarke|votes=1,204|percentage=46.5|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Richard Charles Aylett|votes=616|percentage=23.8|change=}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Stuart Thomas Plimley|votes=426|percentage=16.5|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Marie Winstanley|votes=253|percentage=9.8|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Lesley Barbara Brothwood|votes=89|percentage=3.4|change=}}
+{{Election box majority|votes=588|percentage=22.7|change=}}
+{{Election box turnout|votes=2,588|percentage=29.6|change=}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Bryn ward====
+{{Election box begin | title=Bryn}}
+{{Election box winning candidate with party link||party= Independent (politician)|candidate=Steve Jones|votes=1200|percentage=41.1|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=David Hurst|votes=1,123|percentage=38.4|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Thomas Keith Miller|votes=438|percentage=15.0|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Margaret Mary Winstanley|votes=161|percentage=5.5|change=}}
+{{Election box majority||votes=77|percentage=2.7|change=}}
+{{Election box turnout||votes=2,922|percentage=33.6|change=}}
+{{Election box gain with party link|winner=Independent politician|loser= Independent politician|swing= }}
+{{Election box end}}
+
+====Hindley ward====
+{{Election box begin | title=Hindley}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Paul John Blay|votes=1,413|percentage=51.2|change=}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Jim Ellis|votes=1,040|percentage=37.7|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David Marcus John Ollerton|votes=153|percentage=5.5|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Paul Ravenall|votes=79|percentage=2.9|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Skipworth|votes=76|percentage=2.8|change=}}
+{{Election box majority||votes=373|percentage=13.5|change=}}
+{{Election box turnout||votes=2,761|percentage=29.4|change=}}
+{{Election box gain with party link
+   |winner     = Labour Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+{{Election box end}}
+
+====Hindley Green ward====
+{{Election box begin | title=Hindley Green}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Bob Brierley|votes=1480|percentage=57.3|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Eileen Winifred Rigby|votes=820|percentage=31.7|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Thomason|votes=159|percentage=6.2|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gerard Joseph Houlton|votes=126|percentage=4.9|change=}}
+{{Election box majority||votes=660|percentage=25.6|change=}}
+{{Election box turnout||votes=2,585|percentage=27.4|change=}}
+{{Election box hold with party link||winner=Independent (politician)|swing=}}
+{{Election box end}}
+
+====Orrell ward====
+{{Election box begin | title=Orrell}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Michael William Winstanley|votes=1410|percentage=43.2|change=}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Joy Susan Bradley|votes=1,333|percentage=40.8|change=}}
+{{Election box candidate||party=Orrell Independents|candidate=Paula Lynn Boyham|votes=221|percentage=6.8|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Denise Capstick|votes=190|percentage=5.8|change=}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Louise Catherine Bowe|votes=110|percentage=3.4|change=}}
+{{Election box majority||votes=77|percentage=2.4|change=}}
+{{Election box turnout||votes=3,264|percentage=34.9|change=}}
+{{Election box gain with party link|winner= Conservative Party (UK)|loser= Labour Party (UK)|swing      = }}
+{{Election box end}}
+
+"Orrell Independents" is a description used by candidates for the Wigan Independents.
+
+==== Winstanley ward ====
+{{Election box begin | title=Winstanley}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Paul Terence Kenny|votes=1,350|percentage=48.2|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Andrew Francis Collinson|votes=890|percentage=31.8|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Jean Margaret Peet|votes=334|percentage=11.9|change=}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Steven Charles Heyes|votes=229|percentage=8.2|change=}}
+{{Election box majority||votes=460|percentage=16.4|change=}}
+{{Election box turnout||votes=2,803|percentage=31.5|change=}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Worsley Mesnes ward====
+{{Election box begin | title=Worsley Mesnes}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Philip Myles Kelly|votes=1,449|percentage=59.9|change=}}
+{{Election box candidate with party link||party=UKIP|candidate=Maureen McCoy|votes=699|percentage=28.9|change=}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Susan Atherton|votes=221|percentage=9.1|change=}}
+{{Election box majority||votes=800|percentage=31.0|change=}}
+{{Election box turnout||votes=2,419|percentage=27.7|change=}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+===Wigan constituency===
+====Aspull, New Springs and Whelley ward====
+{{Election box begin | title=[[Aspull, New Springs and Whelley (ward)|Aspull, New Springs and Whelley]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Hilton
+  |votes      = 1,805
+  |percentage = 52.8
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Mark Andrew Bradley
+  |votes      = 985
+  |percentage = 28.8
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Allan Atherton
+  |votes      = 456
+  |percentage = 13.3
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Freda Janet Graham
+  |votes      = 175
+  |percentage = 5.1
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 820
+  |percentage = 24.0
+  |change     =
+}}
+{{Election box turnout|
+|votes = 3,421
+|percentage = 35.1
+|change = 
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Douglas ward====
+{{Election box begin | title=[[Douglas (ward)|Douglas]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Patricia Draper
+  |votes      = 1,803
+  |percentage = 84.1
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Atherton
+  |votes      = 340
+  |percentage = 15.9
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 1,463
+  |percentage = 68.2
+  |change     =
+}}
+{{Election box turnout|
+|votes = 2,143
+|percentage = 23.3
+|change =
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Ince ward====
+{{Election box begin | title=[[Ince (ward)|Ince]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Trevor Molyneux
+  |votes      = 1,545
+  |percentage = 65.8
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Stephen Winstanley
+  |votes      = 671
+  |percentage = 28.6
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Judith Atherton
+  |votes      = 132
+  |percentage = 5.6
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 874
+  |percentage = 37.2
+  |change     =
+}}
+{{Election box turnout|
+|votes = 2,348
+|percentage = 27.3
+|change =
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Pemberton ward====
+{{Election box begin | title=[[Pemberton (ward)|Pemberton]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jeanette Prescott
+  |votes      = 1,631
+  |percentage = 69.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Peter Owen Wheatley-Smith
+  |votes      = 502
+  |percentage = 21.2
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Daniel Andrew Whitehouse
+  |votes      = 137
+  |percentage = 5.8
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Norma Stout
+  |votes      = 93
+  |percentage = 3.9
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 1,129
+  |percentage = 47.7
+  |change     =
+}}
+{{Election box turnout|
+|votes = 2,363
+|percentage = 24.9
+|change =
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Shevington with Lower Ground ward====
+{{Election box begin | title=[[Shevington with Lower Ground (ward)|Shevington with Lower Ground]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Damian Edwardson
+  |votes      = 1,239
+  |percentage = 40.0
+  |change     =
+}}
+{{Election box candidate|
+  |party      = Shevington Independents
+  |candidate  = Janet Brown
+  |votes      = 813
+  |percentage = 26.3
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Arnold Jefferson Foster
+  |votes      = 584
+  |percentage = 18.9
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jack Joseph Vickery
+  |votes      = 349
+  |percentage = 11.3
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Joseph Robert Rylance
+  |votes      = 112
+  |percentage = 3.6
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 426
+  |percentage = 13.7
+  |change     =
+}}
+{{Election box turnout|
+|votes = 3,097
+|percentage = 34.2
+|change =
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+"Shevington Independents" is a description used by candidates for the Wigan Independents.
+
+====Standish with Langtree ward====
+{{Election box begin | title=[[Standish with Langtree (ward)|Standish with Langtree]]}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Raymond Whittingham
+  |votes      = 1,276
+  |percentage = 32.4
+  |change     =
+}}
+{{Election box candidate|
+  |party      = Standish Independents
+  |candidate  = Gareth William Fairhurst
+  |votes      = 1,063
+  |percentage = 27.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Debbie Parkinson
+  |votes      = 968
+  |percentage = 24.6
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Ian Adamczyk
+  |votes      = 579
+  |percentage = 14.7
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Trade Unionist and Socialist Coalition
+  |candidate  = Sharon Holden
+  |votes      = 54
+  |percentage = 1.4
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 213
+  |percentage = 5.4
+  |change     =
+}}
+{{Election box turnout|
+|votes = 3,940
+|percentage = 41.4
+|change =
+}}
+{{Election box gain with party link|
+|winner     = Conservative Party (UK)
+|loser      = Standish Independents
+|swing      = 
+}}
+{{Election box end}}
+
+"Standish Independents" is a description used by candidates for the Wigan Independents.
+
+====Wigan Central ward====
+{{Election box begin | title=[[Wigan Central (ward)|Wigan Central]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Lawrence Hunt
+  |votes      = 1,745
+  |percentage = 55.9
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Susan Vickery
+  |votes      = 845
+  |percentage = 27.1
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = William John Patterson
+  |votes      = 311
+  |percentage = 10.0
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Stuart David Thomas
+  |votes      = 221
+  |percentage = 7.0
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 900
+  |percentage = 28.8
+  |change     =
+}}
+{{Election box turnout|
+|votes = 3,122
+|percentage = 34.7
+|change =
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Wigan West ward====
+{{Election box begin | title=[[Wigan West (ward)|Wigan West]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Terence William Halliwell
+  |votes      = 2,090
+  |percentage = 80.8
+  |change     =
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jamie Vickery
+  |votes      = 497
+  |percentage = 19.2
+  |change     =
+}}
+{{Election box majority|
+  |votes      = 1,593
+  |percentage = 61.6
+  |change     =
+}}
+{{Election box turnout|
+|votes = 2,587
+|percentage = 27.9
+|change =
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+==By-elections between 2016 and 2018==
+===Astley Mosley Common ward===
+{{Election box begin | title= [[Astley Mosley Common (ward)|Astley Mosley Common]], 19 October 2017<ref name="Astley">{{cite web|title=Elections result 19 October 2017|url=https://www.wigan.gov.uk/Docs/PDF/Council/Voting-and-Elections/Declaration-of-result-of-Poll-Astley-Mosley-Common.pdf|publisher=[[Wigan Metropolitan Borough Council]]|access-date=28 December 2017}}</ref>}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paula Anne Wakefield
+  |votes      = 773
+  |percentage = 46.0
+  |change     = {{decrease}} 5.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David John Stirzaker
+  |votes      = 604
+  |percentage = 35.9
+  |change     = {{increase}} 11.4
+}}
+{{Election box candidate with party link|
+  |party      = UK Independence Party
+  |candidate  = Allan Hogg
+  |votes      = 185
+  |percentage = 11.0
+  |change     = {{decrease}} 13.2
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Stuart David Thomas
+  |votes      = 73
+  |percentage = 4.3
+  |change     = ''New''
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Andy Prentice
+  |votes      = 46
+  |percentage = 2.7
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 169
+  |percentage = 10.1
+  |change     = {{decrease}} 16.7
+}}
+{{Election box turnout|
+  |votes      = 1,681
+  |percentage = 17.5
+  |change     = {{decrease}} 15.5
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Shevington with Lower Ground ward===
+{{Election box begin | title= [[Shevington with Lower Ground (ward)|Shevington with Lower Ground]], 14 December 2017<ref name="ByElectionResults">{{cite web|title=Elections result 14 December 2017|url=https://www.wigan.gov.uk/Docs/PDF/Council/Voting-and-Elections/Declaration-of-Result-of-Poll-Shevington-with-Lower-Ground-Ward.pdf|publisher=[[Wigan Metropolitan Borough Council]]|access-date=28 December 2017}}</ref>}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Marlaine Teresa Whitham
+  |votes      = 765
+  |percentage = 43.4
+  |change     = {{increase}} 3.4
+}}
+{{Election box candidate|
+  |party      = Shevington Independents
+  |candidate  = Janet Brown
+  |votes      = 552
+  |percentage = 31.3
+  |change     = {{increase}} 5.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Callum David Owen Chadwick
+  |votes      = 402
+  |percentage = 22.8
+  |change     = {{increase}} 11.5
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Joseph Robert Rylance
+  |votes      = 30
+  |percentage = 1.7
+  |change     = {{decrease}} 1.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Joshua Michael Hindle
+  |votes      = 15
+  |percentage = 0.9
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 213
+  |percentage = 12.1
+  |change     = {{decrease}} 1.6
+}}
+{{Election box turnout|
+  |votes      = 1,764
+  |percentage = 18.7
+  |change     = {{decrease}} 15.5
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+"Shevington Independents" is a description used by candidates for the Wigan Independents.
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://apps.wigan.gov.uk/electionResults/index.asp?ElectionDate=05+May+2016 Election results by ward]
+<nowiki/>{{United Kingdom local elections, 2016}}
+{{Greater Manchester elections}}
+
+[[Category:2016 English local elections|Wigan]]
+[[Category:Wigan Council elections|2016]]
+[[Category:2010s in Greater Manchester]]

@@ -1,0 +1,567 @@
+{{Short description|Hyndburn Borough Council election}}
+{{one source|date=November 2021}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| election_name = 2022 Hyndburn Borough Council election
+| type = parliamentary
+| previous_election = 2021_Hyndburn_Borough_Council_election
+| previous_year = 2021
+| next_election = 2023_Hyndburn_Borough_Council_election
+| next_year = 2023
+| seats_for_election = 11 of 35 seats to Hyndburn Borough Council
+| election_date = 5 May 2022
+| majority_seats = 18
+| party1 = Labour Party (UK)
+| seats_before1 = {{nowrap|19}}
+| seats1 = {{nowrap|17}}
+| seat_change1 = {{nowrap|{{decrease}}2}}
+| party2 = Conservative Party (UK)
+| seats_before2 = {{nowrap|12}}
+| seats2 = {{nowrap|14}}
+| seat_change2 = {{nowrap|{{increase}}2}}
+| map_image = Hyndburn_UK_local_election_2022_map.png
+| map_caption = 2022 local election results in Hyndburn
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#808080|Not contested}}
+| ongoing = no
+| leader1 = Paul Cox
+(Interim)
+| leader2 = Marlene Haworth
+| leaders_seat1 = Milnshaw
+| leaders_seat2 = St Oswald's
+}}
+A by-thirds [[Hyndburn Borough Council]] local election, was held on Thursday 5 May 2022.  Approximately one third of the local council's 35 seats fell up for election on that day.<ref>{{Cite web|title=Elections and referendums|url=https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums|access-date=2021-11-20|website=www.electoralcommission.org.uk|language=en}}</ref>
+== Background ==
+Before the election [[Labour Party (UK)|Labour]] had a majority of 15 councillors, [[Conservative Party (UK)|Conservatives]] had 12 councillors, with 6 Independent councillors and 2-vacant (following Chris Knight's  (Lab-St. Oswalds) March-23rd announcement<ref>{{Cite web|title=Another labour politician quits borough council|url=https://www.lancashiretelegraph.co.uk/news/20011756.another-hyndburn-labour-politician-quits-borough-council/|access-date=2022-03-23|website=www.lancashiretelegraph.co.uk|language=en}}</ref> that he has stood down as a councillor with immediate effect, despite not being up for re-election until May next year, in addition to the announcement<ref>{{Cite web|title=Hyndburn Council boss quits 'bullying and vindictive' Labour Party|url=https://www.lancashiretelegraph.co.uk/news/20020738.hyndburn-council-boss-quits-bullying-vindictive-labour-party/|access-date=2022-03-24|website=www.lancashiretelegraph.co.uk|language=en}}</ref> (March-24th) that Leader of Hyndburn Council, Miles Parkinson, resigned from the Labour Party and will now be an independent councillor for Altham ward, until May-2023 and after Labour Councillor Eamonn Higgins announced<ref>{{Cite web|title=Hyndburn Labour 'a disgrace' says fourth senior councillor to quit|url=https://www.lancashiretelegraph.co.uk/news/20035322.hyndburn-labour-a-disgrace-says-fourth-senior-councillor-quit/|access-date=2022-03-31|website=www.lancashiretelegraph.co.uk|language=en}}</ref> (March-31st) that he would be quitting Labour, to serve Huncoat as an independent for the remainder of his term, until May-2023.
+
+In this election, Labour were defending 6-ward-seats with Conservatives defending 4-ward-seats.  In 2018, Overton was won by Labour's Jennifer MOLINEUX, who later left the Party to become an independent councillor, but she was standing down in this election.  In 2019, St Oswald's was won by Labour's Chris KNIGHT, who recently stood down as a councillor leaving his vacant-seat open to a by-election.  Former Labour candidate Shahed MAHMOOD also quit Labour last year and was standing for the Conservatives in Milnshaw ward.
+
+== Local election result ==
+After the election, the composition of the council's 35 seats was -
+
+* [[Labour Party (UK)|Labour]] 17
+* [[Conservative Party (UK)|Conservative]] 15
+* Independent 3
+{| class="wikitable sortable" style="text-align:center;"
+! colspan="9" |[[File:2022 Hyndburn Borough Council Election Results Map.png|border|780px]]
+
+|-
+! colspan="2" rowspan="2" | Party
+! rowspan="2" | Leader
+! colspan="3" | Councillors
+! colspan="3" | Votes
+|-
+!
+! Of total
+! class="unsortable" |Whole Council
+!
+! Of total
+! class="unsortable" |
+|-
+| style="background:{{party color|Labour Party (UK)|Labour}};" |
+| style="text-align:left;" | [[Labour Party (UK)|Labour]]
+| style="text-align:left;" | 
+| style="text-align:right;" | 6
+| style="text-align:right;" | {{Percentage|6|12|1|pad=yes}}
+| data-sort-value="" | {{Infobox political party/seats|17|35|hex={{party color|Labour Party (UK)|Labour}}}}
+| style="text-align:right;" | 6,427
+| style="text-align:right;" | 45.86%
+| {{percentage bar|45.86||c={{party color|Labour Party (UK)|Labour}}|border-color=#c0c0c0|background-color=#f0f0f0}}
+|-
+| style="background:{{party color|Conservative Party (UK)}};" |
+| style="text-align:left;" | [[Conservative Party (UK)|Conservative Party]]
+| style="text-align:left;" | 
+| style="text-align:right;" | 6
+| style="text-align:right;" | {{Percentage|6|12|1|pad=yes}}
+| data-sort-value="" | {{Infobox political party/seats|15|35|hex={{party color|Conservative Party (UK)}}}}
+| style="text-align:right;" | 5,997
+| style="text-align:right;" | 42.79%
+| {{percentage bar|42.79||c={{party color|Conservative Party (UK)}}|border-color=#c0c0c0|background-color=#f0f0f0}}
+|-
+| style="background:{{party color|Independent (politician)}};" |
+| style="text-align:left;" | [[Independent (politician)|Independents]]
+| style="text-align:left;" | 
+| style="text-align:right;" | 0
+| style="text-align:right;" | {{Percentage|0|12|1|pad=yes}}
+| data-sort-value="" | {{Infobox political party/seats|3|35|hex={{party color|Independent (politician)}}}}
+| style="text-align:right;" | 945
+| style="text-align:right;" | 6.74%
+| {{percentage bar|6.7||c={{party color|Independent (politician)}}|border-color=#c0c0c0|background-color=#f0f0f0}}
+|-
+| style="background:{{party color|Reform UK}};" |
+| style="text-align:left;" | [[Reform UK]]
+| style="text-align:left;" | 
+| style="text-align:right;" | 0
+| style="text-align:right;" | {{Percentage|0|12|1|pad=yes}}
+| data-sort-value="" | {{Infobox political party/seats|0|35|hex={{party color|Reform UK}}}}
+| style="text-align:right;" | 512
+| style="text-align:right;" | 3.65%
+| {{percentage bar|3.65||c={{party color|Reform UK}}|border-color=#c0c0c0|background-color=#f0f0f0}}
+|}
+
+NB: Five (of the 16) Council wards, where seats were NOT up for re-election in 2022, included the following wards - Altham, Baxenden and Church, plus Barnfield and Central in Accrington
+
+Previous Councillors who were Standing-Down in this election included - Bernadette Parkinson (Ind-Netherton), David Parkins (Lab-Huncoat), Diane Fielding (Lab-Spring Hill) and Jenny Molineux (Ind-Overton).
+
+Additionally, following Chris Knight's (Lab-St. Oswalds) recent and sudden decision to stand-down from the seat he won in 2019, that seat will ALSO be up for a by-election this year - with the winner serving out the remaining 12-months, until THAT same seat comes up for re-election to a full-4-year term from 2023.
+
+Retiring Netherton councillor Bernadette Parkinson announced<ref>{{Cite web|title=Fifth senior Hyndburn Labour figure quits 'toxic' local party|url=https://www.lancashiretelegraph.co.uk/news/20060293.fifth-senior-hyndburn-labour-figure-quits-toxic-local-party|access-date=2022-04-11|website=www.lancashiretelegraph.co.uk|language=en}}</ref>[April-11th] that she has resigned from the Labour Party after 27 years, in the wake of her husband and council leader Cllr Miles Parkinson, who also quit the party. Another retiring councillor, Spring Hill's Diane Fielding announced<ref>{{Cite web|title=Labour Party sees another councillor resign at Hyndburn Borough Council|url=https://www.lancs.live/news/lancashire-news/labour-party-sees-another-councillor-23727128|access-date=2022-04-20|website=www.lancs.live|language=en}}</ref>[April-19th] that she has also resigned from the Labour Party.  Former Overton Labour councillor Michael Hindley announced<ref>{{Cite web|title=Hyndburn politician cautioned for assault resigns from council|url=https://www.lancashiretelegraph.co.uk/news/20079946.hyndburn-politician-cautioned-assault-resigns-council|access-date=2022-04-20|website=www.lancashiretelegraph.co.uk|language=en}}</ref>[April-20th] that he has resigned from the Labour Party, leaving that seat vacant, after being recently cautioned by the police over an assault during a previous council meeting.  This leaves the Hyndburn Labour Party with only 15-sitting councillors (less than the 18 needed for Overall Control), ahead of the upcoming May-election.
+
+In the months following this election, veteran Labour politician Joyce Plummer, who took a post in Hyndburn Borough Council's new cabinet, was suspended from the party group<ref>{{Cite web|title=Labour Party's Hyndburn council infighting continues with another councillor suspended|url=https://www.lancs.live/news/lancashire-news/labour-partys-hyndburn-council-infighting-24345725|access-date=2022-06-29|website=www.lancashiretelegraph.co.uk|language=en}}</ref>[June-29th] and faces further disciplinary action by the party which could lead to her expulsion, ahead of the Overton by-election, called for Thursday July 14. And also, some months later, former Church Labour councillor Loraine Cox announced<ref>{{Cite web|title=Another Labour Party figure quits party over alleged toxic culture at Hyndburn Borough Council|url=https://www.lancs.live/news/lancashire-news/another-labour-party-figure-quits-24832489|access-date=2022-08-24|website=www.lancashiretelegraph.co.uk|language=en}}</ref>[August-24th] that she has resigned from the Labour Party, to join the growing Independent group of councillors, before eventually joining the Hyndburn Conservative group<ref>{{Cite web|title=Former Hyndburn Labour councillor joins Tories|url=https://www.lancashiretelegraph.co.uk/news/20905311.former-hyndburn-labour-councillor-joins-tories/|access-date=2022-09-05|website=www.lancashiretelegraph.co.uk|language=en}}</ref>[September-5th].  This leaves the Hyndburn Labour Party with only 13-sitting councillors, compared to 2019 when they had 26 councillors on Hyndburn Borough Council.
+
+== Ward results ==
+The results for each ward were as follows, with an asterisk (*) indicating a sitting councillor standing for re-election.
+
+=== Clayton-le-Moors ===
+{{Election box begin|title=Clayton-le-Moors - electorate 3,449}}
+{{Election box winning candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Peter EDWARDS
+  |votes=594
+  |percentage=53.7
+  |change=20.2}}
+{{Election box candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Timothy Aidan O'KANE*
+  |votes=512
+  |percentage=46.3
+  |change=3.4|}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=14
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=82
+  |percentage=7.4
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,121
+  |percentage=32.50
+  |change=1.58}}
+{{Election box gain with party link
+  |winner=Conservative Party (UK)
+  |loser=Labour Party (UK)
+  |swing=N/A}}
+{{Election box end}}
+
+=== Huncoat ===
+{{Election box begin|title=Huncoat - electorate 3,548}}
+{{Election box winning candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Danny CASSIDY
+  |votes=641
+  |percentage=59.2
+  |change=47.7}}
+{{Election box candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Samina MAHMOOD
+  |votes=442
+  |percentage=40.8
+  |change=-24.3|}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=22
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=199
+  |percentage=18.4
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,106
+  |percentage=31.17
+  |change=-6.32}}
+{{Election box gain with party link
+  |winner=Conservative Party (UK)
+  |loser=Labour Party (UK)
+  |swing=N/A}}
+{{Election box end}}
+
+=== Immanuel ===
+{{Election box begin|title=Immanuel - electorate 3,372}}
+{{Election box winning candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Josh Blayne ALLEN*
+  |votes=609
+  |percentage=55.2
+  |change=-8.5}}
+{{Election box candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Joanne Louise DEXTER
+  |votes=495
+  |percentage=44.8
+  |change=8.5|}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=23
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=114
+  |percentage=10.4
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,124
+  |percentage=33.33
+  |change=-0.98}}
+{{Election box hold with party link|
+  |winner=Conservative Party (UK)
+  |swing=}}
+{{Election box end}}
+
+=== Milnshaw ===
+{{Election box begin|title=Milnshaw - electorate 3,512}}
+{{Election box winning candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Andrew Steven CLEGG*
+  |votes=538
+  |percentage=48.7
+  |change=-3.7}}
+{{Election box candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Shahed MAHMOOD
+  |votes=353
+  |percentage=31.9
+  |change=14.0|}}
+{{Election box candidate with party link|
+  |party=Independent (politician)
+  |candidate=Malcolm Eric PRITCHARD
+  |votes=214
+  |percentage=19.4
+  |change=-10.3}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=11
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=185
+  |percentage=16.5
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,118
+  |percentage=31.83
+  |change=-8.27}}
+{{Election box hold with party link
+  |winner=Labour Party (UK)
+  |swing=N/A}}
+{{Election box end}}
+
+=== Netherton ===
+{{Election box begin|title=Netherton - electorate 3,391}}
+{{Election box winning candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Jodi CLEMENTS
+  |votes=717
+  |percentage=64.0
+  |change=-0.7}}
+{{Election box candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Mohammed AFZAL
+  |votes=315
+  |percentage=28.1
+  |change=-7.2|}}
+{{Election box candidate with party link|
+  |party=Reform UK
+  |candidate=Ian ROBINSON
+  |votes=88
+  |percentage=7.9
+  |change=N/A}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=9
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=402
+  |percentage=35.9
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,124
+  |percentage=33.15
+  |change=-4.3}}
+{{Election box hold with party link|
+  |winner=Labour Party (UK)
+  |swing=}}
+{{Election box end}}
+
+=== Overton ===
+{{Election box begin|title=Overton - electorate 4,723}}
+{{Election box winning candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Scott John BRERTON
+  |votes=803
+  |percentage=52.1
+  |change=5.4}}
+{{Election box candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Gareth Jason MOLINEUX
+  |votes=559
+  |percentage=36.3
+  |change=-9.3|}}
+{{Election box candidate with party link|
+  |party=Reform UK
+  |candidate=Wayne FITZHARRIS
+  |votes=178
+  |percentage=11.6
+  |change=N/A}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=8
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=244
+  |percentage=15.8
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,560
+  |percentage=33.03
+  |change=-3.38}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+=== Peel ===
+{{Election box begin|title=Peel - electorate 3,006}}
+{{Election box winning candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Joyce Nicholson PLUMMER*
+  |votes=507
+  |percentage=68.9
+  |change=-0.5}}
+{{Election box candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Jean HURN
+  |votes=184
+  |percentage=25.0
+  |change=10.8|}}
+{{Election box candidate with party link|
+  |party=Reform UK
+  |candidate=Sarah-Kay FITZHARRIS
+  |votes=45
+  |percentage=6.1
+  |change=N/A}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=9
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=323
+  |percentage=43.9
+  |change=N/A}}
+{{Election box turnout|
+  |votes=747
+  |percentage=24.85
+  |change=-2.5}}
+{{Election box hold with party link|
+  |winner=Labour Party (UK)
+  |swing=}}
+{{Election box end}}
+
+=== Rishton ===
+{{Election box begin|title=Rishton - electorate 4,941}}
+{{Election box winning candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Bernard DAWSON
+  |votes=542
+  |percentage=34.5
+  |change=-13.0}}
+{{Election box candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Michael MILLER*
+  |votes=504
+  |percentage=32.0
+  |change=-20.5|}}
+{{Election box candidate with party link|
+  |party=Independent (politician)
+  |candidate=Andrew Joseph HARRIS
+  |votes=446
+  |percentage=28.4
+  |change=N/A}}
+{{Election box candidate with party link|
+  |party=Reform UK
+  |candidate=Paul David HACKER
+  |votes=81
+  |percentage=5.1
+  |change=N/A}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=9
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=38
+  |percentage=2.5
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,582
+  |percentage=32.02
+  |change=3.79}}
+{{Election box gain with party link
+  |winner=Labour Party (UK)
+  |loser=Conservative Party (UK)
+  |swing=N/A}}
+{{Election box end}}
+
+=== Spring Hill ===
+{{Election box begin|title=Spring Hill - electorate 3,592}}
+{{Election box winning candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Kimberley WHITEHEAD
+  |votes=725
+  |percentage=52.6
+  |change=-30.6}}
+{{Election box candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Allah DAD
+  |votes=654
+  |percentage=47.4
+  |change=30.6|}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=15
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=71
+  |percentage=5.2
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,394
+  |percentage=38.81
+  |change=12.66}}
+{{Election box hold with party link|
+  |winner=Labour Party (UK)
+  |swing=}}
+{{Election box end}}
+
+=== St Andrew's ===
+{{Election box begin|title=St. Andrew's - electorate 3,355}}
+{{Election box winning candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Steven Lee SMITHSON
+  |votes=578
+  |percentage=53.4
+  |change=2.1}}
+{{Election box candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Stewart Thurston EAVES
+  |votes=505
+  |percentage=46.6
+  |change=-2.1|}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=9
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=73
+  |percentage=6.8
+  |change=N/A}}
+{{Election box turnout|
+  |votes=1,094
+  |percentage=32.61
+  |change=-5.07}}
+{{Election box hold with party link|
+  |winner=Conservative Party (UK)
+  |swing=}}
+{{Election box end}}
+
+=== St Oswald's ===
+{{Election box begin|title=St Oswald's - electorate 4,836}}
+{{Election box winning candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Marlene Heather HAWORTH*
+  |votes=1,006
+  |percentage=56.3
+  |change=10.3}}
+{{Election box winning candidate with party link|
+  |party=Conservative Party (UK)
+  |candidate=Zak KHAN (*)
+  |votes=734
+  |percentage=41.1
+  |change=-2.9}}
+{{Election box candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Glen Kevin HARRISON
+  |votes=641
+  |percentage=35.9
+  |change=-9.2}}
+{{Election box candidate with party link|
+  |party=Labour Party (UK)
+  |candidate=Wajid HUSSAIN
+  |votes=375
+  |percentage=21.0
+  |change=-24.1}}
+{{Election box candidate with party link|
+  |party=Independent politician
+  |candidate=Janet BROWN
+  |votes=285
+  |percentage=15.9
+  |change=N/A}}
+{{Election box candidate with party link|
+  |party=Reform UK
+  |candidate=Paul BROWN
+  |votes=120
+  |percentage=6.7
+  |change=-1.9}}
+{{Election box candidate with party link|
+  |party=Reform UK
+  |candidate=Richard OAKLEY
+  |votes=35
+  |percentage=2.0
+  |change=-6.6}}
+{{Election box candidate|
+  |party=...
+  |candidate=spoilt votes
+  |votes=4
+  |percentage=
+  |change=}}
+{{Election box majority|
+  |votes=N/A
+  |percentage=
+  |change=}}
+{{Election box turnout|
+  |votes=1,792
+  |percentage=37.06
+  |change=}}
+{{Election box hold with party link
+  |winner=Conservative Party (UK)
+  |swing=N/A}}
+{{Election box gain with party link
+  |winner=Conservative Party (UK)
+  |loser=Labour Party (UK)
+  |swing=N/A}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.hyndburnbc.gov.uk/elections/ Hyndburn Borough Council - Elections]
+*[https://www.hyndburnbc.gov.uk/download-package/2022-notice-of-election/ Hyndburn Borough Council - 2022 Notice of Election]
+*[https://candidates.democracyclub.org.uk/elections/local.hyndburn.2022-05-05/ Democracy Club Candidates - Hyndburn]
+*[https://www.electoralcommission.org.uk/i-am-a/voter Electoral Commission - May 2022 elections guide]
+*[https://www.lancashire.gov.uk/elections/latest-news LCC Elections, Latest News - Local Elections 2022]
+*[https://www.hyndburnbc.gov.uk/download-package/2022-statement-of-persons-nominated/ Hyndburn Borough Council - 2022 Statement of Persons Nominated]
+*[https://www.lancashiretelegraph.co.uk/news/20118989.live-updates-local-election-results-day-2022-lancashire/ Lancashire Telegraph - Live updates from Local Election results]
+*[https://www.hyndburnbc.gov.uk/download-package/hyndburn-bc-2022-borough-results/ HYNDBURN BC 2022 BOROUGH RESULTS]
+
+{{Lancashire elections}}
+{{2022 United Kingdom local elections}}
+
+[[Category:Hyndburn Borough Council elections]]
+[[Category:2022 English local elections|Hyndburn]]

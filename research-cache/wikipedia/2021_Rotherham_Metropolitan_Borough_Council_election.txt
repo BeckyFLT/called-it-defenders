@@ -1,0 +1,2428 @@
+{{Short description|Local election in England}}
+{{Use dmy dates|date=April 2022}}
+{{Election results missing}}
+{{Infobox election
+| election_name = 2021 Rotherham Metropolitan Borough Council election
+| country = South Yorkshire
+| type = parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2016 Rotherham Metropolitan Borough Council election]]
+| previous_year = [[2016 Rotherham Metropolitan Borough Council election|2016]]
+| next_election = [[2024 Rotherham Metropolitan Borough Council election]]
+| next_year = [[2024 Rotherham Metropolitan Borough Council election|2024]]
+| seats_for_election =  All 59 seats up for election to Rotherham Metropolitan Council
+| majority_seats = 30
+| election_date = 6 May 2021
+| turnout = 30.1%
+
+| party1          = Labour Party (UK)
+| image1          = [[File:No image wide.svg|95x50px|Blank]]
+| seats1          = '''32'''
+| seat_change1    = {{decrease}} 16
+| popular_vote1   = 50,681
+| percentage1     = 41.4%
+| swing1          = {{decrease}} 9.6%
+
+| party2          = Conservative Party (UK)
+| image2          = [[File:No image wide.svg|95x50px|Blank]]
+| seats2          = '''20'''
+| seat_change2    = {{increase}} 20
+| popular_vote2   = 34,833
+| percentage2     = 28.4%
+| swing2          = {{increase}} 20.5%
+
+| party3          = Rotherham Democratic Party
+| image3          = [[File:No image wide.svg|95x50px|Blank]]
+| seats3          = '''3'''
+| seat_change3    = {{increase}} 3
+| popular_vote3   = 14,659
+| percentage3     = 12.0%
+| swing3          = ''New''
+
+| party4          = Liberal Democrats (UK)
+| image4          = [[File:No image wide.svg|95x50px|Blank]]
+| seats4          = '''3'''
+| seat_change4    = {{increase}} 3
+| popular_vote4   = 9,636
+| percentage4     = 7.9%
+| swing4          = {{increase}} 6.5%
+
+| party5          = Independent (politician)
+| image5          = [[File:No image wide.svg|95x50px|Blank]]
+| seats5          = '''1'''
+| seat_change5    = {{no change}}
+| popular_vote5   = 6,326
+| percentage5     = 5.2%
+| swing5          = {{no change}}
+
+|map_image= File:Rotherham wards 2021.svg
+| map_size = 
+| map_caption = Map of the results
+| title = Council control
+| posttitle = Council control after election
+| before_election = [[Labour Party (UK)|Labour]]
+| before_party = 
+| after_election = [[Labour Party (UK)|Labour]]
+| after_party = 
+}}
+
+'''Elections to [[Rotherham Metropolitan Borough Council]]''' were held on 6 May 2021.
+
+Although [[Labour Party (UK)|Labour]] retained control of the council, the [[Conservative Party (UK)|Conservatives]] went from zero to 20 seats at this election.<ref>{{cite web |title=Rotherham: Large Tory gains in council all-out election |url=https://www.bbc.co.uk/news/uk-england-south-yorkshire-57038429 |website=BBC News |access-date=1 July 2021 |date=8 May 2021}}</ref>
+
+==Results summary==
+{{Election summary begin
+|title = 2021 Rotherham Metropolitan Borough Council election
+}}
+{{Election summary party
+|party      = Labour Party (UK)
+|seats      = '''32'''
+|gain       =
+|loss       =
+|net        = {{decrease}} 16
+|seats %    = 54.2
+|votes      = 50,681
+|votes %    = 41.4
+|plus/minus = {{decrease}} 9.6
+}}
+{{Election summary party
+|party      = Conservative Party (UK)
+|seats      = '''20'''
+|gain       =
+|loss       =
+|net        = {{increase}} 20
+|seats %    = 33.9
+|votes      = 34,833
+|votes %    = 28.4
+|plus/minus = {{increase}} 20.5
+}}
+{{Election summary party
+|party      = Rotherham Democratic Party
+|seats      = '''3'''
+|gain       =
+|loss       =
+|net        = {{increase}} 3
+|seats %    = 5.1
+|votes      = 14,659
+|votes %    = 12.0
+|plus/minus = ''New''
+}}
+{{Election summary party
+|party      = Liberal Democrats (UK)
+|seats      = '''3'''
+|gain       =
+|loss       =
+|net        = {{increase}} 3
+|seats %    = 5.1
+|votes      = 9,636
+|votes %    = 7.9
+|plus/minus = {{increase}} 6.5
+}}
+{{Election summary party
+|party      = Independent politician
+|seats      = '''1'''
+|gain       =
+|loss       =
+|net        = {{no change}}
+|seats %    = 1.7
+|votes      = 6,326
+|votes %    = 5.2
+|plus/minus = {{no change}}
+}}
+{{Election summary party
+|party      = Green Party of England and Wales
+|seats      = '''0'''
+|gain       =
+|loss       =
+|net        = {{no change}}
+|seats %    = 0.0
+|votes      = 4,091
+|votes %    = 3.3
+|plus/minus = {{decrease}} 0.3
+}}
+{{Election summary party
+|party      = Yorkshire Party
+|seats      = '''0'''
+|gain       =
+|loss       =
+|net        = {{no change}}
+|seats %    = 0.0
+|votes      = 945
+|votes %    = 0.8
+|plus/minus = {{increase}} 0.1
+}}
+{{Election summary party
+|party      = Social Democratic Party (UK, 1990–present)
+|seats      = '''0'''
+|gain       =
+|loss       =
+|net        = {{no change}}
+|seats %    = 0.0
+|votes      = 667
+|votes %    = 0.5
+|plus/minus = ''New''
+}}
+{{Election summary party
+|party      = Trade Unionist and Socialist Coalition
+|seats      = '''0'''
+|gain       =
+|loss       =
+|net        = {{no change}}
+|seats %    = 0.0
+|votes      = 540
+|votes %    = 0.4
+|plus/minus = {{decrease}} 0.2
+}}
+{{Election summary party
+|party      = Workers Party of Britain
+|seats      = '''0'''
+|gain       =
+|loss       =
+|net        = {{no change}}
+|seats %    = 0.0
+|votes      = 183
+|votes %    = 0.1
+|plus/minus = ''New''
+}}
+{{Election box end}}
+
+==Ward results==
+Source:<ref>{{cite web |last1=Kelly |first1=John |title=Borough Election Result 6 May 2021 |url=https://www.rotherham.gov.uk/elections-voting/borough-election-result-6-may-2021 |website=Rotherham Metropolitan Borough Council |access-date=1 July 2021 |language=en}}</ref>
+===Anston & Woodsetts===
+{{Election box begin | title=Anston & Woodsetts}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Timothy James Baum-Dixon
+|votes= 1,491
+|percentage= 40.8
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Tracey Helen Wilson
+|votes= 1,341
+|percentage= 36.7
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Emma Jane McClure
+|votes= 1,020
+|percentage= 27.9
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Drew Simon Tarmey
+|votes= 1,005
+|percentage= 27.5
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Joanne Helen Carr
+|votes= 906
+|percentage= 24.8
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Bev Thornley
+|votes= 786
+|percentage= 21.5
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Simon Andrew Tweed*
+|votes= 744
+|percentage= 20.4
+|change=}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Clive Robert Jepson*
+|votes= 737
+|percentage= 20.2
+|change=}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Jonathan Charles Ireland*
+|votes= 535
+|percentage= 14.7
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Matt Mears
+|votes= 522
+|percentage= 14.3
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Steve Marles*
+|votes= 461
+|percentage= 12.6
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= David Foulstone
+|votes= 375
+|percentage= 10.3
+|change=}}
+{{Election box candidate with party link|
+|party=Workers Party of Britain
+|candidate= Thomas Lang Darksen
+|votes= 47
+|percentage= 1.3
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,661
+  |percentage = 38.43
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Aston & Todwick===
+{{Election box begin | title=Aston & Todwick}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Joshua Bacon
+|votes= 1,103
+|percentage= 45.6
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Aaron Barker
+|votes= 1,025
+|percentage= 42.4
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Robert Paul Taylor*
+|votes= 905
+|percentage= 37.4
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Amanda Marie Clarke
+|votes= 783
+|percentage= 32.4
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Louisa Kathryn Barker
+|votes= 250
+|percentage= 10.3
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Harry Ratcliffe
+|votes= 143
+|percentage= 5.9
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Chris Hallam-Wall
+|votes= 141
+|percentage= 5.8
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Joshua Lennon Fields
+|votes= 68
+|percentage= 2.8
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,430
+  |percentage = 34.43
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Aughton & Swallownest===
+{{Election box begin | title=Aughton & Swallownest}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Lyndsay Pitchley*
+|votes= 817
+|percentage= 45.5
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Jack Christopher Austin
+|votes= 666
+|percentage= 37.1
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Alexander William Dean
+|votes= 625
+|percentage= 34.8
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= David Neil Spence
+|votes= 503
+|percentage= 28.0
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Mick Elliot*
+|votes= 341
+|percentage= 19.0
+|change=}}
+{{Election box candidate with party link|
+|party=Workers Party of Britain
+|candidate= David James Tillery
+|votes= 136
+|percentage= 7.6
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Mark Lambert
+|votes= 107
+|percentage= 6.0
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,810
+  |percentage = 27.16
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Boston Castle===
+{{Election box begin | title=Boston Castle}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Saghir Alam*
+|votes= 1,567
+|percentage= 48.3
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Rose Margaret McNeely*
+|votes= 1,567
+|percentage= 48.3
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Taiba Khatoon Yaseen*
+|votes= 1,366
+|percentage= 42.1
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Ryan Alan Carney
+|votes= 917
+|percentage= 28.3
+|change=}}
+{{Election box candidate with party link|
+|party=Yorkshire Party
+|candidate= Dennis Chad Bannan
+|votes= 497
+|percentage= 15.3
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Gary Hardwick
+|votes= 487
+|percentage= 15.0
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Mike Shaw
+|votes= 405
+|percentage= 12.5
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Martin David Howells
+|votes= 386
+|percentage= 11.9
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Adam James Rodgers
+|votes= 286
+|percentage= 8.8
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Lauren Jane Howie
+|votes= 214
+|percentage= 6.6
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,253
+  |percentage = 32.68
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Bramley & Ravenfield===
+{{Election box begin | title=Bramley & Ravenfield}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Gregory Reynolds
+|votes= 1,155
+|percentage= 49.3
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Lewis Lennard Henry Malcolm Mills
+|votes= 931
+|percentage= 39.7
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Andrew James Fenwick-Green
+|votes= 551
+|percentage= 23.5
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Deborah Fenwick-Green*
+|votes= 546
+|percentage= 23.3
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Paul David Garrett
+|votes= 369
+|percentage= 15.7
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Alan Derek Napper*
+|votes= 277
+|percentage= 11.8
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Nigel Gelder
+|votes= 227
+|percentage= 9.7
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= John Richard Gelder
+|votes= 137
+|percentage= 5.8
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Luke David Johnson
+|votes= 47
+|percentage= 2.0
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,354
+  |percentage = 32.88
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Brinsworth===
+{{Election box begin | title=Brinsworth}}
+{{Election box winning candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Adam Jonathon Carter*
+|votes= 1,345
+|percentage= 55.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Charlotte Rachel Carter
+|votes= 1,108
+|percentage= 46.0
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Alan Buckley*
+|votes= 774
+|percentage= 32.2
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Philippa Wildin
+|votes= 424
+|percentage= 17.6
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Andrew Matthew Gorman
+|votes= 351
+|percentage= 14.6
+|change=}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Nigel Gary Simpson*
+|votes= 229
+|percentage= 9.5
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Royce Skelding
+|votes= 80
+|percentage= 3.3
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,419
+  |percentage = 32.06
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Liberal Democrats (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Liberal Democrats (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Dalton & Thrybergh===
+{{Election box begin | title=Dalton & Thrybergh}}
+{{Election box winning candidate with party link|
+|party=Independent (politician)
+|candidate= Michael Donald Paul Sylvester
+|votes= 1,103
+|percentage= 62.5
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Joanna Baker-Rogers
+|votes= 512
+|percentage= 29.0
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Dianne Caster
+|votes= 432
+|percentage= 24.5
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Jane Rosemary Salt
+|votes= 397
+|percentage= 22.5
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Steve Simmons
+|votes= 117
+|percentage= 6.6
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,771
+  |percentage = 26.30
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Independent (politician)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Dinnington===
+{{Election box begin | title=Dinnington}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Charlie Andrew Wooding
+|votes= 1,137
+|percentage= 41.4
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Benjamin John Whomersley
+|votes= 916
+|percentage= 33.3
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Sophie Castledine-Dack
+|votes= 841
+|percentage= 30.6
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Jeanette Mallinder*
+|votes= 799
+|percentage= 29.1
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= John Vjestica*
+|votes= 738
+|percentage= 26.9
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Gordon Watson*
+|votes= 712
+|percentage= 25.9
+|change=}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Dave Smith
+|votes= 601
+|percentage= 21.9
+|change=}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Jean Hart
+|votes= 389
+|percentage= 14.2
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Ian David Barkley
+|votes= 316
+|percentage= 11.5
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Wendy Hamilton
+|votes= 308
+|percentage= 11.2
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Phil Bowers
+|votes= 284
+|percentage= 10.3
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,758
+  |percentage = 29.77
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Greasbrough===
+{{Election box begin | title=Greasbrough}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Sarah Ann Allen*
+|votes= 526
+|percentage= 36.2
+|change=}}
+{{Election box winning candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Robert William Elliott*
+|votes= 518
+|percentage= 35.6
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Josephine Margaret Taylor
+|votes= 430
+|percentage= 29.6
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= John Richard Henry Williams*
+|votes= 385
+|percentage= 26.5
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Keith Gordon Cooper
+|votes= 210
+|percentage= 14.4
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Brian Leng
+|votes= 147
+|percentage= 10.1
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Tony Mabbott
+|votes= 74
+|percentage= 5.1
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Tony Hannan
+|votes= 68
+|percentage= 4.7
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,461
+  |percentage = 24.24
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Rotherham Democratic Party
+  |swing     = 
+}}
+{{Election box end}}
+
+===Hellaby & Maltby West===
+{{Election box begin | title=Hellaby & Maltby West}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Simon Ashley Ball
+|votes= 1,158
+|percentage= 55.5
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Jenny Andrews*
+|votes= 833
+|percentage= 39.9
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Davey Glynn Stewart Hamilton
+|votes= 798
+|percentage= 38.3
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Richard John Thomas Hunter
+|votes= 558
+|percentage= 26.7
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Mark Bennett Scott
+|votes= 178
+|percentage= 8.5
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Frances Jane Taylor
+|votes= 92
+|percentage= 4.4
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Craig Wathall
+|votes= 85
+|percentage= 4.1
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,092
+  |percentage = 33.10
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Hoober===
+{{Election box begin | title=Hoober}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Denise Lelliott*
+|votes= 1,084
+|percentage= 45.1
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= David John Roche*
+|votes= 1,008
+|percentage= 42.0
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Emily Jill Barley
+|votes= 873
+|percentage= 36.3
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Brian Steele*
+|votes= 872
+|percentage= 36.3
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Martin Needham
+|votes= 784
+|percentage= 32.6
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Daniel Thompson
+|votes= 720
+|percentage= 30.0
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Thomas Walter Hill
+|votes= 254
+|percentage= 10.6
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Sue Fletcher
+|votes= 231
+|percentage= 9.6
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Amanda Sales-McHale
+|votes= 198
+|percentage= 8.2
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Pat Schwalbe
+|votes= 140
+|percentage= 5.8
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Steve Scutt
+|votes= 137
+|percentage= 5.7
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,411
+  |percentage = 24.95
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Keppel===
+{{Election box begin | title=Keppel}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Maggi Clark*
+|votes= 1,204
+|percentage= 40.4
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Tony Browne
+|votes= 1,117
+|percentage= 37.5
+|change=}}
+{{Election box winning candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Paul Hague*
+|votes= 993
+|percentage= 33.3
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Alan William Sherriff
+|votes= 917
+|percentage= 30.8
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Eddie Coates-Madden
+|votes= 754
+|percentage= 25.3
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Lisa Sally Silcock
+|votes= 681
+|percentage= 22.8
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Sandra Marriott*
+|votes= 642
+|percentage= 21.5
+|change=}}
+{{Election box candidate with party link|
+|party=Yorkshire Party
+|candidate= Peter Robert Key
+|votes= 448
+|percentage= 15.0
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Sam Reddington
+|votes= 264
+|percentage= 8.9
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,996
+  |percentage = 28.38
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Rotherham Democratic Party
+  |swing     = 
+}}
+{{Election box end}}
+
+===Kilnhurst & Swinton East===
+{{Election box begin | title=Kilnhurst & Swinton East}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Victoria Cusworth*
+|votes= 1,119
+|percentage= 60.2
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Stuart James Sansome*
+|votes= 989
+|percentage= 53.2
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Denise Helen Hall
+|votes= 597
+|percentage= 32.1
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Luke Anthony Binney
+|votes= 126
+|percentage= 6.8
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= Karly Buffon
+|votes= 103
+|percentage= 5.5
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= David Taylor
+|votes= 84
+|percentage= 4.5
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,876
+  |percentage = 29.82
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Maltby East===
+{{Election box begin | title=Maltby East}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Adam James Tinsley
+|votes= 648
+|percentage= 37.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Lee James Hunter
+|votes= 630
+|percentage= 36.8
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Diann Bernadette Fitzgibbons
+|votes= 549
+|percentage= 32.1
+|change=}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Shaz Biggin
+|votes= 510
+|percentage= 29.8
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Janet Law
+|votes= 393
+|percentage= 23.0
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Brett Harrison Meese
+|votes= 115
+|percentage= 6.7
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Harrison James Meese
+|votes= 73
+|percentage= 4.3
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Darren Hallam-Wall
+|votes= 43
+|percentage= 2.5
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,717
+  |percentage = 25.75
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Rawmarsh East===
+{{Election box begin | title=Rawmarsh East}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Dave Sheppard*
+|votes= 703
+|percentage= 47.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Rachel Elizabeth Margaret Hughes
+|votes= 604
+|percentage= 41.1
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= William Salt
+|votes= 458
+|percentage= 31.2
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Ben Wayne Eyre
+|votes= 280
+|percentage= 19.1
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Sophie Louise Shaw
+|votes= 138
+|percentage= 9.4
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Margaret Eileen Towler
+|votes= 115
+|percentage= 7.8
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,476
+  |percentage = 21.42
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Rawmarsh West===
+{{Election box begin | title=Rawmarsh West}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Bob Bird*
+|votes= 724
+|percentage= 45.3
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Jill Thompson
+|votes= 583
+|percentage= 36.5
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Beth Marles
+|votes= 522
+|percentage= 32.6
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Thomas Sawford
+|votes= 218
+|percentage= 13.6
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Sean Anthony Ardron
+|votes= 209
+|percentage= 13.1
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= James John Cleary
+|votes= 174
+|percentage= 10.9
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Phil Aisthorpe
+|votes= 124
+|percentage= 7.8
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= William Mark Price
+|votes= 38
+|percentage= 2.4
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,612
+  |percentage = 23.53
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Rother Vale===
+{{Election box begin | title=Rother Vale}}
+{{Election box winning candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Firas Miro
+|votes= 551
+|percentage= 38.0
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Amy Caroline Brookes*
+|votes= 491
+|percentage= 33.8
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= David Edward Wilson
+|votes= 418
+|percentage= 28.8
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Bob Walsh*
+|votes= 411
+|percentage= 28.3
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= William Guy David Morgan
+|votes= 326
+|percentage= 22.5
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Natalie Thomas Stafford
+|votes= 299
+|percentage= 20.6
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= David Haythorne
+|votes= 88
+|percentage= 6.1
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Neil Adshead
+|votes= 58
+|percentage= 4.0
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Carlie Louise Stanley
+|votes= 37
+|percentage= 2.5
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= John Walker
+|votes= 17
+|percentage= 1.2
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,456
+  |percentage = 24.04
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Liberal Democrats (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Rotherham East===
+{{Election box begin | title=Rotherham East}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Wendy Cooksey*
+|votes= 1,366
+|percentage= 54.7
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Tajamal Khan*
+|votes= 1,097
+|percentage= 43.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Rukhsana Bibi Haleem
+|votes= 1,024
+|percentage= 41.0
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Barrie Marsh
+|votes= 641
+|percentage= 25.7
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Richard William Penycate
+|votes= 457
+|percentage= 18.3
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Kath Reeder*
+|votes= 354
+|percentage= 14.2
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Sheila Marriott
+|votes= 296
+|percentage= 11.8
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Cheryl Lynn Jones
+|votes= 284
+|percentage= 11.4
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Harry David McKenzie
+|votes= 269
+|percentage= 10.8
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,512
+  |percentage = 24.13
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Rotherham West===
+{{Election box begin | title=Rotherham West}}
+{{Election box winning candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Ian Paul Jones*
+|votes= 1,246
+|percentage= 39.7
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Ben Aveyard
+|votes= 1,136
+|percentage= 36.2
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Eve Keenan*
+|votes= 1,012
+|percentage= 32.2
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Carole Ann Foster
+|votes= 1,004
+|percentage= 32.0
+|change=}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Simon Currie
+|votes= 795
+|percentage= 25.3
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Roger Wainwright
+|votes= 769
+|percentage= 24.5
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Kelly Marie Bramley
+|votes= 673
+|percentage= 21.4
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Ruth Pauline Marsh
+|votes= 619
+|percentage= 19.7
+|change=}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Ishtiaq Ahmad
+|votes= 248
+|percentage= 7.9
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Julie Elizabeth Read
+|votes= 195
+|percentage= 6.2
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,155
+  |percentage = 31.37
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Rotherham Democratic Party
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Sitwell===
+{{Election box begin | title=Sitwell}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Simon Lee Burnett
+|votes= 1,471
+|percentage= 36.5
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= David Frank Fisher
+|votes= 1,425
+|percentage= 35.4
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Tony Griffin
+|votes= 1,071
+|percentage= 26.6
+|change=}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Mick Bower
+|votes= 1,054
+|percentage= 26.2
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Mohammed Osman Suleman
+|votes= 1,045
+|percentage= 26.0
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Barbara Carol Brookes
+|votes= 967
+|percentage= 24.0
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Haroon Rashid
+|votes= 941
+|percentage= 23.4
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Allen Cowles*
+|votes= 746
+|percentage= 18.5
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Colin David Taylor
+|votes= 476
+|percentage= 11.8
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Tanya Veronica Cleary
+|votes= 453
+|percentage= 11.3
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Peter Gerard John Short*
+|votes= 372
+|percentage= 9.2
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Gavin Peter Shawcroft
+|votes= 364
+|percentage= 9.0
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,041
+  |percentage = 40.88
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Swinton Rockingham===
+{{Election box begin | title=Swinton Rockingham}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Ken Wyatt*
+|votes= 1,118
+|percentage= 60.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Gina Monk
+|votes= 1,009
+|percentage= 54.9
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Patricia Anita Collins
+|votes= 596
+|percentage= 32.4
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Kay Lesley Hollis
+|votes= 117
+|percentage= 6.4
+|change=}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Christopher James Edward Bingham
+|votes= 115
+|percentage= 6.3
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= Duran Rowen Bath
+|votes= 59
+|percentage= 3.2
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= Toni Garnett
+|votes= 50
+|percentage= 2.7
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,845
+  |percentage = 29.48
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Thurcroft & Wickersley South===
+{{Election box begin | title=Thurcroft & Wickersley South}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Thomas Ryan Singleton
+|votes= 1,125
+|percentage= 45.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Zachary Aron Collingham
+|votes= 1,116
+|percentage= 45.5
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= James Jonathon Mault
+|votes= 634
+|percentage= 25.9
+|change=}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Angham Saleh Taher Ahmed
+|votes= 540
+|percentage= 22.0
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= John Turner*
+|votes= 510
+|percentage= 20.8
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Brian Cutts*
+|votes= 450
+|percentage= 18.4
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Pat Tarmey
+|votes= 131
+|percentage= 5.3
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,459
+  |percentage = 32.68
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Wales===
+{{Election box begin | title=Wales}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Dominic Edward Beck*
+|votes= 1,190
+|percentage= 48.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Marnie Anne Havard
+|votes= 835
+|percentage= 34.3
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Barbara Mary Morris
+|votes= 793
+|percentage= 32.6
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Gary Smith
+|votes= 786
+|percentage= 32.3
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Paul Neville Martin
+|votes= 432
+|percentage= 17.7
+|change=}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Emily Rose West
+|votes= 241
+|percentage= 9.9
+|change=}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Steve Webster
+|votes= 125
+|percentage= 5.1
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Oliver Tatton Boddye
+|votes= 81
+|percentage= 3.3
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,447
+  |percentage = 34.05
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Wath===
+{{Election box begin | title=Wath}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Alan Atkin*
+|votes= 882
+|percentage= 51.9
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Sheila Anne Cowen
+|votes= 804
+|percentage= 47.3
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Tyrrell Jane Bingham
+|votes= 490
+|percentage= 28.9
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= Micky Newman
+|votes= 261
+|percentage= 15.4
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Ingrid Mary Frances House
+|votes= 176
+|percentage= 10.4
+|change=}}
+{{Election box candidate with party link|
+|party=Social Democratic Party (UK, 1990-present)
+|candidate= Wayne Anthony Roger Pike
+|votes= 110
+|percentage= 6.5
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,711
+  |percentage = 25.41
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Wickersley North===
+{{Election box begin | title=Wickersley North}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Sue Ellis*
+|votes= 1,466
+|percentage= 43.3
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Emma Elizabeth Hoddinott*
+|votes= 1,337
+|percentage= 39.5
+|change=}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Chris Read*
+|votes= 1,295
+|percentage= 38.3
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Martyn Lawton Parker
+|votes= 1,042
+|percentage= 30.8
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Rob Felstead
+|votes= 726
+|percentage= 21.5
+|change=}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Mohammed Suleman
+|votes= 547
+|percentage= 16.2
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Tracy Louise Green
+|votes= 486
+|percentage= 14.4
+|change=}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Leslie James Hince
+|votes= 361
+|percentage= 10.7
+|change=}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Linda Read
+|votes= 281
+|percentage= 8.3
+|change=}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,401
+  |percentage = 32.26
+  |change     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box new seat win|
+  |winner      = Labour Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+==Changes 2021–2024==
+===Anston & Woodsetts===
+A by-election was held on 9 December 2021 after the resignation of Cllr Emma McClure
+{{Election box begin | title=Anston & Woodsetts}}
+{{Election box winning candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Drew Simon Tarmey
+|votes= 1,016
+|percentage= 38.6
+|change=+11.1}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Adrian John Knight
+|votes= 686
+|percentage= 26.1
+|change=-1.8}}
+{{Election box candidate with party link|
+|party=Labour Party (UK)
+|candidate= Simon Andrew Tweed
+|votes= 533
+|percentage= 20.3
+|change=-0.1}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Clive Robert Jepson
+|votes= 189
+|percentage= 7.2
+|change=-13.0}}
+{{Election box candidate with party link|
+|party=Independent politician
+|candidate= Jonathan Charles Ireland
+|votes= 118
+|percentage= 4.5
+|change=-10.2}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Charles David Dowsing Foulstone
+|votes= 63
+|percentage= 2.4
+|change=-7.9}}
+{{Election box candidate with party link|
+|party=Yorkshire Party
+|candidate= Christopher Michael Whitwood
+|votes= 20
+|percentage= 0.8
+|change=''New''
+}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Allen Cowles
+|votes= 6
+|percentage= 0.2
+|change=''New''
+}}
+{{Election box majority|
+  |votes      = 330
+  |percentage = 12.5
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 2,634
+  |percentage = 28.02
+  |change     = -10.41
+}}
+{{Election box gain with party link|
+  |winner      = Liberal Democrats (UK)
+  |loser      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Aughton & Swallownest===
+A by-election was held on 9 December 2021 after the resignation of Cllr Jack Austin
+{{Election box begin | title=Aughton & Swallownest}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Robert Paul Taylor
+|votes= 645
+|percentage= 50.8
+|change=+22.8}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Julia Helen Mitchell
+|votes= 496
+|percentage= 39.1
+|change=+2.0
+}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Louisa Kathryn Barker
+|votes= 59
+|percentage= 4.6
+|change=''New''}}
+{{Election box candidate with party link|
+|party=Yorkshire Party
+|candidate= Jack Bannan
+|votes= 35
+|percentage= 2.8
+|change=''New''
+}}
+{{Election box candidate with party link|
+|party=Trade Unionist and Socialist Coalition
+|candidate= Paul Marshall
+|votes= 32
+|percentage= 2.5
+|change=''New''
+}}
+{{Election box candidate|
+|party=Rotherham Democratic Party
+|colour  =#66023C
+|candidate= Gavin Peter Shawcroft
+|votes= 15
+|percentage= 1.2
+|change=-17.8}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Mark Lambert
+|votes= 14
+|percentage= 1.1
+|change=-4.9}}
+{{Election box majority|
+  |votes      = 149
+  |percentage = 11.7
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+  |votes      = 1,299
+  |percentage = 19.94
+  |change     = -7.22
+}}
+{{Election box gain with party link|
+  |winner      = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing     = 
+}}
+{{Election box end}}
+
+===Keppel===
+A by-election was held on 27 January 2023 after the resignation of Cllr Paul Hague
+{{Election box begin | title=Keppel}}
+{{Election box winning candidate with party link|
+|party=Labour Party (UK)
+|candidate= Carole Ann Foster
+|votes= 745
+|percentage= 36.1
+|change=+10.8}}
+{{Election box candidate with party link|
+|party=Liberal Democrats (UK)
+|candidate= Khoulod Ghanem
+|votes= 445
+|percentage= 21.6
+|change=+12.7}}
+{{Election box candidate with party link|
+|party=Independent (politician)
+|candidate= Sid Currie
+|votes= 381
+|percentage= 18.5
+|change=''New''}}
+{{Election box candidate with party link|
+|party=Yorkshire Party
+|candidate= Peter Robert Key
+|votes= 314
+|percentage= 15.2
+|change=+0.2}}
+{{Election box candidate with party link|
+|party=Conservative Party (UK)
+|candidate= Mohammed Osman Suleman
+|votes= 119
+|percentage= 5.8
+|change=-25.0}}
+{{Election box candidate with party link|
+|party=Green Party of England and Wales
+|candidate= Paul Neville Martin
+|votes= 59
+|percentage= 2.9
+|change=''New''}}
+{{Election box majority|
+  |votes      = 
+  |percentage = 
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,067
+  |percentage = 19.94
+  |change     = -8.44
+}}
+{{Election box gain with party link|
+  |winner      = Labour Party (UK)
+  |loser      = Rotherham Democratic Party
+  |swing     = 
+}}
+{{Election box end}}
+
+===Dinnington===
+
+{{Election box begin | title=Dinnington: 13 July 2023}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Julz Hall
+   |votes      = 1,064
+   |percentage = 42.7
+   |change     = +6.5
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = John Vjestica
+   |votes      = 820
+   |percentage =32.9
+   |change     = +7.4
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Matt Mears
+   |votes      = 262
+   |percentage =10.5
+   |change     = +1.4
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Dave Smith
+   |votes      = 196
+   |percentage =7.9
+   |change     = –11.3
+}}
+ {{Election box candidate with party link
+   |party      = Reform UK
+   |candidate  = Tony Harrison
+   |votes      = 61
+   |percentage =2.4
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Paul Martin
+   |votes      = 59
+   |percentage =2.4
+   |change     = –7.7
+}}
+ {{Election box candidate with party link
+   |party      = Yorkshire Party
+   |candidate  = Peter Kay
+   |votes      = 28
+   |percentage =1.1
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 244
+   |percentage = 9.8
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 2,496
+   |percentage = 27.4
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 9,117
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = {{decrease}}0.5
+}}
+ {{Election box end}}
+In July 2023, following the resignation of a Dinnington Ward councillor, the Conservatives successfully defended the seat. The by-election was labelled as ‘crucial’ as it was seen as a 'red wall' area. The Conservatives increased their vote share.<ref>{{cite web|title=Rotherham Advertiser News|url=https://www.rotherhamadvertiser.co.uk/news/view,conservatives-win-byelection-in-dinnington-keeping-the-town-all-blue_45927.htm}}</ref>
+
+===Kilnhurst and Swinton East===
+
+{{Election box begin | title=Kilnhurst and Swinton East: 2 November 2023}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Nigel Harper
+   |votes      = 810
+   |percentage = 64.6
+   |change     = +7.1
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Patricia Collins
+   |votes      = 293
+   |percentage =23.4
+   |change     = –7.3
+}}
+ {{Election box candidate with party link
+   |party      = Reform UK
+   |candidate  = Adam Wood
+   |votes      = 58
+   |percentage =4.6
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Yorkshire Party
+   |candidate  = Peter Key
+   |votes      = 38
+   |percentage =3.0
+   |change     = ''N/A''
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = John Gelder
+   |votes      = 30
+   |percentage =2.4
+   |change     = –4.1
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Paul Martin
+   |votes      = 25
+   |percentage =2.0
+   |change     = ''N/A''
+}}
+{{Election box majority
+   |votes      = 517
+   |percentage = 41.2
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 1,254
+   |percentage = 20.0
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 6,270
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = {{increase}}7.2
+}}
+ {{Election box end}}
+
+===Changes of allegiance===
+In May 2023, Councillors Emily Barley and Jill Thompson resigned from the Conservative Group and formed the 'Independent Conservative' Group. Councillor Charlie Wooding was suspended from the Conservative Group whilst an investigation took place regarding his attendance, and he subsequently resigned triggering a by-election.<ref>{{cite web|title=BBC News|url=https://www.bbc.co.uk/news/uk-england-south-yorkshire-65699921|access-date=24 May 2023|website=BBC.com/news}}</ref><ref>{{Cite web |last=Sebestyan |first=Roland |date=5 June 2023 |title=Suspended Tory councillor steps downs and triggers by-election in Dinnington |url=https://www.thestar.co.uk/news/politics/suspended-tory-councillor-steps-downs-and-triggers-by-election-in-dinnington-4169273 }}</ref>
+
+The Rotherham Democratic Party disbanded in 2022, with its councillors thereafter sitting as independents.<ref>{{cite web |title=Rotherham Democratic Party |url=https://search.electoralcommission.org.uk/English/Registrations/PP11473 |website=The Electoral Commission |access-date=11 March 2024}}</ref>
+
+==References==
+{{reflist}}
+
+{{2021 United Kingdom local elections}}
+{{South Yorkshire elections}}
+
+[[Category:2021 English local elections|Rotherham]]
+[[Category:Rotherham Council elections]]

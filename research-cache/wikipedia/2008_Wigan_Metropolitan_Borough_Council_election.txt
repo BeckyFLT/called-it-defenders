@@ -1,0 +1,1479 @@
+{{Short description|2008 UK local government election}}
+{{Use dmy dates|date=April 2025}}
+{{Use British English|date=November 2013}}
+[[File:Wigan UK local election 2008 map.svg|thumb|300px|right|Map of the results of the 2008 Wigan council election. [[Labour Party (UK)|Labour]] in red, [[Conservative Party (UK)|Conservatives]] in blue, [[Independent (politician)|independent]] in grey, [[Community Action Party]] in green and [[Liberal Democrats (UK)|Liberal Democrats]] in yellow.]]
+Elections to [[Metropolitan Borough of Wigan|Wigan]] Metropolitan Borough Council were held on 1 May 2008. One-third of the council was up for election.<ref>{{cite news| url = http://news.bbc.co.uk/1/shared/bsp/hi/elections/local_council/08/html/bw.stm | title = Local elections: Wigan | access-date = 2012-07-04 | publisher = BBC News}}</ref><ref name="wiganmbc">{{cite web| url = http://kinnear.wiganmbc.gov.uk/electionresults/ShowWard.asp?ElectionDate=01+May+2008 | title = Local Election Results 01 May 2008 | publisher = wiganmbc.gov.uk |access-date = 2012-06-28}}</ref><ref name="teale">{{cite web| url = http://www.andrewteale.me.uk/leap/results/2008/41/ | title = Local Elections Archive Project: 2008 – Wigan | publisher = andrewteale.me.uk |access-date = 2012-06-28}}</ref>
+
+==Election result==
+{{Election summary begin|title = Wigan local election result 2008}}
+{{Election summary party
+  |party      = Labour Party (UK)
+  |seats      = 12
+  |gain       = 1
+  |loss       = 5
+  |net        = -4
+  |seats %    = 48.0
+  |votes %    = 37.3
+  |votes      = 26,353
+  |plus/minus = -5.9
+}}
+{{Election summary party
+  |party      = Conservative Party (UK)
+  |seats      = 6
+  |gain       = 4
+  |loss       = 0
+  |net        = +4
+  |seats %    = 24.0
+  |votes %    = 26.0
+  |votes      = 18,360
+  |plus/minus = +5.0
+}}
+{{Election summary party
+  |party      = Independent (politician)
+  |seats      = 4
+  |gain       = 2
+  |loss       = 0
+  |net        = +2
+  |seats %    = 16.0
+  |votes %    = 8.9
+  |votes      = 6,260
+  |plus/minus = +5.7
+}}
+{{Election summary party
+  |party      = Community Action Party
+  |seats      = 2
+  |gain       = 0
+  |loss       = 2
+  |net        = -2
+  |seats %    = 8.0
+  |votes %    = 13.9
+  |votes      = 9,830
+  |plus/minus = -1.9
+}}
+{{Election summary party
+  |party      = Liberal Democrats (UK)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 4.0
+  |votes %    = 8.6
+  |votes      = 6,054
+  |plus/minus = -1.5
+}}
+{{Election summary party
+  |party      = British National Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 3.3
+  |votes      = 2,352
+  |plus/minus = -0.3
+}}
+{{Election summary party
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.3
+  |votes      = 912
+  |plus/minus = +0.8
+}}
+{{Election summary party
+  |party      = Respect – The Unity Coalition
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.3
+  |votes      = 222
+  |plus/minus = +0.3
+}}
+{{Election box end}}
+
+This result had the following consequences for the total number of seats on the council after the elections:
+
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 46
+| 42
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservative
+| 10
+| 14
+|-
+! style="background-color: {{party color|Community Action Party}}; width: 3px;" |
+| Community Action
+| 10
+| 8
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent
+| 5
+| 7
+|-
+! style="background-color: {{party color|Liberal Democrats (UK)}}; width: 3px;" |
+| Liberal Democrat
+| 4
+| 4
+|-
+! style="background-color: {{party color|British National Party}}; width: 3px;" |
+| BNP
+| 0
+| 0
+|-
+! style="background-color: {{party color|UK Independence Party}}; width: 3px;" |
+| UKIP
+| 0
+| 0
+|-
+! style="background-color: {{party color|Respect – The Unity Coalition}}; width: 3px;" |
+| Respect
+| 0
+| 0
+|-
+! colspan=2| Total
+! style="text-align: center"| 75
+! colspan=3| 75
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|17|border=darkgray}}
+! {{Color box|#FFBF00|9|border=darkgray}}
+|}
+
+==Ward results==
+
+===Abram===
+
+{{Election box begin | title=Abram<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Eddie Russon
+  |votes      = 1,226
+  |percentage = 47.8
+  |change     = -7.3
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = John Shale
+  |votes      = 934
+  |percentage = 36.7
+  |change     = +14.5
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Marion Green
+  |votes      = 386
+  |percentage = 15.0
+  |change     = +4.7
+}}
+{{Election box rejected
+  |votes      = 11
+  |percentage = 0.4
+  |change     = +0.2
+}}
+{{Election box majority
+  |votes      = 283
+  |percentage = 11.0
+  |change     = -21.8
+}}
+{{Election box turnout
+  |votes      = 2,566
+  |percentage = 25.2
+  |change     = +0.4
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -10.9
+}}
+{{Election box end}}
+
+===Ashton===
+
+{{Election box begin | title=[[Ashton-in-Makerfield|Ashton]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Paul Tushingham
+  |votes      = 1,766
+  |percentage = 53.4
+  |change     = +8.0
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Ann Rampling
+  |votes      = 1,111
+  |percentage = 33.6
+  |change     = -6.5
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Marie Winstanley
+  |votes      = 248
+  |percentage = 7.5
+  |change     = -0.7
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Adrian Jones
+  |votes      = 178
+  |percentage = 5.4
+  |change     = -0.8
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.2
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 655
+  |percentage = 19.8
+  |change     = +14.5
+}}
+{{Election box turnout
+  |votes      = 3,310
+  |percentage = 36.9
+  |change     = +2.5
+}}
+{{Election box hold with party link
+ |winner = Community Action Party
+ |swing = +7.2
+}}
+{{Election box end}}
+
+===Aspull New Springs Whelley===
+
+{{Election box begin | title=[[Aspull]], New Springs, Whelley<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = John Hilton
+  |votes      = 1,443
+  |percentage = 43.0
+  |change     = -10.1
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Alan Robinson
+  |votes      = 1,254
+  |percentage = 37.4
+  |change     = +8.8
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Anthony Hind
+  |votes      = 640
+  |percentage = 19.1
+  |change     = +6.1
+}}
+{{Election box rejected
+  |votes      = 17
+  |percentage = 0.5
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 189
+  |percentage = 5.6
+  |change     = -18.9
+}}
+{{Election box turnout
+  |votes      = 3,354
+  |percentage = 34.4
+  |change     = -1.2
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -9.4
+}}
+{{Election box end}}
+
+===Astley Mosley Common===
+
+{{Election box begin | title=Astley Mosley Common<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Sean Ell
+  |votes      = 1,207
+  |percentage = 42.0
+  |change     = +12.3
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Brian Wilson
+  |votes      = 1,014
+  |percentage = 35.3
+  |change     = -2.6
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gavin Clements
+  |votes      = 684
+  |percentage = 22.1
+  |change     = -2.0
+}}
+{{Election box rejected
+  |votes      = 18
+  |percentage = 0.6
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 193
+  |percentage = 6.7
+  |change     = -1.5
+}}
+{{Election box turnout
+  |votes      = 2,873
+  |percentage = 30.9
+  |change     = +2.3
+}}
+{{Election box gain with party link
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = +7.4
+}}
+{{Election box end}}
+
+===Atherleigh===
+
+{{Election box begin | title=Atherleigh<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Susan Loudon
+  |votes      = 1,246
+  |percentage = 58.7
+  |change     = +6.6
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Abigail Solomon
+  |votes      = 858
+  |percentage = 40.4
+  |change     = +23.1
+}}
+{{Election box rejected
+  |votes      = 20
+  |percentage = 0.9
+  |change     = +0.5
+}}
+{{Election box majority
+  |votes      = 388
+  |percentage = 18.3
+  |change     = -3.6
+}}
+{{Election box turnout
+  |votes      = 2,124
+  |percentage = 26.4
+  |change     = -0.4
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -8.2
+}}
+{{Election box end}}
+
+===Atherton===
+
+{{Election box begin | title=[[Atherton, Greater Manchester|Atherton]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Bob Splaine
+  |votes      = 976
+  |percentage = 29.5
+  |change     = +29.5
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Elnur Yusifzade
+  |votes      = 858
+  |percentage = 25.8
+  |change     = -19.5
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Higginbottom
+  |votes      = 821
+  |percentage = 24.8
+  |change     = -12.9
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Nicholls
+  |votes      = 416
+  |percentage = 12.9
+  |change     = +1.9
+}}
+{{Election box candidate with party link
+  |party      = Respect – The Unity Coalition
+  |candidate  = Stephen Hall
+  |votes      = 221
+  |percentage = 6.7
+  |change     = +6.7
+}}
+{{Election box rejected
+  |votes      = 13
+  |percentage = 0.4
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 120
+  |percentage = 3.6
+  |change     = -4.0
+}}
+{{Election box turnout
+  |votes      = 3,314
+  |percentage = 31.4
+  |change     = +1.9
+}}
+{{Election box hold with party link
+ |winner = Independent (politician)
+ |swing = +24.5
+}}
+{{Election box end}}
+
+===Bryn===
+
+{{Election box begin | title=Bryn<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Don Hodgkinson
+  |votes      = 1,606
+  |percentage = 49.2
+  |change     = -3.1
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Helen Ash
+  |votes      = 765
+  |percentage = 23.4
+  |change     = -8.9
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Clive Charles
+  |votes      = 384
+  |percentage = 12.1
+  |change     = +12.1
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Ken Haslam
+  |votes      = 284
+  |percentage = 8.7
+  |change     = -0.9
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Malcolm Childs
+  |votes      = 204
+  |percentage = 6.2
+  |change     = +0.6
+}}
+{{Election box rejected
+  |votes      = 13
+  |percentage = 0.4
+  |change     = +0.2
+}}
+{{Election box majority
+  |votes      = 841
+  |percentage = 25.8
+  |change     = +5.8
+}}
+{{Election box turnout
+  |votes      = 3,266
+  |percentage = 36.2
+  |change     = +1.9
+}}
+{{Election box hold with party link
+ |winner = Independent (politician)
+ |swing = +2.9
+}}
+{{Election box end}}
+
+===Douglas===
+
+{{Election box begin | title=Douglas<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Joy Birch
+  |votes      = 1,170
+  |percentage = 51.4
+  |change     = -6.6
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Anthony Unsworth
+  |votes      = 745
+  |percentage = 32.7
+  |change     = +7.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Stephen Holt
+  |votes      = 350
+  |percentage = 15.4
+  |change     = -0.8
+}}
+{{Election box rejected
+  |votes      = 12
+  |percentage = 0.5
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 425
+  |percentage = 18.7
+  |change     = -13.9
+}}
+{{Election box turnout
+  |votes      = 2,277
+  |percentage = 24.6
+  |change     = +0.2
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -6.9
+}}
+{{Election box end}}
+
+===Golborne Lowton West===
+
+{{Election box begin | title=[[Golborne]] Lowton West<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Yvonne Klieve
+  |votes      = 1,186
+  |percentage = 41.0
+  |change     = -15.4
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Peter Franzen
+  |votes      = 1,110
+  |percentage = 38.4
+  |change     = +9.6
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = John Oxley
+  |votes      = 282
+  |percentage = 9.8
+  |change     = -4.6
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Steven McEllenborough
+  |votes      = 178
+  |percentage = 6.2
+  |change     = +6.2
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Frank Davies
+  |votes      = 129
+  |percentage = 4.5
+  |change     = +4.5
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.2
+  |change     = -0.2
+}}
+{{Election box majority
+  |votes      = 76
+  |percentage = 2.6
+  |change     = -25.0
+}}
+{{Election box turnout
+  |votes      = 2,892
+  |percentage = 32.9
+  |change     = +2.5
+}}
+{{Election box gain with party link
+ |winner = Labour Party (UK)
+ |loser = Community Action Party
+ |swing = -12.5
+}}
+{{Election box end}}
+
+===Hindley===
+
+{{Election box begin | title=[[Hindley, Greater Manchester|Hindley]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Jim Ellis
+  |votes      = 1,347
+  |percentage = 47.4
+  |change     = +47.4
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Marcia Dooley
+  |votes      = 694
+  |percentage = 24.5
+  |change     = -20.8
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = David Culshaw
+  |votes      = 515
+  |percentage = 18.1
+  |change     = +18.1
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Winstanley
+  |votes      = 277
+  |percentage = 9.7
+  |change     = -1.2
+}}
+{{Election box rejected
+  |votes      = 7
+  |percentage = 0.2
+  |change     = -0.1
+}}
+{{Election box majority
+  |votes      = 1,166
+  |percentage = 41.0
+  |change     = +39.1
+}}
+{{Election box turnout
+  |votes      = 2,842
+  |percentage = 29.1
+  |change     = +2.4
+}}
+{{Election box gain with party link
+ |winner = Independent (politician)
+ |loser = Labour Party (UK)
+ |swing = +34.1
+}}
+{{Election box end}}
+
+===Hindley Green===
+
+{{Election box begin | title=Hindley Green<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Bob Brierley
+  |votes      = 1,105
+  |percentage = 44.7
+  |change     = +44.7
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Martin Long
+  |votes      = 981
+  |percentage = 26.5
+  |change     = -3.6
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Stuart Foy
+  |votes      = 353
+  |percentage = 14.3
+  |change     = +3.9
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Rachel Fagan
+  |votes      = 351
+  |percentage = 14.2
+  |change     = -17.2
+}}
+{{Election box rejected
+  |votes      = 10
+  |percentage = 0.4
+  |change     = +0.1
+}}
+{{Election box majority
+  |votes      = 450
+  |percentage = 18.2
+  |change     = +16.9
+}}
+{{Election box turnout
+  |votes      = 2,474
+  |percentage = 28.9
+  |change     = +2.4
+}}
+{{Election box gain with party link
+ |winner = Independent (politician)
+ |loser = Labour Party (UK)
+ |swing = +24.1
+}}
+{{Election box end}}
+
+===Ince===
+
+{{Election box begin | title=[[Ince-in-Makerfield|Ince]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = David Molyneux
+  |votes      = 1,180
+  |percentage = 60.5
+  |change     = -5.9
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Syd Hall
+  |votes      = 479
+  |percentage = 24.6
+  |change     = +2.0
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Raymond Whittingham
+  |votes      = 275
+  |percentage = 14.1
+  |change     = +3.8
+}}
+{{Election box rejected
+  |votes      = 15
+  |percentage = 0.8
+  |change     = +0.2
+}}
+{{Election box majority
+  |votes      = 701
+  |percentage = 36
+  |change     = -7.9
+}}
+{{Election box turnout
+  |votes      = 1,949
+  |percentage = 23.0
+  |change     = -0.6
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -3.9
+}}
+{{Election box end}}
+
+===Leigh East===
+
+{{Election box begin | title=Leigh East<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Keith Cunliffe
+  |votes      = 981
+  |percentage = 43.8
+  |change     = -4.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Dorothy Angell
+  |votes      = 649
+  |percentage = 29.0
+  |change     = +9.0
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gordon Jackson
+  |votes      = 597
+  |percentage = 26.4
+  |change     = -4.7
+}}
+{{Election box rejected
+  |votes      = 17
+  |percentage = 0.8
+  |change     = +0.0
+}}
+{{Election box majority
+  |votes      = 332
+  |percentage = 14.8
+  |change     = -2.2
+}}
+{{Election box turnout
+  |votes      = 2,238
+  |percentage = 24.8
+  |change     = -2.2
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -6.6
+}}
+{{Election box end}}
+
+===Leigh South===
+
+{{Election box begin | title=Leigh South<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Kevin Anderson
+  |votes      = 1,372
+  |percentage = 41.2
+  |change     = -2.1
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Oxley
+  |votes      = 1,000
+  |percentage = 30.1
+  |change     = +6.6
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Ian Franzen
+  |votes      = 476
+  |percentage = 14.3
+  |change     = -9.5
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Gary Chadwick
+  |votes      = 470
+  |percentage = 14.1
+  |change     = +5.1
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.3
+  |change     = -0.2
+}}
+{{Election box majority
+  |votes      = 372
+  |percentage = 11.2
+  |change     = -8.3
+}}
+{{Election box turnout
+  |votes      = 3,327
+  |percentage = 32.6
+  |change     = +1.5
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -4.3
+}}
+{{Election box end}}
+
+===Leigh West===
+
+{{Election box begin | title=Leigh West<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Susan Greensmith
+  |votes      = 1,543
+  |percentage = 64.3
+  |change     = +10.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Denise Young
+  |votes      = 817
+  |percentage = 34.0
+  |change     = +22.7
+}}
+{{Election box rejected
+  |votes      = 40
+  |percentage = 1.7
+  |change     = +1.3
+}}
+{{Election box majority
+  |votes      = 726
+  |percentage = 30.3
+  |change     = -0.2
+}}
+{{Election box turnout
+  |votes      = 2,400
+  |percentage = 22.9
+  |change     = -0.9
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -6.2
+}}
+{{Election box end}}
+
+===Lowton East===
+
+{{Election box begin | title=Lowton East<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = James Grundy
+  |votes      = 1,972
+  |percentage = 53.6
+  |change     = +29.9
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Ian Franzen
+  |votes      = 943
+  |percentage = 25.6
+  |change     = -17.4
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = James Cowley
+  |votes      = 758
+  |percentage = 20.6
+  |change     = -12.3
+}}
+{{Election box rejected
+  |votes      = 8
+  |percentage = 0.2
+  |change     = -0.2
+}}
+{{Election box majority
+  |votes      = 1,029
+  |percentage = 28.0
+  |change     = +17.9
+}}
+{{Election box turnout
+  |votes      = 3,681
+  |percentage = 37.9
+  |change     = +4.3
+}}
+{{Election box gain with party link
+ |winner = Conservative Party (UK)
+ |loser = Community Action Party
+ |swing = +23.6
+}}
+{{Election box end}}
+
+===Orrell===
+
+{{Election box begin | title=[[Orrell, Greater Manchester|Orrell]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Clayton
+  |votes      = 1,608
+  |percentage = 46.5
+  |change     = +1.3
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Mike Barnes
+  |votes      = 969
+  |percentage = 28.0
+  |change     = -7.6
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Charles Mather
+  |votes      = 548
+  |percentage = 15.8
+  |change     = +1.5
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Richard Clayton
+  |votes      = 321
+  |percentage = 9.3
+  |change     = +9.3
+}}
+{{Election box rejected
+  |votes      = 12
+  |percentage = 0.3
+  |change     = +0.0
+}}
+{{Election box majority
+  |votes      = 639
+  |percentage = 18.5
+  |change     = +8.9
+}}
+{{Election box turnout
+  |votes      = 3,458
+  |percentage = 37.9
+  |change     = -2.4
+}}
+{{Election box hold with party link
+ |winner = Conservative Party (UK)
+ |swing = +4.4
+}}
+{{Election box end}}
+
+===Pemberton===
+
+{{Election box begin | title=Pemberton<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Jeanette Prescott
+  |votes      = 1,387
+  |percentage = 55.7
+  |change     = -1.9
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Mike Leyland
+  |votes      = 406
+  |percentage = 16.3
+  |change     = -0.3
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Benjamin Gray
+  |votes      = 350
+  |percentage = 14.1
+  |change     = +2.1
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Chris Hilton
+  |votes      = 334
+  |percentage = 13.4
+  |change     = -0.1
+}}
+{{Election box rejected
+  |votes      = 14
+  |percentage = 0.6
+  |change     = +0.2
+}}
+{{Election box majority
+  |votes      = 981
+  |percentage = 39.4
+  |change     = -1.6
+}}
+{{Election box turnout
+  |votes      = 2,491
+  |percentage = 25.9
+  |change     = +1.0
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -0.8
+}}
+{{Election box end}}
+
+===Shevington with Lower Ground===
+
+{{Election box begin | title=Shevington with Lower Ground<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Liptrot
+  |votes      = 1,531
+  |percentage = 48.4
+  |change     = +6.5
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Mike Crosby
+  |votes      = 971
+  |percentage = 30.7
+  |change     = -7.3
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Martin Sutton
+  |votes      = 251
+  |percentage = 7.9
+  |change     = -1.5
+}}
+{{Election box candidate with party link
+  |party      = United Kingdom Independence Party
+  |candidate  = John Atherton
+  |votes      = 251
+  |percentage = 7.9
+  |change     = -2.3
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Andy Sumner
+  |votes      = 157
+  |percentage = 5.0
+  |change     = +5.0
+}}
+{{Election box rejected
+  |votes      = 2
+  |percentage = 0.1
+  |change     = -0.3
+}}
+{{Election box majority
+  |votes      = 560
+  |percentage = 17.7
+  |change     = +13.8
+}}
+{{Election box turnout
+  |votes      = 3,163
+  |percentage = 34.2
+  |change     = -0.7
+}}
+{{Election box gain with party link
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = +6.9
+}}
+{{Election box end}}
+
+===Standish with Langtree===
+
+{{Election box begin | title=[[Standish, Greater Manchester|Standish]] with Langtree<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Judith Atherton
+  |votes      = 1,710
+  |percentage = 50.8
+  |change     = -7.1
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = George Davies
+  |votes      = 1,039
+  |percentage = 30.9
+  |change     = +2.3
+}}
+{{Election box candidate with party link
+  |party      = United Kingdom Independence Party
+  |candidate  = Alan Freeman
+  |votes      = 283
+  |percentage = 8.4
+  |change     = +8.4
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = June Garner
+  |votes      = 214
+  |percentage = 6.4
+  |change     = -6.6
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Ronnie Barnes
+  |votes      = 116
+  |percentage = 3.4
+  |change     = +3.4
+}}
+{{Election box rejected
+  |votes      = 5
+  |percentage = 0.1
+  |change     = -0.4
+}}
+{{Election box majority
+  |votes      = 671
+  |percentage = 19.9
+  |change     = -9.4
+}}
+{{Election box turnout
+  |votes      = 3,367
+  |percentage = 35.6
+  |change     = -0.9
+}}
+{{Election box gain with party link
+ |winner = Conservative Party (UK)
+ |loser = Labour Party (UK)
+ |swing = -4.7
+}}
+{{Election box end}}
+
+===Tyldesley===
+
+{{Election box begin | title=[[Tyldesley]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Robert Bleakley
+  |votes      = 1,827
+  |percentage = 65.7
+  |change     = +2.7
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Barry Taylor
+  |votes      = 621
+  |percentage = 22.0
+  |change     = +6.7
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Hilary Hayden
+  |votes      = 313
+  |percentage = 11.3
+  |change     = -1.4
+}}
+{{Election box rejected
+  |votes      = 29
+  |percentage = 1.0
+  |change     = +0.9
+}}
+{{Election box majority
+  |votes      = 1,215
+  |percentage = 43.7
+  |change     = -4.0
+}}
+{{Election box turnout
+  |votes      = 2,781
+  |percentage = 27.8
+  |change     = -0.8
+}}
+{{Election box hold with party link
+ |winner = Liberal Democrats (UK)
+ |swing = -2.0
+}}
+{{Election box end}}
+
+===Wigan Central===
+
+{{Election box begin | title=Wigan Central<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Henry Cadman
+  |votes      = 1,562
+  |percentage = 50.3
+  |change     = +6.1
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Mathew Bullen
+  |votes      = 940
+  |percentage = 30.2
+  |change     = -2.8
+}}
+{{Election box candidate with party link
+  |party      = United Kingdom Independence Party
+  |candidate  = Keith Jones
+  |votes      = 378
+  |percentage = 12.2
+  |change     = +12.2
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Leanne Brotherton
+  |votes      = 213
+  |percentage = 6.9
+  |change     = +0.0
+}}
+{{Election box rejected
+  |votes      = 15
+  |percentage = 0.5
+  |change     = +0.2
+}}
+{{Election box majority
+  |votes      = 622
+  |percentage = 20.0
+  |change     = +8.8
+}}
+{{Election box turnout
+  |votes      = 3,108
+  |percentage = 34.3
+  |change     = -0.3
+}}
+{{Election box hold with party link
+ |winner = Conservative Party (UK)
+ |swing = +4.4
+}}
+{{Election box end}}
+
+===Wigan West===
+
+{{Election box begin | title=Wigan West<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Terence Halliwell
+  |votes      = 1,089
+  |percentage = 43.7
+  |change     = -3.7
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Steven Surples
+  |votes      = 471
+  |percentage = 18.9
+  |change     = -0.3
+}}
+{{Election box candidate with party link
+  |party      = Liberal Democrats (UK)
+  |candidate  = Darren Atherton
+  |votes      = 462
+  |percentage = 18.6
+  |change     = +18.6
+}}
+{{Election box candidate with party link
+  |party      = British National Party
+  |candidate  = Susan Mather
+  |votes      = 360
+  |percentage = 14.5
+  |change     = +0.7
+}}
+{{Election box candidate with party link
+  |party      = Independent (politician)
+  |candidate  = Mick Dahl
+  |votes      = 104
+  |percentage = 4.2
+  |change     = +4.2
+}}
+{{Election box rejected
+  |votes      = 4
+  |percentage = 0.2
+  |change     = -0.2
+}}
+{{Election box majority
+  |votes      = 618
+  |percentage = 24.8
+  |change     = -3.4
+}}
+{{Election box turnout
+  |votes      = 2,490
+  |percentage = 25.0
+  |change     = -3.6
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -1.7
+}}
+{{Election box end}}
+
+===Winstanley===
+
+{{Election box begin | title=Winstanley<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Stanley Barnes
+  |votes      = 1,226
+  |percentage = 46.9
+  |change     = +7.7
+}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Phil Kelly
+  |votes      = 869
+  |percentage = 33.4
+  |change     = -10.0
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Paula Thompson
+  |votes      = 508
+  |percentage = 19.5
+  |change     = +2.4
+}}
+{{Election box rejected
+  |votes      = 9
+  |percentage = 0.3
+  |change     = +0.0
+}}
+{{Election box majority
+  |votes      = 357
+  |percentage = 13.7
+  |change     = +9.6
+}}
+{{Election box turnout
+  |votes      = 2,612
+  |percentage = 29.8
+  |change     = -2.2
+}}
+{{Election box hold with party link
+ |winner = Community Action Party
+ |swing = +8.8
+}}
+{{Election box end}}
+
+===Worsley Mesnes===
+
+{{Election box begin | title=[[Worsley Mesnes]]<ref name="wiganmbc" /><ref name="teale" />}}
+{{Election box candidate with party link
+  |party      = Labour Party (UK)
+  |candidate  = Brian Baldwin
+  |votes      = 1,275
+  |percentage = 55.1
+  |change     = -0.2
+}}
+{{Election box candidate with party link
+  |party      = Community Action Party
+  |candidate  = Hannah Leyland
+  |votes      = 662
+  |percentage = 28.6
+  |change     = +3.0
+}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Jonathan Cartwright
+  |votes      = 363
+  |percentage = 15.7
+  |change     = +4.2
+}}
+{{Election box rejected
+  |votes      = 16
+  |percentage = 0.7
+  |change     = +0.3
+}}
+{{Election box majority
+  |votes      = 613
+  |percentage = 26.5
+  |change     = -3.2
+}}
+{{Election box turnout
+  |votes      = 2,316
+  |percentage = 26.4
+  |change     = -1.3
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -1.6
+}}
+{{Election box end}}
+
+==By-elections between 2008 and 2010==
+
+{{Election box begin | title=Wigan West By-Election 10 July 2008<ref name=dawber>{{cite web | url = http://www.wigan.gov.uk/Services/CouncilDemocracy/Elections/ByElection10072008.htm | title = Wigan West By-Election Result – 10 July 2008 | access-date = 2008-07-20 | publisher = Wigan Council | archive-url = https://web.archive.org/web/20081121093246/http://www.wigan.gov.uk/Services/CouncilDemocracy/Elections/ByElection10072008.htm | archive-date = 21 November 2008 | url-status = dead }}</ref><ref name="byelections">{{cite web | url = http://www.gwydir.demon.co.uk/byelections/index.htm | title = Local Authority Byelection Results | publisher = gwydir.demon.co.uk | access-date = 2012-06-13 | archive-date = 29 March 2010 | archive-url = https://web.archive.org/web/20100329041227/http://www.gwydir.demon.co.uk/byelections/index.htm | url-status = dead }}</ref>}}
+{{Election box candidate with party link
+ |party      = Labour Party (UK)
+ |candidate  = Steve Dawber
+ |votes      = 817
+ |percentage = 38.3
+ |change     = -5.4
+}}
+{{Election box candidate with party link
+ |party      = Conservative Party (UK)
+ |candidate  = Jonathan Cartwright
+ |votes      = 528
+ |percentage = 24.8
+ |change     = +5.9
+}}
+{{Election box candidate with party link
+ |party      = Liberal Democrats (UK)
+ |candidate  = Trevor Beswick
+ |votes      = 344
+ |percentage = 16.1
+ |change     = -2.5
+}}
+{{Election box candidate with party link
+ |party      = British National Party
+ |candidate  = Christopher Hilton
+ |votes      = 200
+ |percentage = 9.4
+ |change     = -5.1
+}}
+{{Election box candidate with party link
+ |party      = United Kingdom Independence Party
+ |candidate  = Keith Jones
+ |votes      = 124
+ |percentage = 5.8
+ |change     = +5.8
+}}
+{{Election box candidate with party link
+ |party      = Independent (politician)
+ |candidate  = Sandy Franzen
+ |votes      = 118
+ |percentage = 5.5
+ |change     = +1.3
+}}
+{{Election box majority
+ |votes      = 289
+ |percentage = 13.5
+ |change     = -11.3
+}}
+{{Election box turnout
+ |votes      = 2,131
+ |percentage = 21.0
+ |change     = -4.0
+}}
+{{Election box hold with party link
+ |winner = Labour Party (UK)
+ |swing = -5.6
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+*[https://web.archive.org/web/20110721092425/http://www.wigan.gov.uk/NR/rdonlyres/3492C212-57DF-4200-9439-4BA0F5E83895/0/RepLocalStatNom.pdf Wigan Council election, 2008 – nominations]
+{{Wigan Council elections|state=expanded}}
+{{United Kingdom local elections, 2008}}
+
+{{DEFAULTSORT:Wigan Council Election, 2008}}
+[[Category:2008 English local elections]]
+[[Category:Wigan Council elections|2008]]
+[[Category:2000s in Greater Manchester]]

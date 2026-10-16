@@ -1,0 +1,731 @@
+{{Short description|2014 UK local government election}}
+{{Use dmy dates|date=May 2014}}
+{{Use British English|date=May 2014}}
+
+{{main|Hyndburn Borough Council elections}}
+
+{{Infobox election
+| election_name = 2014 Hyndburn Borough Council election
+| type = parliamentary
+| previous_election = 2012_Hyndburn_Borough_Council_election
+| previous_year = 2012
+| next_election = 2015_Hyndburn_Borough_Council_election
+| next_year = 2015
+| seats_for_election = 11 of 35 seats to Hyndburn Borough Council
+| election_date = 22 May 2014
+| majority_seats = 18
+| party1 = Labour Party (UK)
+| seats_before1 = {{nowrap|23}}
+| seats1 = {{nowrap|23}}
+| seat_change1 = {{nowrap|{{steady}}}}
+| party2 = Conservative Party (UK)
+| seats_before2 = {{nowrap|9}}
+| seats2 = {{nowrap|8}}
+| seat_change2 = {{nowrap|{{decrease}} 1}}
+| party4 = UKIP
+| seats_before4 = {{nowrap|0}}
+| seats4 = {{nowrap|2}}
+| seat_change4 = {{nowrap|{{increase}} 2}}
+| party5 = Independent (politician)
+| seats_before5 = {{nowrap|3}}
+| seats5 = {{nowrap|2}}
+| seat_change5 = {{nowrap|{{decrease}} 1}}
+| map_image = Hyndburn_UK_local_election_2014_map_(Revised).svg
+| map_caption = 2014 local election results in Hyndburn
+{{legend|#6d3177ff|[[UKIP]]}}
+{{legend|#dc241fff|[[Labour Party (UK)|Labour]]}}
+{{legend|#0087dcff|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#808080|Not contested}}
+| leader1 = Miles Parkinson
+| leader2 = Peter Britcliffe
+| leaders_seat1 = Altham
+| leaders_seat2 = St Andrew's
+| leader4 = Paul Thompson
+| leaders_seat4 = St Oswald's
+}}
+Elections to [[Hyndburn Borough Council]] were held on 22 May 2014. One third of the council was up for election and the [[Labour Party (UK)|Labour]] party stayed in overall control of the council.
+
+The total registered electorate across Hyndburn comes to 43,404 potential voters.  In this May 2014 election 16,766 turned out to vote - 38.63%.
+
+There was also the European Election being held on the same day and voter turnout, across ALL voters in every Hyndburn-Ward, was much higher than usual.
+
+{| class="wikitable"
+|-
+! Party !! votes (2013) !! Votes % (2013)!! Votes (2009) !! Votes % (2009) !! +/- 
+|-
+| UKIP || 7,694 || 34.6% || 3,906 || 17.5% || +16.9%
+|-
+| Labour Party|| 7,173 || 32.2% || 5,020 || 22.5% || +9.7%
+|-
+| Conservative Party || 4,454 || 20.0% || 6,037 || 27.0% || -7.0%
+|-
+| BNP || 787 || 3.5% || 2,371 || 10.6% || -7.1%
+|-
+| Green || 950 || 4.3% || 1,135 || 5.1% || -2.5%
+|-
+| Liberal Democrats || 360 || 1.6% || 1,285 || 5.8% || -4.2%
+|-
+| English Democrats || 272 || 1.2% || 542 || 2.4%%  || -1.2% 
+|-
+| Pirate Party || 84  || 0.4% ||   ||   ||  
+|-
+| An Ind. from Europe Party || 400 || 1.8%  ||   ||  ||  
+|-
+| No2EU || 56 || 0.3%  || 348 || 1.6% ||  -1.3%
+|-
+| Socialist Equality Party || 39 || 0.2%  ||  ||  || 
+|-
+| Christian Party || Did not stand ||  || 368 || 1.6%  ||  
+|-
+| Jury Team || Did not stand ||   || 136 || 0.6% || 
+|-
+| Pro Democracy || Did not stand ||  || 81 ||  0.4% ||  
+|-
+| Socialist Labour Party || Did not stand ||   || 371 || 1.7%  ||  
+|-
+| Francis Apaloo Ind || Did not stand ||   || 93 ||  0.4% ||  
+|-
+| Rejected || 183 || 0.8%  || 300 || 1.3% ||  -0.5%
+|-
+| '''TURNOUT''' || '''22,269''' || '''37.32%''' || '''22,353''' || || 
+|}
+
+{{TOC limit|3}}
+
+==Background==
+Before the election [[Labour Party (UK)|Labour]] had a majority of 23 councillors, [[Conservative Party (UK)|Conservatives]] had 9 councillors, while [[Independent (politician)]] had 3 councillors.
+
+Labour and UKIP candidates contested for every ward, Conservative candidates contested all except Milnshaw-ward & Peel-Ward, only four Independent candidates contested in the Clayton-le-Moors-ward, Netherton-ward, Peel-ward & Rishton-ward and just three Green candidates contested for Huncoat-ward, Overton-Ward & Peel-ward.
+
+==Local Election result==
+The majority grouping of councillors was as the headline result of the election, with Labour's majority unchanged, Independent and Conservative councillors having lost one seat each overall, and UKIP gaining two new seats:
+
+After the election, the composition of the council was -
+
+*[[Labour Party (UK)|Labour]] 23
+*[[Conservative Party (UK)|Conservative]] 8
+*[[Independent (politician)|Independent]] 2
+*[[UKIP]] 2
+
+{{Election Summary Begin|title = Hyndburn Local Election 
+Result 2014 - electorate 43,412 (over just 11 wards)}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 7
+  |gain       = 2
+  |loss       = -2
+  |net        = 0
+  |seats %    = 65.7
+  |votes %    = 40.3%
+  |votes      = 6,694
+  |plus/minus = -0.9%
+}}
+{{Election Summary Party|
+  |party      = UKIP
+  |seats      = 2
+  |gain       = 2
+  |loss       = 0
+  |net        = 2
+  |seats %    = 5.7
+  |votes %    = 30.1%
+  |votes      = 4,990
+  |plus/minus = +30.1%
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 2
+  |gain       = 1
+  |loss       = -2
+  |net        = -1
+  |seats %    = 22.8
+  |votes %    = 25.3%
+  |votes      = 4,197
+  |plus/minus = -13.7%
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 0
+  |loss       = -1
+  |net        = -1
+  |seats %    = 5.7
+  |votes %    = 2.9%
+  |votes      = 487
+  |plus/minus = -14.0%
+}}
+{{Election Summary Party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 1.4%
+  |votes      = 227
+  |plus/minus = +1.4%
+}}
+{{Election box end}}
+
+Reference: [[2010 Hyndburn Borough Council election#Local Election result]]
+
+NB: Five (of the 16) Council ward seats that were NOT up for re-election in 2014 included the following wards - Altham, Baxenden and Church, plus Barnfield and Central in Accrington.  Although voters across those same Five wards, were also still able to vote in the European Election.
+
+==Ward results==
+
+===Clayton-le-Moors===
+{{Election box begin | title=Clayton-le-Moors - electorate 3688}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Tim O'Kane
+  |votes      = 465
+  |percentage = 35.33
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stephen Brierley
+  |votes      = 364
+  |percentage = 27.66
+  |change     = 
+}}
+{{Election box candidate with party link||
+  |party          = UKIP
+  |candidate  = Peter Street
+  |votes      = 325
+  |percentage = 24.69
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Janet Storey
+  |votes      = 152
+  |percentage = 11.55
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 8
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 101
+   |percentage = 2.74
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,316
+  |percentage = 35.89
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Huncoat===
+{{Election box begin | title=Huncoat - electorate 3658}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bernard Dawson
+  |votes      = 457
+  |percentage = 34.54
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Nick Whittaker
+  |votes      = 396
+  |percentage = 29.93
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Mark Anthony Taylor
+  |votes      = 377
+  |percentage = 28.49
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = David Daly
+  |votes      = 89
+  |percentage = 6.72
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 4
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 61
+   |percentage = 1.67
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,323
+  |percentage = 36.22
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Immanuel===
+{{Election box begin | title=Immanuel - electorate 3382}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Julie Anne Livesey
+  |votes      = 516
+  |percentage = 37.63
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Colette McCormack
+  |votes      = 480
+  |percentage = 35.01
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Christopher Matthew
+  |votes      = 365
+  |percentage = 26.62
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 8
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 36
+   |percentage = 1.06
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,371
+  |percentage = 38.48
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Milnshaw===
+{{Election box begin | title=Milnshaw - electorate 3574}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Malcolm Eric Pritchard
+  |votes      = 701
+  |percentage = 51.62
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Clare Pritchard
+  |votes      = 589
+  |percentage = 43.37
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 68
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 112
+   |percentage = 3.13
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,358
+  |percentage = 38.32
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = UKIP
+  |loser      = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Netherton===
+{{Election box begin | title=Netherton  - electorate 3340}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Bernadette Parkinson
+  |votes      = 731
+  |percentage = 51.47
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Carole Guilfoyle
+  |votes      = 330
+  |percentage = 23.23
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Maureen Tomlinson
+  |votes      = 197
+  |percentage = 13.87
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Josh Allen
+  |votes      = 158
+  |percentage = 11.12
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 6
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 401
+   |percentage = 12.01
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,420
+  |percentage = 42.77
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Overton===
+{{Election box begin | title=Overton  - electorate 5055}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Jenny Nedwell
+  |votes      = 722
+  |percentage = 36.50
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Ian Robinson
+  |votes      = 713
+  |percentage = 36.04
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Clarke
+  |votes      = 439
+  |percentage = 22.19
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Joan Elizabeth West
+  |votes      = 99
+  |percentage = 5.00
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 6
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 9
+   |percentage = 0.18
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,978
+  |percentage = 39.24
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Independent (politician)
+  |swing      =
+}}
+{{Election box end}}
+
+===Peel===
+{{Election box begin | title=Peel  - electorate 3198}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joyce Plummer
+  |votes      = 568
+  |percentage = 60.81
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Alex Ross
+  |votes      = 266
+  |percentage = 28.47
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Sarah Susan Johnson
+  |votes      = 57
+  |percentage = 6.10
+  |change     = 
+}}{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Kerry Gormley
+  |votes      = 39
+  |percentage = 4.17
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 4
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 302
+   |percentage = 9.44
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 934
+  |percentage = 29.32
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Rishton===
+{{Election box begin | title=Rishton  - electorate 5214}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ken Moss
+  |votes      = 924
+  |percentage = 46.29
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = David George Dowling
+  |votes      = 554
+  |percentage = 27.75
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Warren Melia
+  |votes      = 426
+  |percentage = 21.34
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Sam Howarth
+  |votes      = 81
+  |percentage = 4.05
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 10
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 370
+   |percentage = 7.10
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,993
+  |percentage = 38.43
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===Spring Hill===
+{{Election box begin | title=Spring Hill  - electorate 3701}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Pam Barton
+  |votes      = 877
+  |percentage = 49.66
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mohammed Safdar
+  |votes      = 601
+  |percentage = 34.04
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Ken Smith
+  |votes      = 278
+  |percentage = 15.74
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 10
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 276
+   |percentage = 7.46
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,766
+  |percentage = 48.11
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===St. Andrew's===
+{{Election box begin | title=St. Andrew's  - electorate 3498}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Britcliffe
+  |votes      = 646
+  |percentage = 48.64
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Stewart Thurston Eaves
+  |votes      = 368
+  |percentage = 27.71
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Dayle Taylor
+  |votes      = 301
+  |percentage = 22.66
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 14
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 278
+   |percentage = 7.95
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,328
+  |percentage = 38.15
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+===St. Oswald's===
+{{Election box begin | title=St. Oswald's  - electorate 5104}}
+{{Election box candidate with party link|
+  |party      = UKIP
+  |candidate  = Paul Thompson
+  |votes      = 801
+  |percentage = 40.53
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Doug Hayes
+  |votes      = 651
+  |percentage = 32.94
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Susan Young
+  |votes      = 531
+  |percentage = 26.87
+  |change     = 
+}}
+{{Election box candidate|
+  |party      = ...
+  |candidate  = spoilt votes
+  |votes      = 6
+  |percentage = ...
+  |change     = 
+}}
+ {{Election box majority|
+   |votes      = 150
+   |percentage = 2.94
+   |change     = ''N/A''
+ }}
+{{Election box turnout|
+  |votes      = 1,976
+  |percentage = 38.87
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = UKIP
+  |loser     = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+*[https://www.bbc.co.uk/news/topics/cg3ndgz6vn3t 2014 Hyndburn election result]
+*[https://web.archive.org/web/20140525200131/http://www.hyndburnbc.gov.uk/site/custom_scripts/elections/electionresults.php?electionid=1 Ward results]
+*[https://web.archive.org/web/20160303231952/http://www.hyndburnbc.gov.uk/downloads/Statement_of_Persons_Nominated_May_2014_1_.pdf Persons Nominated in each Ward]
+
+{{Lancashire elections}}
+{{United Kingdom local elections, 2014}}
+
+[[Category:2014 English local elections|Hyndburn]]
+[[Category:Hyndburn Borough Council elections|2014]]
+[[Category:2010s in Lancashire]]

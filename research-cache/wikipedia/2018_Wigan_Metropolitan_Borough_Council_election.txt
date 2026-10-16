@@ -1,0 +1,701 @@
+{{Short description|2018 local election in England}}
+{{Use dmy dates|date=April 2018}}
+{{Use British English|date=April 2018}}
+{{Infobox election
+| election_name = 2018 Wigan Metropolitan Borough Council election
+| flag_image = Coat of arms of Wigan Metropolitan Borough Council.png
+| type = parliamentary
+| previous_election = Wigan_Metropolitan_Borough_Council_election,_2016
+| previous_year = 2016
+| next_election = Wigan_Metropolitan_Borough_Council_election,_2019
+| next_year = 2019
+| seats_for_election = 25 of 75 seats to [[Wigan Metropolitan Borough Council]]
+| election_date = 3 May 2018
+| majority_seats = 38
+| image1 = 
+| leader1 = {{nowrap|[[Peter Smith, Baron Smith of Leigh|Peter Smith]]}}
+| leader_since1 = {{nowrap|1991}}
+| leaders_seat1 = {{nowrap|[[Leigh West (ward)|Leigh West]]}}
+| party1 = Labour Party (UK)
+| seats_before1 = {{nowrap|65}}
+| seats1 = {{nowrap|'''60'''}}
+| seat_change1 = {{nowrap|{{decrease}} 5}}
+| swing1 = 
+| image2 = 
+| leader2 = {{nowrap|Michael Winstanley}}
+| leader_since2 = {{nowrap|11 May 2016}}
+| leaders_seat2 = {{nowrap|[[Orrell (ward)|Orrell]]}}
+| party2 = Conservative Party (UK)
+| seats_before2 = {{nowrap|5}}
+| seats2 = {{nowrap|7}}
+| seat_change2 = {{nowrap|{{increase}} 2}}
+| swing2 = 
+| map_image = Wigan UK local election 2018 map.svg
+| map_caption = 2018 local election results in Wigan
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#9d9d9d|[[Independent Network]]}}
+{{legend|#dddddd|Independent}}
+}}
+
+The '''2018 Wigan Metropolitan Borough Council election''' took place on 3 May 2018 to elect members of [[Wigan Metropolitan Borough Council]] in England.<ref>{{cite web |title = Elections: Local elections |url = https://www.wigan.gov.uk/Council/Voting-and-Elections/Elections.aspx | website = wigan.gov.uk |publisher = [[Wigan Metropolitan Borough Council]] |access-date = 23 April 2018 |df = dmy-all}}</ref> This was on the same day as other [[2018 United Kingdom local elections|local elections]].
+
+==Overview==
+Prior to the election, the composition of the council was:
+
+*[[Labour Party (UK)|Labour Party]]: 65
+*[[Conservative Party (UK)|Conservative Party]]: 5
+*[[Independent (politician)|Independents]]: 3
+*Wigan Independents: 2
+
+After the election, the composition of the council was:
+*[[Labour Party (UK)|Labour Party]]: 60
+*[[Conservative Party (UK)|Conservative Party]]: 7
+*[[Independent (politician)|Independents]]: 6
+*Wigan Independents: 2
+
+{| class="wikitable sortable mw-collapsible"
+|+Number of Candidates fielded per party
+!Party
+
+!Number of Candidates
+|-
+|[[Labour Party (UK)]]
+
+|25
+|-
+|[[Conservative Party (UK)]]
+|25
+|-
+|[[Liberal Democrats (UK)]]
+|14
+|-
+|[[Independent politician|Independents]]
+|11
+|-
+|[[UKIP]]
+|6
+|-
+|[[Green Party of England and Wales]]
+|3
+|-
+|Wigan Independents
+|3
+|-
+|[[Democrats and Veterans]]
+|1
+|}
+
+==Results summary==
+{{Election summary partial council net begin|title = 2018 Wigan Metropolitan Borough Council election}}
+{{Election summary partial council net party|
+  |party         = Labour Party (UK)
+  |seats         = 18
+  |net           = {{decrease}} 5
+  |seats %       = 72
+  |other seats   = 42
+  |total seats   = '''60'''
+  |total seats % = 80.0
+  |votes         = 32,512
+  |votes %       = 52.3
+  |plus/minus    = {{increase}} 1.2
+}}
+{{Election summary partial council net party|
+  |party         = Conservative Party (UK)
+  |seats         = 3
+  |net           = {{increase}} 2
+  |seats %       = 12
+  |other seats   = 4
+  |total seats   = '''7'''
+  |total seats % = 9.3
+  |votes         = 14,980
+  |votes %       = 24.1
+  |plus/minus    = {{increase}} 7.5
+}}
+{{Election summary partial council net party|
+  |party         = Independent politician
+  |seats         = 3
+  |net           = {{increase}} 3
+  |seats %       = 12
+  |other seats   = 3
+  |total seats   = '''6'''
+  |total seats % = 8.0
+  |votes         = 8,432
+  |votes %       = 13.6
+  |plus/minus    = {{increase}} 6.2
+}}
+{{Election summary partial council net|
+  |party         = Wigan Independents
+  |seats         = 1
+  |net           = {{nochange}}
+  |seats %       = 4
+  |other seats   = 1
+  |total seats   = '''2'''
+  |total seats % = 2.7
+  |votes         = 2,109
+  |votes %       = 3.4
+  |plus/minus    = {{increase}} 0.1
+}}
+{{Election summary partial council net party|
+  |party         = Liberal Democrats (UK)
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 2,343
+  |votes %       = 3.8
+  |plus/minus    = {{increase}} 2.8
+}}
+{{Election summary partial council net party|
+  |party         = UKIP
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 1,196
+  |votes %       = 1.9
+  |plus/minus    = {{decrease}} 14.1
+}}
+{{Election summary partial council net party|
+  |party         = Green Party of England and Wales
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 401
+  |votes %       = 0.6
+  |plus/minus    = {{decrease}} 0.2
+}}
+{{Election summary partial council net party|
+  |party         = Democrats and Veterans
+  |seats         = 0
+  |net           = {{nochange}}
+  |seats %       = 0
+  |other seats   = 0
+  |total seats   = '''0'''
+  |total seats % = 0.0
+  |votes         = 140
+  |votes %       = 0.2
+  |plus/minus    = ''New''
+}}
+{{Election box end}}
+
+==Ward results==
+
+=== Bolton West constituency ===
+
+====Atherton ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Atherton (ward)|Atherton]]}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Stuart Andrew Gerrard|votes=1,779|percentage=53.7|change=''New''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Karen Aldred|votes=1,197|percentage=36.2|change={{decrease}} 11.9}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Marjorie Clayton|votes=334|percentage=10.1|change={{decrease}} 2.0}}
+{{Election box majority||votes=582|percentage=17.5|change=''N/A''}}
+{{Election box turnout||votes=3,310|percentage=30.7|change={{increase}} 3.2}}
+{{Election box gain with party link||winner=Independent (politician)|loser=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+=== Leigh constituency ===
+
+====Astley Mosley Common ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Astley Mosley Common (ward)|Astley Mosley Common]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Barry John Taylor|votes=1349|percentage=52.7|change={{decrease}} 14.9}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Alan Short|votes=1,082|percentage=42.2|change={{increase}} 9.8}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Stuart David Thomas|votes=131|percentage=5.1|change=''New''}}
+{{Election box majority||votes=267|percentage=10.5|change={{decrease}} 24.7}}
+{{Election box turnout||votes=2,562|percentage=27.2|change={{decrease}} 1.7}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Atherleigh ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Atherleigh (ward)|Atherleigh]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Debra Susan Ann Wailes|votes=938|percentage=48.1|change={{decrease}} 1.4}}
+{{Election box candidate with party link||party=Independent (politician)|candidate= Anthony Thomas Waite|votes=550|percentage=28.2|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Paul Lambert Fairhurst|votes=394|percentage=20.2|change={{increase}} 5.6}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Lorraine Gillon|votes=68|percentage=3.5|change=''New''}}
+{{Election box majority||votes=388|percentage=19.9|change={{increase}} 2.6}}
+{{Election box turnout||votes=1,950|percentage=23.4|change={{decrease}} 3.3}}
+{{Election box hold with party link||winner= Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Golborne and Lowton West ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Golborne and Lowton West (ward)|Golborne and Lowton West]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Susan Gambles|votes=1280|percentage=57.2|change={{decrease}} 7.8}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=William Kenneth Heaton|votes=612|percentage=27.4|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gerard Joseph Houlton|votes=345|percentage=15.4|change={{decrease}} 1.0}}
+{{Election box majority||votes=668|percentage=29.8|change={{decrease}} 16.6}}
+{{Election box turnout||votes=2,237|percentage=25.3|change={{decrease}} 1.7}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh East ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Leigh East (ward)|Leigh East]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Frederick Brown Walker|votes=1,189|percentage=59.6|change={{decrease}} 11.3}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Denise Alison Young|votes=518|percentage=26.0|change={{decrease}} 3.1}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Dowsett|votes=288|percentage=14.4|change=''New''}}
+{{Election box majority||votes=671|percentage=33.6|change={{decrease}} 8.2}}
+{{Election box turnout||votes=1,995|percentage=22.2|change={{decrease}} 2.7}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh South ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Leigh South (ward)|Leigh South]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Charles Rigby|votes=1,531|percentage=54.4|change={{decrease}} 11.1}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Connor Jack Short|votes=1,283|percentage=45.6|change={{increase}} 11.1}}
+{{Election box majority||votes=248|percentage=8.8|change={{decrease}} 22.2}}
+{{Election box turnout||votes=2,814|percentage=27.5|change={{decrease}} 1.1}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Leigh West ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Leigh West (ward)|Leigh West]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=[[Peter Smith, Baron Smith of Leigh|Peter Richard Charles Smith]]|votes=1308|percentage=54.1|change={{decrease}} 21.2}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Jayson Michael Allan Lomax-Hargreaves|votes=578|percentage=23.9|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Richard Byrom Houlton|votes=374|percentage=15.5|change={{decrease}} 9.2}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Natalie Smalley|votes=158|percentage=6.5|change=''New''}}
+{{Election box majority||votes=730|percentage=30.2|change={{decrease}} 20.4}}
+{{Election box turnout||votes=2,418|percentage=23.1|change={{decrease}} 1.8}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Lowton East ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Lowton East (ward)|Lowton East]]}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Edward Noel Houlton|votes=2,099|percentage=60.9|change={{increase}} 14.7}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Garry Peter Lloyd|votes=1,346|percentage=39.1|change={{increase}} 6.4}}
+{{Election box majority||votes=753|percentage=21.8|change={{increase}} 8.3}}
+{{Election box turnout||votes=3,445|percentage=36.1|change={{increase}} 1.0}}
+{{Election box hold with party link||winner=Conservative Party (UK)|swing=}}
+{{Election box end}}
+
+====Tyldesley ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Tyldesley (ward)|Tyldesley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Joanne Marshall|votes=1,344|percentage=51.0|change={{decrease}} 14.6}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Julian David Marsh|votes=706|percentage=26.8|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=David John Stirzaker|votes=587|percentage=22.3|change={{increase}} 2.5}}
+{{Election box majority||votes=638|percentage=24.2|change={{decrease}} 21.6}}
+{{Election box turnout||votes=2,637|percentage=25.5|change={{decrease}} 0.9}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+=== Makerfield constituency ===
+
+====Abram ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Abram (ward)|Abram]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Carl Sweeney|votes=1479|percentage=68.7|change={{increase}} 11.3}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Beverley Anne Bridgwater|votes=404|percentage=18.8|change={{increase}} 12.3}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Frank Thomas Swift|votes=274|percentage=12.7|change={{decrease}} 14.9}}
+{{Election box majority||votes=1,075|percentage=49.9|change={{increase}} 20.1}}
+{{Election box turnout|votes=2,152|percentage=20.7|change={{decrease}} 4.0}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Ashton ward====
+{{Election box begin | title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Ashton (ward)|Ashton]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Anthony John Sykes|votes=1112|percentage=53.2|change={{increase}} 10.9}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Michael Moulding|votes=793|percentage=37.9|change=''New''}}
+{{Election box candidate with party link||party=United Kingdom Independence Party|candidate=Gillian Mary Gibson|votes=109|percentage=5.2|change={{decrease}} 16.7}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Geoffrey Stephen Matthews|votes=41|percentage=2.0|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Marie Winstanley|votes=36|percentage=1.7|change={{decrease}} 4.6}}
+{{Election box majority|votes=319|percentage=15.3|change={{decrease}} 5.1}}
+{{Election box turnout|votes=2,091|percentage=23.5|change={{decrease}} 6.1}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Bryn ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Bryn (ward)|Bryn]]}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Andrew Collinson|votes=1,065|percentage=43.7|change=''New''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Vicky Johnson|votes=973|percentage=39.9|change={{decrease}} 0.3}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Judith Anderson|votes=198|percentage=8.1|change={{increase}} 3.7}}
+{{Election box candidate with party link||party=UKIP|candidate=Philip Hayden|votes=133|percentage=5.5|change={{decrease}} 19.0}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Denise Melling|votes=67|percentage=2.8|change={{decrease}} 7.0}}
+{{Election box majority||votes=92|percentage=3.8|change=''N/A''}}
+{{Election box turnout||votes=2,436|percentage=27.6|change={{decrease}} 4.2}}
+{{Election box gain with party link||winner=Independent (politician)|loser=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Hindley ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Hindley (ward)|Hindley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Jim Talbot|votes=1063|percentage=45.9|change={{decrease}} 7.2}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Jim Ellis|votes=905|percentage=39.0|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Margaret Mary Winstanley|votes=206|percentage=8.9|change={{decrease}} 0.9}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Neil Hancox|votes=86|percentage=3.7|change=''New''}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Charles Skipworth|votes=58|percentage=2.5|change=''New''}}
+{{Election box majority||votes=158|percentage=6.9|change={{decrease}} 12.0}}
+{{Election box turnout||votes=2,318|percentage=24.1|change={{decrease}} 2.3}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Hindley Green ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Hindley Green (ward)|Hindley Green]]}}
+{{Election box winning candidate with party link||party=Independent (politician)|candidate=Paul Anthony Maiden|votes=976|percentage=41.4|change=''New''}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Gena Merrett|votes=787|percentage=33.4|change={{decrease}} 10.5}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=John Thomason|votes=305|percentage=13.0|change=''New''}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Jonathan Charles Cartwright|votes=287|percentage=12.2|change={{increase}} 3.1}}
+{{Election box majority||votes=189|percentage=8.0|change=''N/A''}}
+{{Election box turnout||votes=2,355|percentage=27.4|change={{decrease}} 2.3}}
+{{Election box gain with party link||winner=Independent (politician)|loser=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Orrell ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Orrell (ward)|Orrell]]}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Richard Clayton|votes=1,430|percentage=46.6|change={{increase}} 14.0}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Eileen Winifred Rigby|votes=1,273|percentage=41.5|change={{increase}} 6.6}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Denise Margaret Capstick|votes=367|percentage=12.0|change=''New''}}
+{{Election box majority||votes=157|percentage=5.1|change=''N/A''}}
+{{Election box turnout||votes=3,070|percentage=32.2|change={{decrease}} 1.0}}
+{{Election box gain with party link||winner=Conservative Party (UK)|loser=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+==== Winstanley ward ====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Winstanley (ward)|Winstanley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Clive William Morgan|votes=1,396|percentage=58.4|change={{increase}} 14.3}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Daniel Andrew Whitehouse|votes=509|percentage=21.3|change={{increase}} 11.5}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Steven Charles Heyes|votes=195|percentage=8.2|change={{increase}} 0.4}}
+{{Election box candidate with party link||party=UKIP|candidate=Daniel John Singleton|votes=177|percentage=7.4|change={{decrease}} 25.3}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Neil Duncan Stevenson|votes=114|percentage=4.8|change=''New''}}
+{{Election box majority||votes=887|percentage=37.1|change={{increase}} 25.7}}
+{{Election box turnout||votes=2,391|percentage=26.2|change={{decrease}} 3.2}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+====Worsley Mesnes ward====
+{{Election box begin|title=[[2018 United Kingdom local elections|Local Elections 2018]]: [[Worsley Mesnes (ward)|Worsley Mesnes]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Patricia Lynne Holland|votes=1,449|percentage=66.5|change={{increase}} 6.1}}
+{{Election box candidate with party link||party=UKIP|candidate=Maureen McCoy|votes=327|percentage=15.0|change={{decrease}} 16.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Paul Chapman|votes=314|percentage=14.4|change={{increase}} 6.5}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Joshua Hindle|votes=90|percentage=4.1|change=''New''}}
+{{Election box majority||votes=1122|percentage=51.5|change={{increase}} 22.8}}
+{{Election box turnout||votes=2,180|percentage=24.1|change={{decrease}} 4.1}}
+{{Election box hold with party link||winner=Labour Party (UK)|swing=}}
+{{Election box end}}
+
+=== Wigan constituency ===
+====Aspull, New Springs and Whelley ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Aspull, New Springs and Whelley (ward)|Aspull, New Springs and Whelley]]}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=Ronald Josef Conway|votes=1,708|percentage=61.4|change={{increase}} 15.4}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Michael Colin Owens|votes=764|percentage=27.5|change={{increase}} 16.1}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Andrew Julian Lee Holland|votes=308|percentage=11.1|change=''New''}}
+{{Election box majority||votes=944|percentage=33.9|change={{increase}} 12.0}}
+{{Election box turnout||votes = 2,780|percentage = 28.2|change = {{decrease}} 5.0}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Douglas ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Douglas (ward)|Douglas]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Shirley Ann Dewhurst
+  |votes      = 1,551
+  |percentage = 78.6
+  |change     = {{increase}} 18.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Margaret Atherton
+  |votes      = 422
+  |percentage = 21.4
+  |change     = {{increase}} 13.0
+}}
+{{Election box majority|
+  |votes      = 1,129
+  |percentage = 57.2
+  |change     = {{increase}} 28.7
+}}
+{{Election box turnout|
+|votes = 1,973
+|percentage = 20.8
+|change = {{decrease}} 4.1
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Ince ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Ince (ward)|Ince]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = James Moodie
+  |votes      = 1,273
+  |percentage = 69.2
+  |change     = {{increase}} 12.4
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = James O'Neill
+  |votes      = 379
+  |percentage = 20.6
+  |change     = ''New''
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Yamini Gupta
+  |votes      = 188
+  |percentage = 10.2
+  |change     = {{increase}} 4.8
+}}
+{{Election box majority|
+  |votes      = 894
+  |percentage = 48.6
+  |change     = {{increase}} 26.4
+}}
+{{Election box turnout|
+|votes = 1,840
+|percentage = 20.7
+|change = {{decrease}} 5.4
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Pemberton ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Pemberton (ward)|Pemberton]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Paul Prescott
+  |votes      = 1,472
+  |percentage = 74.4
+  |change     = {{increase}} 11.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Susan Atherton
+  |votes      = 322
+  |percentage = 16.3
+  |change     = {{increase}} 8.8
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David John Burley
+  |votes      = 185
+  |percentage = 9.3
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 1,150
+  |percentage = 58.1
+  |change     = {{increase}} 22.0
+}}
+{{Election box turnout|
+|votes = 1,979
+|percentage = 20.6
+|change = {{decrease}} 4.8
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Shevington with Lower Ground ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Shevington with Lower Ground (ward)|Shevington with Lower Ground]]}}
+{{Election box winning candidate|
+  |party      = Shevington Independents
+  |candidate  = Janet Brown
+  |votes      = 1,107
+  |percentage = 40.1
+  |change     = {{increase}} 14.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mike Crosby
+  |votes      = 1,045
+  |percentage = 37.9
+  |change     = {{increase}} 4.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Allan Atherton
+  |votes      = 487
+  |percentage = 17.7
+  |change     = {{increase}} 6.5
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Joseph Robert Rylance
+  |votes      = 120
+  |percentage = 4.3
+  |change     = {{decrease}} 0.6
+}}
+{{Election box majority|
+  |votes      = 62
+  |percentage = 2.2
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+|votes = 2,759
+|percentage = 29.6
+|change = {{decrease}} 3.9
+}}
+{{Election box gain with party link|
+|winner     = Shevington Independents
+|loser      = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+"Shevington Independents" is a description used by candidates for the Wigan Independents.
+
+====Standish with Langtree ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Standish with Langtree (ward)|Standish with Langtree]]}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Adam James Marsh
+  |votes      = 1,200
+  |percentage = 36.8
+  |change     = {{increase}} 17.4
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Debbie Parkinson
+  |votes      = 1,185
+  |percentage = 36.4
+  |change     = {{increase}} 18.5
+}}
+{{Election box candidate|
+  |party      = Standish Independents
+  |candidate  = Debbie Fairhurst
+  |votes      = 872
+  |percentage = 26.8
+  |change     = {{decrease}} 15.8
+}}
+{{Election box majority|
+  |votes      = 15
+  |percentage = 0.4
+  |change     = ''N/A''
+}}
+{{Election box turnout|
+|votes = 3,257
+|percentage = 33.3
+|change = {{decrease}} 3.4
+}}
+{{Election box gain with party link|
+|winner     = Conservative Party (UK)
+|loser      = Standish Independents
+|swing      = 
+}}
+{{Election box end}}
+
+"Standish Independents" is a description used by candidates for the Wigan Independents.
+
+====Wigan Central ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]:  [[Wigan Central (ward)|Wigan Central]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = George Davies
+  |votes      = 1,518
+  |percentage = 55.5
+  |change     = {{increase}} 3.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Lewis David Evans
+  |votes      = 834
+  |percentage = 30.5
+  |change     = {{increase}} 10.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Caroline Waddicor
+  |votes      = 163
+  |percentage = 6.0
+  |change     = ''New''
+}}
+{{Election box candidate|
+  |party      = Wigan Independents
+  |candidate  = Gareth William Fairhurst
+  |votes      = 130
+  |percentage = 4.8
+  |change     = ''New''
+}}
+{{Election box candidate with party link|
+  |party      = Independent (politician)
+  |candidate  = Tony Spencer
+  |votes      = 89
+  |percentage = 3.3
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 684
+  |percentage = 25.0
+  |change     = {{increase}} 1.8
+}}
+{{Election box turnout|
+|votes = 2,734
+|percentage = 29.5
+|change = {{decrease}} 3.7
+}}
+{{Election box hold with party link|
+|winner     = Labour Party (UK)
+|swing      = 
+}}
+{{Election box end}}
+
+====Wigan West ward====
+{{Election box begin | title= [[2018 United Kingdom local elections|Local Elections 2018]]: [[Wigan West (ward)|Wigan West]]}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Phyllis Mary Cullen
+  |votes      = 1,746
+  |percentage = 72.0
+  |change     = {{increase}} 11.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Margaret Peet
+  |votes      = 363
+  |percentage = 15.0
+  |change     = {{increase}} 9.6
+}}
+{{Election box candidate with party link|
+  |party      = United Kingdom Independence Party
+  |candidate  = Nathan Alan Ryding
+  |votes      = 176
+  |percentage = 7.3
+  |change     = {{decrease}} 17.9
+}}
+{{Election box candidate with party link|
+  |party      = Democrats and Veterans
+  |candidate  = Ronnie Clark
+  |votes      = 140
+  |percentage = 5.8
+  |change     = ''New''
+}}
+{{Election box majority|
+  |votes      = 1,383
+  |percentage = 57.0
+  |change     = {{increase}} 21.6
+}}
+{{Election box turnout|
+|votes = 2,425
+|percentage = 25.4
+|change = {{decrease}} 2.7
+}}
+{{Election box hold with party link|
+|winner=Labour Party (UK)
+|swing= 
+}}
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* [https://apps.wigan.gov.uk/electionResults/index.asp?ElectionDate=03+May+2018 Election results by ward]
+{{United Kingdom local elections, 2018}}
+{{Greater Manchester elections}}
+
+[[Category:2018 English local elections|Wigan]]
+[[Category:Wigan Council elections|2018]]
+[[Category:2010s in Greater Manchester]]

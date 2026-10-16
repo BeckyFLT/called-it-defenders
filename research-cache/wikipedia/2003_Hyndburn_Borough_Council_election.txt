@@ -1,0 +1,473 @@
+{{Short description|2003 UK local government election}}
+{{Use British English|date=December 2013}}
+{{Use dmy dates|date=April 2026}}
+{{Infobox election
+| election_name = 2003 Hyndburn Borough Council election
+| type = parliamentary
+| previous_election = 2002_Hyndburn_Borough_Council_election
+| previous_year = 2002
+| next_election = 2004_Hyndburn_Borough_Council_election
+| next_year = 2004
+| seats_for_election = 12 of 35 seats to Hyndburn Borough Council
+| election_date = 1 May 2003
+| majority_seats = 18
+| turnout = 
+| party1 = Conservative Party (UK)
+| seats_before1 = {{nowrap|17}}
+| seats1 = {{nowrap|'''18'''}}
+| seat_change1 = {{nowrap|{{increase}}'''1'''}}
+| party2 = Labour Party (UK)
+| seats_before2 = {{nowrap|18}}
+| seats2 = {{nowrap|17}}
+| seat_change2 = {{nowrap|{{decrease}}1}}
+| map_image = Hyndburn_UK_local_election_2003_map.svg
+| map_caption = 2003 local election results in Hyndburn
+{{legend|#dc241f|[[Labour Party (UK)|Labour]]}}
+{{legend|#0087dc|[[Conservative Party (UK)|Conservative]]}}
+{{legend|#808080|Not contested}}
+| ongoing = 
+| leader1 = Peter Britcliffe
+| leader2 = Jean Battle
+| leaders_seat1 = St Andrew's
+| leaders_seat2 = Church
+}}
+{{Main|Hyndburn Borough Council elections}}
+Elections to [[Hyndburn]] Borough Council were held on 1 May 2003. One third of the council was up for election and the [[Conservative Party (UK)|Conservative]] party gained overall control of the council from the [[Labour Party (UK)|Labour]] party. Overall turnout was 51.5%.
+
+After the election, the composition of the council was
+*[[Conservative Party (UK)|Conservative]] 18
+*[[Labour Party (UK)|Labour]] 17
+
+==Election result==
+
+{{Election summary begin|title = Hyndburn local election result 2003}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 7
+  |gain       = 2
+  |loss       = 1
+  |net        = +1
+  |seats %    = 58.3
+  |votes %    = 50.5
+  |votes      = 11,774
+  |plus/minus = +1.1%
+}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 5
+  |gain       = 1
+  |loss       = 2
+  |net        = -1
+  |seats %    = 41.7
+  |votes %    = 47.1
+  |votes      = 10,981
+  |plus/minus = -2.6%
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0
+  |votes %    = 2.3
+  |votes      = 545
+  |plus/minus = +2.3%
+}}
+{{Election box end}}
+
+==Ward results==
+
+{{Election box begin | title=Altham}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Miles Parkinson
+  |votes      = 948
+  |percentage = 56.1
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Taylor
+  |votes      = 743
+  |percentage = 43.9
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 205
+ |percentage = 12.2
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,691
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Barnfield}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Barton
+  |votes      = 623
+  |percentage = 35.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Wendy Dwyer
+  |votes      = 601
+  |percentage = 34.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Ian Dixon
+  |votes      = 545
+  |percentage = 30.8
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 22
+ |percentage = 1.2
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,769
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Baxenden}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = James Dickinson
+  |votes      = 1,235
+  |percentage = 70.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = William Whittaker
+  |votes      = 524
+  |percentage = 29.8
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 711
+ |percentage = 40.4
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,759
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Central}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Siddique Kazi
+  |votes      = 1,137
+  |percentage = 62.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Richard Heap
+  |votes      = 697
+  |percentage = 38.0
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 440
+ |percentage = 24.0
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,834
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Church}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Broadley
+  |votes      = 973
+  |percentage = 58.0
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Edmund Hogan
+  |votes      = 706
+  |percentage = 42.0
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 267
+ |percentage = 16.0
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,679
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Clayton-le-Moors}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Janet Storey
+  |votes      = 953
+  |percentage = 53.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Burke
+  |votes      = 824
+  |percentage = 46.4
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 129
+ |percentage = 7.2
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,777
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=Huncoat}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Brendan Shiel
+  |votes      = 905
+  |percentage = 57.6
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Patricia Day
+  |votes      = 666
+  |percentage = 42.4
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 239
+ |percentage = 15.2
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,571
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Immanuel}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jean Lockwood
+  |votes      = 908
+  |percentage = 52.5
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Edwina McCormack
+  |votes      = 822
+  |percentage = 47.5
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 186
+ |percentage = 5.0
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,730
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Milnshaw}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Malcolm Pritchard
+  |votes      = 1,061
+  |percentage = 53.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Derek Scholes
+  |votes      = 914
+  |percentage = 46.3
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 147
+ |percentage = 7.4
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 1,975
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Overton}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Mason
+  |votes      = 1,344
+  |percentage = 51.9
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Dennis Baron
+  |votes      = 1,246
+  |percentage = 48.1
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 98
+ |percentage = 3.8
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,590
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+{{Election box begin | title=Rishton}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Winifred Jackson
+  |votes      = 1,311
+  |percentage = 52.2
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stanley Horne
+  |votes      = 1,202
+  |percentage = 47.8
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 109
+ |percentage = 4.4
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,513
+  |percentage = 
+  |change     = 
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      =
+}}
+{{Election box end}}
+
+{{Election box begin | title=St Oswald's}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Brian Roberts
+  |votes      = 1,343
+  |percentage = 55.7
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John McCormack
+  |votes      = 1,069
+  |percentage = 44.3
+  |change     = 
+}}
+{{Election box majority|
+ |votes      = 274
+ |percentage = 11.4
+ |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,412
+  |percentage = 
+  |change     = 
+}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+==References==
+*[https://news.bbc.co.uk/2/shared/bsp/hi/vote2003/locals/html/137.stm 2003 Hyndburn election result]
+*[https://www.lancashiretelegraph.co.uk/archive/2003/5/2/553603.html/ Tory win 'the best birthday present']
+*[http://www.andrewteale.me.uk/2003/document033.html#toc190 Ward results]
+
+{{Lancashire elections}}
+{{United Kingdom local elections, 2003}}
+
+[[Category:2003 English local elections]]
+[[Category:Hyndburn Borough Council elections|2003]]
+[[Category:2000s in Lancashire]]

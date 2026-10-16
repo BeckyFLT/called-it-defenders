@@ -1,6 +1,5 @@
 {{Short description|2019 UK local government election}}
-{{moresources|date=November 2021}}
-{{Use dmy dates|date=November 2021}}
+{{Use dmy dates|date=October 2026}}
 
 {{Infobox election
 | election_name     = 2019 Staffordshire Moorlands District Council election
@@ -28,9 +27,9 @@
 | seats1            = '''25'''
 | seats_after1      = 
 | seat_change1      = {{decrease}} 10
-| popular_vote1     = 17,132
-| percentage1       = 36.3%
-| swing1            = {{decrease}} 3.8%
+| popular_vote1     = 17,122
+| percentage1       = 36.2%
+| swing1            = {{decrease}} 3.9%
 <!-- Party 2 -->
 | image2            = [[File:No image wide.svg|95x50px|Blank]]
 | leader2           = 
@@ -86,7 +85,7 @@
 | after_party = No overall control
 }}
 
-The '''2019 Staffordshire Moorlands District Council election''' took place on 2 May 2019 to elect members of [[Staffordshire Moorlands District Council]] in England.<ref name="staffsmoorlands">{{cite web|url=https://www.staffsmoorlands.gov.uk/article/3559/District-Town-and-Parish-Elections-2nd-May-2019|title=District, Town and Parish Elections 2nd May 2019 - Staffordshire Moorlands District Council|website=staffsmoorlands.gov.uk|access-date=2020-05-22}}</ref> This was on the same day as other [[2019 United Kingdom local elections|local elections]].
+The '''2019 Staffordshire Moorlands District Council election''' took place on 2 May 2019 to elect members of [[Staffordshire Moorlands District Council]] in England.<ref name="staffsmoorlands">{{cite web|url=https://www.staffsmoorlands.gov.uk/article/3559/District-Town-and-Parish-Elections-2nd-May-2019|title=District, Town and Parish Elections 2nd May 2019 - Staffordshire Moorlands District Council|website=staffsmoorlands.gov.uk|access-date=2020-05-22 |archive-url=https://web.archive.org/web/20260416045116/https://www.staffsmoorlands.gov.uk/article/3559/District-Town-and-Parish-Elections-2nd-May-2019 |archive-date=16 April 2026}}</ref> This was on the same day as other [[2019 United Kingdom local elections|local elections]].
 
 ==Results summary==
 
@@ -100,10 +99,10 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
   |gain          =3
   |loss          =13
   |net           ={{decrease}} 10
-  |votes %       =36.3
+  |votes %       =36.2
   |seats %       =44.6
-  |votes         =17,132
-  |plus/minus    =–3.8
+  |votes         =17,122
+  |plus/minus    =–3.9
 }}
 {{Local election summary party
   |party         =Independent politician
@@ -172,7 +171,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Alton===
 
-{{Election box begin | title=Alton}}
+{{Election box begin | title=Alton<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=1 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Hayley Plimley
@@ -182,20 +181,28 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Jenny Lingham
+   |candidate  = Jennifer Lingham
    |votes      = 161
    |percentage =33.5
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 159
+   |percentage = 33.1
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 43.6
+   |votes      = 496
+   |percentage = 43.55
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 15
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,139
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -206,7 +213,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Bagnall & Stanley===
 
-{{Election box begin | title=Bagnall & Stanley}}
+{{Election box begin | title=Bagnall & Stanley<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=2 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Sybil Ralphs
@@ -229,14 +236,22 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 324
+   |percentage = 54.5
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 43.5
+   |votes      = 601
+   |percentage = 43.49
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 6
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,382
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -247,10 +262,10 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Biddulph East===
 
-{{Election box begin | title=Biddulph East}}
+{{Election box begin | title=Biddulph East<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=3 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Jill Salt
+   |candidate  = Jillian Salt
    |votes      = 482
    |percentage = 50.5
    |change     = 
@@ -278,14 +293,14 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Chris Perkin
+   |candidate  = Christopher Perkin
    |votes      = 328
    |percentage = 34.3
    |change     = 
 }}
  {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Ken Harper
+   |candidate  = Alan Harper
    |votes      = 199
    |percentage = 20.8
    |change     = 
@@ -298,9 +313,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 21.1
+   |votes      = 965
+   |percentage = 21.06
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 10
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,583
  }}
 {{Election box hold with party link no swing
    |winner     = Labour Party (UK)
@@ -321,7 +344,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Biddulph Moor===
 
-{{Election box begin | title=Biddulph Moor}}
+{{Election box begin | title=Biddulph Moor<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=4 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = John Jones
@@ -331,7 +354,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Pam Gregory
+   |candidate  = Pamela Gregory
    |votes      = 85
    |percentage =14.3
    |change     = 
@@ -344,14 +367,22 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 394
+   |percentage = 66.2
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 42.9
+   |votes      = 597
+   |percentage = 42.92
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 2
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,391
  }}
 {{Election box hold with party link
    |winner     = Independent politician
@@ -362,31 +393,31 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Biddulph North===
 
-{{Election box begin | title=Biddulph North}}
+{{Election box begin | title=Biddulph North<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=5 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = Tony Hall
+   |candidate  = Derek Hall
    |votes      = 885
    |percentage = 64.6
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = Jim Davies
+   |candidate  = James Davies
    |votes      = 878
    |percentage = 64.1
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = Andrew Hart
+   |candidate  = Harold Hart
    |votes      = 795
    |percentage = 58.0
    |change     = 
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Jim Bostock
+   |candidate  = James Bostock
    |votes      = 364
    |percentage = 26.6
    |change     = 
@@ -406,9 +437,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 30.3
+   |votes      = 1,382
+   |percentage = 30.31
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 12
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,559
  }}
 {{Election box hold with party link no swing
    |winner     = Independent politician
@@ -429,7 +468,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Biddulph South===
 
-{{Election box begin | title=Biddulph South}}
+{{Election box begin | title=Biddulph South<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=6 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Liberal Democrats (UK)
    |candidate  = John Redfern
@@ -446,7 +485,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Dave Proudlove
+   |candidate  = David Proudlove
    |votes      = 89
    |percentage =19.8
    |change     = 
@@ -459,14 +498,22 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 10
+   |percentage = 2.2
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 36.7
+   |votes      = 458
+   |percentage = 32.67
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 8
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,402
  }}
 {{Election box hold with party link
    |winner     = Liberal Democrats (UK)
@@ -477,7 +524,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Biddulph West===
 
-{{Election box begin | title=Biddulph West}}
+{{Election box begin | title=Biddulph West<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=7 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Hilda Sheldon
@@ -501,7 +548,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Oliver McGuinness
+   |candidate  = James McGuinness
    |votes      = 325
    |percentage = 26.8
    |change     = 
@@ -514,9 +561,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 29.8
+   |votes      = 1,231
+   |percentage = 29.76
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 19
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,137
  }}
 {{Election box hold with party link no swing
    |winner     = Independent politician
@@ -537,7 +592,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Brown Edge & Endon===
 
-{{Election box begin | title=Brown Edge & Endon}}
+{{Election box begin | title=Brown Edge & Endon<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=8 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Linda Lea
@@ -554,14 +609,14 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Joe Porter
+   |candidate  = Joseph Porter
    |votes      = 551
    |percentage = 40.8
    |change     = 
 }}
  {{Election box candidate with party link
    |party      = Liberal Democrats (UK)
-   |candidate  = Louise Adams
+   |candidate  = Alwyne Adams
    |votes      = 405
    |percentage = 30.0
    |change     = 
@@ -589,15 +644,23 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }} 
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Sam Chapple
+   |candidate  = Lorraine Chapple
    |votes      = 197
    |percentage = 14.6
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 34.8
+   |votes      = 1,384
+   |percentage = 34.78
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 35
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 3,979
  }}
 {{Election box hold with party link no swing
    |winner     = Conservative Party (UK)
@@ -618,7 +681,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Caverswall===
 
-{{Election box begin | title=Caverswall}}
+{{Election box begin | title=Caverswall<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=9 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Paul Roberts
@@ -628,20 +691,28 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Andy Darrant
+   |candidate  = Andrew Darrant
    |votes      = 80
    |percentage =19.9
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 242
+   |percentage = 60.2
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 28.7
+   |votes      = 415
+   |percentage = 28.74
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 13
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,444
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -652,10 +723,10 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Cellarhead===
 
-{{Election box begin | title=Cellarhead}}
+{{Election box begin | title=Cellarhead<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=10 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Tony McNicol
+   |candidate  = Anthony McNicol
    |votes      = 389
    |percentage = 58.4
    |change     = 
@@ -675,9 +746,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
+   |votes      = 679
+   |percentage = 26.13
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 13
    |percentage = 
    |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,599
  }}
 {{Election box hold with party link no swing
    |winner     = Conservative Party (UK)
@@ -693,7 +772,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Cheadle North East===
 
-{{Election box begin | title=Cheadle North East}}
+{{Election box begin | title=Cheadle North East<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=11 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Ian Whitehouse
@@ -703,7 +782,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = Phil Routledge
+   |candidate  = Phillip Routledge
    |votes      = 252
    |percentage = 34.6
    |change     = 
@@ -744,9 +823,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 26.4
+   |votes      = 746
+   |percentage = 26.44
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 17
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,821
  }}
 {{Election box gain with party link no swing
    |winner     = Independent politician
@@ -762,10 +849,10 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Cheadle South East===
 
-{{Election box begin | title=Cheadle South East}}
+{{Election box begin | title=Cheadle South East<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=12 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
-   |candidate  = Richard Alcock
+   |candidate  = Frederick Alcock
    |votes      = 448
    |percentage = 52.3
    |change     = 
@@ -799,9 +886,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 29.2
+   |votes      = 863
+   |percentage = 29.17
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,959
  }}
 {{Election box hold with party link
    |winner     = Independent politician
@@ -817,7 +912,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Cheadle West===
 
-{{Election box begin | title=Cheadle West}}
+{{Election box begin | title=Cheadle West<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=13 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Kate Martin
@@ -841,7 +936,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Ron Locker
+   |candidate  = Ronald Locker
    |votes      = 337
    |percentage = 32.8
    |change     = 
@@ -869,15 +964,23 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Independent politician
-   |candidate  = Add Lees
+   |candidate  = Adam Lees
    |votes      = 196
    |percentage = 19.0
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 25.9
+   |votes      = 1,046
+   |percentage = 25.87
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 17
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,043
  }}
 {{Election box gain with party link no swing
    |winner     = Independent politician
@@ -898,7 +1001,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Checkley===
 
-{{Election box begin | title=Checkley}}
+{{Election box begin | title=Checkley<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=14 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Mark Deaville
@@ -949,9 +1052,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 29.7
+   |votes      = 1,381
+   |percentage = 29.72
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 11
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,646
  }}
 {{Election box hold with party link no swing
    |winner     = Conservative Party (UK)
@@ -972,7 +1083,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Cheddleton===
 
-{{Election box begin | title=Cheddleton}}
+{{Election box begin | title=Cheddleton<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=15 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Michael Bowen
@@ -982,14 +1093,14 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Mike Worthington
+   |candidate  = Michael Worthington
    |votes      = 627
    |percentage = 43.0
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Sav Scalise
+   |candidate  = Salvino Scalise
    |votes      = 623
    |percentage = 42.8
    |change     = 
@@ -1010,22 +1121,30 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Mahfooz Ahmed
+   |candidate  = Mahfooz Ahmad
    |votes      = 410
    |percentage = 28.1
    |change     = 
 }}
  {{Election box candidate with party link
    |party      = Liberal Democrats (UK)
-   |candidate  = Geoff Preston
+   |candidate  = Geoffrey Preston
    |votes      = 295
    |percentage = 20.2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 34.0
+   |votes      = 1,492
+   |percentage = 33.98
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 35
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,391
  }}
 {{Election box hold with party link no swing
    |winner     = Conservative Party (UK)
@@ -1046,7 +1165,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Churnet===
 
-{{Election box begin | title=Churnet}}
+{{Election box begin | title=Churnet<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=16 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Elsie Fallows
@@ -1076,9 +1195,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 35.7
+   |votes      = 946
+   |percentage = 35.74
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 12
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,647
  }}
 {{Election box gain with party link no swing
    |winner     = Conservative Party (UK)
@@ -1094,30 +1221,38 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Dane===
 
-{{Election box begin | title=Dane}}
+{{Election box begin | title=Dane<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=17 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Gill Heath
+   |candidate  = Christine Heath
    |votes      = 341
    |percentage = 68.1
    |change     = 
 }}
  {{Election box candidate with party link
    |party      = Green Party of England and Wales
-   |candidate  = Mike Jones
+   |candidate  = Michael Jones
    |votes      = 160
    |percentage =31.9
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 181
+   |percentage = 36.1
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 38.3
+   |votes      = 505
+   |percentage = 38.32
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 4
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,318
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1128,10 +1263,10 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Forsbrook===
 
-{{Election box begin | title=Forsbrook}}
+{{Election box begin | title=Forsbrook<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=18 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Tony Holmes
+   |candidate  = Thomas Holmes
    |votes      = 707
    |percentage = 60.1
    |change     = 
@@ -1158,9 +1293,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 29.8
+   |votes      = 1,245
+   |percentage = 29.76
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 69
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,184
  }}
 {{Election box hold with party link no swing
    |winner     = Conservative Party (UK)
@@ -1181,7 +1324,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Hamps Valley===
 
-{{Election box begin | title=Hamps Valley}}
+{{Election box begin | title=Hamps Valley<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=19 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Edwin Wain
@@ -1196,10 +1339,23 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |percentage =15.3
    |change     = 
 }}
-{{Election box turnout
-   |votes      = 
-   |percentage = 42.7
+{{Election box majority
+   |votes      = 429
+   |percentage = 69.3
    |change     = 
+ }}
+{{Election box turnout
+   |votes      = 629
+   |percentage = 42.70
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 10
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,473
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1210,7 +1366,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Horton===
 
-{{Election box begin | title=Horton}}
+{{Election box begin | title=Horton<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=20 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Norma Hawkins
@@ -1220,7 +1376,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Bob Cooper
+   |candidate  = Robert Cooper
    |votes      = 151
    |percentage =24.8
    |change     = 
@@ -1232,10 +1388,23 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |percentage =15.0
    |change     = 
 }}
-{{Election box turnout
-   |votes      = 
-   |percentage = 39.9
+{{Election box majority
+   |votes      = 215
+   |percentage = 35.4
    |change     = 
+ }}
+{{Election box turnout
+   |votes      = 620
+   |percentage = 39.92
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 12
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,553
  }}
 {{Election box gain with party link
    |winner     = Independent politician
@@ -1246,7 +1415,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Ipstones===
 
-{{Election box begin | title=Ipstones}}
+{{Election box begin | title=Ipstones<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=21 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Linda Malyon
@@ -1256,15 +1425,28 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Dan Newton
+   |candidate  = Daniel Newton
    |votes      = 175
    |percentage =25.5
    |change     = 
 }}
-{{Election box turnout
-   |votes      = 
-   |percentage = 45.0
+{{Election box majority
+   |votes      = 336
+   |percentage = 49.0
    |change     = 
+ }}
+{{Election box turnout
+   |votes      = 693
+   |percentage = 44.97
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 7
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,541
  }}
 {{Election box hold with party link
    |winner     = Independent politician
@@ -1275,7 +1457,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Leek East===
 
-{{Election box begin | title=Leek East}}
+{{Election box begin | title=Leek East<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=22 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Independent politician
    |candidate  = Pamela Wood
@@ -1314,8 +1496,8 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Michael Howson
-   |votes      = 332
-   |percentage = 23.7
+   |votes      = 322
+   |percentage = 23.0
    |change     = 
 }}
  {{Election box candidate with party link
@@ -1326,9 +1508,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 35.5
+   |votes      = 1,413
+   |percentage = 35.54
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 14
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 3,976
  }}
 {{Election box hold with party link no swing
    |winner     = Independent politician
@@ -1349,7 +1539,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Leek North===
 
-{{Election box begin | title=Leek North}}
+{{Election box begin | title=Leek North<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=23 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = [[Charlotte Atkins]]
@@ -1359,7 +1549,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Lyn Swindlehurst
+   |candidate  = Lynda Swindlehurst
    |votes      = 548
    |percentage = 46.6
    |change     = 
@@ -1373,7 +1563,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Dani Ogden
+   |candidate  = Danuta Ogden
    |votes      = 384
    |percentage = 32.7
    |change     = 
@@ -1386,9 +1576,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 28.5
+   |votes      = 1,200
+   |percentage = 28.52
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 25
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,208
  }}
 {{Election box hold with party link no swing
    |winner     = Labour Party (UK)
@@ -1409,17 +1607,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Leek South===
 
-{{Election box begin | title=Leek South}}
+{{Election box begin | title=Leek South<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=24 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Mike Gledhill
+   |candidate  = Michael Gledhill
    |votes      = 775
    |percentage = 54.9
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Sue Coleman
+   |candidate  = Susan Coleman
    |votes      = 654
    |percentage = 46.4
    |change     = 
@@ -1433,7 +1631,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Jo Cox
+   |candidate  = Joanne Cox
    |votes      = 445
    |percentage = 31.5
    |change     = 
@@ -1447,7 +1645,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 }}
  {{Election box candidate with party link
    |party      = Liberal Democrats (UK)
-   |candidate  = Mike Ottewell
+   |candidate  = Michael Ottewell
    |votes      = 214
    |percentage = 15.2
    |change     = 
@@ -1460,9 +1658,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 32.0
+   |votes      = 1,437
+   |percentage = 32.01
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 26
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 4,489
  }}
 {{Election box hold with party link no swing
    |winner     = Labour Party (UK)
@@ -1483,24 +1689,24 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Leek West===
 
-{{Election box begin | title=Leek West}}
+{{Election box begin | title=Leek West<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=25 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Bill Cawley
+   |candidate  = William Cawley
    |votes      = 714
    |percentage = 53.0
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
-   |candidate  = Ben Emery
+   |candidate  = Benedict Emery
    |votes      = 591
    |percentage = 43.9
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
-   |candidate  = Phil Taylor
+   |candidate  = Philip Taylor
    |votes      = 560
    |percentage = 41.6
    |change     = 
@@ -1534,9 +1740,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 36.8
+   |votes      = 1,367
+   |percentage = 36.78
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 20
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 3,717
  }}
 {{Election box gain with party link no swing
    |winner     = Labour Party (UK)
@@ -1557,7 +1771,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Manifold===
 
-{{Election box begin | title=Manifold}}
+{{Election box begin | title=Manifold<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=26 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Teresa Riley
@@ -1580,14 +1794,22 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box majority
-   |votes      = 
-   |percentage = 
+   |votes      = 217
+   |percentage = 39.2
    |change     = 
  }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 38.4
+   |votes      = 571
+   |percentage = 38.40
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 18
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 1,487
  }}
 {{Election box hold with party link
    |winner     = Conservative Party (UK)
@@ -1598,7 +1820,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
 
 ===Werrington===
 
-{{Election box begin | title=Werrington}}
+{{Election box begin | title=Werrington<ref>{{cite web |title=Declarations of result of poll – Staffordshire Moorlands District Council elections, 2 May 2019 |url=https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |page=27 |publisher=[[Staffordshire Moorlands District Council]] |date=3 May 2019 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211642/https://www.staffsmoorlands.gov.uk/media/4340/All-District-Declarations-of-Results-of-Polls/pdf/d5All_District_Declarations_of_Results_of_Polls.pdf?m=1556893581733 |archive-date=30 September 2026}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = David Shaw
@@ -1621,9 +1843,17 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |change     = 
 }}
 {{Election box turnout
-   |votes      = 
-   |percentage = 26.8
+   |votes      = 709
+   |percentage = 26.79
    |change     = 
+ }}
+{{Election box rejected
+   |votes      = 12
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,647
  }}
 {{Election box hold with party link no swing
    |winner     = Conservative Party (UK)
@@ -1638,58 +1868,254 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
  {{Election box end}}
 
 ==Changes 2019–2023==
+* May 2022: Norma Hawkins, Brian Johnson and Phillip Routledge, all elected as independents, joined the Conservatives, while Michael Bowen, elected as a Conservative, left the party to sit as an independent. These changes gave the council an overall Conservative majority, having previously been under no overall control.<ref>{{cite news |last1=Boothroyd |first1=David |title=Post-election roundup |url=https://www.localcouncils.co.uk/2022/05/post-election-roundup-2/ |access-date=30 December 2023 |work=Local Councils |publisher=Thorncliffe |date=13 May 2022 |archive-url=https://web.archive.org/web/20260613025945/https://www.localcouncils.co.uk/2022/05/post-election-roundup-2/ |archive-date=13 June 2026}}</ref>
 
 ===By-elections===
-*6 May 2021: Conservative gain (Stephen Ellis) in Cheadle North East following death of independent Ian Whitehouse.
-*6 May 2021: Conservative gain (Peter Jackson) in Cheadle South East following resignation of independent Peter Elkin.
-*5 May 2022: Conservative gain (Zenobia Routledge) in Cheadle South East following death of independent Richard Alcock.
 
-{{Election box begin | title=Biddulph West: 19 January 2023}}
+====Cheadle North East====
+
+The by-election was triggered by the death of independent councillor Ian Whitehouse on 30 November 2020.<ref>{{cite news |last=Jackson |first=Leslie |title=Tributes paid to hard-working and passionate councillor Ian Whitehouse |url=https://www.inyourarea.co.uk/news/tributes-paid-to-hard-working-and-passionate-councillor-ian-whitehouse |publisher=InYourArea |date=7 December 2020 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930220305/https://www.inyourarea.co.uk/news/tributes-paid-to-hard-working-and-passionate-councillor-ian-whitehouse |archive-date=30 September 2026}}</ref>
+
+{{Election box begin | title=Cheadle North East by-election, 6 May 2021<ref>{{cite web |title=Declaration of result of poll – Cheadle North East Ward |url=https://www.staffsmoorlands.gov.uk/media/6586/Staffordshire-Moorlands-District-Council-Election---Cheadle-North-East-Result/pdf/frStaffordshire_Moorlands_District_Council_Election_-_Cheadle_North_East_Result.pdf?m=1620473431467 |publisher=[[Staffordshire Moorlands District Council]] |date=6 May 2021 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250712064054/https://www.staffsmoorlands.gov.uk/media/6586/Staffordshire-Moorlands-District-Council-Election---Cheadle-North-East-Result/pdf/frStaffordshire_Moorlands_District_Council_Election_-_Cheadle_North_East_Result.pdf?m=1620473431467 |archive-date=12 July 2025}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Ellis
+   |votes      = 308
+   |percentage = 47.2
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Elizabeth Whitehouse
+   |votes      = 163
+   |percentage = 25.0
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Debra Gratton
+   |votes      = 117
+   |percentage = 17.9
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Paulette Upton
+   |votes      = 33
+   |percentage = 5.1
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Daniel Mayers
+   |votes      = 31
+   |percentage = 4.8
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 145
+   |percentage = 22.2
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 655
+   |percentage = 23.4
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 3
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,790
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+{{Election box end}}
+
+====Cheadle South East (2021)====
+
+The by-election was triggered by independent councillor Peter Elkin leaving the council; the council had granted him a dispensation from attending meetings because of illness.<ref>{{cite web |title=Council meeting agenda pack, 22 January 2020 (item 31, dispensation for Councillor Peter Elkin) |url=https://democracy.staffsmoorlands.gov.uk/documents/g1365/Public%20reports%20pack%2022nd-Jan-2020%2018.30%20Council%20SMDC.pdf?T=10 |publisher=[[Staffordshire Moorlands District Council]] |date=22 January 2020 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250905183157/https://democracy.staffsmoorlands.gov.uk/documents/g1365/Public%20reports%20pack%2022nd-Jan-2020%2018.30%20Council%20SMDC.pdf?T=10 |archive-date=5 September 2025}}</ref><ref>{{cite web |title=Council meeting agenda pack, 2 December 2020 (dispensation for Councillor Peter Elkin) |url=https://democracy.staffsmoorlands.gov.uk/documents/g1898/Public%20reports%20pack%2002nd-Dec-2020%2018.30%20Council%20SMDC.pdf?T=10 |publisher=[[Staffordshire Moorlands District Council]] |date=2 December 2020 |access-date=30 September 2026}}</ref>
+
+{{Election box begin | title=Cheadle South East by-election, 6 May 2021<ref>{{cite web |title=Declaration of result of poll – Cheadle South East Ward |url=https://www.staffsmoorlands.gov.uk/media/6587/Staffordshire-Moorlands-District-Council-Election---Cheadle-South-East-Result/pdf/hiStaffordshire_Moorlands_District_Council_Election_-_Cheadle_South_East_Result.pdf?m=1620473666810 |publisher=[[Staffordshire Moorlands District Council]] |date=6 May 2021 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260122234315/https://www.staffsmoorlands.gov.uk/media/6587/Staffordshire-Moorlands-District-Council-Election---Cheadle-South-East-Result/pdf/hiStaffordshire_Moorlands_District_Council_Election_-_Cheadle_South_East_Result.pdf?m=1620473666810 |archive-date=22 January 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Peter Jackson
+   |votes      = 359
+   |percentage = 42.3
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Elizabeth Haines
+   |votes      = 206
+   |percentage = 24.3
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = James Evans
+   |votes      = 155
+   |percentage = 18.3
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Colin Pearce
+   |votes      = 87
+   |percentage = 10.2
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Alan Thomas
+   |votes      = 24
+   |percentage = 2.8
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Daniella Vickerstaff
+   |votes      = 18
+   |percentage = 2.1
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 153
+   |percentage = 18.0
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 863
+   |percentage = 30.05
+   |change     = 
+ }}
+<!-- The declaration prints 863 ballot papers issued and a turnout of 30.05%; 863 / 2,875 electors is 30.02%. -->
+{{Election box rejected
+   |votes      = 14
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,875
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+{{Election box end}}
+
+====Cheadle South East (2022)====
+
+The by-election was triggered by the death of independent councillor Richard Alcock.<ref>{{cite news |title=Tributes after death of Staffordshire Moorlands district councillor |url=https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-60097090 |publisher=BBC News |date=22 January 2022 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20221024153503/https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-60097090 |archive-date=24 October 2022}}</ref>
+
+{{Election box begin | title=Cheadle South East by-election, 5 May 2022<ref>{{cite web |title=Declaration of result of poll – Cheadle South East Ward |url=https://www.staffsmoorlands.gov.uk/media/7318/Declaration-of-Result-for-the-Cheadle-South-East-Ward-By-election/pdf/bdDeclaration_of_Result_for_the_Cheadle_South_East_Ward_By-election.pdf?m=1651818134210 |publisher=[[Staffordshire Moorlands District Council]] |date=5 May 2022 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930211844/https://www.staffsmoorlands.gov.uk/media/7318/Declaration-of-Result-for-the-Cheadle-South-East-Ward-By-election/pdf/bdDeclaration_of_Result_for_the_Cheadle_South_East_Ward_By-election.pdf?m=1651818134210 |archive-date=30 September 2026}}</ref>}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Zenobia Routledge
+   |votes      = 348
+   |percentage = 43.0
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Matthew Spooner
+   |votes      = 325
+   |percentage = 40.1
+   |change     = 
+}}
+{{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Abigail Wilkinson
+   |votes      = 137
+   |percentage = 16.9
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 23
+   |percentage = 2.8
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 815
+   |percentage = 28.36
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 5
+   |percentage = 
+   |change     = 
+ }}
+{{Election box registered electors
+   |reg. electors = 2,874
+ }}
+{{Election box gain with party link no swing
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+{{Election box end}}
+
+====Biddulph West====
+
+The by-election was a double by-election following the deaths of Conservative councillor Ian Lawson and independent councillor Hilda Sheldon.<ref>{{cite web |last=Lenton |first=Jack |title=Long-serving Biddulph councillor 'faced his illness in true style' |url=https://biddulph.nub.news/news/local-news/long-serving-biddulph-councillor-faced-his-illness-in-true-style-153859 |publisher=Biddulph Nub News |date=10 October 2022 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20221010153933/https://biddulph.nub.news/news/local-news/long-serving-biddulph-councillor-faced-his-illness-in-true-style-153859 |archive-date=10 October 2022}}</ref><ref>{{cite web |last=Lenton |first=Jack |title=Hilda Sheldon: Biddulph councillor and volunteer's death was suicide, inquest concludes |url=https://biddulph.nub.news/news/local-news/hilda-sheldon-biddulph-councillor-and-volunteers-death-was-suicide-inquest-concludes-149244 |publisher=Biddulph Nub News |date=6 September 2022 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20260930220944/https://biddulph.nub.news/news/local-news/hilda-sheldon-biddulph-councillor-and-volunteers-death-was-suicide-inquest-concludes-149244 |archive-date=30 September 2026}}</ref>
+
+{{Election box begin | title=Biddulph West by-election, 19 January 2023<ref>{{cite web |title=Declaration of result of poll – Biddulph West Ward |url=https://www.staffsmoorlands.gov.uk/media/7766/Results-for-Biddulph-West-ward/pdf/6cDeclaration_of_Result_Biddulph_West_Ward.pdf?m=1674224037140 |publisher=[[Staffordshire Moorlands District Council]] |date=19 January 2023 |access-date=30 September 2026 |archive-url=https://web.archive.org/web/20250418053303/https://www.staffsmoorlands.gov.uk/media/7766/Results-for-Biddulph-West-ward/pdf/6cDeclaration_of_Result_Biddulph_West_Ward.pdf?m=1674224037140 |archive-date=18 April 2025}}</ref>}}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Charlie Smith
    |votes      = 364
-   |percentage = 50.5
+   |percentage = 51.1
    |change     = 
 }}
 {{Election box winning candidate with party link
    |party      = Labour Party (UK)
    |candidate  = Dave Proudlove
    |votes      = 288
-   |percentage = 39.9
+   |percentage = 40.4
    |change     = 
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = Independent politician
    |candidate  = Neil Eardley
    |votes      = 226
-   |percentage =31.3
+   |percentage = 31.7
    |change     = 
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = Conservative Party (UK)
    |candidate  = Rathi Pragasam
    |votes      = 185
-   |percentage =25.7
+   |percentage = 25.9
    |change     = 
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = Independent politician
    |candidate  = Alistair McLoughlin
    |votes      = 154
-   |percentage =21.4
+   |percentage = 21.6
    |change     = 
 }}
- {{Election box candidate with party link
+{{Election box candidate with party link
    |party      = Green Party of England and Wales
    |candidate  = Ian Waite
    |votes      = 61
-   |percentage =8.5
+   |percentage = 8.6
    |change     = 
 }}
 {{Election box turnout
    |votes      = 721
    |percentage = 17.9
+   |change     = 
+ }}
+{{Election box rejected
+   |votes      = 8
+   |percentage = 
    |change     = 
  }}
 {{Election box registered electors
@@ -1705,11 +2131,7 @@ The '''2019 Staffordshire Moorlands District Council election''' took place on 2
    |loser      = Independent politician
    |swing      = 
 }}
- {{Election box end}}
-A double by-election after the deaths of incumbent Conservative (Ian Lawson) and independent (Hilda Sheldon) councillors.
-
-===Changes of allegiance===
-In May 2022, Norma Hawkins, Brian Johnson and Phil Routledge, all elected as independents, joined the Conservatives. At the same time, Michael Bowen, elected as a Conservative, left the party to sit as an independent. These changes gave the council an overall Conservative majority, having previously been under no overall control.<ref>{{cite news |last1=Boothroyd |first1=David |title=Post-election roundup |url=https://www.localcouncils.co.uk/2022/05/post-election-roundup-2/ |access-date=30 December 2023 |work=Local Councils |publisher=Thorncliffe |date=13 May 2022}}</ref>
+{{Election box end}}
 
 ==References==
 {{reflist}}
