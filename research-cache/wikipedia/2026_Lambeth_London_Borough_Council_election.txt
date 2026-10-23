@@ -491,19 +491,19 @@ An asterisk * at the end of a candidates name highlights an existing councillor 
 {{election box winning candidate with party link|candidate=Paul Valentine[[Incumbent|*]] |party=Green Party of England and Wales|votes=2,705|percentage=50.2|change=+10.6}}
 {{election box winning candidate with party link|candidate=Alan Andrews |party=Green Party of England and Wales|votes=2,681|percentage=49.7|change=+15.8}}
 {{election box candidate with party link|candidate=Deepak Sardiwal[[Incumbent|*]]|party=Labour and Co-operative Party|votes=1,873|percentage=34.7|change=-16.3}}
-{{election box candidate with party link|candidate=Stephen Joseph Clark|party=Labour and Co-operative Party|votes=1,694|percentage=31.4|change=-21.5}}
+{{election box candidate with party link|candidate=Stephen Clark|party=Labour and Co-operative Party|votes=1,694|percentage=31.4|change=-21.5}}
 {{election box candidate with party link|candidate=Marianna Masters|party=Labour and Co-operative Party|votes=1,649|percentage=30.6|change=-21.5}}
 {{election box candidate with party link|candidate=[[Rob Blackie (politician)|Rob Blackie]]|party=Liberal Democrats (UK)|votes=403|percentage=7.5|change=+1.8}}
 {{election box candidate with party link|candidate=[[Alex Deane]]|party=Conservative Party (UK)|votes=329|percentage=6.1|change=+0.6}}
-{{election box candidate with party link|candidate=Raymond Arthur Chapman|party=Conservative Party (UK)|votes=309|percentage=5.7|change=+0.2}}
+{{election box candidate with party link|candidate=Ray Chapman|party=Conservative Party (UK)|votes=309|percentage=5.7|change=+0.2}}
 {{election box candidate with party link|candidate=Jonathan Price|party=Liberal Democrats (UK)|votes=294|percentage=5.5|change=+1.7}}
 {{election box candidate with party link|candidate=Charley Hasted|party=Liberal Democrats (UK)|votes=279|percentage=5.2|change=+2.0}}
-{{election box candidate with party link|candidate=Andrew Roy Whitten|party=Conservative Party (UK)|votes=277|percentage=5.1|change=-0.2}}
+{{election box candidate with party link|candidate=Andrew Whitten|party=Conservative Party (UK)|votes=277|percentage=5.1|change=-0.2}}
 {{election box candidate with party link|candidate=Dick Tristram-Tooze|party=Reform UK|votes=230|percentage=4.3|change=''N/A''}}
 {{Election box turnout|votes=5,390|percentage=47.1|change=+5.8}}
 {{Election box registered electors|reg. electors=11,455}}
 {{Election box gain with party link no swing | winner = Green Party of England and Wales | loser = Labour Co-operative | swing = }}
-{{Election box hold with party link no swing | winner = Green Party of England and Wales | loser =  | swing = }}
+{{Election box gain with party link no swing | winner = Green Party of England and Wales | loser = Labour Co-operative | swing = }}
 {{Election box gain with party link no swing | winner = Green Party of England and Wales | loser = Labour Co-operative | swing = }}
 {{Election box end}}
 

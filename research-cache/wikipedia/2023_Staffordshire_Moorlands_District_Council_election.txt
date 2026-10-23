@@ -1791,6 +1791,12 @@ Brian Johnson had been elected as an independent in 2019 but joined the Conserva
 
 ===Cheddleton by-election===
 {{Election box begin|title=Cheddleton by-election, 12 November 2026<ref>https://whocanivotefor.co.uk/elections/local.staffordshire-moorlands.cheddleton.by.2026-11-12/cheddleton/</ref>}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Rob Bateman|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Su Beardmore|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Matthew Frith|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Restore Britain|candidate=Karen Pickering|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Sue Rogers|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Martin Sadler|votes=|percentage=|change=}}
 {{Election box majority|votes=|percentage=|change=}}
 {{Election box turnout|votes=|percentage=|change=}}
 {{Election box hold with party link|winner=|loser=|swing=}}

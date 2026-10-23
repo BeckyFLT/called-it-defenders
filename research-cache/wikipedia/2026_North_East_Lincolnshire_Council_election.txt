@@ -1332,10 +1332,38 @@ Incumbents are marked with an asterisk (*).
 == Post-election changes ==
 
 ===Croft Baker by-election===
-{{Election box begin|title=Croft Baker by-election, 12 November 2026<ref>https://whocanivotefor.co.uk/elections/local.north-east-lincolnshire.croft-baker.by.2026-11-12/croft-baker/</ref>}}
+{{Election box begin|title=Croft Baker by-election, 12 November 2026 <ref>https://www.nelincs.gov.uk/assets/uploads/2026/10/Statement-of-Persons-Nominated-Notice-of-Poll-and-Polling-Locations.pdf/</ref>}}
+{{Election box candidate with party link
+ |party       = Restore Britain
+ |candidate   = Matthew Branson
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box candidate with party link
+ |party       = Green Party of England and Wales
+ |candidate   = Leon Brown
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box candidate with party link
+ |party       = Independent
+ |candidate   = George Georgiou
+ |votes       =
+ |percentage  =
+ |change      =
+}}
 {{Election box candidate with party link
  |party       = Reform UK
  |candidate   = Melissa Grice
+ |votes       =
+ |percentage  =
+ |change      =
+}}
+{{Election box candidate with party link
+ |party       = Conservative Party (UK)
+ |candidate   = Stephen Harness
  |votes       =
  |percentage  =
  |change      =

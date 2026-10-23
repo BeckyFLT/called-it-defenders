@@ -2001,6 +2001,40 @@ Chris Read was a sitting councillor for Wickersley North
 }}
  {{Election box end}}
 
+===Anston & Woodsetts===
+
+{{Election box begin|title=Anston & Woodsetts by-election: 19 November 2026<ref>https://whocanivotefor.co.uk/elections/local.rotherham.anston-woodsetts.by.2026-11-19/anston-woodsetts/</ref>}}
+{{Election box candidate with party link
+   |party       = Labour Party (UK)
+   |candidate   = Ashley Gregory
+   |votes       =
+   |percentage  =
+   |change      =
+}}
+{{Election box candidate with party link
+   |party       = Conservative Party (UK)
+   |candidate   = Mike Hemingway
+   |votes       =
+   |percentage  =
+   |change      =
+}}
+{{Election box majority
+   |votes       =
+   |percentage  =
+   |change      =
+}}
+{{Election box turnout
+   |votes       =
+   |percentage  =
+   |change      =
+}}
+{{Election box hold with party link
+   |winner      =
+   |loser       =
+   |swing       =
+}}
+ {{Election box end}}
+
 == Notes ==
 {{notelist}}
 
