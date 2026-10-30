@@ -1662,15 +1662,15 @@ A by-election was held in Elli on 6 March 2024 following the resignation of Inde
 ===Saron by-election===
 
 {{Election box begin|title=Saron by-election: 22 October 2026<ref>https://whocanivotefor.co.uk/elections/local.carmarthenshire.saron.by.2026-10-22/saron/</ref>}}
-{{Election box candidate with party link|party=Plaid Cymru|candidate=Nicholas Davies|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Reform UK|candidate=Richard Galvin|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Welsh Conservatives|candidate=Craig Griffiths|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Independent (politician)|candidate=Owen Jenkins|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Welsh Labour|candidate=Anthony Jones|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Welsh Liberal Democrats (2025)|candidate=Caryl Tandy|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box winning candidate with party link|party=Plaid Cymru|candidate=Nicholas Davies|votes=397|percentage=43.9|change=+4.2}}
+{{Election box candidate with party link|party=Reform UK|candidate=Richard Galvin|votes=253|percentage=28.0|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Labour|candidate=Anthony Jones|votes=159|percentage=17.6|change=-21.6}}
+{{Election box candidate with party link|party=Welsh Conservatives|candidate=Craig Griffiths|votes=44|percentage=4.9|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Owen Jenkins|votes=41|percentage=4.5|change=''N/A''}}
+{{Election box candidate with party link|party=Welsh Liberal Democrats (2025)|candidate=Caryl Tandy|votes=11|percentage=1.2|change=-6.5}}
+{{Election box majority|votes=144|percentage=15.9|change=''N/A''}}
+{{Election box turnout|votes=905|percentage=26.6|change=-11.4}}
+{{Election box gain with party link|winner=Plaid Cymru|loser=Welsh Labour|swing=}}
  {{Election box end}}
 
 ==References==

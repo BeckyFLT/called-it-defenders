@@ -645,15 +645,18 @@ The by-election was held after independent councillor Philip Gadd resigned; he d
 ==== Grantham St Wulfram's ====
 
 {{Election box begin|title=Grantham St Wulfram's by-election, 22 October 2026<ref>https://www.southkesteven.gov.uk/October22</ref><br><small>Resignation of Tim Harrison (Independent)</small><ref>https://granthammatters.co.uk/candidates-announced-for-grantham-st-wulframs-by-election/</ref>}}
-{{Election box candidate with party link|party=Labour Party (UK)|candidate=Tim Galsworthy|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Independent (politician)|candidate=Wayne Hasnip|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Ben Lavender|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Reform UK|candidate=Andy McKinlay|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Independent (politician)|candidate=Marie Reid|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Ian Simmons|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box winning candidate with party link|party=Conservative Party (UK)|candidate=Ben Lavender|votes=437|percentage=38.3|change=+1.8}}
+{{Election box candidate with party link|party=Reform UK|candidate=Andy McKinlay|votes=286|percentage=25.1|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Marie Reid|votes=149|percentage=13.1|change=''N/A''}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Tim Galsworthy|votes=141|percentage=12.4|change=-10.0}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Ian Simmons|votes=74|percentage=6.5|change=''N/A''}}
+{{Election box candidate with party link|party=Independent (politician)|candidate=Wayne Hasnip|votes=54|percentage=4.7|change=''N/A''}}
+{{Election box majority|votes=151|percentage=13.2|change=''N/A''}}
+{{Election box turnout|votes=1,143|percentage=28.5|change=-4.1}}
+{{Election box registered electors
+|reg. electors = 4,015
+}}
+{{Election box gain with party link no swing|winner=Conservative Party (UK)|loser=Independent politician|swing=}}
  {{Election box end}}
 
 == References ==

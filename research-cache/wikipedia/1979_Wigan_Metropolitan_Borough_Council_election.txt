@@ -1,0 +1,945 @@
+{{Short description|1979 UK local government election}}
+{{more citations needed|date=March 2020}}
+{{Use dmy dates|date=March 2020}}
+{{Use British English|date=March 2020}}
+[[File:Wigan UK local election 1979 map.png|right|thumb|500px|Map of the results for the 1979 Wigan council election. [[Labour Party (UK)|Labour]] in red, [[Conservative Party (UK)|Conservatives]] in blue and the [[Liberal Party (UK)|Liberals]] in yellow.]]
+Elections to [[Metropolitan Borough of Wigan|Wigan]] Council were held on 3 May 1979, with one third of the council up for vote as well as an extra vacancy in Ward 22. The election seen [[Labour Party (UK)|Labour]] strengthening their grip, with six gains - mostly in the wards they lost seats in at the [[1975 Wigan Council election|1975 election]] - and one loss. All but one of the gains were from the [[Conservative Party (UK)|Conservatives]], with the other being from the [[Liberal Party (UK)|Liberal's]] sole seat in Ward 14. A Liberal gain in Ward 15 from Labour kept them represented on the council. Owing to [[1979 United Kingdom general election|general election]] on the same day, turnout was significantly up, to 75.7% and all wards were contested - a continuation of the feat started last election.<ref name="results">{{cite web | url = http://www.wigan.gov.uk/NR/rdonlyres/3692F771-E969-41EE-B068-1F9F20DFE0B7/0/WiganResults1973to2007.pdf | title = Wigan Council results from 1973 to 2008 | publisher = wigan.gov.uk | access-date = 2012-01-30 | archive-url = https://web.archive.org/web/20111120022015/http://www.wigan.gov.uk/NR/rdonlyres/3692F771-E969-41EE-B068-1F9F20DFE0B7/0/WiganResults1973to2007.pdf | archive-date = 2011-11-20 | url-status=dead }}</ref>
+
+==Election result==
+{{Election summary begin|title = Wigan local election result 1979}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 21
+  |gain       = 6
+  |loss       = 1
+  |net        = +5
+  |seats %    = 84.0
+  |votes %    = 55.7
+  |votes      = 96,617
+  |plus/minus = +1.4%
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 3
+  |gain       = 0
+  |loss       = 5
+  |net        = -5
+  |seats %    = 12.0
+  |votes %    = 37.9
+  |votes      = 65,756
+  |plus/minus = -5.7%
+}}
+{{Election summary party|
+  |party      = Liberal Party (UK)
+  |seats      = 1
+  |gain       = 1
+  |loss       = 1
+  |net        = 0
+  |seats %    = 4.0
+  |votes %    = 5.0
+  |votes      = 8,646
+  |plus/minus = +3.3%
+}}
+{{Election summary party|
+  |party      = Residents Association
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 1.3
+  |votes      = 2,328
+  |plus/minus = +1.3%
+}}
+{{Election summary party|
+  |party      = Communist Party of Great Britain
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.1
+  |votes      = 154
+  |plus/minus = -0.1%
+}}
+{{Election box end}}
+
+This result had the following consequences for the total number of seats on the Council after the elections:
+
+{| class="wikitable"
+|-
+! valign=top colspan="2" style="width: 230px"|Party
+! valign=top style="width: 30px"|Previous council
+! valign=top style="width: 30px"|New council
+|-
+! style="background-color: {{party color|Labour Party (UK)}}; width: 3px;" |
+| Labour
+| 51
+| 56
+|-
+! style="background-color: {{party color|Conservative Party (UK)}}; width: 3px;" |
+| Conservatives
+| 19
+| 14
+|-
+! style="background-color: {{party color|Liberal Party (UK)}}; width: 3px;" |
+| Liberals
+| 1
+| 1
+|-
+! style="background-color: {{party color|Independent (politician)}}; width: 3px;" |
+| Independent 
+| 1
+| 1
+|-
+! colspan=2| Total
+! style="text-align: center"| 72
+! colspan=3| 72
+|-
+! colspan=2| Working majority
+! {{Color box|#FFBF00|30|border=darkgray}}
+! {{Color box|#FFBF00|40|border=darkgray}}
+|}
+
+==Ward results==
+{{Election box begin | title=Ward 1 (Lindsay-[[Scholes, Greater Manchester|Scholes]]-Whelley)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = M. Pratt 
+  |votes      = 4,517
+  |percentage = 67.2
+  |change     = +4.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = C. Giles
+  |votes      = 2,206
+  |percentage = 32.8
+  |change     = -4.3
+}}
+{{Election box majority|
+  |votes      = 2,311
+  |percentage = 34.4
+  |change     = +8.7
+}}
+{{Election box turnout|
+  |votes      = 6,723
+  |percentage = 74.4
+  |change     = +40.1
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +4.3
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 2 (Poolstock-[[Worsley Mesnes]])<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = H. Antill
+  |votes      = 4,643
+  |percentage = 66.8
+  |change     = 0.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = R. Rogers
+  |votes      = 2,311
+  |percentage = 33.2
+  |change     = 0.0
+}}
+{{Election box majority|
+  |votes      = 2,332
+  |percentage = 33.6
+  |change     = 0.0
+}}
+{{Election box turnout|
+  |votes      = 6,954
+  |percentage = 70.0
+  |change     = +40.8
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = 0.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 3 (Gidlow-Swinley-Whitley)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = W. France
+  |votes      = 3,989
+  |percentage = 47.8
+  |change     = -22.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = K. Green
+  |votes      = 2,423
+  |percentage = 29.0
+  |change     = -0.5
+}}
+{{Election box candidate with party link|
+  |party      = Residents Association
+  |candidate  = M. McElligott
+  |votes      = 1,244
+  |percentage = 14.9
+  |change     = +14.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK)
+  |candidate  = P. Davies
+  |votes      = 691
+  |percentage = 8.3
+  |change     = +8.3
+}}
+{{Election box majority|
+  |votes      = 1,566
+  |percentage = 18.8
+  |change     = -22.2
+}}
+{{Election box turnout|
+  |votes      = 11,297
+  |percentage = 73.9
+  |change     = +39.7
+}}
+{{Election box hold with party link |
+  |winner     = Conservative Party (UK)
+  |swing      = -11.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 4 (Beech Hill and Marsh Green)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = N. Turner
+  |votes      = 4,869
+  |percentage = 70.7
+  |change     = +2.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = W. Banister
+  |votes      = 2,016
+  |percentage = 29.3
+  |change     = -2.2
+}}
+{{Election box majority|
+  |votes      = 2,853
+  |percentage = 41.4
+  |change     = +4.4
+}}
+{{Election box turnout|
+  |votes      = 6,885
+  |percentage = 72.7
+  |change     = +43.3
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +2.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 5 (Highfield and Lamberhead)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Smith
+  |votes      = 4,886
+  |percentage = 59.0
+  |change     = +6.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = A. Foster
+  |votes      = 3,395
+  |percentage = 41.0
+  |change     = -6.6
+}}
+{{Election box majority|
+  |votes      = 1,491
+  |percentage = 18.0
+  |change     = +13.2
+}}
+{{Election box turnout|
+  |votes      = 8,281
+  |percentage = 73.3
+  |change     = +47.2
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +6.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 6 (Newtown and Rose Hill)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = M. Milligan
+  |votes      = 4,327
+  |percentage = 70.3
+  |change     = +3.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = R. Bell
+  |votes      = 1,830
+  |percentage = 29.7
+  |change     = -3.7
+}}
+{{Election box majority|
+  |votes      = 2,497
+  |percentage = 40.6
+  |change     = +7.5
+}}
+{{Election box turnout|
+  |votes      = 6,157
+  |percentage = 71.4
+  |change     = +43.7
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +3.7
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 7 (Hope Carr)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = D. Powell
+  |votes      = 2,960
+  |percentage = 53.6
+  |change     = -2.6
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = H. Smith
+  |votes      = 2,564
+  |percentage = 46.4
+  |change     = +2.6
+}}
+{{Election box majority|
+  |votes      = 396
+  |percentage = 7.2
+  |change     = -5.2
+}}
+{{Election box turnout|
+  |votes      = 5,524
+  |percentage = 77.5
+  |change     = +34.2
+}}
+{{Election box hold with party link |
+  |winner     = Conservative Party (UK)
+  |swing      = -2.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 8 (St Pauls and St Peters)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = A. Roberts
+  |votes      = 4,269
+  |percentage = 67.5
+  |change     = +4.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = W. Lackenby
+  |votes      = 1,902
+  |percentage = 30.1
+  |change     = -3.6
+}}
+{{Election box candidate with party link|
+  |party      = Communist Party of Great Britain
+  |candidate  = H. Kedward
+  |votes      = 154
+  |percentage = 2.4
+  |change     = -1.2
+}}
+{{Election box majority|
+  |votes      = 2,367
+  |percentage = 37.4
+  |change     = +8.5
+}}
+{{Election box turnout|
+  |votes      = 6,325
+  |percentage = 69.7
+  |change     = +42.5
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +4.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 9 (Etherstone and St Marys)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = D. Caley
+  |votes      = 3,760
+  |percentage = 55.7
+  |change     = +9.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = H. Yates
+  |votes      = 2,989
+  |percentage = 44.3
+  |change     = -2.3
+}}
+{{Election box majority|
+  |votes      = 771
+  |percentage = 11.4
+  |change     = +11.4
+}}
+{{Election box turnout|
+  |votes      = 6,749
+  |percentage = 74.5
+  |change     = +41.4
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = +5.7
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 10 (Lilford-St Josephs-St Thomas)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Jones
+  |votes      = 3,440
+  |percentage = 51.3
+  |change     = +8.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Wood
+  |votes      = 3,260
+  |percentage = 48.7
+  |change     = -8.5
+}}
+{{Election box majority|
+  |votes      = 180
+  |percentage = 2.7
+  |change     = -11.7
+}}
+{{Election box turnout|
+  |votes      = 6,700
+  |percentage = 76.0
+  |change     = +35.7
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = +8.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 11 ([[Golborne]] St Thomas and [[Lowton]])<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = B. Strett
+  |votes      = 4,120
+  |percentage = 50.2
+  |change     = -7.9
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = T. Thompson
+  |votes      = 3,131
+  |percentage = 38.2
+  |change     = -3.7
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK)
+  |candidate  = A. Nixon
+  |votes      = 949
+  |percentage = 11.6
+  |change     = +11.6
+}}
+{{Election box majority|
+  |votes      = 989
+  |percentage = 12.1
+  |change     = -4.2
+}}
+{{Election box turnout|
+  |votes      = 8,200
+  |percentage = 77.7
+  |change     = +37.0
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -2.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 12 (Golborne Heath Park and Ashton)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = A. Miller
+  |votes      = 4,540
+  |percentage = 64.5
+  |change     = -0.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Harrison
+  |votes      = 2,503
+  |percentage = 35.5
+  |change     = +0.4
+}}
+{{Election box majority|
+  |votes      = 2,037
+  |percentage = 29.0
+  |change     = -0.8
+}}
+{{Election box turnout|
+  |votes      = 7,043
+  |percentage = 78.8
+  |change     = +42.1
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -0.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 13 ([[Ashton-in-Makerfield]] North and West)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = R. Lyons
+  |votes      = 3,755
+  |percentage = 65.9
+  |change     = +3.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = B. Smith
+  |votes      = 1,941
+  |percentage = 34.1
+  |change     = -3.1
+}}
+{{Election box majority|
+  |votes      = 1,814
+  |percentage = 31.8
+  |change     = +6.2
+}}
+{{Election box turnout|
+  |votes      = 5,696
+  |percentage = 75.4
+  |change     = +39.9
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +3.1
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 14 (Ashton-in-Makerfield Central and East)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = R. McEntegart
+  |votes      = 3,815
+  |percentage = 55.1
+  |change     = -1.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = S. Hibbert
+  |votes      = 3,110
+  |percentage = 44.9
+  |change     = +1.6
+}}
+{{Election box majority|
+  |votes      = 705
+  |percentage = 10.2
+  |change     = -3.2
+}}
+{{Election box turnout|
+  |votes      = 6,925
+  |percentage = 75.0
+  |change     = +42.5
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = Liberal Party (UK)
+  |swing      = -1.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 15 ([[Standish, Greater Manchester|Standish]] with Langtree and [[Shevington]])<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK)
+  |candidate  = J. Pigott
+  |votes      = 4,043
+  |percentage = 40.7
+  |change     = +18.9
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Hardy
+  |votes      = 3,327
+  |percentage = 33.5
+  |change     = -6.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = E. Howard
+  |votes      = 2,555
+  |percentage = 25.7
+  |change     = -12.6
+}}
+{{Election box majority|
+  |votes      = 716
+  |percentage = 7.2
+  |change     = +5.8
+}}
+{{Election box turnout|
+  |votes      = 9,925
+  |percentage = 80.7
+  |change     = +38.5
+}}
+{{Election box gain with party link |
+  |winner     = Liberal Party (UK)
+  |loser      = Labour Party (UK)
+  |swing      = +12.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 16 ([[Aspull]])<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = A. Singer
+  |votes      = 3,860
+  |percentage = 47.8
+  |change     = +1.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Blackledge
+  |votes      = 3,122
+  |percentage = 38.7
+  |change     = -9.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK)
+  |candidate  = E. Hill
+  |votes      = 1,093
+  |percentage = 13.5
+  |change     = +7.5
+}}
+{{Election box majority|
+  |votes      = 738
+  |percentage = 9.1
+  |change     = +7.1
+}}
+{{Election box turnout|
+  |votes      = 8,075
+  |percentage = 80.5
+  |change     = +38.8
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +5.5
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 17 ([[Atherton, Greater Manchester|Atherton]] North East)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = W. Murphy
+  |votes      = 4,712
+  |percentage = 65.9
+  |change     = -6.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Sharland
+  |votes      = 2,434
+  |percentage = 34.1
+  |change     = +6.2
+}}
+{{Election box majority|
+  |votes      = 2,278
+  |percentage = 31.8
+  |change     = -12.4
+}}
+{{Election box turnout|
+  |votes      = 7,146
+  |percentage = 73.5
+  |change     = +39.4
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = -6.2
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 18 (Atherton South West)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = J. Sumner
+  |votes      = 2,891
+  |percentage = 56.3
+  |change     = +8.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = W. Perrin
+  |votes      = 2,246
+  |percentage = 43.7
+  |change     = -8.8
+}}
+{{Election box majority|
+  |votes      = 645
+  |percentage = 12.5
+  |change     = +7.5
+}}
+{{Election box turnout|
+  |votes      = 5,137
+  |percentage = 77.8
+  |change     = +35.7
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = +8.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 19 ([[Hindley, Greater Manchester|Hindley]] Central and North)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = A. Robinson
+  |votes      = 3,826
+  |percentage = 68.2
+  |change     = -0.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Lunt
+  |votes      = 1,457
+  |percentage = 26.0
+  |change     = -5.5
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK)
+  |candidate  = P. Gibbons
+  |votes      = 328
+  |percentage = 5.8
+  |change     = +5.8
+}}
+{{Election box majority|
+  |votes      = 2,369
+  |percentage = 42.2
+  |change     = +5.2
+}}
+{{Election box turnout|
+  |votes      = 5,611
+  |percentage = 75.8
+  |change     = +44.9
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +2.6
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 20 (Hindley South East and West)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = T. Wynn
+  |votes      = 5,214
+  |percentage = 62.2
+  |change     = +6.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = J. Culshaw
+  |votes      = 3,167
+  |percentage = 37.8
+  |change     = -6.4
+}}
+{{Election box majority|
+  |votes      = 2,047
+  |percentage = 24.4
+  |change     = +12.8
+}}
+{{Election box turnout|
+  |votes      = 8,381
+  |percentage = 75.4
+  |change     = +47.1
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = +6.4
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 21 ([[Ince-in-Makerfield]])<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = A. Banks
+  |votes      = 5,627
+  |percentage = 73.7
+  |change     = +2.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Jones
+  |votes      = 2,008 
+  |percentage = 26.3
+  |change     = -2.0
+}}
+{{Election box majority|
+  |votes      = 3,619
+  |percentage = 47.4
+  |change     = +3.9
+}}
+{{Election box turnout|
+  |votes      = 7,635
+  |percentage = 69.5
+  |change     = +37.7
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +2.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 22 ([[Orrell, Greater Manchester|Orrell]] and [[Higher End|Billinge]])<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = F. Fairbarn
+  |votes      = 4,958
+  |percentage = 42.1
+  |change     = -13.2
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = R. Capstick
+  |votes      = 4,198
+  |percentage = 35.6
+  |change     = -9.1
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = M. Fox
+  |votes      = 4,040
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = E. Nickeas
+  |votes      = 3,567
+  |percentage = 
+  |change     = 
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Party (UK)
+  |candidate  = J. Fitzpatrick
+  |votes      = 1,542
+  |percentage = 13.1
+  |change     = +13.1
+}}
+{{Election box candidate with party link|
+  |party      = Residents Association
+  |candidate  = C. Hughes
+  |votes      = 1,084
+  |percentage = 9.2
+  |change     = +9.2
+}}
+{{Election box majority|
+  |votes      = 760
+  |percentage = 6.5
+  |change     = -4.1
+}}
+{{Election box turnout|
+  |votes      = 11,782
+  |percentage = 84.4
+  |change     = +48.7
+}}
+{{Election box hold with party link |
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box gain with party link |
+  |winner     = Labour Party (UK)
+  |loser      = Conservative Party (UK)
+  |swing      = +2.0
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 23 ([[Tyldesley]] - Shakerley)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = F. Hampson
+  |votes      = 3,220
+  |percentage = 50.8
+  |change     = +2.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = H. Davies
+  |votes      = 3,114
+  |percentage = 49.2
+  |change     = -2.8
+}}
+{{Election box majority|
+  |votes      = 662
+  |percentage = 9.5
+  |change     = +5.6
+}}
+{{Election box turnout|
+  |votes      = 6,966
+  |percentage = 76.6
+  |change     = +39.1
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +2.8
+}}
+{{Election box end}}
+
+{{Election box begin | title=Ward 24 (Tyldesley - Astley Green and Blackmoor)<ref name="results" />}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = F. Hampson
+  |votes      = 3,220
+  |percentage = 50.8
+  |change     = +1.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = H. Davies
+  |votes      = 3,114
+  |percentage = 49.2
+  |change     = -1.8
+}}
+{{Election box majority|
+  |votes      = 106
+  |percentage = 1.6
+  |change     = -0.3
+}}
+{{Election box turnout|
+  |votes      = 6,334
+  |percentage = 80.4
+  |change     = +39.0
+}}
+{{Election box hold with party link |
+  |winner     = Labour Party (UK)
+  |swing      = +1.8
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+
+{{United Kingdom local elections, 1979 |state=expanded}}
+{{Wigan Council elections}}
+
+[[Category:1979 English local elections]]
+[[Category:Wigan Council elections|1979]]
+[[Category:1970s in Greater Manchester]]

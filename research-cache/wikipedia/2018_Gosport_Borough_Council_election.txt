@@ -1,0 +1,348 @@
+{{Short description|2018 UK local government election}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| election_name = 2018 Gosport Borough Council Election
+| next_year = [[2021 Gosport Borough Council election|2021]]
+| seats_for_election = 17 of 34 seats to [[Gosport Borough Council]]
+| type = Parliamentary
+| ongoing = no
+| party_colour = yes
+| previous_election = [[2016 Gosport Borough Council election]]
+| previous_year = [[2016 Gosport Borough Council election|2016]]
+| next_election = [[2021 Gosport Borough Council election]]
+| majority_seats = 18
+| percentage1 = 22.9%
+| before_election = [[Conservative Party (UK)|Conservative]]
+| election_date = 3 May 2018
+| turnout = 
+| party1 = Liberal Democrats (UK)
+| seats1 = 9
+| seats_before1 = 9
+| country = England
+| popular_vote1 = 4,710
+| seat_change1 = {{increase}}4
+| seats2 = 8
+| seats_after1 = 14
+| party3 = Labour Party (UK)
+| seats_after2 = '''18'''
+| seats_after3 = 2
+| seats_before3 = 4
+| seats_before2 = 19
+| seat_change2 = {{decrease}}1
+| popular_vote2 = 10,673
+| percentage2 = 51.8%
+| seats3 = 1
+| posttitle = Council control after election
+| seat_change3 = {{decrease}}2
+| party2 = Conservative Party (UK)
+| popular_vote3 = 4,608
+| percentage3 = 22.4%
+| map_image = Gosport UK local election 2018 map.svg
+| map_size = 
+| map_caption = 
+| title = Council control
+| after_election = [[Conservative Party (UK)|Conservative]]
+}}The '''2018 Gosport Borough Council election''' took place on 3 May 2018 to elect members of [[Gosport Borough Council]] in England.<ref name="BBC">{{Cite web|url=https://www.bbc.co.uk/news/newsbeat-43960799 |title=Local elections: Your guide to the vote in England |access-date=25 January 2019 |work=BBC News}}</ref> This was on the same day as other [[2018 United Kingdom local elections|local elections]]. The election saw the Liberal Democrats gain four seats: two from Labour, and one each from the Conservatives and UKIP. This reduced the Conservative Majority to one, remaining in control of the council, whilst UKIP lost their sole seat, in the Rowner and Holbrook ward.
+
+==Voter ID trial==
+
+Gosport was one of five boroughs in England operating a voter ID trial, whereby voters had to bring a form of identification with them in order to vote.<ref name="Guardian">{{Cite web|url=https://www.theguardian.com/politics/2018/apr/29/england-voter-id-trial-discrimination-fears-electoral-fraud |title=England voter ID trial 'a solution in search of a problem' |access-date=28 March 2019 |work=The Guardian}}</ref> There was some criticism of the pilot by local politicians ahead of the vote,<ref>{{cite news |first=Richard |last=Percival |url=https://www.dailyecho.co.uk/news/15541594.revealed-gosport-borough-to-introduce-id-for-voters-in-elections-from-2018-and-other-hampshire-boroughs-could-soon-follow/ |title=REVEALED: Gosport borough to Introduce ID for voters in elections from 2018 and other Hampshire borough's could soon follow |work=[[Southern Daily Echo]] |location=Southampton |date=18 September 2017}}</ref> and in the event 54 people were unable to vote as a result of the trial.<ref name="BBC News">{{Cite web|url=https://www.bbc.co.uk/news/uk-england-44197338 |title=Voter ID: 340 did not vote after failing to show documents |access-date=28 March 2019 |work=BBC News}}</ref> The [[Electoral Commission]] concluded from the study that "our findings suggest that the 2018 local elections in Gosport were not significantly affected by the voter ID pilot in either its impact on voters or on the administration of the poll. However, it is important to be cautious when drawing conclusions from this pilot about the impact of any wider application of voter ID."<ref>{{cite report |author=[[Electoral Commission (United Kingdom)|Electoral Commission]] |url=https://www.electoralcommission.org.uk/__data/assets/pdf_file/0003/244956/Voter-identification-pilot-Gosport-evaluation.pdf |title=Gosport May 2018 voter identification pilot evaluation |year=2018}}</ref>
+
+==Results summary==
+{{Election summary begin|title = Gosport Borough Council election 2018<ref name="BBC - Gosport Borough Council">{{Cite web|url=https://www.bbc.co.uk/news/topics/c7ry2v83060t |title=Gosport Borough Council |access-date=28 March 2019 |work=BBC}}</ref>}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 8
+  |gain       = 1
+  |loss       = 2
+  |net        = {{decrease}}1
+  |seats %    = 44.4
+  |votes %    = 51.8
+  |votes      = 10,673
+  |plus/minus = {{decrease}}1.1
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 9
+  |gain       = 4
+  |loss       = 0
+  |net        = {{increase}}4
+  |seats %    = 50.0
+  |votes %    = 22.9
+  |votes      = 4,710
+  |plus/minus = {{increase}}6.6
+}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 2
+  |net        = {{decrease}}2
+  |seats %    = 5.6
+  |votes %    = 22.4
+  |votes      = 4,608
+  |plus/minus = {{decrease}}2.2
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales 
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats %    = 0.0
+  |votes %    = 2.3
+  |votes      = 477
+  |plus/minus = {{decrease}}0.3
+}}
+{{Election summary party|
+  |party      = Independent (politician)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = {{steady}}
+  |seats %    = 0.0
+  |votes %    = 0.4
+  |votes      = 77
+  |plus/minus = {{steady}}
+}}
+{{Election summary party|
+  |party      = United Kingdom Independence Party
+  |seats      = 0
+  |gain       = 0
+  |loss       = 1
+  |net        = {{decrease}}1
+  |seats %    = 0.0
+  |votes %    = 0.3
+  |votes      = 63
+  |plus/minus = {{decrease}}2.9
+}}
+{{Election box end}}
+
+== Ward results ==
+<ref name="Gosport Borough Council">{{Cite web|url=http://democracy.gosport.gov.uk/mgElectionResults.aspx?ID=2&V=1&RPID=371051 |title=2018 Gosport Borough Council Elections |access-date=10 February 2019 |work=Gosport Borough Council}}</ref>
+
+===Alverstoke===
+{{Election box begin | title=Alverstoke}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Kevin Casey|votes=1,145|percentage=78.8|change={{increase}}3.5}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Jonathan Eaton|votes=308|percentage=21.2|change={{decrease}}3.5}}
+{{Election box majority||votes=837|percentage=57.6|change={{increase}}7.0}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Anglesey===
+{{Election box begin | title=Anglesey}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Alan Scard|votes=1,011|percentage=71.3|change={{decrease}}3.3}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Paul Noakes|votes=327|percentage=28.7|change={{increase}}3.3}}
+{{Election box majority||votes=684|percentage=42.6|change={{decrease}}6.6}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bridgemary North===
+{{Election box begin | title=Bridgemary North}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Martin Pepper|votes=574|percentage=53.1|change={{increase}}53.1}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Peter Batty|votes=278|percentage=25.7|change={{decrease}}2.3}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Alan Durrant|votes=228|percentage=21.1|change={{decrease}}50.9}}
+{{Election box majority||votes=296|percentage=27.4|change={{decrease}}16.6}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Bridgemary South===
+{{Election box begin | title=Bridgemary South}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Linda Batty|votes=445|percentage=43.2|change={{decrease}}10.3}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=James Fox|votes=300|percentage=29.2|change={{decrease}}17.3}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Stephen Marshall|votes=284|percentage=27.6|change={{increase}}27.6}}
+{{Election box majority||votes=145|percentage=14.0|change={{increase}}7.0}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Brockhurst===
+{{Election box begin | title=Brockhurst}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Austin Hicks|votes=452|percentage=41.2|change={{decrease}}15.5}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Simon Bellord|votes=381|percentage=34.8|change={{increase}}7.1}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Stephanie Brazier|votes=144|percentage=13.1|change={{increase}}3.6}}
+{{Election box candidate with party link||party=UK Independence Party|candidate=David Foster|votes=63|percentage=5.7|change={{increase}}5.7}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Jane Staffieri|votes=56|percentage=5.1|change={{decrease}}0.9}}
+{{Election box majority||votes=72|percentage=6.4|change={{decrease}}22.6}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Christchurch===
+{{Election box begin | title=Christchurch}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Julie Westerby|votes=575|percentage=45.5|change={{increase}}1.5}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Wayne Ronayne|votes=403|percentage=31.9|change={{decrease}}4.4}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Chris Percival|votes=285|percentage=22.6|change={{increase}}5.9}}
+{{Election box majority||votes=172|percentage=13.6|change={{increase}}2.9}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Elson===
+{{Election box begin | title=Elson}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Susan Ballard|votes=703|percentage=61.5|change={{increase}}6.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Craig Hazel|votes=304|percentage=26.6|change={{decrease}}8.1}}
+{{Election box candidate with party link||party=Independent (politician)|candidate=Alan Neville|votes=77|percentage=6.7|change={{increase}}6.7}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Emma Smith|votes=59|percentage=5.2|change={{decrease}}5.3}}
+{{Election box majority||votes=399|percentage=34.9|change={{increase}}14.8}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Forton===
+{{Election box begin | title=Forton}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Clive Foster-Reed|votes=411|percentage=46.4|change={{increase}}12.4}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Gary Walker|votes=254|percentage=28.7|change={{increase}}9.7}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Daniel Smith|votes=180|percentage=20.3|change={{increase}}0.8}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Monica Cassidy|votes=40|percentage=4.5|change={{increase}}4.5}}
+{{Election box majority||votes=157|percentage=17.7|change={{increase}}3.9}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Grange===
+{{Election box begin | title=Grange}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Tony Jessop|votes=485|percentage=62.5|change={{increase}}22.4}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Hetty Ollivant|votes=198|percentage=25.5|change={{increase}}9.9}}
+{{Election box candidate with party link||party=Liberal Democrats (UK)|candidate=Lynne Pyle|votes=93|percentage=12.0|change={{decrease}}7.3}}
+{{Election box majority||votes=287|percentage=37.0|change={{increase}}21.9}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Hardway===
+{{Election box begin | title=Hardway}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=James Hutchison|votes=718|percentage=52.0|change={{increase}}24.9}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Roger Allen|votes=522|percentage=37.8|change={{decrease}}18.2}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Mark Smith|votes=142|percentage=10.3|change={{decrease}}6.6}}
+{{Election box majority||votes=196|percentage=14.2|change={{decrease}}14.7}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Lee East===
+{{Election box begin | title=Lee East}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Piers Bateman|votes=1,133|percentage=71.9|change={{increase}}0.1}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Caroline Osborne|votes=443|percentage=28.1|change={{increase}}9.7}}
+{{Election box majority||votes=690|percentage=43.8|change={{decrease}}9.6}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Lee West===
+{{Election box begin | title=Lee West}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Chris Carter|votes=1,447|percentage=80.8|change={{increase}}3.4}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Jill Whitcher|votes=344|percentage=19.2|change={{increase}}7.4}}
+{{Election box majority||votes=1,103|percentage=61.6|change={{decrease}}4.0}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Leesland===
+{{Election box begin | title=Leesland}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Peter Chegwyn|votes=544|percentage=46.1|change={{increase}}3.6}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=David Herridge|votes=439|percentage=37.2|change={{decrease}}5.3}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Rebecca Stares|votes=370|percentage=31.4|change={{decrease}}1.6}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Natasha Hook|votes=336|percentage=28.5|change={{decrease}}4.5}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Sam Pollard|votes=222|percentage=18.8|change={{increase}}6.8}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Alison Mandrill|votes=151|percentage=12.8|change={{increase}}0.3}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Charis Noakes|votes=119|percentage=10.1|change={{decrease}}2.4}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=David Sekules|votes=106|percentage=9.0|change={{decrease}}3.0}}
+{{Election box majority||votes=69|percentage=5.8|change={{decrease}}3.7}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box hold with party link|
+  |winner     = Liberal Democrats (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Peel Common===
+{{Election box begin | title=Peel Common}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Lynn Hook|votes=883|percentage=74.7|change={{decrease}}3.4}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Martyn Davis|votes=299|percentage=25.3|change={{increase}}3.4}}
+{{Election box majority||votes=584|percentage=49.4|change={{decrease}}6.8}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Privett===
+{{Election box begin | title=Privett}}
+{{Election box winning candidate with party link||party=Conservative Party (UK)|candidate=Sean Blackman|votes=752|percentage=63.4|change={{decrease}}7.4}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Annelies James|votes=276|percentage=23.3|change={{decrease}}5.9}}
+{{Election box candidate with party link||party=Green Party of England and Wales|candidate=Russell Thomas|votes=159|percentage=13.4|change={{increase}}13.4}}
+{{Election box majority||votes=476|percentage=40.1|change={{decrease}}1.5}}
+{{Election box hold with party link|
+  |winner     = Conservative Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+===Rowner and Holbrook===
+{{Election box begin | title=Rowner and Holbrook}}
+{{Election box winning candidate with party link||party=Liberal Democrats (UK)|candidate=Murray Johnston|votes=356|percentage=43.7|change={{increase}}43.7}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Patrick Bergin|votes=349|percentage=42.8|change={{decrease}}6.0}}
+{{Election box candidate with party link||party=Labour Party (UK)|candidate=Tim Ryan|votes=110|percentage=13.5|change={{decrease}}8.2}}
+{{Election box majority||votes=7|percentage=0.9|change={{decrease}}18.4}}
+{{Election box gain with party link|
+  |winner     = Liberal Democrats (UK)
+  |loser     = UK Independence Party
+  |swing      = 
+}}
+{{Election box end}}
+
+===Town===
+{{Election box begin | title=Town}}
+{{Election box winning candidate with party link||party=Labour Party (UK)|candidate=June Cully|votes=814|percentage=61.4|change={{increase}}10.6}}
+{{Election box candidate with party link||party=Conservative Party (UK)|candidate=Lesley Meenaghan|votes=511|percentage=38.6|change={{increase}}2.1}}
+{{Election box majority||votes=303|percentage=22.8|change={{decrease}}8.6}}
+{{Election box hold with party link|
+  |winner     = Labour Party (UK)
+  |swing      = 
+}}
+{{Election box end}}
+
+== References ==
+{{reflist}}
+
+{{Hampshire elections}}
+{{United Kingdom local elections, 2018}}
+
+[[Category:2018 English local elections|Gosport]]
+[[Category:Gosport Borough Council elections]]
+[[Category:2010s in Hampshire]]

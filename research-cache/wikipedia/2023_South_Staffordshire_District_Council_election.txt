@@ -1290,6 +1290,17 @@ A by-election was held on 26 June 2025 to fill a casual vacancy in the ward.
 {{Election box hold with party link|winner=Conservative Party (UK)|loser=|swing=}}
  {{Election box end}}
 
+==== Huntington & Hatherton ====
+
+{{Election box begin|title=Huntington & Hatherton by-election : 19 November 2026<ref>https://whocanivotefor.co.uk/elections/local.south-staffordshire.huntington-hatherton.by.2026-11-19/huntington-hatherton/</ref>}}
+{{Election box candidate with party link|party=Labour Party (UK)|candidate=Daniel Costigan|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Reform UK|candidate=Craig Humphreyson|votes=|percentage=|change=}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Nathaniel Williams|votes=|percentage=|change=}}
+{{Election box majority|votes=|percentage=|change=}}
+{{Election box turnout|votes=|percentage=|change=}}
+{{Election box hold with party link|winner=|loser=|swing=}}
+ {{Election box end}}
+
 == References ==
 {{notelist}}
 {{Reflist}}
