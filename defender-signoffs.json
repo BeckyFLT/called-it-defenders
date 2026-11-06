@@ -212,5 +212,85 @@
     "note": "2024-25 audit correction (was Independent): resignation of Syeda Kazmi, elected Labour 2022. LEAP: Ind gain from Lab.",
     "correction": true,
     "decidedAt": "2026-08-17"
+  },
+  {
+    "ballotPaperId": "local.west-suffolk.haverhill-west.by.2026-09-10",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_West_Suffolk_District_Council_election",
+    "note": "Resignation of Conservative councillor Margaret Marks, elected Haverhill West at the 2023 West Suffolk District Council election; LEAP shows a hold, no gain/hold notation issue.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.tunbridge-wells.cranbrook-sissinghurst-frittenden.by.2026-09-23",
+    "partyId": "PP6711",
+    "partyName": "Tunbridge Wells Alliance",
+    "source": "https://en.wikipedia.org/wiki/2024_Tunbridge_Wells_Borough_Council_election",
+    "note": "Resignation of Nancy Warne, elected Tunbridge Wells Alliance in the 3-seat Cranbrook, Sissinghurst & Frittenden ward at the 2024 all-up election. LEAP: 'LD gain from Tunbridge Wells Alliance' confirms a direct TWA-to-LD seat loss, no defection.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.windsor-and-maidenhead.bray.by.2026-09-24",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_Windsor_and_Maidenhead_Borough_Council_election",
+    "note": "Death of Conservative councillor Leo Walters, elected Bray in 2023 after representing the ward for over 50 years.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.amber-valley.kilburn-denby-holbrook-horsley.by.2026-10-08",
+    "partyId": "PP52",
+    "partyName": "Conservative and Unionist Party",
+    "source": "https://en.wikipedia.org/wiki/2023_Amber_Valley_Borough_Council_election",
+    "note": "Resignation of Conservative councillor Julie Whitmore, elected 2023; Wikipedia states the cause directly.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.lambeth.myatts-fields.by.2026-10-08",
+    "partyId": "joint-party:53-119",
+    "partyName": "Labour and Co-operative Party",
+    "source": "https://en.wikipedia.org/wiki/2026_Lambeth_London_Borough_Council_election",
+    "note": "Death of Annie Gallop, elected Labour Co-operative in Myatt's Fields at the May 2026 election.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.newcastle-under-lyme.town.by.2026-10-08",
+    "partyId": "PP7931",
+    "partyName": "Reform UK",
+    "source": "https://en.wikipedia.org/wiki/2026_Newcastle-under-Lyme_Borough_Council_election",
+    "note": "Resignation of Reform UK councillor Christine Duffy, elected in the Town ward (2 seats) in May 2026.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.carmarthenshire.saron.by.2026-10-22",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "source": "https://en.wikipedia.org/wiki/2022_Carmarthenshire_County_Council_election",
+    "note": "Death of Peter Cooper, elected Welsh Labour in the 2-seat Saron ward at the 2022 election; consistent with LEAP's 'PC gain from Lab' notation, no evidence of defection.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.leeds.calverley-farsley.by.2026-10-22",
+    "partyId": "PP53",
+    "partyName": "Labour Party",
+    "source": "https://en.wikipedia.org/wiki/2019_Leeds_City_Council_election",
+    "note": "Resignation of Peter Carlill, elected plain Labour Party (not Labour Co-op) in Calverley & Farsley at the 2019 election, confirmed by both the Wikipedia results box and LEAP's 'C gain from Lab' notation. Not in the ballot's provided options (joint-party:53-119/PP52) but recorded per the previous-winner-record exception, since his as-elected party is clearly documented.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.south-kesteven.grantham-st-wulframs.by.2026-10-22",
+    "partyId": "ynmp-party:2",
+    "partyName": "Independent",
+    "source": "https://en.wikipedia.org/wiki/2023_South_Kesteven_District_Council_election",
+    "note": "Resignation of Independent councillor Tim Harrison, elected in Grantham St Wulfram's (2 seats) in 2023; Wikipedia's by-election note names him and his party directly.",
+    "decidedAt": "2026-11-06"
+  },
+  {
+    "ballotPaperId": "local.dudley.st-jamess.by.2026-10-29",
+    "partyId": "PP7931",
+    "partyName": "Reform UK",
+    "source": "https://en.wikipedia.org/wiki/2026_Dudley_Metropolitan_Borough_Council_election",
+    "note": "Resignation of Ivor Robinson, elected Reform UK in St James's at the May 2026 election; consistent with LEAP's 'Lab gain from RUK' notation, no defection.",
+    "decidedAt": "2026-11-06"
   }
 ]
