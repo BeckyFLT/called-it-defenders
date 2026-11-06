@@ -1936,15 +1936,19 @@ The ward elected two councillors after [[Cat Eccles]] (Labour), who had also ser
 ==Post-election changes==
 
 ===St James's by-election===
-{{Election box begin|title=St James's by-election: 29 October 2026<ref>https://whocanivotefor.co.uk/elections/local.dudley.st-jamess.by.2026-10-29/st-jamess/</ref>}}
-{{Election box candidate with party link|party=Reform UK|candidate=Chris Chivers|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Sam Firmstone|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Restore Britain|candidate=Tristan Owens|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Katherine Poole|votes=|percentage=|change=}}
-{{Election box candidate with party link|party=Labour Party (UK)|candidate=Caroline Reid|votes=|percentage=|change=}}
-{{Election box majority|votes=|percentage=|change=}}
-{{Election box turnout|votes=|percentage=|change=}}
-{{Election box hold with party link|winner=|loser=|swing=}}
+{{Election box begin|title=St James's by-election: 29 October 2026<ref>https://whocanivotefor.co.uk/elections/local.dudley.st-jamess.by.2026-10-29/st-jamess/</ref><ref>https://www.dudley.gov.uk/council-community/elections/results-of-elections/st-jamess-ward-by-election-2026/</ref>}}
+{{Election box winning candidate with party link|party=Labour Party (UK)|candidate=Caroline Reid|votes=874|percentage=37.9|change=+16.1}}
+{{Election box candidate with party link|party=Reform UK|candidate=Chris Chivers|votes=872|percentage=37.8|change=-11.1}}
+{{Election box candidate with party link|party=Conservative Party (UK)|candidate=Sam Firmstone|votes=317|percentage=13.8|change=-0.1}}
+{{Election box candidate with party link|party=Restore Britain|candidate=Tristian Owens|votes=159|percentage=6.9|change=''N/A''}}
+{{Election box candidate with party link|party=Green Party of England and Wales|candidate=Katherine Poole|votes=79|percentage=3.4|change=-7.2}}
+{{Election box majority|votes=2|percentage=0.1|change=''N/A''}}
+{{Election box rejected|votes=3|percentage=0.1|change=-0.2}}
+{{Election box turnout|votes=2,304|percentage=22.5|change=-10.4}}
+{{Election box registered electors
+|reg. electors =
+}}
+{{Election box gain with party link|winner=Labour Party (UK)|loser=Reform UK|swing=+13.6}}
  {{Election box end}}
 
 ==Notes==

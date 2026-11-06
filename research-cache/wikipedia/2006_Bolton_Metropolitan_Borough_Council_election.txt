@@ -1,0 +1,1021 @@
+{{Short description|none}}
+{{Use dmy dates|date=October 2022}}
+{{Use British English|date=November 2013}}
+{{Infobox election
+| election_name      = 2006 Bolton Metropolitan Borough Council election
+| country            = England
+| type               = Parliamentary
+| ongoing            = no
+| party_colour       = yes
+| previous_election  = [[2004 Bolton Metropolitan Borough Council election|2004]]
+| previous_year      = [[2004 Bolton Metropolitan Borough Council election|2004]]
+| next_election      = [[2007 Bolton Metropolitan Borough Council election|2007]]
+| next_year          = [[2007 Bolton Metropolitan Borough Council election|2007]]
+| seats_for_election = {{nowrap|20 of the 60 seats on [[Bolton Metropolitan Borough Council]]}}
+| majority_seats     = 31
+| election_date      = 4 May 2006
+
+<!-- Labour -->
+| image1 = 
+| party1 = Labour Party (UK)
+| seats1 = 10
+| seats_after1 = 22
+| seat_change1 = {{increase}} 2
+| popular_vote1 = 25,452
+| percentage1 = 37.7%
+| swing1 = {{increase}} 6.5%
+
+<!-- Conservative -->
+| image2 = 
+| party2 = Conservative Party (UK)
+| seats2 = 7
+| seats_after2 = 21
+| seat_change2 = {{increase}} 2
+| popular_vote2 = '''27,096'''
+| percentage2 = '''40.1%'''
+| swing2 = {{increase}} 4.5%
+
+<!-- Liberal Democrats -->
+| image3 = 
+| party3 = Liberal Democrats (UK)
+| seats3 = 3
+| seats_after3 = 17
+| seat_change3 = {{decrease}} 4
+| popular_vote3 = 12,789
+| percentage3 = 18.9%
+| swing3 = {{decrease}} 11.2%
+
+| map_image = File:Bolton UK local election 2006.svg|
+| map_size = 350px
+| map_caption = [[Labour Party (UK)|Labour]] in red, [[Conservative Party (UK)|Conservatives]] in blue and [[Liberal Democrats (UK)|Liberal Democrats]] in orange.
+
+| title = Council control
+| posttitle = Council control after election
+| before_election =
+| before_party = [[No overall control]]
+| after_election =
+| after_party = [[No overall control]]
+}}
+
+[[File:EnglandBolton.png|thumb|200px|The [[Metropolitan Borough of Bolton]] shown within England.]]
+'''Elections to [[Bolton Metropolitan Borough Council]]''' were held on 4 May 2006.  One third of the council was up for election and the council stayed under no overall control, with the [[Labour Party (UK)|Labour Party]] overtaking the [[Liberal Democrats (UK)|Liberal Democrats]] as the largest party and resuming control of the council after a two-year break.
+
+20 seats were contested, with the Labour Party winning 10 seats, the Conservatives 7 and the Liberal Democrats 3
+Overall turnout was 34.3%.
+
+After the election, the composition of the council was:
+*[[Labour Party (UK)|Labour]] 22
+*[[Conservative Party (UK)|Conservative]] 21
+*[[Liberal Democrats (UK)|Liberal Democrat]] 17
+
+==Election result==
+
+{{Election summary begin|title = Bolton local election result 2006}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = 10
+  |gain       = 2
+  |loss       = 0
+  |net        = +2
+  |seats %    = 50.0
+  |votes %    = 37.7
+  |votes      = 25,452
+  |plus/minus = +5.8
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = 7
+  |gain       = 2
+  |loss       = 0
+  |net        = +2
+  |seats %    = 35.0
+  |votes %    = 40.1
+  |votes      = 27,096
+  |plus/minus = +3.2
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 3
+  |gain       = 0
+  |loss       = 4
+  |net        = -4
+  |seats %    = 15.0
+  |votes %    = 18.9
+  |votes      = 12,789
+  |plus/minus = -11.0
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 2.2
+  |votes      = 1,500
+  |plus/minus = +1.9
+}}
+{{Election summary party|
+  |party      = Socialist Labour Party (UK)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.6
+  |votes      = 379
+  |plus/minus = +0.3
+}}
+{{Election summary party|
+  |party      = Veritas (political party)
+  |seats      = 0
+  |gain       = 0
+  |loss       = 0
+  |net        = 0
+  |seats %    = 0.0
+  |votes %    = 0.4
+  |votes      = 288
+  |plus/minus = +0.4
+}}
+{{Election box end}}
+
+==Council Composition==
+'''Prior to''' the election the composition of the council was:
+
+{| style="width:100%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:red; width:33.3%;" | '''20'''
+| style="background:dodgerblue; width:31.6%;" | '''19'''
+| style="background:#FDBB30; width:35%;" | '''21'''
+|-
+| <span style="color:red;">'''Labour'''</span>
+| <span style="color:dodgerblue;">'''Conservative'''</span>
+| <span style="color:#FDBB30;">'''Lib Dems'''</span>
+|}
+
+'''After''' the election the composition of the council was:
+
+{| style="width:100%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:red; width:36.6%;" | '''22'''
+| style="background:dodgerblue; width:35%;" | '''21'''
+| style="background:#FDBB30; width:28.3%;" | '''17'''
+|-
+| <span style="color:red;">'''Labour'''</span>
+| <span style="color:dodgerblue;">'''Conservative'''</span>
+| <span style="color:#FDBB30;">'''Lib Dems'''</span>
+|}
+
+==Ward results==
+===Astley Bridge ward===
+{{Election box begin | title=Astley Bridge ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Walsh
+  |votes      = 2,424
+  |percentage = 65.3
+  |change     = +3.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Muhammad Rafiq
+  |votes      = 686
+  |percentage = 18.5
+  |change     = -1.0
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Jaleh Salari
+  |votes      = 351
+  |percentage = 9.5
+  |change     = -8.7
+}}
+{{Election box candidate with party link|
+  |party      = Socialist Labour Party (UK)
+  |candidate  = Howard Broadbent
+  |votes      = 250
+  |percentage = 6.7
+  |change     = +6.7
+}}
+{{Election box majority|
+  |votes      = 1,738
+  |percentage = 46.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,711
+  |percentage = 36.0
+  |change     = -4.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = LD to Soc Lab 7.7
+}}
+{{Election box end}}
+
+===Bradshaw ward===
+{{Election box begin | title=Bradshaw ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Paul Brierley
+  |votes      = 2,319
+  |percentage = 64.3
+  |change     = +4.8
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Janice Sutton
+  |votes      = 751
+  |percentage = 20.8
+  |change     = -0.2
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Stephen Howarth
+  |votes      = 539
+  |percentage = 14.9
+  |change     = -4.6
+}}
+{{Election box majority|
+  |votes      = 1,568
+  |percentage = 43.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,609
+  |percentage = 39.0
+  |change     = -6.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = LD to Con 4.7
+}}
+{{Election box end}}
+
+===Breightmet ward===
+{{Election box begin | title=Breightmet ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Lynda Byrne
+  |votes      = 1,435
+  |percentage = 45.6
+  |change     = +4.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Richard Elliot
+  |votes      = 1,358
+  |percentage = 43.2
+  |change     = +0.7
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Edward Hill
+  |votes      = 351
+  |percentage = 11.2
+  |change     = -4.6
+}}
+{{Election box majority|
+  |votes      = 77
+  |percentage = 2.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,144
+  |percentage = 31.0
+  |change     = -4.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = LD to Labour 4.3
+}}
+{{Election box end}}
+
+===Bromley Cross ward===
+{{Election box begin | title=Bromley Cross ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Greenhalgh
+  |votes      = 2,725
+  |percentage = 65.0
+  |change     = -0.2
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Anthony Terrible
+  |votes      = 712
+  |percentage = 17.0
+  |change     = -2.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Clive Atty
+  |votes      = 462
+  |percentage = 11.0
+  |change     = -4.4
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Elizbaeth Spencer
+  |votes      = 297
+  |percentage = 7.1
+  |change     = +7.1
+}}
+{{Election box majority|
+  |votes      = 2,013
+  |percentage = 47.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,191
+  |percentage = 40.0
+  |change     = -8.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = LD to Green 5.7
+}}
+{{Election box end}}
+
+===Crompton ward===
+{{Election box begin | title=Crompton ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sufrana Bashir-Ismail
+  |votes      = 1,932
+  |percentage = 44.7
+  |change     = +21.8
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Valibhai Patel
+  |votes      = 1,132
+  |percentage = 26.2
+  |change     = -25.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Donald Fairclough
+  |votes      = 941
+  |percentage = 21.8
+  |change     = +0.1
+}}
+{{Election box candidate with party link|
+  |party      = Veritas (political party)
+  |candidate  = Anthony Backhouse
+  |votes      = 190
+  |percentage = 4.4
+  |change     = +4.4
+}}
+{{Election box candidate with party link|
+  |party      = Socialist Labour Party (UK)
+  |candidate  = Lynne Lowe
+  |votes      = 129
+  |percentage = 3.0
+  |change     = +1.2
+}}
+{{Election box majority|
+  |votes      = 800
+  |percentage = 18.5
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,324
+  |percentage = 43.0
+  |change     = +0.0
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Liberal Democrats (UK)
+  |swing      = LD to Labour 23.7
+}}
+{{Election box end}}
+
+===Farnworth ward===
+{{Election box begin | title=Farnworth ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Noel Spencer
+  |votes      = 1,296
+  |percentage = 58.9
+  |change     = +7.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Peter Taylor
+  |votes      = 509
+  |percentage = 23.1
+  |change     = +1.6
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = David Connor
+  |votes      = 394
+  |percentage = 17.9
+  |change     = -9.1
+}}
+{{Election box majority|
+  |votes      = 787
+  |percentage = 35.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,199
+  |percentage = 21.0
+  |change     = -6.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = LD to Labour 8.2
+}}
+{{Election box end}}
+
+===Great Lever ward===
+{{Election box begin | title=Great Lever ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Mohammed Ayub
+  |votes      = 1,889
+  |percentage = 58.7
+  |change     = +19.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Christine Wild
+  |votes      = 669
+  |percentage = 20.8
+  |change     = -19.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Gulamali Jiva
+  |votes      = 335
+  |percentage = 10.4
+  |change     = -10.2
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Alan Johnson
+  |votes      = 327
+  |percentage = 10.2
+  |change     = +10.2
+}}
+{{Election box majority|
+  |votes      = 1,220
+  |percentage = 37.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,220
+  |percentage = 34.0
+  |change     = -4.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = Con to Labour 19.4
+}}
+{{Election box end}}
+
+===Halliwell ward===
+{{Election box begin | title=Halliwell ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Akhtar Zaman
+  |votes      = 2,289
+  |percentage = 69.4
+  |change     = +12.2
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Jamie Douglas
+  |votes      = 605
+  |percentage = 18.3
+  |change     = -2.1
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Nathan Biney
+  |votes      = 404
+  |percentage = 12.2
+  |change     = -10.2
+}}
+{{Election box majority|
+  |votes      = 1,684
+  |percentage = 51.1
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,298
+  |percentage = 34.0
+  |change     = -1.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = LD to Labour 11.2
+}}
+{{Election box end}}
+
+===Harper Green ward===
+{{Election box begin | title=Harper Green ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Laurence Williamson
+  |votes      = 1,194
+  |percentage = 49.4
+  |change     = +6.0
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Robert Tyler
+  |votes      = 768
+  |percentage = 31.8
+  |change     = +4.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Geoffrey Willis
+  |votes      = 454
+  |percentage = 18.8
+  |change     = -10.4
+}}
+{{Election box majority|
+  |votes      = 426
+  |percentage = 17.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,416
+  |percentage = 25.0
+  |change     = -5.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = LD to Labour 8.2
+}}
+{{Election box end}}
+
+===Heaton and Lostock ward===
+{{Election box begin | title=Heaton and Lostock ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Colin Shaw
+  |votes      = 3,329
+  |percentage = 69.0
+  |change     = +6.4
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = John Gillatt
+  |votes      = 828
+  |percentage = 17.2
+  |change     = -1.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Andrew Snowden
+  |votes      = 668
+  |percentage = 13.8
+  |change     = -5.0
+}}
+{{Election box majority|
+  |votes      = 2,501
+  |percentage = 51.8
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 4,825
+  |percentage = 46.0
+  |change     = -7.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = LD to Con 5.7
+}}
+{{Election box end}}
+
+===Horwich and Blackrod ward===
+{{Election box begin | title=Horwich and Blackrod ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Hollick
+  |votes      = 1,151
+  |percentage = 35.1
+  |change     = +3.7
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Isabel Seddon
+  |votes      = 1,105
+  |percentage = 33.7
+  |change     = +1.7
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = John Cronnolley
+  |votes      = 1,025
+  |percentage = 31.2
+  |change     = -5.4
+}}
+{{Election box majority|
+  |votes      = 46
+  |percentage = 1.4
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,281
+  |percentage = 35.0
+  |change     = -7.0
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Liberal Democrats (UK)
+  |swing      = LD to Con 4.5
+}}
+{{Election box end}}
+
+===Horwich North East ward===
+{{Election box begin | title=Horwich North East ward}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Stephen Rock
+  |votes      = 1,449
+  |percentage = 40.0
+  |change     = -16.4
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Stephen Wallen
+  |votes      = 1,169
+  |percentage = 32.3
+  |change     = +9.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Madeline Murray
+  |votes      = 1,004
+  |percentage = 27.7
+  |change     = +7.4
+}}
+{{Election box majority|
+  |votes      = 280
+  |percentage = 7.7
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,622
+  |percentage = 38.0
+  |change     = -8.0
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing = LD to Con 12.7
+}}
+{{Election box end}}
+
+===Hulton ward===
+{{Election box begin | title=Hulton ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Andrew Morgan
+  |votes      = 1,741
+  |percentage = 53.5
+  |change     = +9.2
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Romanna Kowalczuk
+  |votes      = 1,051
+  |percentage = 32.3
+  |change     = -1.9
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Linden Greensitt
+  |votes      = 463
+  |percentage = 14.2
+  |change     = -7.3
+}}
+{{Election box majority|
+  |votes      = 690
+  |percentage = 21.2
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,255
+  |percentage = 33.0
+  |change     = -8.0
+}}
+{{Election box hold with party link|
+ |winner = Conservative Party (UK)
+ |swing = LD to Con 8.2
+}}
+{{Election box end}}
+
+===Kearsley ward===
+{{Election box begin | title=Kearsley ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Derek Burrows
+  |votes      = 1,158
+  |percentage = 42.5
+  |change     = +10.4
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = William Collison
+  |votes      = 1,079
+  |percentage = 39.6
+  |change     = -16.6
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Diane Bamber
+  |votes      = 487
+  |percentage = 17.9
+  |change     = +6.3
+}}
+{{Election box majority|
+  |votes      = 79
+  |percentage = 2.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,724
+  |percentage = 28.0
+  |change     = -5.0
+}}
+{{Election box gain with party link|
+  |winner     = Labour Party (UK)
+  |loser      = Liberal Democrats (UK)
+  |swing      = LD to Labour 13.5
+}}
+{{Election box end}}
+
+===Little Lever and Darcy Lever ward===
+{{Election box begin | title=Little Lever and Darcy Lever ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Sean Hornby
+  |votes      = 1,573
+  |percentage = 42.0
+  |change     = +0.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = David Broadie
+  |votes      = 1,427
+  |percentage = 38.1
+  |change     = -0.1
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Alwynne Cartmell
+  |votes      = 345
+  |percentage = 9.2
+  |change     = +2.6
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Wendy Connor
+  |votes      = 298
+  |percentage = 8.0
+  |change     = -6.0
+}}
+{{Election box candidate with party link|
+  |party      = Veritas (political party)
+  |candidate  = William Jones
+  |votes      = 98
+  |percentage = 2.6
+  |change     = +2.6
+}}
+{{Election box majority|
+  |votes      = 146
+  |percentage = 3.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,741
+  |percentage = 40.0
+  |change     = -4.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = LD to Green 4.3
+}}
+{{Election box end}}
+
+===Rumworth ward===
+{{Election box begin | title=Rumworth ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Ismail Ibrahim
+  |votes      = 2,028
+  |percentage = 68.5
+  |change     = +22.5
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Heyes
+  |votes      = 932
+  |percentage = 31.5
+  |change     = +15.4
+}}
+{{Election box majority|
+  |votes      = 1,096
+  |percentage = 37.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,960
+  |percentage = 29.0 
+  |change     = -9.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = 
+}}
+{{Election box end}}
+
+===Smithills ward===
+{{Election box begin | title=Smithills ward}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Richard Silvester
+  |votes      = 1,621
+  |percentage = 42.4
+  |change     = -10.3
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Dennis Bray
+  |votes      = 1,345
+  |percentage = 35.1
+  |change     = +12.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Joseph Hayes
+  |votes      = 861
+  |percentage = 22.5
+  |change     = +3.6
+}}
+{{Election box majority|
+  |votes      = 276
+  |percentage = 7.3
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,827
+  |percentage = 38.0
+  |change     = -4.0
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing = LD to Con 11.3
+}}
+{{Election box end}}
+
+===Tonge with the Haulgh ward===
+{{Election box begin | title=Tonge with the Haulgh ward}}
+{{Election box winning candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Nicholas Peel
+  |votes      = 1,598
+  |percentage = 54.2
+  |change     = +1.7
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Mudasir Dean
+  |votes      = 874
+  |percentage = 29.6
+  |change     = -6.6
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Rosalind Harasiwka
+  |votes      = 252
+  |percentage = 8.5
+  |change     = -2.8
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = James Tomkinson
+  |votes      = 227
+  |percentage = 7.7
+  |change     = +7.7
+}}
+{{Election box majority|
+  |votes      = 724
+  |percentage = 24.6
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,951
+  |percentage = 31.0
+  |change     = -6.0
+}}
+{{Election box hold with party link|
+ |winner = Labour Party (UK)
+ |swing = Con to Green 7.1
+}}
+{{Election box end}}
+
+===Westhoughton North and Chew Moor ward===
+{{Election box begin | title=Westhoughton North & Chew Moor ward}}
+{{Election box winning candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = John Higson
+  |votes      = 1,486
+  |percentage = 43.1
+  |change     = +10.3
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = David Chadwick
+  |votes      = 1,146
+  |percentage = 33.2
+  |change     = +4.3
+}}
+{{Election box candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = James Gilfallan
+  |votes      = 515
+  |percentage = 14.9
+  |change     = -23.4
+}}
+{{Election box candidate with party link|
+  |party      = Green Party of England and Wales
+  |candidate  = Eric Hyland
+  |votes      = 304
+  |percentage = 8.8
+  |change     = +8.8
+}}
+{{Election box majority|
+  |votes      = 342
+  |percentage = 9.9
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 3,451
+  |percentage = 35.0
+  |change     = -8.0
+}}
+{{Election box gain with party link|
+  |winner     = Conservative Party (UK)
+  |loser      = Liberal Democrats (UK)
+  |swing      = LD to Con 16.8
+}}
+{{Election box end}}
+
+===Westhoughton South ward===
+{{Election box begin | title=Westhoughton South ward}}
+{{Election box winning candidate with party link|
+  |party      = Liberal Democrats (UK)
+  |candidate  = Julia Silvester
+  |votes      = 997
+  |percentage = 36.3
+  |change     = -11.0
+}}
+{{Election box candidate with party link|
+  |party      = Labour Party (UK)
+  |candidate  = Barbara Ramsden
+  |votes      = 916
+  |percentage = 33.3
+  |change     = +4.8
+}}
+{{Election box candidate with party link|
+  |party      = Conservative Party (UK)
+  |candidate  = Michael Baker
+  |votes      = 837
+  |percentage = 30.4
+  |change     = +6.2
+}}
+{{Election box majority|
+  |votes      = 81
+  |percentage = 3.0
+  |change     = 
+}}
+{{Election box turnout|
+  |votes      = 2,750
+  |percentage = 30.0
+  |change     = -6.0
+}}
+{{Election box hold with party link|
+ |winner = Liberal Democrats (UK)
+ |swing = LD to Con 8.6
+}}
+{{Election box end}}
+
+==References==
+{{Reflist}}
+* {{cite web |url=http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Bolton-1973-2012.pdf |title=Bolton Metropolitan Borough Council Election Results 1973–2012 |last1=Rallings |first1=Colin |last2=Thrasher |first2=Michael |website=The Elections Centre |publisher=The Elections Centre, Plymouth University |access-date=12 July 2016}}
+
+{{Greater Manchester elections}}
+{{United Kingdom local elections, 2006}}
+
+[[Category:Bolton Metropolitan Borough Council elections|2006]]
+[[Category:2006 English local elections|Bolton Metropolitan Borough Council election]]
+[[Category:2000s in Greater Manchester|Bolton Metropolitan Borough Council election, 2006]]

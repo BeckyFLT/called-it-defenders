@@ -1,0 +1,78 @@
+{{Short description|1995 UK local government election}}
+{{Use dmy dates|date=August 2019}}
+{{more citations needed|date=December 2017}}
+
+The '''1995 Redcar and Cleveland Borough Council election''' took place on 4 May 1995. The whole council was up for election as it was the first election since the formation of the Unitary Authority after replacing [[Langbaurgh (district)|Langbaurgh]] Borough Council. The [[Labour Party (UK)|Labour Party]] won the most seats and took overall control of the council.<ref>[http://www.electionscentre.co.uk/wp-content/uploads/2017/04/Redcar-Cleveland-1995-2012.pdf Redcar & Cleveland Council Election Results 1995-2012] Elections Centre</ref>
+
+==Election result== 
+{{Election Summary Begin|title = Redcar and Cleveland local election result 1995}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 49
+  |gain       = 18
+  |loss       = 2
+  |net        = +16
+  |seats %    = 83.1%
+  |votes %    = 58.1%
+  |votes      = 69,073
+  |plus/minus = +2,863
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 1
+  |gain       = 0
+  |loss       = 19
+  |net        = -19
+  |seats %    = 1.7%
+  |votes %    = 24.2%
+  |votes      = 28,808
+  |plus/minus = -8,806
+}}
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 7
+  |gain       = 2
+  |loss       = 1
+  |net        = +1
+  |seats %    = 11.9%
+  |votes %    = 13.5%
+  |votes      = 15,986
+  |plus/minus = -9,061
+}}
+{{Election Summary Party|
+  |party      = Independent (politician)
+  |seats      = 2
+  |gain       = 2
+  |loss       = 0
+  |net        = +2
+  |seats %    = 3.4%
+  |votes %    = 4.0%
+  |votes      = 4,791
+  |plus/minus = +2,467
+}}
+{{Election Summary Party|
+  |party      = Green Party of England and Wales
+  |seats      = 0
+  |gain       = 
+  |loss       = 
+  |net        = 
+  |seats %    = 
+  |votes %    = 0.1%
+  |votes      = 156
+  |plus/minus = -479
+}}
+
+{{Election box end}}
+
+==References==
+{{reflist}}
+
+{{North Yorkshire elections}}
+{{United Kingdom local elections, 1995}}
+
+[[Category:1995 English local elections]]
+[[Category:Redcar and Cleveland Borough Council elections|1995]]
+[[Category:1990s in North Yorkshire]]
+
+
+{{UK-election-stub}}

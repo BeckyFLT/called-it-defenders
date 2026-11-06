@@ -1114,6 +1114,41 @@ Changes 2024–2026:
 }}
  {{Election box end}}
 
+==Post-election changes==
+
+===Hardway by-election===
+{{Election box begin|title=Hardway by-election: 3 December 2026<ref>https://whocanivotefor.co.uk/elections/local.gosport.hardway.by.2026-12-03/hardway/</ref>}}
+{{Election box candidate with party link
+  |party      = Conservative Party (UK)
+  |candidate  = Darren Huggins
+  |votes      =
+  |percentage =
+  |change     =
+}}
+{{Election box candidate with party link
+  |party      = Reform UK
+  |candidate  = Terry McGregor
+  |votes      =
+  |percentage =
+  |change     =
+}}
+{{Election box majority
+  |votes      =
+  |percentage =
+  |change     =
+}}
+{{Election box turnout
+  |votes      =
+  |percentage =
+  |change     =
+}}
+{{Election box hold with party link
+  |winner     =
+  |loser      =
+  |swing      =
+}}
+ {{Election box end}}
+
 == References ==
 {{notelist}}
 {{Reflist}}

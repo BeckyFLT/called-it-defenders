@@ -1,0 +1,1920 @@
+{{Short description|2019 local election in Redcar & Cleveland}}
+{{Use dmy dates|date=February 2023}}
+{{Use British English|date=January 2023}}
+{{Infobox election
+| election_name = 2019 Redcar and Cleveland Borough Council election
+| type = parliamentary
+| country = England
+| ongoing = no
+| previous_election = 2015 Redcar and Cleveland Borough Council election
+| previous_year = 2015
+| next_election = 2023 Redcar and Cleveland Borough Council election
+| next_year = 2023
+| seats_for_election = 59 of 59 seats on [[Redcar and Cleveland Borough Council]]
+| majority_seats = 29
+| election_date = 2 May 2019
+| turnout = <!--      Independents     -->
+| leader1 = 
+| party1 = Independent politician
+| seats_before1 = 
+| seats1 = 14
+| seat_change1 = {{increase}} 8
+| popular_vote1 = 14,986
+| percentage1 = <!--      Labour       -->
+| leader2 = 
+| party2 = Labour Party (UK)
+| seats_before2 = 
+| seats2 = 14
+| seat_change2 = {{decrease}}15
+| popular_vote2 = 23,425
+| percentage2 = <!--    Lib Dems -->
+| leader3 = 
+| party3 = Liberal Democrats (UK)
+| seats_before3 = 
+| seats3 = 13
+| seat_change3 = {{increase}}2
+| popular_vote3 = 16,144
+| percentage3 = 
+| leader4 = 
+| party4 = Conservative Party (UK)
+| seats4 = 11
+| seat_change4 = {{increase}}1
+| popular_vote4 = 17,150
+| percentage4 = <!-- Map -->
+| map_image = Redcar and Cleveland UK ward map 2019.svg
+| map_size = 
+| map_caption = Winner of each seat at the 2019 Redcar and Cleveland Borough Council election
+| title = [[Leader of the council|Leader]]
+| posttitle = Subsequent council control
+| before_election = Sue Jeffrey<br/>[[Labour Party (UK)|Labour]]
+| before_party = No overall control
+| after_election = [[Mary Lanigan]]<br/>[[Independent politician|Independent]]
+| after_party = No overall control
+| party5 = UKIP
+| seat_change5 = {{increase}}1
+| seats5 = 2
+| popular_vote5 = 3,367
+| party6 = Teesville Independents
+| seats6 = 3
+| seat_change6 = {{increase}}3
+| popular_vote6 = 2,131
+| colour6 = E6E6E6
+| party7 = [[Independent politician|East Cleveland Independent]]
+| seats7 = 1
+| seat_change7 = {{Steady}}
+| popular_vote7 = 641
+| party8 = [[Green Party of England and Wales|Green]]
+| seats8 = 0
+| seat_change8 = {{steady}}
+| popular_vote8 = 377
+}}
+
+The '''2019 [[Redcar and Cleveland]] [[Borough]] Council [[election]]''' took place on 2 May 2019 to elect members of [[Redcar and Cleveland Borough Council]] in [[England]].<ref>{{cite web |title=Election results |url=https://www.redcar-cleveland.gov.uk/Democracy/previous-election-results/2019%20Local%20Elections/Local%20Election%20Results.pdf |website=Redcar and Cleveland Borough Council |access-date=5 August 2021 |archive-url=https://web.archive.org/web/20190521224118/https://www.redcar-cleveland.gov.uk/Democracy/previous-election-results/2019%20Local%20Elections/Local%20Election%20Results.pdf |archive-date=21 May 2019}}</ref> This was on the same day as other [[2019 United Kingdom local elections|local elections]].
+
+The council was under [[no overall control]] prior to the election, being run by a Labour minority administration. Following the election the council remained under no overall control, but a coalition of the Liberal Democrats and independent councillors formed to take control, with independent councillor [[Mary Lanigan]] being appointed the new leader of the council.<ref>{{cite news |title=Redcar and Cleveland Council to be run by Lib Dems and independents |url=https://www.bbc.co.uk/news/uk-england-tees-48264477 |access-date=22 February 2024 |work=BBC News |date=14 May 2019}}</ref>
+
+==Result summary==
+
+{{Election summary begin|title = 2019 Redcar & Cleveland Borough Council election}}
+{{Election summary party|
+  |party      = Labour Party (UK)
+  |seats      = '''15'''
+  |gain       = –
+  |loss       = –
+  |net        = {{decrease}} 15
+  |seats %    =24.1
+  |votes %    = 29.9
+  |votes      = 23,425
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Independent politician
+  |seats      = '''14'''
+  |gain       = –
+  |loss       = –
+  |net        = {{increase}} 8
+  |seats %    =24.1
+  |votes %    = 19.1
+  |votes      = 14,986
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Liberal Democrats (UK)
+  |seats      = '''13'''
+  |gain       = –
+  |loss       = –
+  |net        = {{increase}} 2
+  |seats %    =22.4
+  |votes %    = 20.6
+  |votes      = 16,144
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Conservative Party (UK)
+  |seats      = '''11'''
+  |gain       = –
+  |loss       = –
+  |net        = {{increase}} 1
+  |seats %    =19.0
+  |votes %    = 21.9
+  |votes      = 17,150
+  |plus/minus = 
+}}
+{{Election summary|
+  |party      = Teesville Independents
+  |seats      = '''3'''
+  |gain       = –
+  |loss       = –
+  |net        = {{increase}} 3
+  |seats %    =5.2
+  |votes %    = 2.7
+  |votes      = 2,131
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = UKIP
+  |seats      = '''2'''
+  |gain       = –
+  |loss       = –
+  |net        = {{increase}} 1
+  |seats %    =3.4
+  |votes %    = 4.3
+  |votes      = 3,367
+  |plus/minus = 
+}}
+{{Election summary|
+  |party      = East Cleveland Independent
+  |seats      = '''1'''
+  |gain       = –
+  |loss       = –
+  |net        = {{steady}}
+  |seats %    =1.7
+  |votes %    = 0.8
+  |votes      = 641
+  |plus/minus = 
+}}
+{{Election summary party|
+  |party      = Green Party of England and Wales
+  |seats      = '''0'''
+  |gain       = –
+  |loss       = –
+  |net        = {{steady}}
+  |seats %    =0.0
+  |votes %    = 0.5
+  |votes      = 377
+  |plus/minus = 
+}}
+{{Election box end}}
+
+==Ward results==
+
+===Belmont===
+
+{{Election box begin | title=Belmont}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Peter Berry
+   |votes      = 698
+   |percentage = 50.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Anne Watts
+   |votes      = 537
+   |percentage = 38.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Andrew Hixon
+   |votes      = 470
+   |percentage = 33.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Waterfield
+   |votes      = 443
+   |percentage = 32.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Carol Pollock
+   |votes      = 225
+   |percentage = 16.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michaela Rogers
+   |votes      = 215
+   |percentage = 15.5
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,385
+   |percentage = 37.9
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===[[Brotton]]===
+
+{{Election box begin | title=Brotton}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Barry Hunt
+   |votes      = 1,122
+   |percentage = 52.7
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Graham Cutler
+   |votes      = 1,120
+   |percentage = 52.6
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Martin Fletcher
+   |votes      = 800
+   |percentage = 37.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Timothy Dobson
+   |votes      = 693
+   |percentage = 32.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Linda White
+   |votes      = 507
+   |percentage = 23.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Paula Bednarz-Withers
+   |votes      = 441
+   |percentage = 20.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Lee Holmes
+   |votes      = 430
+   |percentage = 20.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Gillian Gilmour
+   |votes      = 376
+   |percentage = 17.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Eugenie Noonan
+   |votes      = 205
+   |percentage = 9.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Valerie Miller
+   |votes      = 101
+   |percentage = 4.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,128
+   |percentage = 41.0
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Conservative Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Coatham===
+
+{{Election box begin | title=[[Coatham]]}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Neil Baldwin
+   |votes      = 565
+   |percentage = 52.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Carl Quartermain
+   |votes      = 376
+   |percentage = 34.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Rebecca McCabe
+   |votes      = 343
+   |percentage = 31.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Josephine Crawford
+   |votes      = 239
+   |percentage = 22.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = William Wilson
+   |votes      = 165
+   |percentage = 15.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Alma Thrower
+   |votes      = 160
+   |percentage = 14.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,081
+   |percentage = 30.4
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Dormanstown===
+
+{{Election box begin | title=[[Dormanstown]]}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ceri Cawley
+   |votes      = 394
+   |percentage = 45.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alec Brown
+   |votes      = 383
+   |percentage = 44.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Robert Dunn
+   |votes      = 316
+   |percentage = 36.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Evelyn Hall
+   |votes      = 189
+   |percentage = 21.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Chelsea Hixon
+   |votes      = 126
+   |percentage = 14.5
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 869
+   |percentage = 25.1
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Eston===
+
+{{Election box begin | title=Eston}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Daniel Rees
+   |votes      = 715
+   |percentage = 51.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Christopher Massey
+   |votes      = 669
+   |percentage = 48.0
+   |change     = 
+}}
+ {{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Geraldine Williams
+   |votes      = 633
+   |percentage = 45.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Ian Hart
+   |votes      = 431
+   |percentage = 30.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Richard Gibson
+   |votes      = 375
+   |percentage = 26.9
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,394
+   |percentage = 24.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Labour Party (UK)
+   |loser      = Eston Independent
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Grangetown===
+
+{{Election box begin | title=[[Grangetown, North Yorkshire|Grangetown]]}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Lynn Pallister
+   |votes      = 377
+   |percentage = 43.7
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Adam Brook
+   |votes      = 368
+   |percentage = 42.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Leanne Reed
+   |votes      = 354
+   |percentage = 41.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Benjamin Hunter-Grayson
+   |votes      = 299
+   |percentage = 34.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Charles Over
+   |votes      = 82
+   |percentage = 9.5
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 863
+   |percentage = 22.5
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Guisborough===
+
+{{Election box begin | title=Guisborough}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = William Clarke
+   |votes      = 1,066
+   |percentage = 55.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Dennis Teasdale
+   |votes      = 607
+   |percentage = 31.5
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Shelagh Holyoake
+   |votes      = 602
+   |percentage = 31.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Luke Butterfield
+   |votes      = 586
+   |percentage = 30.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ian Taylor
+   |votes      = 517
+   |percentage = 26.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Anthea Over
+   |votes      = 474
+   |percentage = 24.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = John Hatcliffe
+   |votes      = 468
+   |percentage = 24.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Kathleen Latchford
+   |votes      = 349
+   |percentage = 18.1
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,927
+   |percentage = 34.4
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Hutton===
+
+{{Election box begin | title=Hutton}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Graham Jeffery
+   |votes      = 1,014
+   |percentage = 46.7
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Caroline Jackson
+   |votes      = 990
+   |percentage = 45.6
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Malcolm Griffiths
+   |votes      = 848
+   |percentage = 39.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jemma Joy
+   |votes      = 730
+   |percentage = 33.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = David Curd
+   |votes      = 660
+   |percentage = 30.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Arthur Kidd
+   |votes      = 621
+   |percentage = 28.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Lisa Belshaw
+   |votes      = 301
+   |percentage = 13.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Adrian Robson
+   |votes      = 260
+   |percentage = 12.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alan Hiscox
+   |votes      = 249
+   |percentage = 11.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Ian Hudson
+   |votes      = 207
+   |percentage = 9.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = James Hudson
+   |votes      = 189
+   |percentage = 8.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,171
+   |percentage = 41.6
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Kirkleatham===
+
+{{Election box begin | title=[[Kirkleatham]]}}
+{{Election box winning candidate with party link
+   |party      = UKIP
+   |candidate  = Michael Lockwood
+   |votes      = 672
+   |percentage = 47.2
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Co-operative
+   |candidate  = Leah Quartermain
+   |votes      = 588
+   |percentage = 41.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Co-operative
+   |candidate  = Charles Brady
+   |votes      = 550
+   |percentage = 38.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Co-operative
+   |candidate  = Simon Meech
+   |votes      = 503
+   |percentage = 35.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Philip Chisholm
+   |votes      = 471
+   |percentage = 33.1
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,425
+   |percentage = 25.9
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = UKIP
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Co-operative
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Co-operative
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Lockwood===
+
+{{Election box begin | title=Lockwood}}
+{{Election box winning candidate
+   |party      = East Cleveland Independent
+   |candidate  = Stephen Kay
+   |votes      = 641
+   |percentage = 85.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Geraldine Nuttal
+   |votes      = 72
+   |percentage =9.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Samuel Bright
+   |votes      = 38
+   |percentage =5.1
+   |change     = 
+}}
+{{Election box majority
+   |votes      = 
+   |percentage = 
+   |change     = 
+ }}
+{{Election box turnout
+   |votes      = 757
+   |percentage = 40.7
+   |change     = 
+ }}
+{{Election box hold
+   |winner     = East Cleveland Independent
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Loftus===
+
+{{Election box begin | title=Loftus}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Wayne Davies
+   |votes      = 1,126
+   |percentage = 63.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Mary Lanigan
+   |votes      = 1,054
+   |percentage = 59.2
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Timothy Gray
+   |votes      = 962
+   |percentage = 54.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Anthony Gatehouse
+   |votes      = 467
+   |percentage = 26.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Iain Graham
+   |votes      = 322
+   |percentage = 18.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Janet Dadd
+   |votes      = 310
+   |percentage = 17.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Denise Bunn
+   |votes      = 200
+   |percentage = 11.2
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Kate Mann
+   |votes      = 194
+   |percentage = 10.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = James Bunn
+   |votes      = 192
+   |percentage = 10.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,780
+   |percentage = 37.9
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Longbeck===
+
+{{Election box begin | title=Longbeck}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Vera Rider
+   |votes      = 507
+   |percentage = 40.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Norah Cooney
+   |votes      = 475
+   |percentage = 37.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Victor Jefferies
+   |votes      = 469
+   |percentage = 37.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Stephen Cooper
+   |votes      = 269
+   |percentage = 21.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Annette Duff
+   |votes      = 163
+   |percentage = 13.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Liam Booth
+   |votes      = 158
+   |percentage = 12.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Abdul Rauf
+   |votes      = 135
+   |percentage = 10.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Marilyn Marshall
+   |votes      = 105
+   |percentage = 8.4
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,255
+   |percentage = 36.2
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Conservative Party (UK)
+   |loser      = Independent politician
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Newcomen===
+
+{{Election box begin | title=Newcomen}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Edward Wells
+   |votes      = 439
+   |percentage = 38.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Carrie Cook
+   |votes      = 337
+   |percentage = 29.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = David Stones
+   |votes      = 291
+   |percentage = 25.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ian Urwin
+   |votes      = 271
+   |percentage = 23.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = John Hannon
+   |votes      = 259
+   |percentage = 22.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Sabrina Thompson
+   |votes      = 253
+   |percentage = 22.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = Lisa Williams
+   |votes      = 193
+   |percentage = 16.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Linda King
+   |votes      = 79
+   |percentage = 6.9
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,144
+   |percentage = 29.9
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Liberal Democrats (UK)
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Normanby===
+
+{{Election box begin | title=[[Normanby, Redcar and Cleveland|Normanby]]}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Christine Foley-McCormack
+   |votes      = 736
+   |percentage = 44.0
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = UKIP
+   |candidate  = Christopher Gallacher
+   |votes      = 684
+   |percentage = 40.9
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Arthur Ayre
+   |votes      = 664
+   |percentage = 39.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michael Dick
+   |votes      = 654
+   |percentage = 39.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = June Hatcliffe
+   |votes      = 497
+   |percentage = 29.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Stuart Saunders
+   |votes      = 380
+   |percentage = 22.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,673
+   |percentage = 30.9
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = UKIP
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Ormesby===
+
+{{Election box begin | title=[[Ormesby]]}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Glyn Nightingale
+   |votes      = 1,124
+   |percentage = 73.5
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Carole Morgan
+   |votes      = 1,123
+   |percentage = 73.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Irene Nightingale
+   |votes      = 1,094
+   |percentage = 71.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Robert Hodgson
+   |votes      = 235
+   |percentage = 15.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alexander Brooke
+   |votes      = 196
+   |percentage = 12.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Jade Stainthorpe
+   |votes      = 177
+   |percentage = 11.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Margery Teasdale
+   |votes      = 163
+   |percentage = 10.7
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,529
+   |percentage = 31.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Saltburn===
+
+{{Election box begin | title=Saltburn}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Stuart Smith
+   |votes      = 1,796
+   |percentage = 71.2
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Philip Thompson
+   |votes      = 1,071
+   |percentage = 42.5
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Craig Hannaway
+   |votes      = 780
+   |percentage = 30.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Jacob Young
+   |votes      = 742
+   |percentage = 29.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Katherine Sainsbury
+   |votes      = 641
+   |percentage = 25.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Drisc Wardle
+   |votes      = 563
+   |percentage = 22.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Green Party of England and Wales
+   |candidate  = Tabitha McLaughlin
+   |votes      = 377
+   |percentage = 15.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Steve Noonan
+   |votes      = 267
+   |percentage = 10.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Jonathon Thompson
+   |votes      = 166
+   |percentage = 6.6
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,521
+   |percentage = 51.6
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Independent politician
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Skelton East===
+
+{{Election box begin | title=Skelton East}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Clifford Foggo
+   |votes      = 537
+   |percentage = 44.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Julie Craig
+   |votes      = 512
+   |percentage = 42.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Jeffrey Johnson
+   |votes      = 372
+   |percentage = 30.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Darcie Shepherd
+   |votes      = 291
+   |percentage = 24.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = David Walsh
+   |votes      = 279
+   |percentage = 23.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = UKIP
+   |candidate  = David Barker
+   |votes      = 189
+   |percentage = 15.6
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,211
+   |percentage = 35.4
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Skelton West===
+
+{{Election box begin | title=Skelton West}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Craig Holmes
+   |votes      = 607
+   |percentage = 51.6
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Lee Holmes
+   |votes      = 525
+   |percentage = 44.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ursula Earl
+   |votes      = 423
+   |percentage = 36.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = John Pratt
+   |votes      = 356
+   |percentage = 30.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = David Williams
+   |votes      = 184
+   |percentage = 15.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Emily Bell
+   |votes      = 87
+   |percentage = 7.4
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,176
+   |percentage = 35.8
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Conservative Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===South Bank===
+
+{{Election box begin | title=South Bank}}
+{{Election box winning candidate with party link
+   |party      = Independent politician
+   |candidate  = Sandra Smith
+   |votes      = 445
+   |percentage = 46.7
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Susan Jeffrey
+   |votes      = 389
+   |percentage = 40.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Ian Jeffrey
+   |votes      = 374
+   |percentage = 39.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Janet Jeffrey
+   |votes      = 276
+   |percentage = 29.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Darren Poole
+   |votes      = 67
+   |percentage = 7.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Joanne Poole
+   |votes      = 65
+   |percentage = 6.8
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 952
+   |percentage = 27.8
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Independent politician
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Labour Party (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===St. Germain's===
+
+{{Election box begin | title=St. Germain's}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Karen King
+   |votes      = 1,031
+   |percentage = 49.4
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Deborah Dowson
+   |votes      = 935
+   |percentage = 44.8
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Margaret Wilson
+   |votes      = 878
+   |percentage = 42.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Helena Archer
+   |votes      = 741
+   |percentage = 35.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Olwyn Twentyman
+   |votes      = 404
+   |percentage = 19.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Brian Dennis
+   |votes      = 337
+   |percentage = 16.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Daniel Johns
+   |votes      = 333
+   |percentage = 16.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = John Lawrenson
+   |votes      = 330
+   |percentage = 15.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Jordan Turner
+   |votes      = 288
+   |percentage = 13.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Kieran Janicki
+   |votes      = 255
+   |percentage = 12.2
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 2,087
+   |percentage = 37.2
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===[[Teesville]]===
+
+{{Election box begin | title=Teesville}}
+{{Election box winning candidate
+   |party      = Teesville Independent
+   |candidate  = David Fisher
+   |votes      = 738
+   |percentage = 44.1
+   |change     = 
+}}
+{{Election box winning candidate
+   |party      = Teesville Independent
+   |candidate  = Robert Clark
+   |votes      = 723
+   |percentage = 43.2
+   |change     = 
+}}
+{{Election box winning candidate
+   |party      = Teesville Independent
+   |candidate  = Vincent Smith
+   |votes      = 670
+   |percentage = 40.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Neil Bendelow
+   |votes      = 627
+   |percentage = 37.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Paul Garland
+   |votes      = 570
+   |percentage = 34.1
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Norma Hensby
+   |votes      = 516
+   |percentage = 30.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Rita Richardson
+   |votes      = 298
+   |percentage = 17.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Independent politician
+   |candidate  = Adam Mead
+   |votes      = 257
+   |percentage = 15.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = John Rider
+   |votes      = 156
+   |percentage = 9.3
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,674
+   |percentage = 33.4
+   |change     = 
+ }}
+{{Election box gain with party link
+   |winner     = Teesville Independent
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Teesville Independent
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Teesville Independent
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+===West Dyke===
+
+{{Election box begin | title=West Dyke}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Mary Ovens
+   |votes      = 978
+   |percentage = 55.7
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Christopher Jones
+   |votes      = 946
+   |percentage = 53.9
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Malcolm Head
+   |votes      = 944
+   |percentage = 53.8
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Michael Dixon
+   |votes      = 379
+   |percentage = 21.6
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alan Wilkinson
+   |votes      = 360
+   |percentage = 20.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Alison Suthers
+   |votes      = 350
+   |percentage = 19.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Claire Cargill
+   |votes      = 264
+   |percentage = 15.0
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Cargill
+   |votes      = 254
+   |percentage = 14.5
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = For Britain
+   |candidate  = Pamela Preedy
+   |votes      = 231
+   |percentage = 13.2
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,756
+   |percentage = 35.7
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Wheatlands===
+
+{{Election box begin | title=Wheatlands}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Yvonne Lax-Keeler
+   |votes      = 404
+   |percentage = 40.3
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Shaun Moody
+   |votes      = 390
+   |percentage = 38.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Stephen Turner
+   |votes      = 354
+   |percentage = 35.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Andrea Turner
+   |votes      = 345
+   |percentage = 34.4
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Lee Hunter
+   |votes      = 217
+   |percentage = 21.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = David Wimble
+   |votes      = 212
+   |percentage = 21.2
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,002
+   |percentage = 26.8
+   |change     = 
+ }}
+{{Election box new seat win
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box new seat win
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+ {{Election box end}}
+
+===Zetland===
+
+{{Election box begin | title=Zetland}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Louise Westbury
+   |votes      = 650
+   |percentage = 53.8
+   |change     = 
+}}
+{{Election box winning candidate with party link
+   |party      = Liberal Democrats (UK)
+   |candidate  = Alison Barnes
+   |votes      = 627
+   |percentage = 51.9
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Cornelius O'Brien
+   |votes      = 371
+   |percentage = 30.7
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Labour Party (UK)
+   |candidate  = Brenda Foster
+   |votes      = 342
+   |percentage = 28.3
+   |change     = 
+}}
+ {{Election box candidate with party link
+   |party      = Conservative Party (UK)
+   |candidate  = Michael Bateman
+   |votes      = 194
+   |percentage = 16.1
+   |change     = 
+}}
+{{Election box turnout
+   |votes      = 1,208
+   |percentage = 34.9
+   |change     = 
+ }}
+{{Election box hold with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = 
+   |swing      = 
+}}
+{{Election box gain with party link
+   |winner     = Liberal Democrats (UK)
+   |loser      = Labour Party (UK)
+   |swing      = 
+}}
+ {{Election box end}}
+
+==Changes 2019–2023==
+Local party the Teesville Independents was de-registered with the [[Electoral Commission (United Kingdom)|Electoral Commission]] in June 2019; its councillors thereafter sat as independents.<ref>{{cite web |title=Eston Independent Party |url=https://search.electoralcommission.org.uk/English/Registrations/PP901 |website=The Electoral Commission |access-date=22 February 2024}}</ref>
+
+The two UKIP councillors, Mike Lockwood and Christopher Gallacher, both left the party in October 2020 to sit as independents.<ref>{{cite news |last1=Boothroyd |first1=David |title=Poor leadership in Conwy |url=https://www.localcouncils.co.uk/2020/10/poor-leadership-in-conwy/ |access-date=22 February 2024 |work=Local Councils |publisher=Thorncliffe |date=23 October 2020}}</ref>
+
+Six Conservatives left the party in early 2021 to sit as independents, forming the "Cleveland Independent Group". They were Cliff Foggo, Julie Craig, Graham Jeffrey, Vera Rider, Philip Thompson, and Malcolm Griffiths (the latter had been suspended from the party since November 2019).<ref>{{cite news |last1=Arnold |first1=Stuart |title=Blow for Tories as councillors resign to sit as independents 'with integrity and not with duplicity' |url=https://www.gazettelive.co.uk/news/teesside-news/blow-tories-councillors-resign-sit-20252998?ref=BNTMedia&utm_medium=facebook |access-date=22 February 2024 |work=Teesside Live |date=25 March 2021}}</ref> In December 2021 Graham Jeffrey left the Cleveland Independent Group to join the Liberal Democrats, and Cliff Foggo, Julie Craig, and Vera Rider left the group to join the Independent Group, leaving just Philip Thompson and Malcolm Griffiths in the Cleveland Independent Group.<ref>{{cite news |last1=Boothroyd |first1=David |title=...and a happy New Forest |url=https://www.localcouncils.co.uk/2021/12/and-a-happy-new-forest/ |access-date=22 February 2024 |work=Local Councils |publisher=Thorncliffe |date=24 December 2021}}</ref> Julie Craig subsequently left the Independent Group in March 2022 and served the remainder of her term as an ungrouped independent.<ref>{{cite news |last1=Arnold |first1=Stuart |title='Hokey cokey' claim as Redcar and Cleveland councillor is ousted from cabinet |url=https://www.gazettelive.co.uk/news/teesside-news/hokey-cokey-claim-redcar-cleveland-23549627 |access-date=22 February 2024 |work=Teesside Live |date=30 March 2022}}</ref>
+
+Craig Hannaway, elected for Labour, left the party in March 2021 to sit as an independent.<ref>{{cite news |last1=Arnold |first1=Stuart |title=Labour councillor overlooked for Hartlepool by-election 'thrown out of party' after critical tweets |url=https://www.gazettelive.co.uk/news/teesside-news/labour-councillor-overlooked-hartlepool-election-20247353 |access-date=22 February 2024 |work=Teesside Live |date=24 March 2021}}</ref>
+
+Longbeck by-election 6 May 2021 won by Conservative candidate Andrea Turner, following death of Conservative councillor Norah Cooney.<ref>{{cite web |last1=Teale |first1=Andrew |title=Longbeck Ward - Redcar and Cleveland |url=https://www.andrewteale.me.uk/leap/ward/20674/#2021-05-06 |website=Local Elections Archive Project |access-date=22 February 2024}}</ref>
+
+Guisborough by-election 6 May 2021 won by Conservative candidate Andrew Hixon, following death of Conservative councillor Dennis Teasdale.<ref>{{cite web |last1=Teale |first1=Andrew |title=Guisborough Ward - Redcar and Cleveland |url=https://www.andrewteale.me.uk/leap/ward/20669/#2021-05-06 |website=Local Elections Archive Project |access-date=22 February 2024}}</ref>
+
+Hutton by-election 6 May 2021 won by Conservative candidate Stephen Waterfield, following resignation of Conservative councillor Caroline Jackson.<ref>{{cite web |last1=Teale |first1=Andrew |title=Hutton Ward - Redcar and Cleveland |url=https://www.andrewteale.me.uk/leap/ward/20670/#2021-05-06 |website=Local Elections Archive Project |access-date=22 February 2024}}</ref>
+
+Adam Brook, elected as an independent, joined Labour in July 2022.<ref>{{cite news |last1=Arnold |first1=Stuart |title=Independent councillor on Redcar and Cleveland Council defects to Labour Party |url=https://www.gazettelive.co.uk/news/teesside-news/independent-councillor-redcar-cleveland-council-24487943 |access-date=22 February 2024 |work=Teesside Live |date=14 July 2022}}</ref>
+
+Normanby by-election 22 December 2022 won by Conservative candidate Paul Salvin, following death of Labour councillor Chris Foley-McCormack.<ref>{{cite news |last1=Arnold |first1=Stuart |title=Tories triumph in local by-election held after councillor's death |url=https://www.gazettelive.co.uk/news/teesside-news/tories-triumph-local-election-held-25825171 |access-date=22 February 2024 |work=Teesside Live |date=23 December 2022}}</ref>
+
+Robert Clark, elected as a Teesville Independent, joined Labour in January 2023.<ref>{{cite news |last1=Arnold |first1=Stuart |title=Second independent Redcar and Cleveland councillor defects to Labour |url=https://www.gazettelive.co.uk/news/teesside-news/second-independent-redcar-cleveland-councillor-26018570 |access-date=22 February 2024 |work=Teesside Live |date=19 January 2023}}</ref>
+
+==The Independent Group==
+The independent councillors who formed part of the council's administration with the Liberal Democrats sat together as "The Independent Group". This was a group for the purposes of the Local Government (Committees and Political Groups) Regulations 1990 (and therefore used to determine entitlement to seats on committees) but was not a formal political party registered with the Electoral Commission.<ref>{{cite legislation UK|type=si|si=The Local Government (Committees and Political Groups) Regulations 1990|year=1990|number=1553|access-date=22 February 2024}}</ref> Some members of the group did register a new political party in December 2021, called "Redcar and Cleveland Independent",<ref>{{cite news |last1=Arnold |first1=Stuart |title=New political association in Redcar and Cleveland aiming to build 'fighting fund' for next elections |url=https://www.gazettelive.co.uk/news/teesside-news/new-political-association-redcar-cleveland-22685062 |access-date=22 February 2024 |work=Teesside Live |date=9 January 2022}}</ref> but the party was de-registered less than a year later without ever having contested an election.<ref>{{cite web |title=Redcar and Cleveland Independent |url=https://search.electoralcommission.org.uk/English/Registrations/PP12970 |website=The Electoral Commission |access-date=22 February 2024}}</ref> Those members of the Independent Group who stood for re-election at the subsequent 2023 election did so as independent candidates.
+
+==References==
+{{reflist}}
+
+{{United Kingdom local elections, 2019}}
+{{North Yorkshire elections}}
+
+[[Category:2019 English local elections|Redcar and Cleveland]]
+[[Category:May 2019 in the United Kingdom]]
+[[Category:Redcar and Cleveland Borough Council elections|2019]]
+[[Category:2010s in North Yorkshire]]
